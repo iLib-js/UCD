@@ -87,7 +87,7 @@ var UCDFiles = {
         "softbank"
     ],
     "EquivalentUnifiedIdeograph.txt": [
-        "codepoint",
+        "range",
         "unified"
     ],
     "HangulSyllableType.txt": [
@@ -132,23 +132,69 @@ var UCDFiles = {
         "unicodeVersion"
     ],
     "NormalizationTest.txt": [
-        "source",
-        "NFC",
-        "NFD",
-        "NFKC",
-        "NFKD"
+        "sourceSequence",
+        "NFCSequence",
+        "NFDSequence",
+        "NFKCSequence",
+        "NFKDSequence"
     ],
     // "NushuSources.txt": [],
+    "PropertyAliases.txt": [
+        "shortName",
+        "longName",
+        "alternate",
+        "alternateShort"
+    ],
     /*
-    "PropertyAliases.txt": [],
-    "PropertyValueAliases.txt": [],
-    "PropList.txt": [],
-    "ScriptExtensions.txt": [],
-    "Scripts.txt": [],
-    "SpecialCasing.txt": [],
-    "StandardizedVariants.txt": [],
-    "TangutSources.txt": [],
-    "UnicodeData.txt": [],
+    "PropertyValueAliases.txt": [
+        "property",
+        "shortName",
+        "longName"
+    ],
+    */
+    "PropList.txt": [
+        "range",
+        "property"
+    ],
+    "ScriptExtensions.txt": [
+        "range",
+        "extension"
+    ],
+    "Scripts.txt" : [
+        "range",
+        "script"
+    ],
+    "SpecialCasing.txt": [
+        "codepoint",
+        "lowerSequence",
+        "titleSequence",
+        "upperSequence",
+        "conditions"
+    ],
+    "StandardizedVariants.txt": [
+        "variationSequence",
+        "description",
+        "environment"
+    ],
+    // "TangutSources.txt": [],
+    "UnicodeData.txt": [
+        "codepoint",
+        "name",
+        "category",
+        "canonicalCombiningClass",
+        "bidirectionalCategory",
+        "characterDecompositionMapping",
+        "decimalDigitValue",
+        "digitValue",
+        "numericValue",
+        "mirrored",
+        "unicode1.0Name",
+        "comment",
+        "upper",
+        "lower",
+        "title"
+    ],
+    /*
     "Unihan_DictionaryIndices.txt": [],
     "Unihan_DictionaryLikeData.txt": [],
     "Unihan_IRGSources.txt": [],
