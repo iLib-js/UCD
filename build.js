@@ -1,6 +1,6 @@
 /*
  * build.js - build the json UCD
- * 
+ *
  * Copyright © 2020, JEDLSoft
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -23,189 +23,249 @@ var path = require("path");
 var UnicodeFile = require("./unifile.js").UnicodeFile;
 
 var UCDFiles = {
-    "ArabicShaping.txt": [
-        "codepoint",
-        "name",
-        "type",
-        "joiningGroup"
-    ],
-    "BidiBrackets.txt": [
-        "codepoint",
-        "bracket",
-        "type"
-    ],
-    "BidiCharacterTest.txt": [
-        "codePointSequence",
-        "direction",
-        "embeddingLevel",
-        "resolvedLevelList",
-        "indexList"
-    ],
-    "BidiMirroring.txt": [
-        "codepoint",
-        "mirror"
-    ],
-    // "BidiTest.txt": [],
-    "Blocks.txt": [
-        "range",
-        "block"
-    ],
-    "CaseFolding.txt": [
-        "codepoint",
-        "status",
-        "mapping"
-    ],
-    "CJKRadicals.txt": [
-        "radical",
-        "character",
-        "unified"
-    ],
-    "CompositionExclusions.txt": [
-        "codepoints"
-    ],
-    "DerivedAge.txt": [
-        "range",
-        "unicodeVersion"
-    ],
-    "DerivedCoreProperties.txt": [
-        "range",
-        "property"
-    ],
-    "DerivedNormalizationProps.txt": [
-        "range",
-        "property",
-        "normalized" 
-    ],
-    "EastAsianWidth.txt": [
-        "range",
-        "width"
-    ],
-    "EmojiSources.txt": [
-        "codepointSequence",
-        "docomo",
-        "kddi",
-        "softbank"
-    ],
-    "EquivalentUnifiedIdeograph.txt": [
-        "range",
-        "unified"
-    ],
-    "HangulSyllableType.txt": [
-        "range",
-        "hangulType"
-    ],
-    // "Index.txt": [],
-    "IndicPositionalCategory.txt": [
-        "range",
-        "positionalCategory"
-    ],
-    "IndicSyllabicCategory.txt": [
-        "range",
-        "syllabicCategory"
-    ],
-    "Jamo.txt": [
-        "codepoint",
-        "jamoShortName"
-    ],
-    "LineBreak.txt": [
-        "range",
-        "lineBreakProperty"
-    ],
-    "NameAliases.txt": [
-        "codepoint",
-        "alias",
-        "type"
-    ],
-    "NamedSequencesProv.txt": [
-        "name",
-        "codePointSequence"
-    ],
-    "NamedSequences.txt": [
-        "name",
-        "codePointSequence"
-    ],
-    // "NamesList.txt": [],
-    "NormalizationCorrections.txt": [
-        "codepoint",
-        "original",
-        "corrected",
-        "unicodeVersion"
-    ],
-    "NormalizationTest.txt": [
-        "sourceSequence",
-        "NFCSequence",
-        "NFDSequence",
-        "NFKCSequence",
-        "NFKDSequence"
-    ],
-    // "NushuSources.txt": [],
-    "PropertyAliases.txt": [
-        "shortName",
-        "longName",
-        "alternate",
-        "alternateShort"
-    ],
-    /*
-    "PropertyValueAliases.txt": [
-        "property",
-        "shortName",
-        "longName"
-    ],
-    */
-    "PropList.txt": [
-        "range",
-        "property"
-    ],
-    "ScriptExtensions.txt": [
-        "range",
-        "extension"
-    ],
-    "Scripts.txt" : [
-        "range",
-        "script"
-    ],
-    "SpecialCasing.txt": [
-        "codepoint",
-        "lowerSequence",
-        "titleSequence",
-        "upperSequence",
-        "conditions"
-    ],
-    "StandardizedVariants.txt": [
-        "variationSequence",
-        "description",
-        "environment"
-    ],
-    // "TangutSources.txt": [],
-    "UnicodeData.txt": [
-        "codepoint",
-        "name",
-        "category",
-        "canonicalCombiningClass",
-        "bidirectionalCategory",
-        "characterDecompositionMapping",
-        "decimalDigitValue",
-        "digitValue",
-        "numericValue",
-        "mirrored",
-        "unicode1.0Name",
-        "comment",
-        "upper",
-        "lower",
-        "title"
-    ],
-    /*
-    "Unihan_DictionaryIndices.txt": [],
-    "Unihan_DictionaryLikeData.txt": [],
-    "Unihan_IRGSources.txt": [],
-    "Unihan_NumericValues.txt": [],
-    "Unihan_OtherMappings.txt": [],
-    "Unihan_RadicalStrokeCounts.txt": [],
-    "Unihan_Readings.txt": [],
-    "Unihan_Variants.txt": [],
-    "USourceData.txt": [],
-    "VerticalOrientation.txt": []
-    */
+    "semicolon": {
+        "ArabicShaping.txt": [
+            "codepoint",
+            "name",
+            "type",
+            "joiningGroup"
+        ],
+        "BidiBrackets.txt": [
+            "codepoint",
+            "bracket",
+            "type"
+        ],
+        "BidiCharacterTest.txt": [
+            "codePointSequence",
+            "direction",
+            "embeddingLevel",
+            "resolvedLevelList",
+            "indexList"
+        ],
+        "BidiMirroring.txt": [
+            "codepoint",
+            "mirror"
+        ],
+        // "BidiTest.txt": [],
+        "Blocks.txt": [
+            "range",
+            "block"
+        ],
+        "CaseFolding.txt": [
+            "codepoint",
+            "status",
+            "mapping"
+        ],
+        "CJKRadicals.txt": [
+            "radical",
+            "character",
+            "unified"
+        ],
+        "CompositionExclusions.txt": [
+            "codepoints"
+        ],
+        "DerivedAge.txt": [
+            "range",
+            "unicodeVersion"
+        ],
+        "DerivedCoreProperties.txt": [
+            "range",
+            "property"
+        ],
+        "DerivedNormalizationProps.txt": [
+            "range",
+            "property",
+            "normalized"
+        ],
+        "EastAsianWidth.txt": [
+            "range",
+            "width"
+        ],
+        "EmojiSources.txt": [
+            "codepointSequence",
+            "docomo",
+            "kddi",
+            "softbank"
+        ],
+        "EquivalentUnifiedIdeograph.txt": [
+            "range",
+            "unified"
+        ],
+        "HangulSyllableType.txt": [
+            "range",
+            "hangulType"
+        ],
+        "IndicPositionalCategory.txt": [
+            "range",
+            "positionalCategory"
+        ],
+        "IndicSyllabicCategory.txt": [
+            "range",
+            "syllabicCategory"
+        ],
+        "Jamo.txt": [
+            "codepoint",
+            "jamoShortName"
+        ],
+        "LineBreak.txt": [
+            "range",
+            "lineBreakProperty"
+        ],
+        "NameAliases.txt": [
+            "codepoint",
+            "alias",
+            "type"
+        ],
+        "NamedSequencesProv.txt": [
+            "name",
+            "codePointSequence"
+        ],
+        "NamedSequences.txt": [
+            "name",
+            "codePointSequence"
+        ],
+        "NormalizationCorrections.txt": [
+            "codepoint",
+            "original",
+            "corrected",
+            "unicodeVersion"
+        ],
+        "NormalizationTest.txt": [
+            "sourceSequence",
+            "NFCSequence",
+            "NFDSequence",
+            "NFKCSequence",
+            "NFKDSequence"
+        ],
+        "PropertyAliases.txt": [
+            "shortName",
+            "longName",
+            "alternate",
+            "alternateShort"
+        ],
+        /*
+        "PropertyValueAliases.txt": [
+            "property",
+            "shortName",
+            "longName"
+        ],
+        */
+        "PropList.txt": [
+            "range",
+            "property"
+        ],
+        "ScriptExtensions.txt": [
+            "range",
+            "extension"
+        ],
+        "Scripts.txt" : [
+            "range",
+            "script"
+        ],
+        "SpecialCasing.txt": [
+            "codepoint",
+            "lowerSequence",
+            "titleSequence",
+            "upperSequence",
+            "conditions"
+        ],
+        "StandardizedVariants.txt": [
+            "variationSequence",
+            "description",
+            "environment"
+        ],
+        "UnicodeData.txt": [
+            "codepoint",
+            "name",
+            "category",
+            "canonicalCombiningClass",
+            "bidirectionalCategory",
+            "characterDecompositionMapping",
+            "decimalDigitValue",
+            "digitValue",
+            "numericValue",
+            "mirrored",
+            "unicode1.0Name",
+            "comment",
+            "upper",
+            "lower",
+            "title"
+        ],
+        "USourceData.txt": [
+            "sourceId",
+            "status",
+            "codepoint",
+            "radicalStrokeCount",
+            "dictionaryPosition",
+            "IDS",
+            "source",
+            "comments",
+            "comments2"
+        ],
+        "VerticalOrientation.txt": [
+            "range",
+            "verticalOrientation"
+        ]
+    },
+    "tab": {
+        "Index.txt": [
+            "description",
+            "codepoint"
+        ]
+        // "NamesList.txt": [],
+    },
+    "normalized": {
+        "NushuSources.txt": [
+            "codepoint",
+            "field",
+            "value"
+        ],
+        "TangutSources.txt": [
+            "codepoint",
+            "field",
+            "value"
+        ],
+        "Unihan_DictionaryIndices.txt": [
+            "codepoint",
+            "field",
+            "value"
+        ],
+        "Unihan_DictionaryLikeData.txt": [
+            "codepoint",
+            "field",
+            "value"
+        ],
+        "Unihan_IRGSources.txt": [
+            "codepoint",
+            "field",
+            "value"
+        ],
+        "Unihan_NumericValues.txt": [
+            "codepoint",
+            "field",
+            "value"
+        ],
+        "Unihan_OtherMappings.txt": [
+            "codepoint",
+            "field",
+            "value"
+        ],
+        "Unihan_RadicalStrokeCounts.txt": [
+            "codepoint",
+            "field",
+            "value"
+        ],
+        "Unihan_Readings.txt": [
+            "codepoint",
+            "field",
+            "value"
+        ],
+        "Unihan_Variants.txt": [
+            "codepoint",
+            "field",
+            "value"
+        ]
+    }
 };
 
 function fieldValue(fieldName, rawValue) {
@@ -219,36 +279,93 @@ function fieldValue(fieldName, rawValue) {
     return rawValue;
 }
 
-var UCDFileNames = Object.keys(UCDFiles);
-for (var i = 0; i < UCDFileNames.length; i++) {
-    var filename = UCDFileNames[i];
-    var base = path.basename(filename, ".txt");
-    var pathname = path.join("UCD", filename);
-    var contents = {};
-    contents[base] = [];
-    var result = contents[base];
+function processFiles(files, separator, output) {
+    var UCDFileNames = Object.keys(files);
+    for (var i = 0; i < UCDFileNames.length; i++) {
+        var filename = UCDFileNames[i];
+        var base = path.basename(filename, ".txt");
+        var pathname = path.join("UCD", filename);
+        var contents = {};
+        contents[base] = [];
+        var result = contents[base];
 
-    var uf = new UnicodeFile({
-        path: pathname
-    });
-    var fields = UCDFiles[filename];
-
-    for (var j = 0; j < uf.length(); j++) {
-        var entry = {};
-        uf.get(j).forEach(function(field, index) {
-            var value = field.trim();
-            if (fields.length < 2) {
-                result.push(value);
-                entry = undefined;
-            } else {
-                var fieldName = fields[index];
-                if (value) {
-                    entry[fieldName] = fieldValue(fieldName, value);
-                }
-            }
+        var uf = new UnicodeFile({
+            path: pathname,
+            splitChar: separator
         });
-        if (entry) result.push(entry);
+        var fields = files[filename];
+
+        for (var j = 0; j < uf.length(); j++) {
+            var entry = {};
+            uf.get(j).forEach(function(field, index) {
+                var value = field.trim();
+                if (fields.length < 2) {
+                    result.push(value);
+                    entry = undefined;
+                } else {
+                    var fieldName = fields[index];
+                    if (value) {
+                        entry[fieldName] = fieldValue(fieldName, value);
+                    }
+                }
+            });
+            if (entry) result.push(entry);
+        }
+        var outputFileName = path.join("json", base + ".json");
+        output[outputFileName] = contents;
     }
-    var outputFileName = path.join("json", base + ".json");
-    fs.writeFileSync(outputFileName, JSON.stringify(contents, undefined, 4), "utf-8");
 }
+
+function writeFiles(output) {
+    for (var filename in output) {
+        console.log("Writing " + filename);
+        fs.writeFileSync(filename, JSON.stringify(output[filename], undefined, 4), "utf-8");
+    }
+}
+
+function postProcessTabFiles(files) {
+    for (var filename in files) {
+        var contents = files[filename];
+        var property = path.basename(filename, ".json");
+        var fields = contents[property];
+        var merged = {};
+        for (var i = 0; i < fields.length; i++) {
+            var entry = fields[i];
+            merged[entry.description] = entry.codepoint;
+        }
+        var tmp = {};
+        tmp[property] = merged;
+        files[filename] = tmp;
+    }
+}
+
+function postProcessNormalized(files) {
+    for (var filename in files) {
+        var contents = files[filename];
+        var property = path.basename(filename, ".json");
+        var fields = contents[property];
+        var merged = {};
+        for (var i = 0; i < fields.length; i++) {
+            var entry = fields[i];
+            if (!merged[entry.codepoint]) merged[entry.codepoint] = {};
+            merged[entry.codepoint][entry.field] = entry.value;
+        }
+        var tmp = {};
+        tmp[property] = merged;
+        files[filename] = tmp;
+    }
+}
+
+var contents = {};
+processFiles(UCDFiles.semicolon, ";", contents);
+writeFiles(contents);
+
+contents = {};
+processFiles(UCDFiles.tab, "\t", contents);
+postProcessTabFiles(contents);
+writeFiles(contents);
+
+contents = {};
+processFiles(UCDFiles.normalized, "\t", contents);
+postProcessNormalized(contents);
+writeFiles(contents);
