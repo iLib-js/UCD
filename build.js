@@ -19,6 +19,7 @@
 
 var fs = require("fs");
 var path = require("path");
+var mkdirp = require("mkdirp");
 
 var UnicodeFile = require("./unifile.js").UnicodeFile;
 
@@ -41,6 +42,7 @@ function processFiles(files, separator, output) {
     var UCDFileNames = Object.keys(files);
     for (var i = 0; i < UCDFileNames.length; i++) {
         var filename = UCDFileNames[i];
+        var dirname = path.dirname(filename);
         var base = path.basename(filename, ".txt");
         var pathname = path.join("UCD", filename);
         var contents = {};
@@ -69,7 +71,7 @@ function processFiles(files, separator, output) {
             });
             if (entry) result.push(entry);
         }
-        var outputFileName = path.join("json", base + ".json");
+        var outputFileName = path.join("json", dirname, base + ".json");
         output[outputFileName] = contents;
     }
 }
@@ -77,6 +79,8 @@ function processFiles(files, separator, output) {
 function writeFiles(output) {
     for (var filename in output) {
         console.log("Writing " + filename);
+        var pathname = path.dirname(filename);
+        mkdirp.sync(pathname);
         fs.writeFileSync(filename, JSON.stringify(output[filename], undefined, 4), "utf-8");
     }
 }

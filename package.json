@@ -34,5 +34,8 @@
     },
     "scripts": {
         "build": "bash download.sh ${version}"
+    },
+    "dependencies": {
+        "mkdirp": "^1.0.4"
     }
 }

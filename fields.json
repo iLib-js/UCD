@@ -6,6 +6,30 @@
             "type",
             "joiningGroup"
         ],
+        "auxiliary/GraphemeBreakProperty.txt": [
+            "range",
+            "property"
+        ],
+        "auxiliary/GraphemeBreakTest.txt": [
+            "test"
+        ],
+        "auxiliary/LineBreakTest.txt": [
+            "test"
+        ],
+        "auxiliary/SentenceBreakProperty.txt": [
+            "range",
+            "property"
+        ],
+        "auxiliary/SentenceBreakTest.txt": [
+            "test"
+        ],
+        "auxiliary/WordBreakProperty.txt": [
+            "range",
+            "property"
+        ],
+        "auxiliary/WordBreakTest.txt": [
+            "test"
+        ],
         "BidiBrackets.txt": [
             "codepoint",
             "bracket",
@@ -66,9 +90,67 @@
             "kddi",
             "softbank"
         ],
+        "emoji/emoji-data.txt": [
+            "range",
+            "property"
+        ],
+        "emoji/emoji-variation-sequences.txt": [
+            "variationSequence",
+            "style"
+        ],
         "EquivalentUnifiedIdeograph.txt": [
             "range",
             "unified"
+        ],
+        "extracted/DerivedBidiClass.txt": [
+            "range",
+            "class"
+        ],
+        "extracted/DerivedBinaryProperties.txt": [
+            "range",
+            "property"
+        ],
+        "extracted/DerivedCombiningClass.txt": [
+            "range",
+            "combiningClass"
+        ],
+        "extracted/DerivedDecompositionType.txt": [
+            "range",
+            "type"
+        ],
+        "extracted/DerivedEastAsianWidth.txt": [
+            "range",
+            "width"
+        ],
+        "extracted/DerivedGeneralCategory.txt": [
+            "range",
+            "category"
+        ],
+        "extracted/DerivedJoiningGroup.txt": [
+            "range",
+            "group"
+        ],
+        "extracted/DerivedJoiningType.txt": [
+            "range",
+            "type"
+        ],
+        "extracted/DerivedLineBreak.txt": [
+            "range",
+            "property"
+        ],
+        "extracted/DerivedName.txt": [
+            "range",
+            "name"
+        ],
+        "extracted/DerivedNumericType.txt": [
+            "range",
+            "type"
+        ],
+        "extracted/DerivedNumericValues.txt": [
+            "range",
+            "decimalValue",
+            "unused",
+            "whole"
         ],
         "HangulSyllableType.txt": [
             "range",
