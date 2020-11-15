@@ -22,15 +22,7 @@ var path = require("path");
 
 var UnicodeFile = require("./unifile.js").UnicodeFile;
 
-        // "BidiTest.txt": [],
-        // "NamesList.txt": [],
-        /*
-        "PropertyValueAliases.txt": [
-            "property",
-            "shortName",
-            "longName"
-        ],
-        */
+// "NamesList.txt": [],
 
 var UCDFiles = require("./fields.json");
 
@@ -89,6 +81,64 @@ function writeFiles(output) {
     }
 }
 
+function postProcessSemiFiles(files) {
+    var contents = files["json/PropertyValueAliases.json"].PropertyValueAliases;
+    files["json/PropertyValueAliases.json"].PropertyValueAliases = contents.map(function(entry) {
+        if (entry.field5) {
+            return {
+                "property": entry.property,
+                "value1short": entry.field2,
+                "value1long": entry.field3,
+                "value2short": entry.field4,
+                "value2long": entry.field5
+            };
+        } else if (entry.field4) {
+            if (entry.property === "ccc") {
+                return {
+                    "property": entry.property,
+                    "class": entry.field2,
+                    "shortName": entry.field3,
+                    "longName": entry.field4
+                };
+            } else {
+                return {
+                    "property": entry.property,
+                    "shortName": entry.field2,
+                    "longName": entry.field3,
+                    "alias": entry.field4
+                };
+            }
+        } else {
+            return {
+                "property": entry.property,
+                "shortName": entry.field2,
+                "longName": entry.field3
+            };
+        }
+    });
+
+    contents = files["json/BidiTest.json"].BidiTest;
+    var levels, reorder;
+    // first spread the levels and reorder to all the entries that
+    // follow it until the next level or reorder line
+    for (var i = 0; i < contents.length; i++) {
+        var entry = contents[i];
+        if (entry.input.startsWith("@Levels:")) {
+            levels = entry.input.substring(9).trim();
+        } else if (entry.input.startsWith("@Reorder:")) {
+            reorder = entry.input.substring(10).trim();
+        } else {
+            if (levels) entry.levels = levels;
+            if (reorder) entry.reorder = reorder;
+        }
+    }
+
+    // now get rid or all of the level and reorder lines
+    files["json/BidiTest.json"].BidiTest = contents.filter(function(entry) {
+        return !entry.input.startsWith("@");
+    });
+}
+
 function postProcessTabFiles(files) {
     for (var filename in files) {
         var contents = files[filename];
@@ -124,6 +174,7 @@ function postProcessNormalized(files) {
 
 var contents = {};
 processFiles(UCDFiles.semicolon, ";", contents);
+postProcessSemiFiles(contents);
 writeFiles(contents);
 
 contents = {};
