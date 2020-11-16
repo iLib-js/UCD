@@ -8,6 +8,7 @@ then
     exit 1
 fi
 
+rm -rf UCD
 mkdir UCD
 pushd UCD
 

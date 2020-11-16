@@ -11,14 +11,14 @@ In your `package.json`:
 ```
     devDependencies: {
         ...
-        "ucd-full": "^13.0.0",
+        "ucd-full": "^10.0.0",
         ...
     }
 ```
 
 The major and minor version of this package is the same as the version of UCD that it supports. The
 3rd level version number may change, however, as bugs or inaccuracies are discovered and fixed in
-this package. (ie. version 13.0.2 still encodes UCD 13.0.0, but has had 2 bug fixes.)
+this package. (ie. version 13.0.2 still encodes UCD 10.0.0, but has had 2 bug fixes.)
 
 The UCD files are very large, so it is not recommended to use this data directly. Also, they are
 not whitespace compressed to make it easier for development. Instead, put ucd-full in your
@@ -203,73 +203,73 @@ values mean, click on the link to read the original Unicode source txt files:
 
 | File | Fields |
 | -------- | ---------- |
-| [json/auxiliary/GraphemeBreakProperty.json](https://www.unicode.org/Public/13.0.0/ucd/auxiliary/GraphemeBreakProperty.txt) | range, property |
-| [json/auxiliary/GraphemeBreakTest.json](https://www.unicode.org/Public/13.0.0/ucd/auxiliary/GraphemeBreakTest.txt) | one column |
-| [json/auxiliary/LineBreakTest.json](https://www.unicode.org/Public/13.0.0/ucd/auxiliary/LineBreakTest.txt) | one column |
-| [json/auxiliary/SentenceBreakProperty.json](https://www.unicode.org/Public/13.0.0/ucd/auxiliary/SentenceBreakProperty.txt) | range, property |
-| [json/auxiliary/SentenceBreakTest.json](https://www.unicode.org/Public/13.0.0/ucd/auxiliary/SentenceBreakTest.txt) | one column |
-| [json/auxiliary/WordBreakProperty.json](https://www.unicode.org/Public/13.0.0/ucd/auxiliary/WordBreakProperty.txt) | range, property |
-| [json/auxiliary/WordBreakTest.json](https://www.unicode.org/Public/13.0.0/ucd/auxiliary/WordBreakTest.txt) | one column |
-| [json/BidiBrackets.json](https://www.unicode.org/Public/13.0.0/ucd/BidiBrackets.txt) | codepoint, bracket, type |
-| [json/BidiCharacterTest.json](https://www.unicode.org/Public/13.0.0/ucd/BidiCharacterTest.txt) | codePointSequence, direction, embeddingLEvel, resolvedLevelList, indexList |
-| [json/BidiMirroring.json](https://www.unicode.org/Public/13.0.0/ucd/BidiMirroring.txt) | two column codepoint map |
-| [json/BidiTest.json](https://www.unicode.org/Public/13.0.0/ucd/BidiTest.txt) | input, bitset, levels |
-| [json/Blocks.json](https://www.unicode.org/Public/13.0.0/ucd/Blocks.txt) | range, block |
-| [json/CaseFolding.json](https://www.unicode.org/Public/13.0.0/ucd/CaseFolding.txt) | codepoint, status, mapping |
-| [json/CJKRadicals.json](https://www.unicode.org/Public/13.0.0/ucd/CJKRadicals.txt) | radical, character, unified |
-| [json/CompositionExclusions.json](https://www.unicode.org/Public/13.0.0/ucd/CompositionExclusions.txt) | one column |
-| [json/DerivedAge.json](https://www.unicode.org/Public/13.0.0/ucd/DerivedAge.txt) | range, unicodeVersion |
-| [json/DerivedCoreProperties.json](https://www.unicode.org/Public/13.0.0/ucd/DerivedCoreProperties.txt) | range, property |
-| [json/DerivedNormalizationProps.json](https://www.unicode.org/Public/13.0.0/ucd/DerivedNormalizationProps.txt) | range, property, normalized |
-| [json/EastAsianWidth.json](https://www.unicode.org/Public/13.0.0/ucd/EastAsianWidth.txt) | range, width |
+| [json/auxiliary/GraphemeBreakProperty.json](https://www.unicode.org/Public/10.0.0/ucd/auxiliary/GraphemeBreakProperty.txt) | range, property |
+| [json/auxiliary/GraphemeBreakTest.json](https://www.unicode.org/Public/10.0.0/ucd/auxiliary/GraphemeBreakTest.txt) | one column |
+| [json/auxiliary/LineBreakTest.json](https://www.unicode.org/Public/10.0.0/ucd/auxiliary/LineBreakTest.txt) | one column |
+| [json/auxiliary/SentenceBreakProperty.json](https://www.unicode.org/Public/10.0.0/ucd/auxiliary/SentenceBreakProperty.txt) | range, property |
+| [json/auxiliary/SentenceBreakTest.json](https://www.unicode.org/Public/10.0.0/ucd/auxiliary/SentenceBreakTest.txt) | one column |
+| [json/auxiliary/WordBreakProperty.json](https://www.unicode.org/Public/10.0.0/ucd/auxiliary/WordBreakProperty.txt) | range, property |
+| [json/auxiliary/WordBreakTest.json](https://www.unicode.org/Public/10.0.0/ucd/auxiliary/WordBreakTest.txt) | one column |
+| [json/BidiBrackets.json](https://www.unicode.org/Public/10.0.0/ucd/BidiBrackets.txt) | codepoint, bracket, type |
+| [json/BidiCharacterTest.json](https://www.unicode.org/Public/10.0.0/ucd/BidiCharacterTest.txt) | codePointSequence, direction, embeddingLEvel, resolvedLevelList, indexList |
+| [json/BidiMirroring.json](https://www.unicode.org/Public/10.0.0/ucd/BidiMirroring.txt) | two column codepoint map |
+| [json/BidiTest.json](https://www.unicode.org/Public/10.0.0/ucd/BidiTest.txt) | input, bitset, levels |
+| [json/Blocks.json](https://www.unicode.org/Public/10.0.0/ucd/Blocks.txt) | range, block |
+| [json/CaseFolding.json](https://www.unicode.org/Public/10.0.0/ucd/CaseFolding.txt) | codepoint, status, mapping |
+| [json/CJKRadicals.json](https://www.unicode.org/Public/10.0.0/ucd/CJKRadicals.txt) | radical, character, unified |
+| [json/CompositionExclusions.json](https://www.unicode.org/Public/10.0.0/ucd/CompositionExclusions.txt) | one column |
+| [json/DerivedAge.json](https://www.unicode.org/Public/10.0.0/ucd/DerivedAge.txt) | range, unicodeVersion |
+| [json/DerivedCoreProperties.json](https://www.unicode.org/Public/10.0.0/ucd/DerivedCoreProperties.txt) | range, property |
+| [json/DerivedNormalizationProps.json](https://www.unicode.org/Public/10.0.0/ucd/DerivedNormalizationProps.txt) | range, property, normalized |
+| [json/EastAsianWidth.json](https://www.unicode.org/Public/10.0.0/ucd/EastAsianWidth.txt) | range, width |
 | json/emoji | range, property |
-| [json/emoji/emoji-data.json](https://www.unicode.org/Public/13.0.0/ucd/emoji/emoji-data.txt) | range, property |
-| [json/emoji/emoji-variation-sequences.json](https://www.unicode.org/Public/13.0.0/ucd/emoji/emoji-variation-sequences.txt) | variationSequence, style |
-| [json/EmojiSources.json](https://www.unicode.org/Public/13.0.0/ucd/EmojiSources.txt) | codepointSequence, docomo, kddi, softbank |
-| [json/EquivalentUnifiedIdeograph.json](https://www.unicode.org/Public/13.0.0/ucd/EquivalentUnifiedIdeograph.txt) | range, unified |
-| [json/extracted/DerivedBidiClass.json](https://www.unicode.org/Public/13.0.0/ucd/extracted/DerivedBidiClass.txt) | range, class |
-| [json/extracted/DerivedBinaryProperties.json](https://www.unicode.org/Public/13.0.0/ucd/extracted/DerivedBinaryProperties.txt) | range, property |
-| [json/extracted/DerivedCombiningClass.json](https://www.unicode.org/Public/13.0.0/ucd/extracted/DerivedCombiningClass.txt) | range, combiningClass |
-| [json/extracted/DerivedDecompositionType.json](https://www.unicode.org/Public/13.0.0/ucd/extracted/DerivedDecompositionType.txt) | range, type |
-| [json/extracted/DerivedEastAsianWidth.json](https://www.unicode.org/Public/13.0.0/ucd/extracted/DerivedEastAsianWidth.txt) | range, width |
-| [json/extracted/DerivedGeneralCategory.json](https://www.unicode.org/Public/13.0.0/ucd/extracted/DerivedGeneralCategory.txt) | range, category |
-| [json/extracted/DerivedJoiningGroup.json](https://www.unicode.org/Public/13.0.0/ucd/extracted/DerivedJoiningGroup.txt) | range, group |
-| [json/extracted/DerivedJoiningType.json](https://www.unicode.org/Public/13.0.0/ucd/extracted/DerivedJoiningType.txt) | range, type  |
-| [json/extracted/DerivedLineBreak.json](https://www.unicode.org/Public/13.0.0/ucd/extracted/DerivedLineBreak.txt) | range, property |
-| [json/extracted/DerivedName.json](https://www.unicode.org/Public/13.0.0/ucd/extracted/DerivedName.txt) | range, name |
-| [json/extracted/DerivedNumericType.json](https://www.unicode.org/Public/13.0.0/ucd/extracted/DerivedNumericType.txt) | range, type |
-| [json/extracted/DerivedNumericValues.json](https://www.unicode.org/Public/13.0.0/ucd/extracted/DerivedNumericValues.txt) | range, decimalValue, whole |
-| [json/HangulSyllableType.json](https://www.unicode.org/Public/13.0.0/ucd/HangulSyllableType.txt) | range, hangulType |
-| [json/Index.json](https://www.unicode.org/Public/13.0.0/ucd/Index.txt) | two column name map |
-| [json/IndicPositionalCategory.json](https://www.unicode.org/Public/13.0.0/ucd/IndicPositionalCategory.txt) | range, positionalCategory |
-| [json/IndicSyllabicCategory.json](https://www.unicode.org/Public/13.0.0/ucd/IndicSyllabicCategory.txt) | range, syllabicCategory |
-| [json/Jamo.json](https://www.unicode.org/Public/13.0.0/ucd/Jamo.txt) | two column codepoint map |
-| [json/LineBreak.json](https://www.unicode.org/Public/13.0.0/ucd/LineBreak.txt) | range, lineBreakProperty |
-| [json/NameAliases.json](https://www.unicode.org/Public/13.0.0/ucd/NameAliases.txt) | codepoint, alias, type |
-| [json/NamedSequences.json](https://www.unicode.org/Public/13.0.0/ucd/NamedSequences.txt) | name, codepointSequence |
-| [json/NamedSequencesProv.json](https://www.unicode.org/Public/13.0.0/ucd/NamedSequencesProv.txt) | name, codepointSequence |
-| [json/NormalizationCorrections.json](https://www.unicode.org/Public/13.0.0/ucd/NormalizationCorrections.txt) | codepoint, original, corrected, unicodeVersion |
-| [json/NormalizationTest.json](https://www.unicode.org/Public/13.0.0/ucd/NormalizationTest.txt) | sourceSequence, NFCSequence, NFDSequence, NFKCSequence, NFKDSequence |
-| [json/NushuSources.json](https://www.unicode.org/Public/13.0.0/ucd/NushuSources.txt) | codepoint, kSrc_NushuDuben, kReading |
-| [json/PropertyAliases.json](https://www.unicode.org/Public/13.0.0/ucd/PropertyAliases.txt) | shortName, longName |
-| [json/PropertyValueAliases.json](https://www.unicode.org/Public/13.0.0/ucd/PropertyValueAliases.txt) | property, value1short, value1long, value2short, value2long |
-| [json/PropList.json](https://www.unicode.org/Public/13.0.0/ucd/PropList.txt) | range, property |
-| [json/ScriptExtensions.json](https://www.unicode.org/Public/13.0.0/ucd/ScriptExtensions.txt) | range, extension |
-| [json/Scripts.json](https://www.unicode.org/Public/13.0.0/ucd/Scripts.txt) | range, script |
-| [json/SpecialCasing.json](https://www.unicode.org/Public/13.0.0/ucd/SpecialCasing.txt) | codepoint, lowerSequence, titleSequence, upperSequence |
-| [json/StandardizedVariants.json](https://www.unicode.org/Public/13.0.0/ucd/StandardizedVariants.txt) | variationSequence, description |
-| [json/TangutSources.json](https://www.unicode.org/Public/13.0.0/ucd/TangutSources.txt) | codepoint, kTGT_MergedSrc, kRSTUnicode |
-| [json/UnicodeData.json](https://www.unicode.org/Public/13.0.0/ucd/UnicodeData.txt) | codepoint, name, category, canonicalCombiningClass, bidirectionalCategory, mirrored, unicode1.0Name |
-| [json/Unihan_DictionaryIndices.json](https://www.unicode.org/Public/13.0.0/ucd/Unihan_DictionaryIndices.txt) | codepoint, variety of other fields |
-| [json/Unihan_DictionaryLikeData.json](https://www.unicode.org/Public/13.0.0/ucd/Unihan_DictionaryLikeData.txt) | codepoint, variety of other fields |
-| [json/Unihan_IRGSources.json](https://www.unicode.org/Public/13.0.0/ucd/Unihan_IRGSources.txt) | codepoint, variety of other fields |
-| [json/Unihan_NumericValues.json](https://www.unicode.org/Public/13.0.0/ucd/Unihan_NumericValues.txt) | codepoint, variety of other fields |
-| [json/Unihan_OtherMappings.json](https://www.unicode.org/Public/13.0.0/ucd/Unihan_OtherMappings.txt) | codepoint, variety of other fields |
-| [json/Unihan_RadicalStrokeCounts.json](https://www.unicode.org/Public/13.0.0/ucd/Unihan_RadicalStrokeCounts.txt) | codepoint, variety of other fields |
-| [json/Unihan_Readings.json](https://www.unicode.org/Public/13.0.0/ucd/Unihan_Readings.txt) | codepoint, variety of other fields |
-| [json/Unihan_Variants.json](https://www.unicode.org/Public/13.0.0/ucd/Unihan_Variants.txt) | codepoint, variety of other fields |
-| [json/USourceData.json](https://www.unicode.org/Public/13.0.0/ucd/USourceData.txt) | sourceId, status, codepoint, radicalStrokeCount, dictionaryPosition, source |
-| [json/VerticalOrientation.json](https://www.unicode.org/Public/13.0.0/ucd/VerticalOrientation.txt) | range, verticalOrientation |
+| [json/emoji/emoji-data.json](https://www.unicode.org/Public/10.0.0/ucd/emoji/emoji-data.txt) | range, property |
+| [json/emoji/emoji-variation-sequences.json](https://www.unicode.org/Public/10.0.0/ucd/emoji/emoji-variation-sequences.txt) | variationSequence, style |
+| [json/EmojiSources.json](https://www.unicode.org/Public/10.0.0/ucd/EmojiSources.txt) | codepointSequence, docomo, kddi, softbank |
+| [json/EquivalentUnifiedIdeograph.json](https://www.unicode.org/Public/10.0.0/ucd/EquivalentUnifiedIdeograph.txt) | range, unified |
+| [json/extracted/DerivedBidiClass.json](https://www.unicode.org/Public/10.0.0/ucd/extracted/DerivedBidiClass.txt) | range, class |
+| [json/extracted/DerivedBinaryProperties.json](https://www.unicode.org/Public/10.0.0/ucd/extracted/DerivedBinaryProperties.txt) | range, property |
+| [json/extracted/DerivedCombiningClass.json](https://www.unicode.org/Public/10.0.0/ucd/extracted/DerivedCombiningClass.txt) | range, combiningClass |
+| [json/extracted/DerivedDecompositionType.json](https://www.unicode.org/Public/10.0.0/ucd/extracted/DerivedDecompositionType.txt) | range, type |
+| [json/extracted/DerivedEastAsianWidth.json](https://www.unicode.org/Public/10.0.0/ucd/extracted/DerivedEastAsianWidth.txt) | range, width |
+| [json/extracted/DerivedGeneralCategory.json](https://www.unicode.org/Public/10.0.0/ucd/extracted/DerivedGeneralCategory.txt) | range, category |
+| [json/extracted/DerivedJoiningGroup.json](https://www.unicode.org/Public/10.0.0/ucd/extracted/DerivedJoiningGroup.txt) | range, group |
+| [json/extracted/DerivedJoiningType.json](https://www.unicode.org/Public/10.0.0/ucd/extracted/DerivedJoiningType.txt) | range, type  |
+| [json/extracted/DerivedLineBreak.json](https://www.unicode.org/Public/10.0.0/ucd/extracted/DerivedLineBreak.txt) | range, property |
+| [json/extracted/DerivedName.json](https://www.unicode.org/Public/10.0.0/ucd/extracted/DerivedName.txt) | range, name |
+| [json/extracted/DerivedNumericType.json](https://www.unicode.org/Public/10.0.0/ucd/extracted/DerivedNumericType.txt) | range, type |
+| [json/extracted/DerivedNumericValues.json](https://www.unicode.org/Public/10.0.0/ucd/extracted/DerivedNumericValues.txt) | range, decimalValue, whole |
+| [json/HangulSyllableType.json](https://www.unicode.org/Public/10.0.0/ucd/HangulSyllableType.txt) | range, hangulType |
+| [json/Index.json](https://www.unicode.org/Public/10.0.0/ucd/Index.txt) | two column name map |
+| [json/IndicPositionalCategory.json](https://www.unicode.org/Public/10.0.0/ucd/IndicPositionalCategory.txt) | range, positionalCategory |
+| [json/IndicSyllabicCategory.json](https://www.unicode.org/Public/10.0.0/ucd/IndicSyllabicCategory.txt) | range, syllabicCategory |
+| [json/Jamo.json](https://www.unicode.org/Public/10.0.0/ucd/Jamo.txt) | two column codepoint map |
+| [json/LineBreak.json](https://www.unicode.org/Public/10.0.0/ucd/LineBreak.txt) | range, lineBreakProperty |
+| [json/NameAliases.json](https://www.unicode.org/Public/10.0.0/ucd/NameAliases.txt) | codepoint, alias, type |
+| [json/NamedSequences.json](https://www.unicode.org/Public/10.0.0/ucd/NamedSequences.txt) | name, codepointSequence |
+| [json/NamedSequencesProv.json](https://www.unicode.org/Public/10.0.0/ucd/NamedSequencesProv.txt) | name, codepointSequence |
+| [json/NormalizationCorrections.json](https://www.unicode.org/Public/10.0.0/ucd/NormalizationCorrections.txt) | codepoint, original, corrected, unicodeVersion |
+| [json/NormalizationTest.json](https://www.unicode.org/Public/10.0.0/ucd/NormalizationTest.txt) | sourceSequence, NFCSequence, NFDSequence, NFKCSequence, NFKDSequence |
+| [json/NushuSources.json](https://www.unicode.org/Public/10.0.0/ucd/NushuSources.txt) | codepoint, kSrc_NushuDuben, kReading |
+| [json/PropertyAliases.json](https://www.unicode.org/Public/10.0.0/ucd/PropertyAliases.txt) | shortName, longName |
+| [json/PropertyValueAliases.json](https://www.unicode.org/Public/10.0.0/ucd/PropertyValueAliases.txt) | property, value1short, value1long, value2short, value2long |
+| [json/PropList.json](https://www.unicode.org/Public/10.0.0/ucd/PropList.txt) | range, property |
+| [json/ScriptExtensions.json](https://www.unicode.org/Public/10.0.0/ucd/ScriptExtensions.txt) | range, extension |
+| [json/Scripts.json](https://www.unicode.org/Public/10.0.0/ucd/Scripts.txt) | range, script |
+| [json/SpecialCasing.json](https://www.unicode.org/Public/10.0.0/ucd/SpecialCasing.txt) | codepoint, lowerSequence, titleSequence, upperSequence |
+| [json/StandardizedVariants.json](https://www.unicode.org/Public/10.0.0/ucd/StandardizedVariants.txt) | variationSequence, description |
+| [json/TangutSources.json](https://www.unicode.org/Public/10.0.0/ucd/TangutSources.txt) | codepoint, kTGT_MergedSrc, kRSTUnicode |
+| [json/UnicodeData.json](https://www.unicode.org/Public/10.0.0/ucd/UnicodeData.txt) | codepoint, name, category, canonicalCombiningClass, bidirectionalCategory, mirrored, unicode1.0Name |
+| [json/Unihan_DictionaryIndices.json](https://www.unicode.org/Public/10.0.0/ucd/Unihan_DictionaryIndices.txt) | codepoint, variety of other fields |
+| [json/Unihan_DictionaryLikeData.json](https://www.unicode.org/Public/10.0.0/ucd/Unihan_DictionaryLikeData.txt) | codepoint, variety of other fields |
+| [json/Unihan_IRGSources.json](https://www.unicode.org/Public/10.0.0/ucd/Unihan_IRGSources.txt) | codepoint, variety of other fields |
+| [json/Unihan_NumericValues.json](https://www.unicode.org/Public/10.0.0/ucd/Unihan_NumericValues.txt) | codepoint, variety of other fields |
+| [json/Unihan_OtherMappings.json](https://www.unicode.org/Public/10.0.0/ucd/Unihan_OtherMappings.txt) | codepoint, variety of other fields |
+| [json/Unihan_RadicalStrokeCounts.json](https://www.unicode.org/Public/10.0.0/ucd/Unihan_RadicalStrokeCounts.txt) | codepoint, variety of other fields |
+| [json/Unihan_Readings.json](https://www.unicode.org/Public/10.0.0/ucd/Unihan_Readings.txt) | codepoint, variety of other fields |
+| [json/Unihan_Variants.json](https://www.unicode.org/Public/10.0.0/ucd/Unihan_Variants.txt) | codepoint, variety of other fields |
+| [json/USourceData.json](https://www.unicode.org/Public/10.0.0/ucd/USourceData.txt) | sourceId, status, codepoint, radicalStrokeCount, dictionaryPosition, source |
+| [json/VerticalOrientation.json](https://www.unicode.org/Public/10.0.0/ucd/VerticalOrientation.txt) | range, verticalOrientation |
 
 ### NamesList
 
@@ -299,10 +299,10 @@ Each entry in the names list is an object with the following properties:
 
 This derivative work, ucd-full, is covered under the [Apache2 license](./LICENSE).
 
-The Unicode data in this package is covered by the [Unicode Copyright and Terms of 
-Use](http://www.unicode.org/copyright.html) and by the [Unicode, Inc. License 
+The Unicode data in this package is covered by the [Unicode Copyright and Terms of
+Use](http://www.unicode.org/copyright.html) and by the [Unicode, Inc. License
 Agreement - Data Files and Software](https://www.unicode.org/license.html). The
-Unicode Inc. License Agreement - Data Files and Software is as follows:
+Unicode, Inc. License Agreement - Data Files and Software is as follows:
 
 UNICODE, INC. LICENSE AGREEMENT - DATA FILES AND SOFTWARE
 
