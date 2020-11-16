@@ -222,11 +222,7 @@ values mean, click on the link to read the original Unicode source txt files:
 | [json/DerivedCoreProperties.json](https://www.unicode.org/Public/10.0.0/ucd/DerivedCoreProperties.txt) | range, property |
 | [json/DerivedNormalizationProps.json](https://www.unicode.org/Public/10.0.0/ucd/DerivedNormalizationProps.txt) | range, property, normalized |
 | [json/EastAsianWidth.json](https://www.unicode.org/Public/10.0.0/ucd/EastAsianWidth.txt) | range, width |
-| json/emoji | range, property |
-| [json/emoji/emoji-data.json](https://www.unicode.org/Public/10.0.0/ucd/emoji/emoji-data.txt) | range, property |
-| [json/emoji/emoji-variation-sequences.json](https://www.unicode.org/Public/10.0.0/ucd/emoji/emoji-variation-sequences.txt) | variationSequence, style |
 | [json/EmojiSources.json](https://www.unicode.org/Public/10.0.0/ucd/EmojiSources.txt) | codepointSequence, docomo, kddi, softbank |
-| [json/EquivalentUnifiedIdeograph.json](https://www.unicode.org/Public/10.0.0/ucd/EquivalentUnifiedIdeograph.txt) | range, unified |
 | [json/extracted/DerivedBidiClass.json](https://www.unicode.org/Public/10.0.0/ucd/extracted/DerivedBidiClass.txt) | range, class |
 | [json/extracted/DerivedBinaryProperties.json](https://www.unicode.org/Public/10.0.0/ucd/extracted/DerivedBinaryProperties.txt) | range, property |
 | [json/extracted/DerivedCombiningClass.json](https://www.unicode.org/Public/10.0.0/ucd/extracted/DerivedCombiningClass.txt) | range, combiningClass |
@@ -247,7 +243,6 @@ values mean, click on the link to read the original Unicode source txt files:
 | [json/LineBreak.json](https://www.unicode.org/Public/10.0.0/ucd/LineBreak.txt) | range, lineBreakProperty |
 | [json/NameAliases.json](https://www.unicode.org/Public/10.0.0/ucd/NameAliases.txt) | codepoint, alias, type |
 | [json/NamedSequences.json](https://www.unicode.org/Public/10.0.0/ucd/NamedSequences.txt) | name, codepointSequence |
-| [json/NamedSequencesProv.json](https://www.unicode.org/Public/10.0.0/ucd/NamedSequencesProv.txt) | name, codepointSequence |
 | [json/NormalizationCorrections.json](https://www.unicode.org/Public/10.0.0/ucd/NormalizationCorrections.txt) | codepoint, original, corrected, unicodeVersion |
 | [json/NormalizationTest.json](https://www.unicode.org/Public/10.0.0/ucd/NormalizationTest.txt) | sourceSequence, NFCSequence, NFDSequence, NFKCSequence, NFKDSequence |
 | [json/NushuSources.json](https://www.unicode.org/Public/10.0.0/ucd/NushuSources.txt) | codepoint, kSrc_NushuDuben, kReading |
