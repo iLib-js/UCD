@@ -9,10 +9,13 @@ then
 fi
 
 mkdir UCD
-cd UCD
+pushd UCD
 
 wget https://unicode.org/Public/${UCD_VERSION}/ucd/UCD.zip
 wget https://unicode.org/Public/${UCD_VERSION}/ucd/Unihan.zip
 
 unzip UCD.zip
 unzip Unihan.zip
+
+popd
+
