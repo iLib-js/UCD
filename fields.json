@@ -36,7 +36,7 @@
             "type"
         ],
         "BidiCharacterTest.txt": [
-            "codePointSequence",
+            "codepointSequence",
             "direction",
             "embeddingLevel",
             "resolvedLevelList",
@@ -179,11 +179,11 @@
         ],
         "NamedSequencesProv.txt": [
             "name",
-            "codePointSequence"
+            "codepointSequence"
         ],
         "NamedSequences.txt": [
             "name",
-            "codePointSequence"
+            "codepointSequence"
         ],
         "NormalizationCorrections.txt": [
             "codepoint",

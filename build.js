@@ -271,11 +271,19 @@ function postProcessNormalized(files) {
         var merged = {};
         for (var i = 0; i < fields.length; i++) {
             var entry = fields[i];
-            if (!merged[entry.codepoint]) merged[entry.codepoint] = {};
+            if (!merged[entry.codepoint]) {
+                merged[entry.codepoint] = {
+                    codepoint: entry.codepoint
+                };
+            }
             merged[entry.codepoint][entry.field] = entry.value;
         }
         var tmp = {};
-        tmp[property] = merged;
+        tmp[property] = [];
+        // now that they are merged, convert them to an array again
+        for (var name in merged) {
+            tmp[property].push(merged[name]);
+        }
         files[filename] = tmp;
     }
 }
