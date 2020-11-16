@@ -34,7 +34,7 @@
         "url": "https://github.com/iLib-js/UCD.git"
     },
     "scripts": {
-        "dist": "bash build.sh ${version}"
+        "dist": "bash build.sh $npm_package_version"
     },
     "devDependencies": {
         "mkdirp": "^1.0.4"
