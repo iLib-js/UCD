@@ -165,10 +165,6 @@
             "alias",
             "type"
         ],
-        "NamedSequencesProv.txt": [
-            "name",
-            "codepointSequence"
-        ],
         "NamedSequences.txt": [
             "name",
             "codepointSequence"

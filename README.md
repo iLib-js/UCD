@@ -243,7 +243,6 @@ values mean, click on the link to read the original Unicode source txt files:
 | [json/LineBreak.json](https://www.unicode.org/Public/12.0.0/ucd/LineBreak.txt) | range, lineBreakProperty |
 | [json/NameAliases.json](https://www.unicode.org/Public/12.0.0/ucd/NameAliases.txt) | codepoint, alias, type |
 | [json/NamedSequences.json](https://www.unicode.org/Public/12.0.0/ucd/NamedSequences.txt) | name, codepointSequence |
-| [json/NamedSequencesProv.json](https://www.unicode.org/Public/12.0.0/ucd/NamedSequencesProv.txt) | name, codepointSequence |
 | [json/NormalizationCorrections.json](https://www.unicode.org/Public/12.0.0/ucd/NormalizationCorrections.txt) | codepoint, original, corrected, unicodeVersion |
 | [json/NormalizationTest.json](https://www.unicode.org/Public/12.0.0/ucd/NormalizationTest.txt) | sourceSequence, NFCSequence, NFDSequence, NFKCSequence, NFKDSequence |
 | [json/NushuSources.json](https://www.unicode.org/Public/12.0.0/ucd/NushuSources.txt) | codepoint, kSrc_NushuDuben, kReading |
