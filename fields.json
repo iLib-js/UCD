@@ -90,14 +90,6 @@
             "kddi",
             "softbank"
         ],
-        "emoji/emoji-data.txt": [
-            "range",
-            "property"
-        ],
-        "emoji/emoji-variation-sequences.txt": [
-            "variationSequence",
-            "style"
-        ],
         "EquivalentUnifiedIdeograph.txt": [
             "range",
             "unified"
@@ -176,10 +168,6 @@
             "codepoint",
             "alias",
             "type"
-        ],
-        "NamedSequencesProv.txt": [
-            "name",
-            "codepointSequence"
         ],
         "NamedSequences.txt": [
             "name",
