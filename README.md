@@ -18,7 +18,7 @@ In your `package.json`:
 
 The major and minor version of this package is the same as the version of UCD that it supports. The
 3rd level version number may change, however, as bugs or inaccuracies are discovered and fixed in
-this package. (ie. version 13.0.2 still encodes UCD 11.0.0, but has had 2 bug fixes.)
+this package. (ie. version 11.0.2 still encodes UCD 11.0.0, but has had 2 bug fixes.)
 
 The UCD files are very large, so it is not recommended to use this data directly. Also, they are
 not whitespace compressed to make it easier for development. Instead, put ucd-full in your
