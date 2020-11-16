@@ -1,0 +1,335 @@
+{
+    "semicolon": {
+        "ArabicShaping.txt": [
+            "codepoint",
+            "name",
+            "type",
+            "joiningGroup"
+        ],
+        "auxiliary/GraphemeBreakProperty.txt": [
+            "range",
+            "property"
+        ],
+        "auxiliary/GraphemeBreakTest.txt": [
+            "test"
+        ],
+        "auxiliary/LineBreakTest.txt": [
+            "test"
+        ],
+        "auxiliary/SentenceBreakProperty.txt": [
+            "range",
+            "property"
+        ],
+        "auxiliary/SentenceBreakTest.txt": [
+            "test"
+        ],
+        "auxiliary/WordBreakProperty.txt": [
+            "range",
+            "property"
+        ],
+        "auxiliary/WordBreakTest.txt": [
+            "test"
+        ],
+        "BidiBrackets.txt": [
+            "codepoint",
+            "bracket",
+            "type"
+        ],
+        "BidiCharacterTest.txt": [
+            "codepointSequence",
+            "direction",
+            "embeddingLevel",
+            "resolvedLevelList",
+            "indexList"
+        ],
+        "BidiMirroring.txt": [
+            "codepoint",
+            "mirror"
+        ],
+        "BidiTest.txt": [
+            "input",
+            "bitset"
+        ],
+        "Blocks.txt": [
+            "range",
+            "block"
+        ],
+        "CaseFolding.txt": [
+            "codepoint",
+            "status",
+            "mapping"
+        ],
+        "CJKRadicals.txt": [
+            "radical",
+            "character",
+            "unified"
+        ],
+        "CompositionExclusions.txt": [
+            "codepoints"
+        ],
+        "DerivedAge.txt": [
+            "range",
+            "unicodeVersion"
+        ],
+        "DerivedCoreProperties.txt": [
+            "range",
+            "property"
+        ],
+        "DerivedNormalizationProps.txt": [
+            "range",
+            "property",
+            "normalized"
+        ],
+        "EastAsianWidth.txt": [
+            "range",
+            "width"
+        ],
+        "EmojiSources.txt": [
+            "codepointSequence",
+            "docomo",
+            "kddi",
+            "softbank"
+        ],
+        "emoji/emoji-data.txt": [
+            "range",
+            "property"
+        ],
+        "emoji/emoji-variation-sequences.txt": [
+            "variationSequence",
+            "style"
+        ],
+        "EquivalentUnifiedIdeograph.txt": [
+            "range",
+            "unified"
+        ],
+        "extracted/DerivedBidiClass.txt": [
+            "range",
+            "class"
+        ],
+        "extracted/DerivedBinaryProperties.txt": [
+            "range",
+            "property"
+        ],
+        "extracted/DerivedCombiningClass.txt": [
+            "range",
+            "combiningClass"
+        ],
+        "extracted/DerivedDecompositionType.txt": [
+            "range",
+            "type"
+        ],
+        "extracted/DerivedEastAsianWidth.txt": [
+            "range",
+            "width"
+        ],
+        "extracted/DerivedGeneralCategory.txt": [
+            "range",
+            "category"
+        ],
+        "extracted/DerivedJoiningGroup.txt": [
+            "range",
+            "group"
+        ],
+        "extracted/DerivedJoiningType.txt": [
+            "range",
+            "type"
+        ],
+        "extracted/DerivedLineBreak.txt": [
+            "range",
+            "property"
+        ],
+        "extracted/DerivedName.txt": [
+            "range",
+            "name"
+        ],
+        "extracted/DerivedNumericType.txt": [
+            "range",
+            "type"
+        ],
+        "extracted/DerivedNumericValues.txt": [
+            "range",
+            "decimalValue",
+            "unused",
+            "whole"
+        ],
+        "HangulSyllableType.txt": [
+            "range",
+            "hangulType"
+        ],
+        "IndicPositionalCategory.txt": [
+            "range",
+            "positionalCategory"
+        ],
+        "IndicSyllabicCategory.txt": [
+            "range",
+            "syllabicCategory"
+        ],
+        "Jamo.txt": [
+            "codepoint",
+            "jamoShortName"
+        ],
+        "LineBreak.txt": [
+            "range",
+            "lineBreakProperty"
+        ],
+        "NameAliases.txt": [
+            "codepoint",
+            "alias",
+            "type"
+        ],
+        "NamedSequencesProv.txt": [
+            "name",
+            "codepointSequence"
+        ],
+        "NamedSequences.txt": [
+            "name",
+            "codepointSequence"
+        ],
+        "NormalizationCorrections.txt": [
+            "codepoint",
+            "original",
+            "corrected",
+            "unicodeVersion"
+        ],
+        "NormalizationTest.txt": [
+            "sourceSequence",
+            "NFCSequence",
+            "NFDSequence",
+            "NFKCSequence",
+            "NFKDSequence"
+        ],
+        "PropertyAliases.txt": [
+            "shortName",
+            "longName",
+            "alternate",
+            "alternateShort"
+        ],
+        "PropertyValueAliases.txt": [
+            "property",
+            "field2",
+            "field3",
+            "field4",
+            "field5"
+        ],
+        "PropList.txt": [
+            "range",
+            "property"
+        ],
+        "ScriptExtensions.txt": [
+            "range",
+            "extension"
+        ],
+        "Scripts.txt" : [
+            "range",
+            "script"
+        ],
+        "SpecialCasing.txt": [
+            "codepoint",
+            "lowerSequence",
+            "titleSequence",
+            "upperSequence",
+            "conditions"
+        ],
+        "StandardizedVariants.txt": [
+            "variationSequence",
+            "description",
+            "environment"
+        ],
+        "UnicodeData.txt": [
+            "codepoint",
+            "name",
+            "category",
+            "canonicalCombiningClass",
+            "bidirectionalCategory",
+            "characterDecompositionMapping",
+            "decimalDigitValue",
+            "digitValue",
+            "numericValue",
+            "mirrored",
+            "unicode1.0Name",
+            "comment",
+            "upper",
+            "lower",
+            "title"
+        ],
+        "USourceData.txt": [
+            "sourceId",
+            "status",
+            "codepoint",
+            "radicalStrokeCount",
+            "dictionaryPosition",
+            "IDS",
+            "source",
+            "comments",
+            "comments2"
+        ],
+        "VerticalOrientation.txt": [
+            "range",
+            "verticalOrientation"
+        ]
+    },
+    "tab": {
+        "Index.txt": [
+            "description",
+            "codepoint"
+        ],
+        "NamesList.txt": [
+            "codepoint",
+            "property",
+            "field3",
+            "field4"
+        ]
+    },
+    "normalized": {
+        "NushuSources.txt": [
+            "codepoint",
+            "field",
+            "value"
+        ],
+        "TangutSources.txt": [
+            "codepoint",
+            "field",
+            "value"
+        ],
+        "Unihan_DictionaryIndices.txt": [
+            "codepoint",
+            "field",
+            "value"
+        ],
+        "Unihan_DictionaryLikeData.txt": [
+            "codepoint",
+            "field",
+            "value"
+        ],
+        "Unihan_IRGSources.txt": [
+            "codepoint",
+            "field",
+            "value"
+        ],
+        "Unihan_NumericValues.txt": [
+            "codepoint",
+            "field",
+            "value"
+        ],
+        "Unihan_OtherMappings.txt": [
+            "codepoint",
+            "field",
+            "value"
+        ],
+        "Unihan_RadicalStrokeCounts.txt": [
+            "codepoint",
+            "field",
+            "value"
+        ],
+        "Unihan_Readings.txt": [
+            "codepoint",
+            "field",
+            "value"
+        ],
+        "Unihan_Variants.txt": [
+            "codepoint",
+            "field",
+            "value"
+        ]
+    }
+}
