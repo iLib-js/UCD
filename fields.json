@@ -272,6 +272,12 @@
         "Index.txt": [
             "description",
             "codepoint"
+        ],
+        "NamesList.txt": [
+            "codepoint",
+            "property",
+            "field3",
+            "field4"
         ]
     },
     "normalized": {

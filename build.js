@@ -38,7 +38,7 @@ function fieldValue(fieldName, rawValue) {
     return rawValue;
 }
 
-function processFiles(files, separator, output) {
+function processFiles(files, output, options) {
     var UCDFileNames = Object.keys(files);
     for (var i = 0; i < UCDFileNames.length; i++) {
         var filename = UCDFileNames[i];
@@ -51,7 +51,8 @@ function processFiles(files, separator, output) {
 
         var uf = new UnicodeFile({
             path: pathname,
-            splitChar: separator
+            splitChar: options.splitChar,
+            commentString: options.commentString
         });
         var fields = files[filename];
 
@@ -69,7 +70,10 @@ function processFiles(files, separator, output) {
                     }
                 }
             });
-            if (entry) result.push(entry);
+            if (entry) {
+                entry.line = uf.getLine(j);
+                result.push(entry);
+            }
         }
         var outputFileName = path.join("json", dirname, base + ".json");
         output[outputFileName] = contents;
@@ -141,22 +145,122 @@ function postProcessSemiFiles(files) {
     files["json/BidiTest.json"].BidiTest = contents.filter(function(entry) {
         return !entry.input.startsWith("@");
     });
-}
 
-function postProcessTabFiles(files) {
     for (var filename in files) {
         var contents = files[filename];
         var property = path.basename(filename, ".json");
         var fields = contents[property];
-        var merged = {};
         for (var i = 0; i < fields.length; i++) {
             var entry = fields[i];
-            merged[entry.description] = entry.codepoint;
+            entry.line = undefined;
         }
-        var tmp = {};
-        tmp[property] = merged;
-        files[filename] = tmp;
     }
+
+    // flatten these
+    var fields = files["json/BidiMirroring.json"].BidiMirroring;
+    var merged = {};
+    for (var i = 0; i < fields.length; i++) {
+        var entry = fields[i];
+        merged[entry.codepoint] = entry.mirror;
+    }
+    files["json/BidiMirroring.json"].BidiMirroring = merged;
+
+    var fields = files["json/Jamo.json"].Jamo;
+    var merged = {};
+    for (var i = 0; i < fields.length; i++) {
+        var entry = fields[i];
+        merged[entry.codepoint] = entry.jamoShortName;
+    }
+    files["json/Jamo.json"].Jamo = merged;
+}
+
+var hexdigits = {
+    '0': true, '1': true, '2': true, '3': true,
+    '4': true, '5': true, '6': true, '7': true,
+    '8': true, '9': true, 'A': true, 'B': true,
+    'C': true, 'D': true, 'E': true, 'F': true,
+    'a': true, 'b': true,
+    'c': true, 'd': true, 'e': true, 'f': true
+};
+
+function isHexDigit(ch) {
+    return ch && ch.length && hexdigits[ch[0]];
+}
+
+var fieldMap = {
+    '=': 'aliases',
+    'x': 'crossReferences',
+    '*': 'comments',
+    '#': 'compatibilityMappings',
+    ':': 'decompositions',
+    '~': 'variations'
+};
+
+function postProcessTabFiles(files) {
+    var fields = files["json/Index.json"].Index;
+    var merged = {};
+    for (var i = 0; i < fields.length; i++) {
+        var entry = fields[i];
+        merged[entry.description] = entry.codepoint;
+    }
+    files["json/Index.json"].Index = merged;
+
+    fields = files["json/NamesList.json"].NamesList;
+    var results = [];
+    merged = undefined;
+    for (var i = 0; i < fields.length; i++) {
+        var entry = fields[i];
+        if (entry.codepoint && entry.codepoint.startsWith("@")) {
+            if (merged) {
+                results.push(merged);
+                merged = undefined;
+            }
+            results.push({
+                line: entry.line
+            });
+        } else {
+            if (entry.codepoint) {
+                if (merged) {
+                    results.push(merged);
+                }
+                merged = {
+                    codepoint: entry.codepoint,
+                    name: entry.property
+                };
+            } else if (entry.property) {
+                if (!merged) {
+                    results.push({
+                        line: entry.line
+                    });
+                } else {
+                    var property = fieldMap[entry.property[0]] || 'other';
+                    var value = entry.property.substring(2);
+                    if (property === "decompositions" || property === "compatibilityMappings") {
+                        var tmp = value.split(/\s+/g);
+                        var values = [];
+                        for (var j = 0; j < tmp.length; j++) {
+                            if (isHexDigit(tmp[j]) || tmp[j][0] === '<') {
+                                values.push(tmp[j]);
+                            } else {
+                                values.push(tmp.slice(j).join(' '));
+                                break;
+                            }
+                        }
+                        value = values;
+                    }
+                    if (!merged[property]) {
+                        merged[property] = [];
+                    }
+                    merged[property].push(value);
+                }
+            }
+        }
+    }
+    if (merged) {
+        results.push(merged);
+    }
+
+    files["json/NamesList.json"].NamesList = results;
 }
 
 function postProcessNormalized(files) {
@@ -177,16 +281,25 @@ function postProcessNormalized(files) {
 }
 
 var contents = {};
-processFiles(UCDFiles.semicolon, ";", contents);
+processFiles(UCDFiles.semicolon, contents, {
+    splitChar: ';'
+});
 postProcessSemiFiles(contents);
 writeFiles(contents);
 
 contents = {};
-processFiles(UCDFiles.tab, "\t", contents);
+processFiles(UCDFiles.tab, contents, {
+    splitChar: "\t",
+    commentString: ";"
+});
 postProcessTabFiles(contents);
 writeFiles(contents);
 
 contents = {};
-processFiles(UCDFiles.normalized, "\t", contents);
+processFiles(UCDFiles.normalized, contents, {
+    splitChar: "\t"
+});
 postProcessNormalized(contents);
 writeFiles(contents);
+
+console.log("Done.");
