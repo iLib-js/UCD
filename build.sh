@@ -12,3 +12,5 @@ cp package.json README.md LICENSE json
 pushd json
 
 npm pack
+
+mv *.tgz ..
