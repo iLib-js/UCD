@@ -1,6 +1,6 @@
 {
     "name": "ucd-full",
-    "version": "13.0.0",
+    "version": "14.0.0",
     "main": "./ucd.js",
     "description": "Encoding the Unicode Character Database as json files",
     "license": "Apache-2.0",
@@ -34,7 +34,8 @@
         "url": "https://github.com/iLib-js/UCD.git"
     },
     "scripts": {
-        "dist": "bash build.sh $npm_package_version"
+        "dist": "bash build.sh $npm_package_version",
+        "clean": "rm -rf json UCD *.tgz"
     },
     "devDependencies": {
         "mkdirp": "^1.0.4"
