@@ -796,7 +796,7 @@
         },
         {
             "range": [
-                "0CF3",
+                "0CF4",
                 "0CFF"
             ],
             "category": "Cn"
@@ -989,7 +989,6 @@
         },
         {
             "range": [
-                "0ECE",
                 "0ECF"
             ],
             "category": "Cn"
@@ -2795,7 +2794,7 @@
         {
             "range": [
                 "10EB2",
-                "10EFF"
+                "10EFC"
             ],
             "category": "Cn"
         },
@@ -2917,7 +2916,7 @@
         },
         {
             "range": [
-                "1123F",
+                "11242",
                 "1127F"
             ],
             "category": "Cn"
@@ -3269,6 +3268,13 @@
         {
             "range": [
                 "11AF9",
+                "11AFF"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "11B0A",
                 "11BFF"
             ],
             "category": "Cn"
@@ -3405,6 +3411,26 @@
         {
             "range": [
                 "11EF9",
+                "11EFF"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "11F11"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "11F3B",
+                "11F3D"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "11F5A",
                 "11FAF"
             ],
             "category": "Cn"
@@ -3459,13 +3485,7 @@
         },
         {
             "range": [
-                "1342F"
-            ],
-            "category": "Cn"
-        },
-        {
-            "range": [
-                "13439",
+                "13456",
                 "143FF"
             ],
             "category": "Cn"
@@ -3641,6 +3661,13 @@
         {
             "range": [
                 "1B123",
+                "1B131"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "1B133",
                 "1B14F"
             ],
             "category": "Cn"
@@ -3648,6 +3675,13 @@
         {
             "range": [
                 "1B153",
+                "1B154"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "1B156",
                 "1B163"
             ],
             "category": "Cn"
@@ -3746,6 +3780,13 @@
         {
             "range": [
                 "1D246",
+                "1D2BF"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "1D2D4",
                 "1D2DF"
             ],
             "category": "Cn"
@@ -3921,6 +3962,13 @@
         {
             "range": [
                 "1DF1F",
+                "1DF24"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "1DF2B",
                 "1DFFF"
             ],
             "category": "Cn"
@@ -3953,6 +4001,20 @@
         {
             "range": [
                 "1E02B",
+                "1E02F"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "1E06E",
+                "1E08E"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "1E090",
                 "1E0FF"
             ],
             "category": "Cn"
@@ -4002,6 +4064,13 @@
         {
             "range": [
                 "1E300",
+                "1E4CF"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "1E4FA",
                 "1E7DF"
             ],
             "category": "Cn"
@@ -4376,7 +4445,7 @@
         {
             "range": [
                 "1F6D8",
-                "1F6DC"
+                "1F6DB"
             ],
             "category": "Cn"
         },
@@ -4396,14 +4465,14 @@
         },
         {
             "range": [
-                "1F774",
-                "1F77F"
+                "1F777",
+                "1F77A"
             ],
             "category": "Cn"
         },
         {
             "range": [
-                "1F7D9",
+                "1F7DA",
                 "1F7DF"
             ],
             "category": "Cn"
@@ -4480,13 +4549,6 @@
         },
         {
             "range": [
-                "1FA75",
-                "1FA77"
-            ],
-            "category": "Cn"
-        },
-        {
-            "range": [
                 "1FA7D",
                 "1FA7F"
             ],
@@ -4494,49 +4556,41 @@
         },
         {
             "range": [
-                "1FA87",
+                "1FA89",
                 "1FA8F"
             ],
             "category": "Cn"
         },
         {
             "range": [
-                "1FAAD",
-                "1FAAF"
-            ],
-            "category": "Cn"
-        },
-        {
-            "range": [
-                "1FABB",
-                "1FABF"
+                "1FABE"
             ],
             "category": "Cn"
         },
         {
             "range": [
                 "1FAC6",
-                "1FACF"
+                "1FACD"
             ],
             "category": "Cn"
         },
         {
             "range": [
-                "1FADA",
+                "1FADC",
                 "1FADF"
             ],
             "category": "Cn"
         },
         {
             "range": [
-                "1FAE8",
+                "1FAE9",
                 "1FAEF"
             ],
             "category": "Cn"
         },
         {
             "range": [
-                "1FAF7",
+                "1FAF9",
                 "1FAFF"
             ],
             "category": "Cn"
@@ -4570,7 +4624,7 @@
         },
         {
             "range": [
-                "2B739",
+                "2B73A",
                 "2B73F"
             ],
             "category": "Cn"
@@ -4606,6 +4660,13 @@
         {
             "range": [
                 "3134B",
+                "3134F"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "323B0",
                 "E0000"
             ],
             "category": "Cn"
@@ -12664,6 +12725,13 @@
         },
         {
             "range": [
+                "1DF25",
+                "1DF2A"
+            ],
+            "category": "Ll"
+        },
+        {
+            "range": [
                 "1E922",
                 "1E943"
             ],
@@ -13166,8 +13234,21 @@
         },
         {
             "range": [
+                "1E030",
+                "1E06D"
+            ],
+            "category": "Lm"
+        },
+        {
+            "range": [
                 "1E137",
                 "1E13D"
+            ],
+            "category": "Lm"
+        },
+        {
+            "range": [
+                "1E4EB"
             ],
             "category": "Lm"
         },
@@ -15660,6 +15741,13 @@
         },
         {
             "range": [
+                "1123F",
+                "11240"
+            ],
+            "category": "Lo"
+        },
+        {
+            "range": [
                 "11280",
                 "11286"
             ],
@@ -16069,6 +16157,26 @@
         },
         {
             "range": [
+                "11F02"
+            ],
+            "category": "Lo"
+        },
+        {
+            "range": [
+                "11F04",
+                "11F10"
+            ],
+            "category": "Lo"
+        },
+        {
+            "range": [
+                "11F12",
+                "11F33"
+            ],
+            "category": "Lo"
+        },
+        {
+            "range": [
                 "11FB0"
             ],
             "category": "Lo"
@@ -16097,7 +16205,14 @@
         {
             "range": [
                 "13000",
-                "1342E"
+                "1342F"
+            ],
+            "category": "Lo"
+        },
+        {
+            "range": [
+                "13441",
+                "13446"
             ],
             "category": "Lo"
         },
@@ -16200,8 +16315,20 @@
         },
         {
             "range": [
+                "1B132"
+            ],
+            "category": "Lo"
+        },
+        {
+            "range": [
                 "1B150",
                 "1B152"
+            ],
+            "category": "Lo"
+        },
+        {
+            "range": [
+                "1B155"
             ],
             "category": "Lo"
         },
@@ -16277,6 +16404,13 @@
             "range": [
                 "1E2C0",
                 "1E2EB"
+            ],
+            "category": "Lo"
+        },
+        {
+            "range": [
+                "1E4D0",
+                "1E4EA"
             ],
             "category": "Lo"
         },
@@ -16540,7 +16674,7 @@
         {
             "range": [
                 "2A700",
-                "2B738"
+                "2B739"
             ],
             "category": "Lo"
         },
@@ -16576,6 +16710,13 @@
             "range": [
                 "30000",
                 "3134A"
+            ],
+            "category": "Lo"
+        },
+        {
+            "range": [
+                "31350",
+                "323AF"
             ],
             "category": "Lo"
         },
@@ -17189,7 +17330,7 @@
         {
             "range": [
                 "0EC8",
-                "0ECD"
+                "0ECE"
             ],
             "category": "Mn"
         },
@@ -18058,6 +18199,13 @@
         },
         {
             "range": [
+                "10EFD",
+                "10EFF"
+            ],
+            "category": "Mn"
+        },
+        {
+            "range": [
                 "10F46",
                 "10F50"
             ],
@@ -18200,6 +18348,12 @@
         {
             "range": [
                 "1123E"
+            ],
+            "category": "Mn"
+        },
+        {
+            "range": [
+                "11241"
             ],
             "category": "Mn"
         },
@@ -18614,6 +18768,45 @@
         },
         {
             "range": [
+                "11F00",
+                "11F01"
+            ],
+            "category": "Mn"
+        },
+        {
+            "range": [
+                "11F36",
+                "11F3A"
+            ],
+            "category": "Mn"
+        },
+        {
+            "range": [
+                "11F40"
+            ],
+            "category": "Mn"
+        },
+        {
+            "range": [
+                "11F42"
+            ],
+            "category": "Mn"
+        },
+        {
+            "range": [
+                "13440"
+            ],
+            "category": "Mn"
+        },
+        {
+            "range": [
+                "13447",
+                "13455"
+            ],
+            "category": "Mn"
+        },
+        {
+            "range": [
                 "16AF0",
                 "16AF4"
             ],
@@ -18778,6 +18971,12 @@
         },
         {
             "range": [
+                "1E08F"
+            ],
+            "category": "Mn"
+        },
+        {
+            "range": [
                 "1E130",
                 "1E136"
             ],
@@ -18793,6 +18992,13 @@
             "range": [
                 "1E2EC",
                 "1E2EF"
+            ],
+            "category": "Mn"
+        },
+        {
+            "range": [
+                "1E4EC",
+                "1E4EF"
             ],
             "category": "Mn"
         },
@@ -19082,6 +19288,12 @@
             "range": [
                 "0CD5",
                 "0CD6"
+            ],
+            "category": "Mc"
+        },
+        {
+            "range": [
+                "0CF3"
             ],
             "category": "Mc"
         },
@@ -19995,6 +20207,32 @@
         },
         {
             "range": [
+                "11F03"
+            ],
+            "category": "Mc"
+        },
+        {
+            "range": [
+                "11F34",
+                "11F35"
+            ],
+            "category": "Mc"
+        },
+        {
+            "range": [
+                "11F3E",
+                "11F3F"
+            ],
+            "category": "Mc"
+        },
+        {
+            "range": [
+                "11F41"
+            ],
+            "category": "Mc"
+        },
+        {
+            "range": [
                 "16F51",
                 "16F87"
             ],
@@ -20401,6 +20639,13 @@
         },
         {
             "range": [
+                "11F50",
+                "11F59"
+            ],
+            "category": "Nd"
+        },
+        {
+            "range": [
                 "16A60",
                 "16A69"
             ],
@@ -20438,6 +20683,13 @@
             "range": [
                 "1E2F0",
                 "1E2F9"
+            ],
+            "category": "Nd"
+        },
+        {
+            "range": [
+                "1E4F0",
+                "1E4F9"
             ],
             "category": "Nd"
         },
@@ -20967,6 +21219,13 @@
         },
         {
             "range": [
+                "1D2C0",
+                "1D2D3"
+            ],
+            "category": "No"
+        },
+        {
+            "range": [
                 "1D2E0",
                 "1D2F3"
             ],
@@ -21203,7 +21462,7 @@
         {
             "range": [
                 "13430",
-                "13438"
+                "1343F"
             ],
             "category": "Cf"
         },
@@ -23479,6 +23738,13 @@
         },
         {
             "range": [
+                "11B00",
+                "11B09"
+            ],
+            "category": "Po"
+        },
+        {
+            "range": [
                 "11C41",
                 "11C45"
             ],
@@ -23495,6 +23761,13 @@
             "range": [
                 "11EF7",
                 "11EF8"
+            ],
+            "category": "Po"
+        },
+        {
+            "range": [
+                "11F43",
+                "11F4F"
             ],
             "category": "Po"
         },
@@ -25408,7 +25681,7 @@
         },
         {
             "range": [
-                "1F6DD",
+                "1F6DC",
                 "1F6EC"
             ],
             "category": "So"
@@ -25423,14 +25696,14 @@
         {
             "range": [
                 "1F700",
-                "1F773"
+                "1F776"
             ],
             "category": "So"
         },
         {
             "range": [
-                "1F780",
-                "1F7D8"
+                "1F77B",
+                "1F7D9"
             ],
             "category": "So"
         },
@@ -25506,13 +25779,6 @@
         {
             "range": [
                 "1FA70",
-                "1FA74"
-            ],
-            "category": "So"
-        },
-        {
-            "range": [
-                "1FA78",
                 "1FA7C"
             ],
             "category": "So"
@@ -25520,49 +25786,42 @@
         {
             "range": [
                 "1FA80",
-                "1FA86"
+                "1FA88"
             ],
             "category": "So"
         },
         {
             "range": [
                 "1FA90",
-                "1FAAC"
+                "1FABD"
             ],
             "category": "So"
         },
         {
             "range": [
-                "1FAB0",
-                "1FABA"
-            ],
-            "category": "So"
-        },
-        {
-            "range": [
-                "1FAC0",
+                "1FABF",
                 "1FAC5"
             ],
             "category": "So"
         },
         {
             "range": [
-                "1FAD0",
-                "1FAD9"
+                "1FACE",
+                "1FADB"
             ],
             "category": "So"
         },
         {
             "range": [
                 "1FAE0",
-                "1FAE7"
+                "1FAE8"
             ],
             "category": "So"
         },
         {
             "range": [
                 "1FAF0",
-                "1FAF6"
+                "1FAF8"
             ],
             "category": "So"
         },

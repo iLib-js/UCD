@@ -11378,6 +11378,14 @@
         },
         {
             "range": [
+                "1E030",
+                "1E06D"
+            ],
+            "property": "NFKD_QC",
+            "normalized": "N"
+        },
+        {
+            "range": [
                 "1EE00",
                 "1EE03"
             ],
@@ -14308,6 +14316,14 @@
             "range": [
                 "1D7CE",
                 "1D7FF"
+            ],
+            "property": "NFKC_QC",
+            "normalized": "N"
+        },
+        {
+            "range": [
+                "1E030",
+                "1E06D"
             ],
             "property": "NFKC_QC",
             "normalized": "N"
@@ -55774,6 +55790,440 @@
         },
         {
             "range": [
+                "1E030"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0430"
+        },
+        {
+            "range": [
+                "1E031"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0431"
+        },
+        {
+            "range": [
+                "1E032"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0432"
+        },
+        {
+            "range": [
+                "1E033"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0433"
+        },
+        {
+            "range": [
+                "1E034"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0434"
+        },
+        {
+            "range": [
+                "1E035"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0435"
+        },
+        {
+            "range": [
+                "1E036"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0436"
+        },
+        {
+            "range": [
+                "1E037"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0437"
+        },
+        {
+            "range": [
+                "1E038"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0438"
+        },
+        {
+            "range": [
+                "1E039"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "043A"
+        },
+        {
+            "range": [
+                "1E03A"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "043B"
+        },
+        {
+            "range": [
+                "1E03B"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "043C"
+        },
+        {
+            "range": [
+                "1E03C"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "043E"
+        },
+        {
+            "range": [
+                "1E03D"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "043F"
+        },
+        {
+            "range": [
+                "1E03E"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0440"
+        },
+        {
+            "range": [
+                "1E03F"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0441"
+        },
+        {
+            "range": [
+                "1E040"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0442"
+        },
+        {
+            "range": [
+                "1E041"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0443"
+        },
+        {
+            "range": [
+                "1E042"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0444"
+        },
+        {
+            "range": [
+                "1E043"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0445"
+        },
+        {
+            "range": [
+                "1E044"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0446"
+        },
+        {
+            "range": [
+                "1E045"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0447"
+        },
+        {
+            "range": [
+                "1E046"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0448"
+        },
+        {
+            "range": [
+                "1E047"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "044B"
+        },
+        {
+            "range": [
+                "1E048"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "044D"
+        },
+        {
+            "range": [
+                "1E049"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "044E"
+        },
+        {
+            "range": [
+                "1E04A"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "A689"
+        },
+        {
+            "range": [
+                "1E04B"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "04D9"
+        },
+        {
+            "range": [
+                "1E04C"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0456"
+        },
+        {
+            "range": [
+                "1E04D"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0458"
+        },
+        {
+            "range": [
+                "1E04E"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "04E9"
+        },
+        {
+            "range": [
+                "1E04F"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "04AF"
+        },
+        {
+            "range": [
+                "1E050"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "04CF"
+        },
+        {
+            "range": [
+                "1E051"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0430"
+        },
+        {
+            "range": [
+                "1E052"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0431"
+        },
+        {
+            "range": [
+                "1E053"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0432"
+        },
+        {
+            "range": [
+                "1E054"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0433"
+        },
+        {
+            "range": [
+                "1E055"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0434"
+        },
+        {
+            "range": [
+                "1E056"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0435"
+        },
+        {
+            "range": [
+                "1E057"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0436"
+        },
+        {
+            "range": [
+                "1E058"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0437"
+        },
+        {
+            "range": [
+                "1E059"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0438"
+        },
+        {
+            "range": [
+                "1E05A"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "043A"
+        },
+        {
+            "range": [
+                "1E05B"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "043B"
+        },
+        {
+            "range": [
+                "1E05C"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "043E"
+        },
+        {
+            "range": [
+                "1E05D"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "043F"
+        },
+        {
+            "range": [
+                "1E05E"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0441"
+        },
+        {
+            "range": [
+                "1E05F"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0443"
+        },
+        {
+            "range": [
+                "1E060"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0444"
+        },
+        {
+            "range": [
+                "1E061"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0445"
+        },
+        {
+            "range": [
+                "1E062"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0446"
+        },
+        {
+            "range": [
+                "1E063"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0447"
+        },
+        {
+            "range": [
+                "1E064"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0448"
+        },
+        {
+            "range": [
+                "1E065"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "044A"
+        },
+        {
+            "range": [
+                "1E066"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "044B"
+        },
+        {
+            "range": [
+                "1E067"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0491"
+        },
+        {
+            "range": [
+                "1E068"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0456"
+        },
+        {
+            "range": [
+                "1E069"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0455"
+        },
+        {
+            "range": [
+                "1E06A"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "045F"
+        },
+        {
+            "range": [
+                "1E06B"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "04AB"
+        },
+        {
+            "range": [
+                "1E06C"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "A651"
+        },
+        {
+            "range": [
+                "1E06D"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "04B1"
+        },
+        {
+            "range": [
                 "1E900"
             ],
             "property": "NFKC_CF",
@@ -67738,6 +68188,13 @@
             "range": [
                 "1D7CE",
                 "1D7FF"
+            ],
+            "property": "Changes_When_NFKC_Casefolded"
+        },
+        {
+            "range": [
+                "1E030",
+                "1E06D"
             ],
             "property": "Changes_When_NFKC_Casefolded"
         },

@@ -187,6 +187,12 @@
         },
         {
             "range": [
+                "0CF3"
+            ],
+            "positionalCategory": "Right"
+        },
+        {
+            "range": [
                 "0D02",
                 "0D03"
             ],
@@ -1067,6 +1073,25 @@
         },
         {
             "range": [
+                "11F03"
+            ],
+            "positionalCategory": "Right"
+        },
+        {
+            "range": [
+                "11F34",
+                "11F35"
+            ],
+            "positionalCategory": "Right"
+        },
+        {
+            "range": [
+                "11F41"
+            ],
+            "positionalCategory": "Right"
+        },
+        {
+            "range": [
                 "093F"
             ],
             "positionalCategory": "Left"
@@ -1360,6 +1385,13 @@
         },
         {
             "range": [
+                "11F3E",
+                "11F3F"
+            ],
+            "positionalCategory": "Left"
+        },
+        {
+            "range": [
                 "0E40",
                 "0E44"
             ],
@@ -1523,7 +1555,6 @@
         },
         {
             "range": [
-                "0953",
                 "0955"
             ],
             "positionalCategory": "Top"
@@ -1783,7 +1814,7 @@
         {
             "range": [
                 "0EC8",
-                "0ECD"
+                "0ECE"
             ],
             "positionalCategory": "Top"
         },
@@ -2163,6 +2194,13 @@
         {
             "range": [
                 "A8FF"
+            ],
+            "positionalCategory": "Top"
+        },
+        {
+            "range": [
+                "A926",
+                "A92A"
             ],
             "positionalCategory": "Top"
         },
@@ -2760,6 +2798,32 @@
         {
             "range": [
                 "11EF3"
+            ],
+            "positionalCategory": "Top"
+        },
+        {
+            "range": [
+                "11F00",
+                "11F01"
+            ],
+            "positionalCategory": "Top"
+        },
+        {
+            "range": [
+                "11F02"
+            ],
+            "positionalCategory": "Top"
+        },
+        {
+            "range": [
+                "11F36",
+                "11F37"
+            ],
+            "positionalCategory": "Top"
+        },
+        {
+            "range": [
+                "11F40"
             ],
             "positionalCategory": "Top"
         },
@@ -3443,6 +3507,12 @@
         },
         {
             "range": [
+                "11241"
+            ],
+            "positionalCategory": "Bottom"
+        },
+        {
+            "range": [
                 "112E3",
                 "112E4"
             ],
@@ -3702,6 +3772,13 @@
         {
             "range": [
                 "11EF4"
+            ],
+            "positionalCategory": "Bottom"
+        },
+        {
+            "range": [
+                "11F38",
+                "11F3A"
             ],
             "positionalCategory": "Bottom"
         },

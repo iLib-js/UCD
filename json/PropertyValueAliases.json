@@ -136,6 +136,11 @@
         },
         {
             "property": "age",
+            "shortName": "15.0",
+            "longName": "V15_0"
+        },
+        {
+            "property": "age",
             "shortName": "NA",
             "longName": "Unassigned"
         },
@@ -373,6 +378,11 @@
         },
         {
             "property": "blk",
+            "shortName": "Arabic_Ext_C",
+            "longName": "Arabic_Extended_C"
+        },
+        {
+            "property": "blk",
             "shortName": "Arabic_Math",
             "longName": "Arabic_Mathematical_Alphabetic_Symbols"
         },
@@ -594,6 +604,11 @@
         },
         {
             "property": "blk",
+            "shortName": "CJK_Ext_H",
+            "longName": "CJK_Unified_Ideographs_Extension_H"
+        },
+        {
+            "property": "blk",
             "shortName": "CJK_Radicals_Sup",
             "longName": "CJK_Radicals_Supplement"
         },
@@ -679,6 +694,11 @@
         },
         {
             "property": "blk",
+            "shortName": "Cyrillic_Ext_D",
+            "longName": "Cyrillic_Extended_D"
+        },
+        {
+            "property": "blk",
             "shortName": "Cyrillic_Sup",
             "longName": "Cyrillic_Supplement",
             "alias": "Cyrillic_Supplementary"
@@ -697,6 +717,11 @@
             "property": "blk",
             "shortName": "Devanagari_Ext",
             "longName": "Devanagari_Extended"
+        },
+        {
+            "property": "blk",
+            "shortName": "Devanagari_Ext_A",
+            "longName": "Devanagari_Extended_A"
         },
         {
             "property": "blk",
@@ -1006,6 +1031,11 @@
         },
         {
             "property": "blk",
+            "shortName": "Kaktovik_Numerals",
+            "longName": "Kaktovik_Numerals"
+        },
+        {
+            "property": "blk",
             "shortName": "Kana_Ext_A",
             "longName": "Kana_Extended_A"
         },
@@ -1043,6 +1073,11 @@
             "property": "blk",
             "shortName": "Katakana_Ext",
             "longName": "Katakana_Phonetic_Extensions"
+        },
+        {
+            "property": "blk",
+            "shortName": "Kawi",
+            "longName": "Kawi"
         },
         {
             "property": "blk",
@@ -1364,6 +1399,11 @@
             "property": "blk",
             "shortName": "Nabataean",
             "longName": "Nabataean"
+        },
+        {
+            "property": "blk",
+            "shortName": "Nag_Mundari",
+            "longName": "Nag_Mundari"
         },
         {
             "property": "blk",
@@ -5142,6 +5182,11 @@
         },
         {
             "property": "sc",
+            "shortName": "Kawi",
+            "longName": "Kawi"
+        },
+        {
+            "property": "sc",
             "shortName": "Khar",
             "longName": "Kharoshthi"
         },
@@ -5299,6 +5344,11 @@
             "property": "sc",
             "shortName": "Mymr",
             "longName": "Myanmar"
+        },
+        {
+            "property": "sc",
+            "shortName": "Nagm",
+            "longName": "Nag_Mundari"
         },
         {
             "property": "sc",

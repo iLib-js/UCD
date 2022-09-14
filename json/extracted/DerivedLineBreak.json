@@ -546,6 +546,18 @@
         },
         {
             "range": [
+                "1343C"
+            ],
+            "property": "OP"
+        },
+        {
+            "range": [
+                "1343E"
+            ],
+            "property": "OP"
+        },
+        {
+            "range": [
                 "145CE"
             ],
             "property": "OP"
@@ -1092,6 +1104,18 @@
         },
         {
             "range": [
+                "1343D"
+            ],
+            "property": "CL"
+        },
+        {
+            "range": [
+                "1343F"
+            ],
+            "property": "CL"
+        },
+        {
+            "range": [
                 "145CF"
             ],
             "property": "CL"
@@ -1321,6 +1345,18 @@
         },
         {
             "range": [
+                "1DCD"
+            ],
+            "property": "GL"
+        },
+        {
+            "range": [
+                "1DFC"
+            ],
+            "property": "GL"
+        },
+        {
+            "range": [
                 "2007"
             ],
             "property": "GL"
@@ -1341,6 +1377,13 @@
             "range": [
                 "13430",
                 "13436"
+            ],
+            "property": "GL"
+        },
+        {
+            "range": [
+                "13439",
+                "1343B"
             ],
             "property": "GL"
         },
@@ -1826,13 +1869,6 @@
         },
         {
             "range": [
-                "20C1",
-                "20CF"
-            ],
-            "property": "PR"
-        },
-        {
-            "range": [
                 "2116"
             ],
             "property": "PR"
@@ -1935,6 +1971,12 @@
             "range": [
                 "2030",
                 "2037"
+            ],
+            "property": "PO"
+        },
+        {
+            "range": [
+                "2057"
             ],
             "property": "PO"
         },
@@ -2409,6 +2451,13 @@
         },
         {
             "range": [
+                "11F50",
+                "11F59"
+            ],
+            "property": "NU"
+        },
+        {
+            "range": [
                 "16A60",
                 "16A69"
             ],
@@ -2446,6 +2495,13 @@
             "range": [
                 "1E2F0",
                 "1E2F9"
+            ],
+            "property": "NU"
+        },
+        {
+            "range": [
+                "1E4F0",
+                "1E4F9"
             ],
             "property": "NU"
         },
@@ -4846,12 +4902,6 @@
         {
             "range": [
                 "2055"
-            ],
-            "property": "AL"
-        },
-        {
-            "range": [
-                "2057"
             ],
             "property": "AL"
         },
@@ -7852,6 +7902,13 @@
         },
         {
             "range": [
+                "1123F",
+                "11240"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
                 "11280",
                 "11286"
             ],
@@ -8330,6 +8387,26 @@
         },
         {
             "range": [
+                "11F02"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
+                "11F04",
+                "11F10"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
+                "11F12",
+                "11F33"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
                 "11FB0"
             ],
             "property": "AL"
@@ -8421,7 +8498,14 @@
         {
             "range": [
                 "1337C",
-                "1342E"
+                "1342F"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
+                "13441",
+                "13446"
             ],
             "property": "AL"
         },
@@ -8691,6 +8775,13 @@
         {
             "range": [
                 "1D245"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
+                "1D2C0",
+                "1D2D3"
             ],
             "property": "AL"
         },
@@ -9045,6 +9136,20 @@
         },
         {
             "range": [
+                "1DF25",
+                "1DF2A"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
+                "1E030",
+                "1E06D"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
                 "1E100",
                 "1E12C"
             ],
@@ -9080,6 +9185,19 @@
             "range": [
                 "1E2C0",
                 "1E2EB"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
+                "1E4D0",
+                "1E4EA"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
+                "1E4EB"
             ],
             "property": "AL"
         },
@@ -10166,22 +10284,8 @@
         },
         {
             "range": [
-                "FA6E",
-                "FA6F"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
                 "FA70",
                 "FAD9"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "FADA",
-                "FAFF"
             ],
             "property": "ID"
         },
@@ -10452,6 +10556,13 @@
         },
         {
             "range": [
+                "11F45",
+                "11F4F"
+            ],
+            "property": "ID"
+        },
+        {
+            "range": [
                 "17000",
                 "187F7"
             ],
@@ -10494,22 +10605,8 @@
         },
         {
             "range": [
-                "1F02C",
-                "1F02F"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
                 "1F030",
                 "1F093"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "1F094",
-                "1F09F"
             ],
             "property": "ID"
         },
@@ -10522,21 +10619,8 @@
         },
         {
             "range": [
-                "1F0AF",
-                "1F0B0"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
                 "1F0B1",
                 "1F0BF"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "1F0C0"
             ],
             "property": "ID"
         },
@@ -10549,21 +10633,8 @@
         },
         {
             "range": [
-                "1F0D0"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
                 "1F0D1",
                 "1F0F5"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "1F0F6",
-                "1F0FF"
             ],
             "property": "ID"
         },
@@ -10589,22 +10660,8 @@
         },
         {
             "range": [
-                "1F1AE",
-                "1F1E5"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
                 "1F200",
                 "1F202"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "1F203",
-                "1F20F"
             ],
             "property": "ID"
         },
@@ -10617,22 +10674,8 @@
         },
         {
             "range": [
-                "1F23C",
-                "1F23F"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
                 "1F240",
                 "1F248"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "1F249",
-                "1F24F"
             ],
             "property": "ID"
         },
@@ -10645,22 +10688,8 @@
         },
         {
             "range": [
-                "1F252",
-                "1F25F"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
                 "1F260",
                 "1F265"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "1F266",
-                "1F2FF"
             ],
             "property": "ID"
         },
@@ -10927,22 +10956,8 @@
         },
         {
             "range": [
-                "1F6D8",
-                "1F6DC"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "1F6DD",
+                "1F6DC",
                 "1F6EC"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "1F6ED",
-                "1F6EF"
             ],
             "property": "ID"
         },
@@ -10955,14 +10970,14 @@
         },
         {
             "range": [
-                "1F6FD",
-                "1F6FF"
+                "1F774",
+                "1F776"
             ],
             "property": "ID"
         },
         {
             "range": [
-                "1F774",
+                "1F77B",
                 "1F77F"
             ],
             "property": "ID"
@@ -10970,14 +10985,7 @@
         {
             "range": [
                 "1F7D5",
-                "1F7D8"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "1F7D9",
-                "1F7DF"
+                "1F7D9"
             ],
             "property": "ID"
         },
@@ -10990,56 +10998,7 @@
         },
         {
             "range": [
-                "1F7EC",
-                "1F7EF"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
                 "1F7F0"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "1F7F1",
-                "1F7FF"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "1F80C",
-                "1F80F"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "1F848",
-                "1F84F"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "1F85A",
-                "1F85F"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "1F888",
-                "1F88F"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "1F8AE",
-                "1F8AF"
             ],
             "property": "ID"
         },
@@ -11047,13 +11006,6 @@
             "range": [
                 "1F8B0",
                 "1F8B1"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "1F8B2",
-                "1F8FF"
             ],
             "property": "ID"
         },
@@ -11140,13 +11092,6 @@
         },
         {
             "range": [
-                "1FA54",
-                "1FA5F"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
                 "1FA60",
                 "1FA6D"
             ],
@@ -11154,134 +11099,43 @@
         },
         {
             "range": [
-                "1FA6E",
-                "1FA6F"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
                 "1FA70",
-                "1FA74"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "1FA75",
-                "1FA77"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "1FA78",
                 "1FA7C"
             ],
             "property": "ID"
         },
         {
             "range": [
-                "1FA7D",
-                "1FA7F"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
                 "1FA80",
-                "1FA86"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "1FA87",
-                "1FA8F"
+                "1FA88"
             ],
             "property": "ID"
         },
         {
             "range": [
                 "1FA90",
-                "1FAAC"
+                "1FABD"
             ],
             "property": "ID"
         },
         {
             "range": [
-                "1FAAD",
-                "1FAAF"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "1FAB0",
-                "1FABA"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "1FABB",
-                "1FABF"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "1FAC0",
+                "1FABF",
                 "1FAC2"
             ],
             "property": "ID"
         },
         {
             "range": [
-                "1FAC6",
-                "1FACF"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "1FAD0",
-                "1FAD9"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "1FADA",
-                "1FADF"
+                "1FACE",
+                "1FADB"
             ],
             "property": "ID"
         },
         {
             "range": [
                 "1FAE0",
-                "1FAE7"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "1FAE8",
-                "1FAEF"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "1FAF7",
-                "1FAFF"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "1FC00",
-                "1FFFD"
+                "1FAE8"
             ],
             "property": "ID"
         },
@@ -11294,22 +11148,8 @@
         },
         {
             "range": [
-                "2A6E0",
-                "2A6FF"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
                 "2A700",
-                "2B738"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "2B739",
-                "2B73F"
+                "2B739"
             ],
             "property": "ID"
         },
@@ -11322,22 +11162,8 @@
         },
         {
             "range": [
-                "2B81E",
-                "2B81F"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
                 "2B820",
                 "2CEA1"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "2CEA2",
-                "2CEAF"
             ],
             "property": "ID"
         },
@@ -11350,22 +11176,8 @@
         },
         {
             "range": [
-                "2EBE1",
-                "2F7FF"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
                 "2F800",
                 "2FA1D"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "2FA1E",
-                "2FFFD"
             ],
             "property": "ID"
         },
@@ -11378,8 +11190,8 @@
         },
         {
             "range": [
-                "3134B",
-                "3FFFD"
+                "31350",
+                "323AF"
             ],
             "property": "ID"
         },
@@ -12220,6 +12032,12 @@
         },
         {
             "range": [
+                "0CF3"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
                 "0D00",
                 "0D01"
             ],
@@ -12845,6 +12663,20 @@
         {
             "range": [
                 "1DC0",
+                "1DCC"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
+                "1DCE",
+                "1DFB"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
+                "1DFD",
                 "1DFF"
             ],
             "property": "CM"
@@ -13377,6 +13209,13 @@
         },
         {
             "range": [
+                "10EFD",
+                "10EFF"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
                 "10F46",
                 "10F50"
             ],
@@ -13610,6 +13449,12 @@
         {
             "range": [
                 "1123E"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
+                "11241"
             ],
             "property": "CM"
         },
@@ -14304,6 +14149,71 @@
         },
         {
             "range": [
+                "11F00",
+                "11F01"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
+                "11F03"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
+                "11F34",
+                "11F35"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
+                "11F36",
+                "11F3A"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
+                "11F3E",
+                "11F3F"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
+                "11F40"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
+                "11F41"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
+                "11F42"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
+                "13440"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
+                "13447",
+                "13455"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
                 "16AF0",
                 "16AF4"
             ],
@@ -14504,6 +14414,12 @@
         },
         {
             "range": [
+                "1E08F"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
                 "1E130",
                 "1E136"
             ],
@@ -14519,6 +14435,13 @@
             "range": [
                 "1E2EC",
                 "1E2EF"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
+                "1E4EC",
+                "1E4EF"
             ],
             "property": "CM"
         },
@@ -14704,6 +14627,13 @@
             "range": [
                 "11A9E",
                 "11AA0"
+            ],
+            "property": "BB"
+        },
+        {
+            "range": [
+                "11B00",
+                "11B09"
             ],
             "property": "BB"
         },
@@ -15328,6 +15258,13 @@
         },
         {
             "range": [
+                "11F43",
+                "11F44"
+            ],
+            "property": "BA"
+        },
+        {
+            "range": [
                 "11FFF"
             ],
             "property": "BA"
@@ -15557,7 +15494,7 @@
         {
             "range": [
                 "0EC8",
-                "0ECD"
+                "0ECE"
             ],
             "property": "SA"
         },
@@ -22521,8 +22458,20 @@
         },
         {
             "range": [
+                "1B132"
+            ],
+            "property": "CJ"
+        },
+        {
+            "range": [
                 "1B150",
                 "1B152"
+            ],
+            "property": "CJ"
+        },
+        {
+            "range": [
+                "1B155"
             ],
             "property": "CJ"
         },
@@ -22798,7 +22747,7 @@
         {
             "range": [
                 "1FAF0",
-                "1FAF6"
+                "1FAF8"
             ],
             "property": "EB"
         },

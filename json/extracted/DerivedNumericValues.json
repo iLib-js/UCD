@@ -471,6 +471,13 @@
         },
         {
             "range": [
+                "11F50"
+            ],
+            "decimalValue": "0.0",
+            "whole": "0"
+        },
+        {
+            "range": [
                 "16A60"
             ],
             "decimalValue": "0.0",
@@ -493,6 +500,13 @@
         {
             "range": [
                 "16E80"
+            ],
+            "decimalValue": "0.0",
+            "whole": "0"
+        },
+        {
+            "range": [
+                "1D2C0"
             ],
             "decimalValue": "0.0",
             "whole": "0"
@@ -549,6 +563,13 @@
         {
             "range": [
                 "1E2F0"
+            ],
+            "decimalValue": "0.0",
+            "whole": "0"
+        },
+        {
+            "range": [
+                "1E4F0"
             ],
             "decimalValue": "0.0",
             "whole": "0"
@@ -2116,6 +2137,13 @@
         },
         {
             "range": [
+                "11F51"
+            ],
+            "decimalValue": "1.0",
+            "whole": "1"
+        },
+        {
+            "range": [
                 "12415"
             ],
             "decimalValue": "1.0",
@@ -2193,6 +2221,13 @@
         },
         {
             "range": [
+                "1D2C1"
+            ],
+            "decimalValue": "1.0",
+            "whole": "1"
+        },
+        {
+            "range": [
                 "1D2E1"
             ],
             "decimalValue": "1.0",
@@ -2264,6 +2299,13 @@
         {
             "range": [
                 "1E2F1"
+            ],
+            "decimalValue": "1.0",
+            "whole": "1"
+        },
+        {
+            "range": [
+                "1E4F1"
             ],
             "decimalValue": "1.0",
             "whole": "1"
@@ -3055,6 +3097,13 @@
         },
         {
             "range": [
+                "11F52"
+            ],
+            "decimalValue": "2.0",
+            "whole": "2"
+        },
+        {
+            "range": [
                 "12400"
             ],
             "decimalValue": "2.0",
@@ -3160,6 +3209,13 @@
         },
         {
             "range": [
+                "1D2C2"
+            ],
+            "decimalValue": "2.0",
+            "whole": "2"
+        },
+        {
+            "range": [
                 "1D2E2"
             ],
             "decimalValue": "2.0",
@@ -3224,6 +3280,13 @@
         {
             "range": [
                 "1E2F2"
+            ],
+            "decimalValue": "2.0",
+            "whole": "2"
+        },
+        {
+            "range": [
+                "1E4F2"
             ],
             "decimalValue": "2.0",
             "whole": "2"
@@ -3980,6 +4043,13 @@
         },
         {
             "range": [
+                "11F53"
+            ],
+            "decimalValue": "3.0",
+            "whole": "3"
+        },
+        {
+            "range": [
                 "12401"
             ],
             "decimalValue": "3.0",
@@ -4096,6 +4166,13 @@
         },
         {
             "range": [
+                "1D2C3"
+            ],
+            "decimalValue": "3.0",
+            "whole": "3"
+        },
+        {
+            "range": [
                 "1D2E3"
             ],
             "decimalValue": "3.0",
@@ -4160,6 +4237,13 @@
         {
             "range": [
                 "1E2F3"
+            ],
+            "decimalValue": "3.0",
+            "whole": "3"
+        },
+        {
+            "range": [
+                "1E4F3"
             ],
             "decimalValue": "3.0",
             "whole": "3"
@@ -4888,6 +4972,13 @@
         },
         {
             "range": [
+                "11F54"
+            ],
+            "decimalValue": "4.0",
+            "whole": "4"
+        },
+        {
+            "range": [
                 "12402"
             ],
             "decimalValue": "4.0",
@@ -5002,6 +5093,13 @@
         },
         {
             "range": [
+                "1D2C4"
+            ],
+            "decimalValue": "4.0",
+            "whole": "4"
+        },
+        {
+            "range": [
                 "1D2E4"
             ],
             "decimalValue": "4.0",
@@ -5066,6 +5164,13 @@
         {
             "range": [
                 "1E2F4"
+            ],
+            "decimalValue": "4.0",
+            "whole": "4"
+        },
+        {
+            "range": [
+                "1E4F4"
             ],
             "decimalValue": "4.0",
             "whole": "4"
@@ -5814,6 +5919,13 @@
         },
         {
             "range": [
+                "11F55"
+            ],
+            "decimalValue": "5.0",
+            "whole": "5"
+        },
+        {
+            "range": [
                 "12403"
             ],
             "decimalValue": "5.0",
@@ -5920,6 +6032,13 @@
         },
         {
             "range": [
+                "1D2C5"
+            ],
+            "decimalValue": "5.0",
+            "whole": "5"
+        },
+        {
+            "range": [
                 "1D2E5"
             ],
             "decimalValue": "5.0",
@@ -5991,6 +6110,13 @@
         {
             "range": [
                 "1E2F5"
+            ],
+            "decimalValue": "5.0",
+            "whole": "5"
+        },
+        {
+            "range": [
+                "1E4F5"
             ],
             "decimalValue": "5.0",
             "whole": "5"
@@ -6655,6 +6781,13 @@
         },
         {
             "range": [
+                "11F56"
+            ],
+            "decimalValue": "6.0",
+            "whole": "6"
+        },
+        {
+            "range": [
                 "12404"
             ],
             "decimalValue": "6.0",
@@ -6739,6 +6872,13 @@
         },
         {
             "range": [
+                "1D2C6"
+            ],
+            "decimalValue": "6.0",
+            "whole": "6"
+        },
+        {
+            "range": [
                 "1D2E6"
             ],
             "decimalValue": "6.0",
@@ -6796,6 +6936,13 @@
         {
             "range": [
                 "1E2F6"
+            ],
+            "decimalValue": "6.0",
+            "whole": "6"
+        },
+        {
+            "range": [
+                "1E4F6"
             ],
             "decimalValue": "6.0",
             "whole": "6"
@@ -7446,6 +7593,13 @@
         },
         {
             "range": [
+                "11F57"
+            ],
+            "decimalValue": "7.0",
+            "whole": "7"
+        },
+        {
+            "range": [
                 "12405"
             ],
             "decimalValue": "7.0",
@@ -7524,6 +7678,13 @@
         },
         {
             "range": [
+                "1D2C7"
+            ],
+            "decimalValue": "7.0",
+            "whole": "7"
+        },
+        {
+            "range": [
                 "1D2E7"
             ],
             "decimalValue": "7.0",
@@ -7581,6 +7742,13 @@
         {
             "range": [
                 "1E2F7"
+            ],
+            "decimalValue": "7.0",
+            "whole": "7"
+        },
+        {
+            "range": [
+                "1E4F7"
             ],
             "decimalValue": "7.0",
             "whole": "7"
@@ -8217,6 +8385,13 @@
         },
         {
             "range": [
+                "11F58"
+            ],
+            "decimalValue": "8.0",
+            "whole": "8"
+        },
+        {
+            "range": [
                 "12406"
             ],
             "decimalValue": "8.0",
@@ -8295,6 +8470,13 @@
         },
         {
             "range": [
+                "1D2C8"
+            ],
+            "decimalValue": "8.0",
+            "whole": "8"
+        },
+        {
+            "range": [
                 "1D2E8"
             ],
             "decimalValue": "8.0",
@@ -8352,6 +8534,13 @@
         {
             "range": [
                 "1E2F8"
+            ],
+            "decimalValue": "8.0",
+            "whole": "8"
+        },
+        {
+            "range": [
+                "1E4F8"
             ],
             "decimalValue": "8.0",
             "whole": "8"
@@ -8988,6 +9177,13 @@
         },
         {
             "range": [
+                "11F59"
+            ],
+            "decimalValue": "9.0",
+            "whole": "9"
+        },
+        {
+            "range": [
                 "12407"
             ],
             "decimalValue": "9.0",
@@ -9066,6 +9262,13 @@
         },
         {
             "range": [
+                "1D2C9"
+            ],
+            "decimalValue": "9.0",
+            "whole": "9"
+        },
+        {
+            "range": [
                 "1D2E9"
             ],
             "decimalValue": "9.0",
@@ -9123,6 +9326,13 @@
         {
             "range": [
                 "1E2F9"
+            ],
+            "decimalValue": "9.0",
+            "whole": "9"
+        },
+        {
+            "range": [
+                "1E4F9"
             ],
             "decimalValue": "9.0",
             "whole": "9"
@@ -9564,6 +9774,13 @@
         },
         {
             "range": [
+                "1D2CA"
+            ],
+            "decimalValue": "10.0",
+            "whole": "10"
+        },
+        {
+            "range": [
                 "1D2EA"
             ],
             "decimalValue": "10.0",
@@ -9648,6 +9865,13 @@
         },
         {
             "range": [
+                "1D2CB"
+            ],
+            "decimalValue": "11.0",
+            "whole": "11"
+        },
+        {
+            "range": [
                 "1D2EB"
             ],
             "decimalValue": "11.0",
@@ -9704,6 +9928,13 @@
         },
         {
             "range": [
+                "1D2CC"
+            ],
+            "decimalValue": "12.0",
+            "whole": "12"
+        },
+        {
+            "range": [
                 "1D2EC"
             ],
             "decimalValue": "12.0",
@@ -9740,6 +9971,13 @@
         {
             "range": [
                 "16E8D"
+            ],
+            "decimalValue": "13.0",
+            "whole": "13"
+        },
+        {
+            "range": [
+                "1D2CD"
             ],
             "decimalValue": "13.0",
             "whole": "13"
@@ -9788,6 +10026,13 @@
         },
         {
             "range": [
+                "1D2CE"
+            ],
+            "decimalValue": "14.0",
+            "whole": "14"
+        },
+        {
+            "range": [
                 "1D2EE"
             ],
             "decimalValue": "14.0",
@@ -9824,6 +10069,13 @@
         {
             "range": [
                 "16E8F"
+            ],
+            "decimalValue": "15.0",
+            "whole": "15"
+        },
+        {
+            "range": [
+                "1D2CF"
             ],
             "decimalValue": "15.0",
             "whole": "15"
@@ -9879,6 +10131,13 @@
         },
         {
             "range": [
+                "1D2D0"
+            ],
+            "decimalValue": "16.0",
+            "whole": "16"
+        },
+        {
+            "range": [
                 "1D2F0"
             ],
             "decimalValue": "16.0",
@@ -9922,6 +10181,13 @@
         {
             "range": [
                 "16E91"
+            ],
+            "decimalValue": "17.0",
+            "whole": "17"
+        },
+        {
+            "range": [
+                "1D2D1"
             ],
             "decimalValue": "17.0",
             "whole": "17"
@@ -9977,6 +10243,13 @@
         },
         {
             "range": [
+                "1D2D2"
+            ],
+            "decimalValue": "18.0",
+            "whole": "18"
+        },
+        {
+            "range": [
                 "1D2F2"
             ],
             "decimalValue": "18.0",
@@ -10020,6 +10293,13 @@
         {
             "range": [
                 "16E93"
+            ],
+            "decimalValue": "19.0",
+            "whole": "19"
+        },
+        {
+            "range": [
+                "1D2D3"
             ],
             "decimalValue": "19.0",
             "whole": "19"

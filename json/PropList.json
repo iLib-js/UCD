@@ -1131,6 +1131,13 @@
         },
         {
             "range": [
+                "11F43",
+                "11F44"
+            ],
+            "property": "Terminal_Punctuation"
+        },
+        {
+            "range": [
                 "12470",
                 "12474"
             ],
@@ -2913,6 +2920,12 @@
         },
         {
             "range": [
+                "0C04"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
                 "0C3E",
                 "0C40"
             ],
@@ -3022,6 +3035,12 @@
             "range": [
                 "0CE2",
                 "0CE3"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
+                "0CF3"
             ],
             "property": "Other_Alphabetic"
         },
@@ -3188,7 +3207,7 @@
         {
             "range": [
                 "0F80",
-                "0F81"
+                "0F83"
             ],
             "property": "Other_Alphabetic"
         },
@@ -4143,6 +4162,13 @@
         },
         {
             "range": [
+                "11080",
+                "11081"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
                 "11082"
             ],
             "property": "Other_Alphabetic"
@@ -4289,6 +4315,12 @@
         {
             "range": [
                 "1123E"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
+                "11241"
             ],
             "property": "Other_Alphabetic"
         },
@@ -4907,6 +4939,46 @@
         },
         {
             "range": [
+                "11F00",
+                "11F01"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
+                "11F03"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
+                "11F34",
+                "11F35"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
+                "11F36",
+                "11F3A"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
+                "11F3E",
+                "11F3F"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
+                "11F40"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
                 "16F4F"
             ],
             "property": "Other_Alphabetic"
@@ -4970,6 +5042,12 @@
             "range": [
                 "1E026",
                 "1E02A"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
+                "1E08F"
             ],
             "property": "Other_Alphabetic"
         },
@@ -5098,7 +5176,7 @@
         {
             "range": [
                 "2A700",
-                "2B738"
+                "2B739"
             ],
             "property": "Ideographic"
         },
@@ -5134,6 +5212,13 @@
             "range": [
                 "30000",
                 "3134A"
+            ],
+            "property": "Ideographic"
+        },
+        {
+            "range": [
+                "31350",
+                "323AF"
             ],
             "property": "Ideographic"
         },
@@ -6289,6 +6374,13 @@
         },
         {
             "range": [
+                "10EFD",
+                "10EFF"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
                 "10F46",
                 "10F50"
             ],
@@ -6517,6 +6609,13 @@
         },
         {
             "range": [
+                "13447",
+                "13455"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
                 "16AF0",
                 "16AF4"
             ],
@@ -6617,6 +6716,13 @@
             "range": [
                 "1D1AA",
                 "1D1AD"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
+                "1E030",
+                "1E06D"
             ],
             "property": "Diacritic"
         },
@@ -6917,6 +7023,12 @@
         },
         {
             "range": [
+                "10FC"
+            ],
+            "property": "Other_Lowercase"
+        },
+        {
+            "range": [
                 "1D2C",
                 "1D6A"
             ],
@@ -6990,6 +7102,13 @@
         },
         {
             "range": [
+                "A7F2",
+                "A7F4"
+            ],
+            "property": "Other_Lowercase"
+        },
+        {
+            "range": [
                 "A7F8",
                 "A7F9"
             ],
@@ -6999,6 +7118,12 @@
             "range": [
                 "AB5C",
                 "AB5F"
+            ],
+            "property": "Other_Lowercase"
+        },
+        {
+            "range": [
+                "AB69"
             ],
             "property": "Other_Lowercase"
         },
@@ -7026,6 +7151,13 @@
             "range": [
                 "107B2",
                 "107BA"
+            ],
+            "property": "Other_Lowercase"
+        },
+        {
+            "range": [
+                "1E030",
+                "1E06D"
             ],
             "property": "Other_Lowercase"
         },
@@ -7457,7 +7589,7 @@
         {
             "range": [
                 "2A700",
-                "2B738"
+                "2B739"
             ],
             "property": "Unified_Ideograph"
         },
@@ -7486,6 +7618,13 @@
             "range": [
                 "30000",
                 "3134A"
+            ],
+            "property": "Unified_Ideograph"
+        },
+        {
+            "range": [
+                "31350",
+                "323AF"
             ],
             "property": "Unified_Ideograph"
         },
@@ -7821,6 +7960,19 @@
         {
             "range": [
                 "1DF1A"
+            ],
+            "property": "Soft_Dotted"
+        },
+        {
+            "range": [
+                "1E04C",
+                "1E04D"
+            ],
+            "property": "Soft_Dotted"
+        },
+        {
+            "range": [
+                "1E068"
             ],
             "property": "Soft_Dotted"
         },
@@ -8394,6 +8546,13 @@
             "range": [
                 "11EF7",
                 "11EF8"
+            ],
+            "property": "Sentence_Terminal"
+        },
+        {
+            "range": [
+                "11F43",
+                "11F44"
             ],
             "property": "Sentence_Terminal"
         },

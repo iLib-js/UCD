@@ -3248,6 +3248,13 @@
         },
         {
             "range": [
+                "1D2C0",
+                "1D2D3"
+            ],
+            "script": "Common"
+        },
+        {
+            "range": [
                 "1D2E0",
                 "1D2F3"
             ],
@@ -3715,7 +3722,7 @@
         },
         {
             "range": [
-                "1F6DD",
+                "1F6DC",
                 "1F6EC"
             ],
             "script": "Common"
@@ -3730,14 +3737,14 @@
         {
             "range": [
                 "1F700",
-                "1F773"
+                "1F776"
             ],
             "script": "Common"
         },
         {
             "range": [
-                "1F780",
-                "1F7D8"
+                "1F77B",
+                "1F7D9"
             ],
             "script": "Common"
         },
@@ -3813,13 +3820,6 @@
         {
             "range": [
                 "1FA70",
-                "1FA74"
-            ],
-            "script": "Common"
-        },
-        {
-            "range": [
-                "1FA78",
                 "1FA7C"
             ],
             "script": "Common"
@@ -3827,49 +3827,42 @@
         {
             "range": [
                 "1FA80",
-                "1FA86"
+                "1FA88"
             ],
             "script": "Common"
         },
         {
             "range": [
                 "1FA90",
-                "1FAAC"
+                "1FABD"
             ],
             "script": "Common"
         },
         {
             "range": [
-                "1FAB0",
-                "1FABA"
-            ],
-            "script": "Common"
-        },
-        {
-            "range": [
-                "1FAC0",
+                "1FABF",
                 "1FAC5"
             ],
             "script": "Common"
         },
         {
             "range": [
-                "1FAD0",
-                "1FAD9"
+                "1FACE",
+                "1FADB"
             ],
             "script": "Common"
         },
         {
             "range": [
                 "1FAE0",
-                "1FAE7"
+                "1FAE8"
             ],
             "script": "Common"
         },
         {
             "range": [
                 "1FAF0",
-                "1FAF6"
+                "1FAF8"
             ],
             "script": "Common"
         },
@@ -4330,6 +4323,13 @@
             "range": [
                 "1DF0B",
                 "1DF1E"
+            ],
+            "script": "Latin"
+        },
+        {
+            "range": [
+                "1DF25",
+                "1DF2A"
             ],
             "script": "Latin"
         },
@@ -4843,6 +4843,19 @@
             "range": [
                 "FE2E",
                 "FE2F"
+            ],
+            "script": "Cyrillic"
+        },
+        {
+            "range": [
+                "1E030",
+                "1E06D"
+            ],
+            "script": "Cyrillic"
+        },
+        {
+            "range": [
+                "1E08F"
             ],
             "script": "Cyrillic"
         },
@@ -5410,6 +5423,13 @@
         },
         {
             "range": [
+                "10EFD",
+                "10EFF"
+            ],
+            "script": "Arabic"
+        },
+        {
+            "range": [
                 "1EE00",
                 "1EE03"
             ],
@@ -5877,6 +5897,13 @@
         {
             "range": [
                 "A8FF"
+            ],
+            "script": "Devanagari"
+        },
+        {
+            "range": [
+                "11B00",
+                "11B09"
             ],
             "script": "Devanagari"
         },
@@ -7058,6 +7085,12 @@
         },
         {
             "range": [
+                "0CF3"
+            ],
+            "script": "Kannada"
+        },
+        {
+            "range": [
                 "0D00",
                 "0D01"
             ],
@@ -7467,7 +7500,7 @@
         {
             "range": [
                 "0EC8",
-                "0ECD"
+                "0ECE"
             ],
             "script": "Lao"
         },
@@ -8870,6 +8903,12 @@
         },
         {
             "range": [
+                "1B132"
+            ],
+            "script": "Hiragana"
+        },
+        {
+            "range": [
                 "1B150",
                 "1B152"
             ],
@@ -8967,6 +9006,12 @@
             "range": [
                 "1B120",
                 "1B122"
+            ],
+            "script": "Katakana"
+        },
+        {
+            "range": [
+                "1B155"
             ],
             "script": "Katakana"
         },
@@ -9108,7 +9153,7 @@
         {
             "range": [
                 "2A700",
-                "2B738"
+                "2B739"
             ],
             "script": "Han"
         },
@@ -9144,6 +9189,13 @@
             "range": [
                 "30000",
                 "3134A"
+            ],
+            "script": "Han"
+        },
+        {
+            "range": [
+                "31350",
+                "323AF"
             ],
             "script": "Han"
         },
@@ -11042,14 +11094,34 @@
         {
             "range": [
                 "13000",
-                "1342E"
+                "1342F"
             ],
             "script": "Egyptian_Hieroglyphs"
         },
         {
             "range": [
                 "13430",
-                "13438"
+                "1343F"
+            ],
+            "script": "Egyptian_Hieroglyphs"
+        },
+        {
+            "range": [
+                "13440"
+            ],
+            "script": "Egyptian_Hieroglyphs"
+        },
+        {
+            "range": [
+                "13441",
+                "13446"
+            ],
+            "script": "Egyptian_Hieroglyphs"
+        },
+        {
+            "range": [
+                "13447",
+                "13455"
             ],
             "script": "Egyptian_Hieroglyphs"
         },
@@ -12420,6 +12492,19 @@
         {
             "range": [
                 "1123E"
+            ],
+            "script": "Khojki"
+        },
+        {
+            "range": [
+                "1123F",
+                "11240"
+            ],
+            "script": "Khojki"
+        },
+        {
+            "range": [
+                "11241"
             ],
             "script": "Khojki"
         },
@@ -14347,6 +14432,119 @@
                 "105BC"
             ],
             "script": "Vithkuqi"
+        },
+        {
+            "range": [
+                "11F00",
+                "11F01"
+            ],
+            "script": "Kawi"
+        },
+        {
+            "range": [
+                "11F02"
+            ],
+            "script": "Kawi"
+        },
+        {
+            "range": [
+                "11F03"
+            ],
+            "script": "Kawi"
+        },
+        {
+            "range": [
+                "11F04",
+                "11F10"
+            ],
+            "script": "Kawi"
+        },
+        {
+            "range": [
+                "11F12",
+                "11F33"
+            ],
+            "script": "Kawi"
+        },
+        {
+            "range": [
+                "11F34",
+                "11F35"
+            ],
+            "script": "Kawi"
+        },
+        {
+            "range": [
+                "11F36",
+                "11F3A"
+            ],
+            "script": "Kawi"
+        },
+        {
+            "range": [
+                "11F3E",
+                "11F3F"
+            ],
+            "script": "Kawi"
+        },
+        {
+            "range": [
+                "11F40"
+            ],
+            "script": "Kawi"
+        },
+        {
+            "range": [
+                "11F41"
+            ],
+            "script": "Kawi"
+        },
+        {
+            "range": [
+                "11F42"
+            ],
+            "script": "Kawi"
+        },
+        {
+            "range": [
+                "11F43",
+                "11F4F"
+            ],
+            "script": "Kawi"
+        },
+        {
+            "range": [
+                "11F50",
+                "11F59"
+            ],
+            "script": "Kawi"
+        },
+        {
+            "range": [
+                "1E4D0",
+                "1E4EA"
+            ],
+            "script": "Nag_Mundari"
+        },
+        {
+            "range": [
+                "1E4EB"
+            ],
+            "script": "Nag_Mundari"
+        },
+        {
+            "range": [
+                "1E4EC",
+                "1E4EF"
+            ],
+            "script": "Nag_Mundari"
+        },
+        {
+            "range": [
+                "1E4F0",
+                "1E4F9"
+            ],
+            "script": "Nag_Mundari"
         }
     ]
 }
