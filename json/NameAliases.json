@@ -306,6 +306,11 @@
             "type": "abbreviation"
         },
         {
+            "codepoint": "0019",
+            "alias": "EM",
+            "type": "abbreviation"
+        },
+        {
             "codepoint": "001A",
             "alias": "SUBSTITUTE",
             "type": "control"
@@ -806,6 +811,11 @@
             "type": "abbreviation"
         },
         {
+            "codepoint": "0616",
+            "alias": "ARABIC SMALL HIGH LIGATURE ALEF WITH YEH BARREE",
+            "type": "correction"
+        },
+        {
             "codepoint": "061C",
             "alias": "ALM",
             "type": "abbreviation"
@@ -889,6 +899,11 @@
             "codepoint": "180F",
             "alias": "FVS4",
             "type": "abbreviation"
+        },
+        {
+            "codepoint": "1BBD",
+            "alias": "SUNDANESE LETTER ARCHAIC I",
+            "type": "correction"
         },
         {
             "codepoint": "200B",

@@ -1465,6 +1465,13 @@
         },
         {
             "range": [
+                "10EC0",
+                "10EFF"
+            ],
+            "block": "Arabic Extended-C"
+        },
+        {
+            "range": [
                 "10F00",
                 "10F2F"
             ],
@@ -1682,6 +1689,13 @@
         },
         {
             "range": [
+                "11B00",
+                "11B5F"
+            ],
+            "block": "Devanagari Extended-A"
+        },
+        {
+            "range": [
                 "11C00",
                 "11C6F"
             ],
@@ -1714,6 +1728,13 @@
                 "11EFF"
             ],
             "block": "Makasar"
+        },
+        {
+            "range": [
+                "11F00",
+                "11F5F"
+            ],
+            "block": "Kawi"
         },
         {
             "range": [
@@ -1767,7 +1788,7 @@
         {
             "range": [
                 "13430",
-                "1343F"
+                "1345F"
             ],
             "block": "Egyptian Hieroglyph Format Controls"
         },
@@ -1941,6 +1962,13 @@
         },
         {
             "range": [
+                "1D2C0",
+                "1D2DF"
+            ],
+            "block": "Kaktovik Numerals"
+        },
+        {
+            "range": [
                 "1D2E0",
                 "1D2FF"
             ],
@@ -1990,6 +2018,13 @@
         },
         {
             "range": [
+                "1E030",
+                "1E08F"
+            ],
+            "block": "Cyrillic Extended-D"
+        },
+        {
+            "range": [
                 "1E100",
                 "1E14F"
             ],
@@ -2008,6 +2043,13 @@
                 "1E2FF"
             ],
             "block": "Wancho"
+        },
+        {
+            "range": [
+                "1E4D0",
+                "1E4FF"
+            ],
+            "block": "Nag Mundari"
         },
         {
             "range": [
@@ -2211,6 +2253,13 @@
                 "3134F"
             ],
             "block": "CJK Unified Ideographs Extension G"
+        },
+        {
+            "range": [
+                "31350",
+                "323AF"
+            ],
+            "block": "CJK Unified Ideographs Extension H"
         },
         {
             "range": [

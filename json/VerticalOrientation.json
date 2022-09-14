@@ -2597,6 +2597,12 @@
         },
         {
             "range": [
+                "0CF3"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
                 "0D00",
                 "0D01"
             ],
@@ -3005,7 +3011,7 @@
         {
             "range": [
                 "0EC8",
-                "0ECD"
+                "0ECE"
             ],
             "verticalOrientation": "R"
         },
@@ -11193,6 +11199,13 @@
         },
         {
             "range": [
+                "10EFD",
+                "10EFF"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
                 "10F00",
                 "10F1C"
             ],
@@ -11736,6 +11749,19 @@
         {
             "range": [
                 "1123E"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "1123F",
+                "11240"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "11241"
             ],
             "verticalOrientation": "R"
         },
@@ -12851,6 +12877,13 @@
         },
         {
             "range": [
+                "11B00",
+                "11B09"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
                 "11C00",
                 "11C08"
             ],
@@ -13152,6 +13185,92 @@
         },
         {
             "range": [
+                "11F00",
+                "11F01"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "11F02"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "11F03"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "11F04",
+                "11F10"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "11F12",
+                "11F33"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "11F34",
+                "11F35"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "11F36",
+                "11F3A"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "11F3E",
+                "11F3F"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "11F40"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "11F41"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "11F42"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "11F43",
+                "11F4F"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "11F50",
+                "11F59"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
                 "11FB0"
             ],
             "verticalOrientation": "R"
@@ -13235,12 +13354,6 @@
         {
             "range": [
                 "13000",
-                "1342E"
-            ],
-            "verticalOrientation": "U"
-        },
-        {
-            "range": [
                 "1342F"
             ],
             "verticalOrientation": "U"
@@ -13248,14 +13361,34 @@
         {
             "range": [
                 "13430",
-                "13438"
+                "1343F"
             ],
             "verticalOrientation": "U"
         },
         {
             "range": [
-                "13439",
-                "1343F"
+                "13440"
+            ],
+            "verticalOrientation": "U"
+        },
+        {
+            "range": [
+                "13441",
+                "13446"
+            ],
+            "verticalOrientation": "U"
+        },
+        {
+            "range": [
+                "13447",
+                "13455"
+            ],
+            "verticalOrientation": "U"
+        },
+        {
+            "range": [
+                "13456",
+                "1345F"
             ],
             "verticalOrientation": "U"
         },
@@ -13629,6 +13762,19 @@
         {
             "range": [
                 "1B130",
+                "1B131"
+            ],
+            "verticalOrientation": "U"
+        },
+        {
+            "range": [
+                "1B132"
+            ],
+            "verticalOrientation": "U"
+        },
+        {
+            "range": [
+                "1B133",
                 "1B14F"
             ],
             "verticalOrientation": "U"
@@ -13643,6 +13789,19 @@
         {
             "range": [
                 "1B153",
+                "1B154"
+            ],
+            "verticalOrientation": "U"
+        },
+        {
+            "range": [
+                "1B155"
+            ],
+            "verticalOrientation": "U"
+        },
+        {
+            "range": [
+                "1B156",
                 "1B163"
             ],
             "verticalOrientation": "U"
@@ -13907,6 +14066,13 @@
         {
             "range": [
                 "1D245"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "1D2C0",
+                "1D2D3"
             ],
             "verticalOrientation": "R"
         },
@@ -14343,6 +14509,13 @@
         },
         {
             "range": [
+                "1DF25",
+                "1DF2A"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
                 "1E000",
                 "1E006"
             ],
@@ -14373,6 +14546,19 @@
             "range": [
                 "1E026",
                 "1E02A"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "1E030",
+                "1E06D"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "1E08F"
             ],
             "verticalOrientation": "R"
         },
@@ -14453,6 +14639,33 @@
         {
             "range": [
                 "1E2FF"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "1E4D0",
+                "1E4EA"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "1E4EB"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "1E4EC",
+                "1E4EF"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "1E4F0",
+                "1E4F9"
             ],
             "verticalOrientation": "R"
         },
@@ -15045,13 +15258,13 @@
         {
             "range": [
                 "1F6D8",
-                "1F6DC"
+                "1F6DB"
             ],
             "verticalOrientation": "U"
         },
         {
             "range": [
-                "1F6DD",
+                "1F6DC",
                 "1F6EC"
             ],
             "verticalOrientation": "U"
@@ -15080,13 +15293,20 @@
         {
             "range": [
                 "1F700",
-                "1F773"
+                "1F776"
             ],
             "verticalOrientation": "U"
         },
         {
             "range": [
-                "1F774",
+                "1F777",
+                "1F77A"
+            ],
+            "verticalOrientation": "U"
+        },
+        {
+            "range": [
+                "1F77B",
                 "1F77F"
             ],
             "verticalOrientation": "U"
@@ -15094,13 +15314,13 @@
         {
             "range": [
                 "1F780",
-                "1F7D8"
+                "1F7D9"
             ],
             "verticalOrientation": "U"
         },
         {
             "range": [
-                "1F7D9",
+                "1F7DA",
                 "1F7DF"
             ],
             "verticalOrientation": "U"
@@ -15212,20 +15432,6 @@
         {
             "range": [
                 "1FA70",
-                "1FA74"
-            ],
-            "verticalOrientation": "U"
-        },
-        {
-            "range": [
-                "1FA75",
-                "1FA77"
-            ],
-            "verticalOrientation": "U"
-        },
-        {
-            "range": [
-                "1FA78",
                 "1FA7C"
             ],
             "verticalOrientation": "U"
@@ -15240,13 +15446,13 @@
         {
             "range": [
                 "1FA80",
-                "1FA86"
+                "1FA88"
             ],
             "verticalOrientation": "U"
         },
         {
             "range": [
-                "1FA87",
+                "1FA89",
                 "1FA8F"
             ],
             "verticalOrientation": "U"
@@ -15254,34 +15460,19 @@
         {
             "range": [
                 "1FA90",
-                "1FAAC"
+                "1FABD"
             ],
             "verticalOrientation": "U"
         },
         {
             "range": [
-                "1FAAD",
-                "1FAAF"
+                "1FABE"
             ],
             "verticalOrientation": "U"
         },
         {
             "range": [
-                "1FAB0",
-                "1FABA"
-            ],
-            "verticalOrientation": "U"
-        },
-        {
-            "range": [
-                "1FABB",
-                "1FABF"
-            ],
-            "verticalOrientation": "U"
-        },
-        {
-            "range": [
-                "1FAC0",
+                "1FABF",
                 "1FAC5"
             ],
             "verticalOrientation": "U"
@@ -15289,20 +15480,20 @@
         {
             "range": [
                 "1FAC6",
-                "1FACF"
+                "1FACD"
             ],
             "verticalOrientation": "U"
         },
         {
             "range": [
-                "1FAD0",
-                "1FAD9"
+                "1FACE",
+                "1FADB"
             ],
             "verticalOrientation": "U"
         },
         {
             "range": [
-                "1FADA",
+                "1FADC",
                 "1FADF"
             ],
             "verticalOrientation": "U"
@@ -15310,13 +15501,13 @@
         {
             "range": [
                 "1FAE0",
-                "1FAE7"
+                "1FAE8"
             ],
             "verticalOrientation": "U"
         },
         {
             "range": [
-                "1FAE8",
+                "1FAE9",
                 "1FAEF"
             ],
             "verticalOrientation": "U"
@@ -15324,13 +15515,13 @@
         {
             "range": [
                 "1FAF0",
-                "1FAF6"
+                "1FAF8"
             ],
             "verticalOrientation": "U"
         },
         {
             "range": [
-                "1FAF7",
+                "1FAF9",
                 "1FAFF"
             ],
             "verticalOrientation": "U"
@@ -15373,13 +15564,13 @@
         {
             "range": [
                 "2A700",
-                "2B738"
+                "2B739"
             ],
             "verticalOrientation": "U"
         },
         {
             "range": [
-                "2B739",
+                "2B73A",
                 "2B73F"
             ],
             "verticalOrientation": "U"
@@ -15457,6 +15648,13 @@
         {
             "range": [
                 "31350",
+                "323AF"
+            ],
+            "verticalOrientation": "U"
+        },
+        {
+            "range": [
+                "323B0",
                 "3FFFD"
             ],
             "verticalOrientation": "U"

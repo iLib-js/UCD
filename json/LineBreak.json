@@ -2809,6 +2809,12 @@
         },
         {
             "range": [
+                "0CF3"
+            ],
+            "lineBreakProperty": "CM"
+        },
+        {
+            "range": [
                 "0D00",
                 "0D01"
             ],
@@ -3217,7 +3223,7 @@
         {
             "range": [
                 "0EC8",
-                "0ECD"
+                "0ECE"
             ],
             "lineBreakProperty": "SA"
         },
@@ -5305,6 +5311,32 @@
         {
             "range": [
                 "1DC0",
+                "1DCC"
+            ],
+            "lineBreakProperty": "CM"
+        },
+        {
+            "range": [
+                "1DCD"
+            ],
+            "lineBreakProperty": "GL"
+        },
+        {
+            "range": [
+                "1DCE",
+                "1DFB"
+            ],
+            "lineBreakProperty": "CM"
+        },
+        {
+            "range": [
+                "1DFC"
+            ],
+            "lineBreakProperty": "GL"
+        },
+        {
+            "range": [
+                "1DFD",
                 "1DFF"
             ],
             "lineBreakProperty": "CM"
@@ -5798,7 +5830,7 @@
             "range": [
                 "2057"
             ],
-            "lineBreakProperty": "AL"
+            "lineBreakProperty": "PO"
         },
         {
             "range": [
@@ -17955,6 +17987,13 @@
         },
         {
             "range": [
+                "10EFD",
+                "10EFF"
+            ],
+            "lineBreakProperty": "CM"
+        },
+        {
+            "range": [
                 "10F00",
                 "10F1C"
             ],
@@ -18541,6 +18580,19 @@
         {
             "range": [
                 "1123E"
+            ],
+            "lineBreakProperty": "CM"
+        },
+        {
+            "range": [
+                "1123F",
+                "11240"
+            ],
+            "lineBreakProperty": "AL"
+        },
+        {
+            "range": [
+                "11241"
             ],
             "lineBreakProperty": "CM"
         },
@@ -19698,6 +19750,13 @@
         },
         {
             "range": [
+                "11B00",
+                "11B09"
+            ],
+            "lineBreakProperty": "BB"
+        },
+        {
+            "range": [
                 "11C00",
                 "11C08"
             ],
@@ -20004,6 +20063,99 @@
         },
         {
             "range": [
+                "11F00",
+                "11F01"
+            ],
+            "lineBreakProperty": "CM"
+        },
+        {
+            "range": [
+                "11F02"
+            ],
+            "lineBreakProperty": "AL"
+        },
+        {
+            "range": [
+                "11F03"
+            ],
+            "lineBreakProperty": "CM"
+        },
+        {
+            "range": [
+                "11F04",
+                "11F10"
+            ],
+            "lineBreakProperty": "AL"
+        },
+        {
+            "range": [
+                "11F12",
+                "11F33"
+            ],
+            "lineBreakProperty": "AL"
+        },
+        {
+            "range": [
+                "11F34",
+                "11F35"
+            ],
+            "lineBreakProperty": "CM"
+        },
+        {
+            "range": [
+                "11F36",
+                "11F3A"
+            ],
+            "lineBreakProperty": "CM"
+        },
+        {
+            "range": [
+                "11F3E",
+                "11F3F"
+            ],
+            "lineBreakProperty": "CM"
+        },
+        {
+            "range": [
+                "11F40"
+            ],
+            "lineBreakProperty": "CM"
+        },
+        {
+            "range": [
+                "11F41"
+            ],
+            "lineBreakProperty": "CM"
+        },
+        {
+            "range": [
+                "11F42"
+            ],
+            "lineBreakProperty": "CM"
+        },
+        {
+            "range": [
+                "11F43",
+                "11F44"
+            ],
+            "lineBreakProperty": "BA"
+        },
+        {
+            "range": [
+                "11F45",
+                "11F4F"
+            ],
+            "lineBreakProperty": "ID"
+        },
+        {
+            "range": [
+                "11F50",
+                "11F59"
+            ],
+            "lineBreakProperty": "NU"
+        },
+        {
+            "range": [
                 "11FB0"
             ],
             "lineBreakProperty": "AL"
@@ -20172,7 +20324,7 @@
         {
             "range": [
                 "1337C",
-                "1342E"
+                "1342F"
             ],
             "lineBreakProperty": "AL"
         },
@@ -20194,6 +20346,57 @@
                 "13438"
             ],
             "lineBreakProperty": "CL"
+        },
+        {
+            "range": [
+                "13439",
+                "1343B"
+            ],
+            "lineBreakProperty": "GL"
+        },
+        {
+            "range": [
+                "1343C"
+            ],
+            "lineBreakProperty": "OP"
+        },
+        {
+            "range": [
+                "1343D"
+            ],
+            "lineBreakProperty": "CL"
+        },
+        {
+            "range": [
+                "1343E"
+            ],
+            "lineBreakProperty": "OP"
+        },
+        {
+            "range": [
+                "1343F"
+            ],
+            "lineBreakProperty": "CL"
+        },
+        {
+            "range": [
+                "13440"
+            ],
+            "lineBreakProperty": "CM"
+        },
+        {
+            "range": [
+                "13441",
+                "13446"
+            ],
+            "lineBreakProperty": "AL"
+        },
+        {
+            "range": [
+                "13447",
+                "13455"
+            ],
+            "lineBreakProperty": "CM"
         },
         {
             "range": [
@@ -20530,8 +20733,20 @@
         },
         {
             "range": [
+                "1B132"
+            ],
+            "lineBreakProperty": "CJ"
+        },
+        {
+            "range": [
                 "1B150",
                 "1B152"
+            ],
+            "lineBreakProperty": "CJ"
+        },
+        {
+            "range": [
+                "1B155"
             ],
             "lineBreakProperty": "CJ"
         },
@@ -20739,6 +20954,13 @@
         {
             "range": [
                 "1D245"
+            ],
+            "lineBreakProperty": "AL"
+        },
+        {
+            "range": [
+                "1D2C0",
+                "1D2D3"
             ],
             "lineBreakProperty": "AL"
         },
@@ -21147,6 +21369,13 @@
         },
         {
             "range": [
+                "1DF25",
+                "1DF2A"
+            ],
+            "lineBreakProperty": "AL"
+        },
+        {
+            "range": [
                 "1E000",
                 "1E006"
             ],
@@ -21177,6 +21406,19 @@
             "range": [
                 "1E026",
                 "1E02A"
+            ],
+            "lineBreakProperty": "CM"
+        },
+        {
+            "range": [
+                "1E030",
+                "1E06D"
+            ],
+            "lineBreakProperty": "AL"
+        },
+        {
+            "range": [
+                "1E08F"
             ],
             "lineBreakProperty": "CM"
         },
@@ -21259,6 +21501,33 @@
                 "1E2FF"
             ],
             "lineBreakProperty": "PR"
+        },
+        {
+            "range": [
+                "1E4D0",
+                "1E4EA"
+            ],
+            "lineBreakProperty": "AL"
+        },
+        {
+            "range": [
+                "1E4EB"
+            ],
+            "lineBreakProperty": "AL"
+        },
+        {
+            "range": [
+                "1E4EC",
+                "1E4EF"
+            ],
+            "lineBreakProperty": "CM"
+        },
+        {
+            "range": [
+                "1E4F0",
+                "1E4F9"
+            ],
+            "lineBreakProperty": "NU"
         },
         {
             "range": [
@@ -22388,13 +22657,13 @@
         {
             "range": [
                 "1F6D8",
-                "1F6DC"
+                "1F6DB"
             ],
             "lineBreakProperty": "ID"
         },
         {
             "range": [
-                "1F6DD",
+                "1F6DC",
                 "1F6EC"
             ],
             "lineBreakProperty": "ID"
@@ -22430,6 +22699,20 @@
         {
             "range": [
                 "1F774",
+                "1F776"
+            ],
+            "lineBreakProperty": "ID"
+        },
+        {
+            "range": [
+                "1F777",
+                "1F77A"
+            ],
+            "lineBreakProperty": "ID"
+        },
+        {
+            "range": [
+                "1F77B",
                 "1F77F"
             ],
             "lineBreakProperty": "ID"
@@ -22444,13 +22727,13 @@
         {
             "range": [
                 "1F7D5",
-                "1F7D8"
+                "1F7D9"
             ],
             "lineBreakProperty": "ID"
         },
         {
             "range": [
-                "1F7D9",
+                "1F7DA",
                 "1F7DF"
             ],
             "lineBreakProperty": "ID"
@@ -22764,20 +23047,6 @@
         {
             "range": [
                 "1FA70",
-                "1FA74"
-            ],
-            "lineBreakProperty": "ID"
-        },
-        {
-            "range": [
-                "1FA75",
-                "1FA77"
-            ],
-            "lineBreakProperty": "ID"
-        },
-        {
-            "range": [
-                "1FA78",
                 "1FA7C"
             ],
             "lineBreakProperty": "ID"
@@ -22792,13 +23061,13 @@
         {
             "range": [
                 "1FA80",
-                "1FA86"
+                "1FA88"
             ],
             "lineBreakProperty": "ID"
         },
         {
             "range": [
-                "1FA87",
+                "1FA89",
                 "1FA8F"
             ],
             "lineBreakProperty": "ID"
@@ -22806,34 +23075,19 @@
         {
             "range": [
                 "1FA90",
-                "1FAAC"
+                "1FABD"
             ],
             "lineBreakProperty": "ID"
         },
         {
             "range": [
-                "1FAAD",
-                "1FAAF"
+                "1FABE"
             ],
             "lineBreakProperty": "ID"
         },
         {
             "range": [
-                "1FAB0",
-                "1FABA"
-            ],
-            "lineBreakProperty": "ID"
-        },
-        {
-            "range": [
-                "1FABB",
-                "1FABF"
-            ],
-            "lineBreakProperty": "ID"
-        },
-        {
-            "range": [
-                "1FAC0",
+                "1FABF",
                 "1FAC2"
             ],
             "lineBreakProperty": "ID"
@@ -22848,20 +23102,20 @@
         {
             "range": [
                 "1FAC6",
-                "1FACF"
+                "1FACD"
             ],
             "lineBreakProperty": "ID"
         },
         {
             "range": [
-                "1FAD0",
-                "1FAD9"
+                "1FACE",
+                "1FADB"
             ],
             "lineBreakProperty": "ID"
         },
         {
             "range": [
-                "1FADA",
+                "1FADC",
                 "1FADF"
             ],
             "lineBreakProperty": "ID"
@@ -22869,13 +23123,13 @@
         {
             "range": [
                 "1FAE0",
-                "1FAE7"
+                "1FAE8"
             ],
             "lineBreakProperty": "ID"
         },
         {
             "range": [
-                "1FAE8",
+                "1FAE9",
                 "1FAEF"
             ],
             "lineBreakProperty": "ID"
@@ -22883,13 +23137,13 @@
         {
             "range": [
                 "1FAF0",
-                "1FAF6"
+                "1FAF8"
             ],
             "lineBreakProperty": "EB"
         },
         {
             "range": [
-                "1FAF7",
+                "1FAF9",
                 "1FAFF"
             ],
             "lineBreakProperty": "ID"
@@ -22939,13 +23193,13 @@
         {
             "range": [
                 "2A700",
-                "2B738"
+                "2B739"
             ],
             "lineBreakProperty": "ID"
         },
         {
             "range": [
-                "2B739",
+                "2B73A",
                 "2B73F"
             ],
             "lineBreakProperty": "ID"
@@ -23023,6 +23277,20 @@
         {
             "range": [
                 "3134B",
+                "3134F"
+            ],
+            "lineBreakProperty": "ID"
+        },
+        {
+            "range": [
+                "31350",
+                "323AF"
+            ],
+            "lineBreakProperty": "ID"
+        },
+        {
+            "range": [
+                "323B0",
                 "3FFFD"
             ],
             "lineBreakProperty": "ID"
