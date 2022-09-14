@@ -1,0 +1,644 @@
+{
+    "BidiBrackets": [
+        {
+            "codepoint": "0028",
+            "bracket": "0029",
+            "type": "o"
+        },
+        {
+            "codepoint": "0029",
+            "bracket": "0028",
+            "type": "c"
+        },
+        {
+            "codepoint": "005B",
+            "bracket": "005D",
+            "type": "o"
+        },
+        {
+            "codepoint": "005D",
+            "bracket": "005B",
+            "type": "c"
+        },
+        {
+            "codepoint": "007B",
+            "bracket": "007D",
+            "type": "o"
+        },
+        {
+            "codepoint": "007D",
+            "bracket": "007B",
+            "type": "c"
+        },
+        {
+            "codepoint": "0F3A",
+            "bracket": "0F3B",
+            "type": "o"
+        },
+        {
+            "codepoint": "0F3B",
+            "bracket": "0F3A",
+            "type": "c"
+        },
+        {
+            "codepoint": "0F3C",
+            "bracket": "0F3D",
+            "type": "o"
+        },
+        {
+            "codepoint": "0F3D",
+            "bracket": "0F3C",
+            "type": "c"
+        },
+        {
+            "codepoint": "169B",
+            "bracket": "169C",
+            "type": "o"
+        },
+        {
+            "codepoint": "169C",
+            "bracket": "169B",
+            "type": "c"
+        },
+        {
+            "codepoint": "2045",
+            "bracket": "2046",
+            "type": "o"
+        },
+        {
+            "codepoint": "2046",
+            "bracket": "2045",
+            "type": "c"
+        },
+        {
+            "codepoint": "207D",
+            "bracket": "207E",
+            "type": "o"
+        },
+        {
+            "codepoint": "207E",
+            "bracket": "207D",
+            "type": "c"
+        },
+        {
+            "codepoint": "208D",
+            "bracket": "208E",
+            "type": "o"
+        },
+        {
+            "codepoint": "208E",
+            "bracket": "208D",
+            "type": "c"
+        },
+        {
+            "codepoint": "2308",
+            "bracket": "2309",
+            "type": "o"
+        },
+        {
+            "codepoint": "2309",
+            "bracket": "2308",
+            "type": "c"
+        },
+        {
+            "codepoint": "230A",
+            "bracket": "230B",
+            "type": "o"
+        },
+        {
+            "codepoint": "230B",
+            "bracket": "230A",
+            "type": "c"
+        },
+        {
+            "codepoint": "2329",
+            "bracket": "232A",
+            "type": "o"
+        },
+        {
+            "codepoint": "232A",
+            "bracket": "2329",
+            "type": "c"
+        },
+        {
+            "codepoint": "2768",
+            "bracket": "2769",
+            "type": "o"
+        },
+        {
+            "codepoint": "2769",
+            "bracket": "2768",
+            "type": "c"
+        },
+        {
+            "codepoint": "276A",
+            "bracket": "276B",
+            "type": "o"
+        },
+        {
+            "codepoint": "276B",
+            "bracket": "276A",
+            "type": "c"
+        },
+        {
+            "codepoint": "276C",
+            "bracket": "276D",
+            "type": "o"
+        },
+        {
+            "codepoint": "276D",
+            "bracket": "276C",
+            "type": "c"
+        },
+        {
+            "codepoint": "276E",
+            "bracket": "276F",
+            "type": "o"
+        },
+        {
+            "codepoint": "276F",
+            "bracket": "276E",
+            "type": "c"
+        },
+        {
+            "codepoint": "2770",
+            "bracket": "2771",
+            "type": "o"
+        },
+        {
+            "codepoint": "2771",
+            "bracket": "2770",
+            "type": "c"
+        },
+        {
+            "codepoint": "2772",
+            "bracket": "2773",
+            "type": "o"
+        },
+        {
+            "codepoint": "2773",
+            "bracket": "2772",
+            "type": "c"
+        },
+        {
+            "codepoint": "2774",
+            "bracket": "2775",
+            "type": "o"
+        },
+        {
+            "codepoint": "2775",
+            "bracket": "2774",
+            "type": "c"
+        },
+        {
+            "codepoint": "27C5",
+            "bracket": "27C6",
+            "type": "o"
+        },
+        {
+            "codepoint": "27C6",
+            "bracket": "27C5",
+            "type": "c"
+        },
+        {
+            "codepoint": "27E6",
+            "bracket": "27E7",
+            "type": "o"
+        },
+        {
+            "codepoint": "27E7",
+            "bracket": "27E6",
+            "type": "c"
+        },
+        {
+            "codepoint": "27E8",
+            "bracket": "27E9",
+            "type": "o"
+        },
+        {
+            "codepoint": "27E9",
+            "bracket": "27E8",
+            "type": "c"
+        },
+        {
+            "codepoint": "27EA",
+            "bracket": "27EB",
+            "type": "o"
+        },
+        {
+            "codepoint": "27EB",
+            "bracket": "27EA",
+            "type": "c"
+        },
+        {
+            "codepoint": "27EC",
+            "bracket": "27ED",
+            "type": "o"
+        },
+        {
+            "codepoint": "27ED",
+            "bracket": "27EC",
+            "type": "c"
+        },
+        {
+            "codepoint": "27EE",
+            "bracket": "27EF",
+            "type": "o"
+        },
+        {
+            "codepoint": "27EF",
+            "bracket": "27EE",
+            "type": "c"
+        },
+        {
+            "codepoint": "2983",
+            "bracket": "2984",
+            "type": "o"
+        },
+        {
+            "codepoint": "2984",
+            "bracket": "2983",
+            "type": "c"
+        },
+        {
+            "codepoint": "2985",
+            "bracket": "2986",
+            "type": "o"
+        },
+        {
+            "codepoint": "2986",
+            "bracket": "2985",
+            "type": "c"
+        },
+        {
+            "codepoint": "2987",
+            "bracket": "2988",
+            "type": "o"
+        },
+        {
+            "codepoint": "2988",
+            "bracket": "2987",
+            "type": "c"
+        },
+        {
+            "codepoint": "2989",
+            "bracket": "298A",
+            "type": "o"
+        },
+        {
+            "codepoint": "298A",
+            "bracket": "2989",
+            "type": "c"
+        },
+        {
+            "codepoint": "298B",
+            "bracket": "298C",
+            "type": "o"
+        },
+        {
+            "codepoint": "298C",
+            "bracket": "298B",
+            "type": "c"
+        },
+        {
+            "codepoint": "298D",
+            "bracket": "2990",
+            "type": "o"
+        },
+        {
+            "codepoint": "298E",
+            "bracket": "298F",
+            "type": "c"
+        },
+        {
+            "codepoint": "298F",
+            "bracket": "298E",
+            "type": "o"
+        },
+        {
+            "codepoint": "2990",
+            "bracket": "298D",
+            "type": "c"
+        },
+        {
+            "codepoint": "2991",
+            "bracket": "2992",
+            "type": "o"
+        },
+        {
+            "codepoint": "2992",
+            "bracket": "2991",
+            "type": "c"
+        },
+        {
+            "codepoint": "2993",
+            "bracket": "2994",
+            "type": "o"
+        },
+        {
+            "codepoint": "2994",
+            "bracket": "2993",
+            "type": "c"
+        },
+        {
+            "codepoint": "2995",
+            "bracket": "2996",
+            "type": "o"
+        },
+        {
+            "codepoint": "2996",
+            "bracket": "2995",
+            "type": "c"
+        },
+        {
+            "codepoint": "2997",
+            "bracket": "2998",
+            "type": "o"
+        },
+        {
+            "codepoint": "2998",
+            "bracket": "2997",
+            "type": "c"
+        },
+        {
+            "codepoint": "29D8",
+            "bracket": "29D9",
+            "type": "o"
+        },
+        {
+            "codepoint": "29D9",
+            "bracket": "29D8",
+            "type": "c"
+        },
+        {
+            "codepoint": "29DA",
+            "bracket": "29DB",
+            "type": "o"
+        },
+        {
+            "codepoint": "29DB",
+            "bracket": "29DA",
+            "type": "c"
+        },
+        {
+            "codepoint": "29FC",
+            "bracket": "29FD",
+            "type": "o"
+        },
+        {
+            "codepoint": "29FD",
+            "bracket": "29FC",
+            "type": "c"
+        },
+        {
+            "codepoint": "2E22",
+            "bracket": "2E23",
+            "type": "o"
+        },
+        {
+            "codepoint": "2E23",
+            "bracket": "2E22",
+            "type": "c"
+        },
+        {
+            "codepoint": "2E24",
+            "bracket": "2E25",
+            "type": "o"
+        },
+        {
+            "codepoint": "2E25",
+            "bracket": "2E24",
+            "type": "c"
+        },
+        {
+            "codepoint": "2E26",
+            "bracket": "2E27",
+            "type": "o"
+        },
+        {
+            "codepoint": "2E27",
+            "bracket": "2E26",
+            "type": "c"
+        },
+        {
+            "codepoint": "2E28",
+            "bracket": "2E29",
+            "type": "o"
+        },
+        {
+            "codepoint": "2E29",
+            "bracket": "2E28",
+            "type": "c"
+        },
+        {
+            "codepoint": "2E55",
+            "bracket": "2E56",
+            "type": "o"
+        },
+        {
+            "codepoint": "2E56",
+            "bracket": "2E55",
+            "type": "c"
+        },
+        {
+            "codepoint": "2E57",
+            "bracket": "2E58",
+            "type": "o"
+        },
+        {
+            "codepoint": "2E58",
+            "bracket": "2E57",
+            "type": "c"
+        },
+        {
+            "codepoint": "2E59",
+            "bracket": "2E5A",
+            "type": "o"
+        },
+        {
+            "codepoint": "2E5A",
+            "bracket": "2E59",
+            "type": "c"
+        },
+        {
+            "codepoint": "2E5B",
+            "bracket": "2E5C",
+            "type": "o"
+        },
+        {
+            "codepoint": "2E5C",
+            "bracket": "2E5B",
+            "type": "c"
+        },
+        {
+            "codepoint": "3008",
+            "bracket": "3009",
+            "type": "o"
+        },
+        {
+            "codepoint": "3009",
+            "bracket": "3008",
+            "type": "c"
+        },
+        {
+            "codepoint": "300A",
+            "bracket": "300B",
+            "type": "o"
+        },
+        {
+            "codepoint": "300B",
+            "bracket": "300A",
+            "type": "c"
+        },
+        {
+            "codepoint": "300C",
+            "bracket": "300D",
+            "type": "o"
+        },
+        {
+            "codepoint": "300D",
+            "bracket": "300C",
+            "type": "c"
+        },
+        {
+            "codepoint": "300E",
+            "bracket": "300F",
+            "type": "o"
+        },
+        {
+            "codepoint": "300F",
+            "bracket": "300E",
+            "type": "c"
+        },
+        {
+            "codepoint": "3010",
+            "bracket": "3011",
+            "type": "o"
+        },
+        {
+            "codepoint": "3011",
+            "bracket": "3010",
+            "type": "c"
+        },
+        {
+            "codepoint": "3014",
+            "bracket": "3015",
+            "type": "o"
+        },
+        {
+            "codepoint": "3015",
+            "bracket": "3014",
+            "type": "c"
+        },
+        {
+            "codepoint": "3016",
+            "bracket": "3017",
+            "type": "o"
+        },
+        {
+            "codepoint": "3017",
+            "bracket": "3016",
+            "type": "c"
+        },
+        {
+            "codepoint": "3018",
+            "bracket": "3019",
+            "type": "o"
+        },
+        {
+            "codepoint": "3019",
+            "bracket": "3018",
+            "type": "c"
+        },
+        {
+            "codepoint": "301A",
+            "bracket": "301B",
+            "type": "o"
+        },
+        {
+            "codepoint": "301B",
+            "bracket": "301A",
+            "type": "c"
+        },
+        {
+            "codepoint": "FE59",
+            "bracket": "FE5A",
+            "type": "o"
+        },
+        {
+            "codepoint": "FE5A",
+            "bracket": "FE59",
+            "type": "c"
+        },
+        {
+            "codepoint": "FE5B",
+            "bracket": "FE5C",
+            "type": "o"
+        },
+        {
+            "codepoint": "FE5C",
+            "bracket": "FE5B",
+            "type": "c"
+        },
+        {
+            "codepoint": "FE5D",
+            "bracket": "FE5E",
+            "type": "o"
+        },
+        {
+            "codepoint": "FE5E",
+            "bracket": "FE5D",
+            "type": "c"
+        },
+        {
+            "codepoint": "FF08",
+            "bracket": "FF09",
+            "type": "o"
+        },
+        {
+            "codepoint": "FF09",
+            "bracket": "FF08",
+            "type": "c"
+        },
+        {
+            "codepoint": "FF3B",
+            "bracket": "FF3D",
+            "type": "o"
+        },
+        {
+            "codepoint": "FF3D",
+            "bracket": "FF3B",
+            "type": "c"
+        },
+        {
+            "codepoint": "FF5B",
+            "bracket": "FF5D",
+            "type": "o"
+        },
+        {
+            "codepoint": "FF5D",
+            "bracket": "FF5B",
+            "type": "c"
+        },
+        {
+            "codepoint": "FF5F",
+            "bracket": "FF60",
+            "type": "o"
+        },
+        {
+            "codepoint": "FF60",
+            "bracket": "FF5F",
+            "type": "c"
+        },
+        {
+            "codepoint": "FF62",
+            "bracket": "FF63",
+            "type": "o"
+        },
+        {
+            "codepoint": "FF63",
+            "bracket": "FF62",
+            "type": "c"
+        }
+    ]
+}

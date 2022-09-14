@@ -1,0 +1,40 @@
+{
+    "NormalizationCorrections": [
+        {
+            "codepoint": "F951",
+            "original": "96FB",
+            "corrected": "964B",
+            "unicodeVersion": "3.2.0"
+        },
+        {
+            "codepoint": "2F868",
+            "original": "2136A",
+            "corrected": "36FC",
+            "unicodeVersion": "4.0.0"
+        },
+        {
+            "codepoint": "2F874",
+            "original": "5F33",
+            "corrected": "5F53",
+            "unicodeVersion": "4.0.0"
+        },
+        {
+            "codepoint": "2F91F",
+            "original": "43AB",
+            "corrected": "243AB",
+            "unicodeVersion": "4.0.0"
+        },
+        {
+            "codepoint": "2F95F",
+            "original": "7AAE",
+            "corrected": "7AEE",
+            "unicodeVersion": "4.0.0"
+        },
+        {
+            "codepoint": "2F9BF",
+            "original": "4D57",
+            "corrected": "45D7",
+            "unicodeVersion": "4.0.0"
+        }
+    ]
+}

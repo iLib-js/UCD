@@ -1,0 +1,524 @@
+{
+    "PropertyAliases": [
+        {
+            "shortName": "cjkAccountingNumeric",
+            "longName": "kAccountingNumeric"
+        },
+        {
+            "shortName": "cjkOtherNumeric",
+            "longName": "kOtherNumeric"
+        },
+        {
+            "shortName": "cjkPrimaryNumeric",
+            "longName": "kPrimaryNumeric"
+        },
+        {
+            "shortName": "nv",
+            "longName": "Numeric_Value"
+        },
+        {
+            "shortName": "cf",
+            "longName": "Case_Folding"
+        },
+        {
+            "shortName": "cjkCompatibilityVariant",
+            "longName": "kCompatibilityVariant"
+        },
+        {
+            "shortName": "dm",
+            "longName": "Decomposition_Mapping"
+        },
+        {
+            "shortName": "FC_NFKC",
+            "longName": "FC_NFKC_Closure"
+        },
+        {
+            "shortName": "lc",
+            "longName": "Lowercase_Mapping"
+        },
+        {
+            "shortName": "NFKC_CF",
+            "longName": "NFKC_Casefold"
+        },
+        {
+            "shortName": "scf",
+            "longName": "Simple_Case_Folding",
+            "alternate": "sfc"
+        },
+        {
+            "shortName": "slc",
+            "longName": "Simple_Lowercase_Mapping"
+        },
+        {
+            "shortName": "stc",
+            "longName": "Simple_Titlecase_Mapping"
+        },
+        {
+            "shortName": "suc",
+            "longName": "Simple_Uppercase_Mapping"
+        },
+        {
+            "shortName": "tc",
+            "longName": "Titlecase_Mapping"
+        },
+        {
+            "shortName": "uc",
+            "longName": "Uppercase_Mapping"
+        },
+        {
+            "shortName": "bmg",
+            "longName": "Bidi_Mirroring_Glyph"
+        },
+        {
+            "shortName": "bpb",
+            "longName": "Bidi_Paired_Bracket"
+        },
+        {
+            "shortName": "cjkIICore",
+            "longName": "kIICore"
+        },
+        {
+            "shortName": "cjkIRG_GSource",
+            "longName": "kIRG_GSource"
+        },
+        {
+            "shortName": "cjkIRG_HSource",
+            "longName": "kIRG_HSource"
+        },
+        {
+            "shortName": "cjkIRG_JSource",
+            "longName": "kIRG_JSource"
+        },
+        {
+            "shortName": "cjkIRG_KPSource",
+            "longName": "kIRG_KPSource"
+        },
+        {
+            "shortName": "cjkIRG_KSource",
+            "longName": "kIRG_KSource"
+        },
+        {
+            "shortName": "cjkIRG_MSource",
+            "longName": "kIRG_MSource"
+        },
+        {
+            "shortName": "cjkIRG_SSource",
+            "longName": "kIRG_SSource"
+        },
+        {
+            "shortName": "cjkIRG_TSource",
+            "longName": "kIRG_TSource"
+        },
+        {
+            "shortName": "cjkIRG_UKSource",
+            "longName": "kIRG_UKSource"
+        },
+        {
+            "shortName": "cjkIRG_USource",
+            "longName": "kIRG_USource"
+        },
+        {
+            "shortName": "cjkIRG_VSource",
+            "longName": "kIRG_VSource"
+        },
+        {
+            "shortName": "cjkRSUnicode",
+            "longName": "kRSUnicode",
+            "alternate": "Unicode_Radical_Stroke",
+            "alternateShort": "URS"
+        },
+        {
+            "shortName": "EqUIdeo",
+            "longName": "Equivalent_Unified_Ideograph"
+        },
+        {
+            "shortName": "isc",
+            "longName": "ISO_Comment"
+        },
+        {
+            "shortName": "JSN",
+            "longName": "Jamo_Short_Name"
+        },
+        {
+            "shortName": "na",
+            "longName": "Name"
+        },
+        {
+            "shortName": "na1",
+            "longName": "Unicode_1_Name"
+        },
+        {
+            "shortName": "Name_Alias",
+            "longName": "Name_Alias"
+        },
+        {
+            "shortName": "scx",
+            "longName": "Script_Extensions"
+        },
+        {
+            "shortName": "age",
+            "longName": "Age"
+        },
+        {
+            "shortName": "blk",
+            "longName": "Block"
+        },
+        {
+            "shortName": "sc",
+            "longName": "Script"
+        },
+        {
+            "shortName": "bc",
+            "longName": "Bidi_Class"
+        },
+        {
+            "shortName": "bpt",
+            "longName": "Bidi_Paired_Bracket_Type"
+        },
+        {
+            "shortName": "ccc",
+            "longName": "Canonical_Combining_Class"
+        },
+        {
+            "shortName": "dt",
+            "longName": "Decomposition_Type"
+        },
+        {
+            "shortName": "ea",
+            "longName": "East_Asian_Width"
+        },
+        {
+            "shortName": "gc",
+            "longName": "General_Category"
+        },
+        {
+            "shortName": "GCB",
+            "longName": "Grapheme_Cluster_Break"
+        },
+        {
+            "shortName": "hst",
+            "longName": "Hangul_Syllable_Type"
+        },
+        {
+            "shortName": "InPC",
+            "longName": "Indic_Positional_Category"
+        },
+        {
+            "shortName": "InSC",
+            "longName": "Indic_Syllabic_Category"
+        },
+        {
+            "shortName": "jg",
+            "longName": "Joining_Group"
+        },
+        {
+            "shortName": "jt",
+            "longName": "Joining_Type"
+        },
+        {
+            "shortName": "lb",
+            "longName": "Line_Break"
+        },
+        {
+            "shortName": "NFC_QC",
+            "longName": "NFC_Quick_Check"
+        },
+        {
+            "shortName": "NFD_QC",
+            "longName": "NFD_Quick_Check"
+        },
+        {
+            "shortName": "NFKC_QC",
+            "longName": "NFKC_Quick_Check"
+        },
+        {
+            "shortName": "NFKD_QC",
+            "longName": "NFKD_Quick_Check"
+        },
+        {
+            "shortName": "nt",
+            "longName": "Numeric_Type"
+        },
+        {
+            "shortName": "SB",
+            "longName": "Sentence_Break"
+        },
+        {
+            "shortName": "vo",
+            "longName": "Vertical_Orientation"
+        },
+        {
+            "shortName": "WB",
+            "longName": "Word_Break"
+        },
+        {
+            "shortName": "AHex",
+            "longName": "ASCII_Hex_Digit"
+        },
+        {
+            "shortName": "Alpha",
+            "longName": "Alphabetic"
+        },
+        {
+            "shortName": "Bidi_C",
+            "longName": "Bidi_Control"
+        },
+        {
+            "shortName": "Bidi_M",
+            "longName": "Bidi_Mirrored"
+        },
+        {
+            "shortName": "Cased",
+            "longName": "Cased"
+        },
+        {
+            "shortName": "CE",
+            "longName": "Composition_Exclusion"
+        },
+        {
+            "shortName": "CI",
+            "longName": "Case_Ignorable"
+        },
+        {
+            "shortName": "Comp_Ex",
+            "longName": "Full_Composition_Exclusion"
+        },
+        {
+            "shortName": "CWCF",
+            "longName": "Changes_When_Casefolded"
+        },
+        {
+            "shortName": "CWCM",
+            "longName": "Changes_When_Casemapped"
+        },
+        {
+            "shortName": "CWKCF",
+            "longName": "Changes_When_NFKC_Casefolded"
+        },
+        {
+            "shortName": "CWL",
+            "longName": "Changes_When_Lowercased"
+        },
+        {
+            "shortName": "CWT",
+            "longName": "Changes_When_Titlecased"
+        },
+        {
+            "shortName": "CWU",
+            "longName": "Changes_When_Uppercased"
+        },
+        {
+            "shortName": "Dash",
+            "longName": "Dash"
+        },
+        {
+            "shortName": "Dep",
+            "longName": "Deprecated"
+        },
+        {
+            "shortName": "DI",
+            "longName": "Default_Ignorable_Code_Point"
+        },
+        {
+            "shortName": "Dia",
+            "longName": "Diacritic"
+        },
+        {
+            "shortName": "EBase",
+            "longName": "Emoji_Modifier_Base"
+        },
+        {
+            "shortName": "EComp",
+            "longName": "Emoji_Component"
+        },
+        {
+            "shortName": "EMod",
+            "longName": "Emoji_Modifier"
+        },
+        {
+            "shortName": "Emoji",
+            "longName": "Emoji"
+        },
+        {
+            "shortName": "EPres",
+            "longName": "Emoji_Presentation"
+        },
+        {
+            "shortName": "Ext",
+            "longName": "Extender"
+        },
+        {
+            "shortName": "ExtPict",
+            "longName": "Extended_Pictographic"
+        },
+        {
+            "shortName": "Gr_Base",
+            "longName": "Grapheme_Base"
+        },
+        {
+            "shortName": "Gr_Ext",
+            "longName": "Grapheme_Extend"
+        },
+        {
+            "shortName": "Gr_Link",
+            "longName": "Grapheme_Link"
+        },
+        {
+            "shortName": "Hex",
+            "longName": "Hex_Digit"
+        },
+        {
+            "shortName": "Hyphen",
+            "longName": "Hyphen"
+        },
+        {
+            "shortName": "IDC",
+            "longName": "ID_Continue"
+        },
+        {
+            "shortName": "Ideo",
+            "longName": "Ideographic"
+        },
+        {
+            "shortName": "IDS",
+            "longName": "ID_Start"
+        },
+        {
+            "shortName": "IDSB",
+            "longName": "IDS_Binary_Operator"
+        },
+        {
+            "shortName": "IDST",
+            "longName": "IDS_Trinary_Operator"
+        },
+        {
+            "shortName": "Join_C",
+            "longName": "Join_Control"
+        },
+        {
+            "shortName": "LOE",
+            "longName": "Logical_Order_Exception"
+        },
+        {
+            "shortName": "Lower",
+            "longName": "Lowercase"
+        },
+        {
+            "shortName": "Math",
+            "longName": "Math"
+        },
+        {
+            "shortName": "NChar",
+            "longName": "Noncharacter_Code_Point"
+        },
+        {
+            "shortName": "OAlpha",
+            "longName": "Other_Alphabetic"
+        },
+        {
+            "shortName": "ODI",
+            "longName": "Other_Default_Ignorable_Code_Point"
+        },
+        {
+            "shortName": "OGr_Ext",
+            "longName": "Other_Grapheme_Extend"
+        },
+        {
+            "shortName": "OIDC",
+            "longName": "Other_ID_Continue"
+        },
+        {
+            "shortName": "OIDS",
+            "longName": "Other_ID_Start"
+        },
+        {
+            "shortName": "OLower",
+            "longName": "Other_Lowercase"
+        },
+        {
+            "shortName": "OMath",
+            "longName": "Other_Math"
+        },
+        {
+            "shortName": "OUpper",
+            "longName": "Other_Uppercase"
+        },
+        {
+            "shortName": "Pat_Syn",
+            "longName": "Pattern_Syntax"
+        },
+        {
+            "shortName": "Pat_WS",
+            "longName": "Pattern_White_Space"
+        },
+        {
+            "shortName": "PCM",
+            "longName": "Prepended_Concatenation_Mark"
+        },
+        {
+            "shortName": "QMark",
+            "longName": "Quotation_Mark"
+        },
+        {
+            "shortName": "Radical",
+            "longName": "Radical"
+        },
+        {
+            "shortName": "RI",
+            "longName": "Regional_Indicator"
+        },
+        {
+            "shortName": "SD",
+            "longName": "Soft_Dotted"
+        },
+        {
+            "shortName": "STerm",
+            "longName": "Sentence_Terminal"
+        },
+        {
+            "shortName": "Term",
+            "longName": "Terminal_Punctuation"
+        },
+        {
+            "shortName": "UIdeo",
+            "longName": "Unified_Ideograph"
+        },
+        {
+            "shortName": "Upper",
+            "longName": "Uppercase"
+        },
+        {
+            "shortName": "VS",
+            "longName": "Variation_Selector"
+        },
+        {
+            "shortName": "WSpace",
+            "longName": "White_Space",
+            "alternate": "space"
+        },
+        {
+            "shortName": "XIDC",
+            "longName": "XID_Continue"
+        },
+        {
+            "shortName": "XIDS",
+            "longName": "XID_Start"
+        },
+        {
+            "shortName": "XO_NFC",
+            "longName": "Expands_On_NFC"
+        },
+        {
+            "shortName": "XO_NFD",
+            "longName": "Expands_On_NFD"
+        },
+        {
+            "shortName": "XO_NFKC",
+            "longName": "Expands_On_NFKC"
+        },
+        {
+            "shortName": "XO_NFKD",
+            "longName": "Expands_On_NFKD"
+        }
+    ]
+}

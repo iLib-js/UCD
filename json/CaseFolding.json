@@ -1,0 +1,7804 @@
+{
+    "CaseFolding": [
+        {
+            "codepoint": "0041",
+            "status": "C",
+            "mapping": "0061"
+        },
+        {
+            "codepoint": "0042",
+            "status": "C",
+            "mapping": "0062"
+        },
+        {
+            "codepoint": "0043",
+            "status": "C",
+            "mapping": "0063"
+        },
+        {
+            "codepoint": "0044",
+            "status": "C",
+            "mapping": "0064"
+        },
+        {
+            "codepoint": "0045",
+            "status": "C",
+            "mapping": "0065"
+        },
+        {
+            "codepoint": "0046",
+            "status": "C",
+            "mapping": "0066"
+        },
+        {
+            "codepoint": "0047",
+            "status": "C",
+            "mapping": "0067"
+        },
+        {
+            "codepoint": "0048",
+            "status": "C",
+            "mapping": "0068"
+        },
+        {
+            "codepoint": "0049",
+            "status": "C",
+            "mapping": "0069"
+        },
+        {
+            "codepoint": "0049",
+            "status": "T",
+            "mapping": "0131"
+        },
+        {
+            "codepoint": "004A",
+            "status": "C",
+            "mapping": "006A"
+        },
+        {
+            "codepoint": "004B",
+            "status": "C",
+            "mapping": "006B"
+        },
+        {
+            "codepoint": "004C",
+            "status": "C",
+            "mapping": "006C"
+        },
+        {
+            "codepoint": "004D",
+            "status": "C",
+            "mapping": "006D"
+        },
+        {
+            "codepoint": "004E",
+            "status": "C",
+            "mapping": "006E"
+        },
+        {
+            "codepoint": "004F",
+            "status": "C",
+            "mapping": "006F"
+        },
+        {
+            "codepoint": "0050",
+            "status": "C",
+            "mapping": "0070"
+        },
+        {
+            "codepoint": "0051",
+            "status": "C",
+            "mapping": "0071"
+        },
+        {
+            "codepoint": "0052",
+            "status": "C",
+            "mapping": "0072"
+        },
+        {
+            "codepoint": "0053",
+            "status": "C",
+            "mapping": "0073"
+        },
+        {
+            "codepoint": "0054",
+            "status": "C",
+            "mapping": "0074"
+        },
+        {
+            "codepoint": "0055",
+            "status": "C",
+            "mapping": "0075"
+        },
+        {
+            "codepoint": "0056",
+            "status": "C",
+            "mapping": "0076"
+        },
+        {
+            "codepoint": "0057",
+            "status": "C",
+            "mapping": "0077"
+        },
+        {
+            "codepoint": "0058",
+            "status": "C",
+            "mapping": "0078"
+        },
+        {
+            "codepoint": "0059",
+            "status": "C",
+            "mapping": "0079"
+        },
+        {
+            "codepoint": "005A",
+            "status": "C",
+            "mapping": "007A"
+        },
+        {
+            "codepoint": "00B5",
+            "status": "C",
+            "mapping": "03BC"
+        },
+        {
+            "codepoint": "00C0",
+            "status": "C",
+            "mapping": "00E0"
+        },
+        {
+            "codepoint": "00C1",
+            "status": "C",
+            "mapping": "00E1"
+        },
+        {
+            "codepoint": "00C2",
+            "status": "C",
+            "mapping": "00E2"
+        },
+        {
+            "codepoint": "00C3",
+            "status": "C",
+            "mapping": "00E3"
+        },
+        {
+            "codepoint": "00C4",
+            "status": "C",
+            "mapping": "00E4"
+        },
+        {
+            "codepoint": "00C5",
+            "status": "C",
+            "mapping": "00E5"
+        },
+        {
+            "codepoint": "00C6",
+            "status": "C",
+            "mapping": "00E6"
+        },
+        {
+            "codepoint": "00C7",
+            "status": "C",
+            "mapping": "00E7"
+        },
+        {
+            "codepoint": "00C8",
+            "status": "C",
+            "mapping": "00E8"
+        },
+        {
+            "codepoint": "00C9",
+            "status": "C",
+            "mapping": "00E9"
+        },
+        {
+            "codepoint": "00CA",
+            "status": "C",
+            "mapping": "00EA"
+        },
+        {
+            "codepoint": "00CB",
+            "status": "C",
+            "mapping": "00EB"
+        },
+        {
+            "codepoint": "00CC",
+            "status": "C",
+            "mapping": "00EC"
+        },
+        {
+            "codepoint": "00CD",
+            "status": "C",
+            "mapping": "00ED"
+        },
+        {
+            "codepoint": "00CE",
+            "status": "C",
+            "mapping": "00EE"
+        },
+        {
+            "codepoint": "00CF",
+            "status": "C",
+            "mapping": "00EF"
+        },
+        {
+            "codepoint": "00D0",
+            "status": "C",
+            "mapping": "00F0"
+        },
+        {
+            "codepoint": "00D1",
+            "status": "C",
+            "mapping": "00F1"
+        },
+        {
+            "codepoint": "00D2",
+            "status": "C",
+            "mapping": "00F2"
+        },
+        {
+            "codepoint": "00D3",
+            "status": "C",
+            "mapping": "00F3"
+        },
+        {
+            "codepoint": "00D4",
+            "status": "C",
+            "mapping": "00F4"
+        },
+        {
+            "codepoint": "00D5",
+            "status": "C",
+            "mapping": "00F5"
+        },
+        {
+            "codepoint": "00D6",
+            "status": "C",
+            "mapping": "00F6"
+        },
+        {
+            "codepoint": "00D8",
+            "status": "C",
+            "mapping": "00F8"
+        },
+        {
+            "codepoint": "00D9",
+            "status": "C",
+            "mapping": "00F9"
+        },
+        {
+            "codepoint": "00DA",
+            "status": "C",
+            "mapping": "00FA"
+        },
+        {
+            "codepoint": "00DB",
+            "status": "C",
+            "mapping": "00FB"
+        },
+        {
+            "codepoint": "00DC",
+            "status": "C",
+            "mapping": "00FC"
+        },
+        {
+            "codepoint": "00DD",
+            "status": "C",
+            "mapping": "00FD"
+        },
+        {
+            "codepoint": "00DE",
+            "status": "C",
+            "mapping": "00FE"
+        },
+        {
+            "codepoint": "00DF",
+            "status": "F",
+            "mapping": "0073 0073"
+        },
+        {
+            "codepoint": "0100",
+            "status": "C",
+            "mapping": "0101"
+        },
+        {
+            "codepoint": "0102",
+            "status": "C",
+            "mapping": "0103"
+        },
+        {
+            "codepoint": "0104",
+            "status": "C",
+            "mapping": "0105"
+        },
+        {
+            "codepoint": "0106",
+            "status": "C",
+            "mapping": "0107"
+        },
+        {
+            "codepoint": "0108",
+            "status": "C",
+            "mapping": "0109"
+        },
+        {
+            "codepoint": "010A",
+            "status": "C",
+            "mapping": "010B"
+        },
+        {
+            "codepoint": "010C",
+            "status": "C",
+            "mapping": "010D"
+        },
+        {
+            "codepoint": "010E",
+            "status": "C",
+            "mapping": "010F"
+        },
+        {
+            "codepoint": "0110",
+            "status": "C",
+            "mapping": "0111"
+        },
+        {
+            "codepoint": "0112",
+            "status": "C",
+            "mapping": "0113"
+        },
+        {
+            "codepoint": "0114",
+            "status": "C",
+            "mapping": "0115"
+        },
+        {
+            "codepoint": "0116",
+            "status": "C",
+            "mapping": "0117"
+        },
+        {
+            "codepoint": "0118",
+            "status": "C",
+            "mapping": "0119"
+        },
+        {
+            "codepoint": "011A",
+            "status": "C",
+            "mapping": "011B"
+        },
+        {
+            "codepoint": "011C",
+            "status": "C",
+            "mapping": "011D"
+        },
+        {
+            "codepoint": "011E",
+            "status": "C",
+            "mapping": "011F"
+        },
+        {
+            "codepoint": "0120",
+            "status": "C",
+            "mapping": "0121"
+        },
+        {
+            "codepoint": "0122",
+            "status": "C",
+            "mapping": "0123"
+        },
+        {
+            "codepoint": "0124",
+            "status": "C",
+            "mapping": "0125"
+        },
+        {
+            "codepoint": "0126",
+            "status": "C",
+            "mapping": "0127"
+        },
+        {
+            "codepoint": "0128",
+            "status": "C",
+            "mapping": "0129"
+        },
+        {
+            "codepoint": "012A",
+            "status": "C",
+            "mapping": "012B"
+        },
+        {
+            "codepoint": "012C",
+            "status": "C",
+            "mapping": "012D"
+        },
+        {
+            "codepoint": "012E",
+            "status": "C",
+            "mapping": "012F"
+        },
+        {
+            "codepoint": "0130",
+            "status": "F",
+            "mapping": "0069 0307"
+        },
+        {
+            "codepoint": "0130",
+            "status": "T",
+            "mapping": "0069"
+        },
+        {
+            "codepoint": "0132",
+            "status": "C",
+            "mapping": "0133"
+        },
+        {
+            "codepoint": "0134",
+            "status": "C",
+            "mapping": "0135"
+        },
+        {
+            "codepoint": "0136",
+            "status": "C",
+            "mapping": "0137"
+        },
+        {
+            "codepoint": "0139",
+            "status": "C",
+            "mapping": "013A"
+        },
+        {
+            "codepoint": "013B",
+            "status": "C",
+            "mapping": "013C"
+        },
+        {
+            "codepoint": "013D",
+            "status": "C",
+            "mapping": "013E"
+        },
+        {
+            "codepoint": "013F",
+            "status": "C",
+            "mapping": "0140"
+        },
+        {
+            "codepoint": "0141",
+            "status": "C",
+            "mapping": "0142"
+        },
+        {
+            "codepoint": "0143",
+            "status": "C",
+            "mapping": "0144"
+        },
+        {
+            "codepoint": "0145",
+            "status": "C",
+            "mapping": "0146"
+        },
+        {
+            "codepoint": "0147",
+            "status": "C",
+            "mapping": "0148"
+        },
+        {
+            "codepoint": "0149",
+            "status": "F",
+            "mapping": "02BC 006E"
+        },
+        {
+            "codepoint": "014A",
+            "status": "C",
+            "mapping": "014B"
+        },
+        {
+            "codepoint": "014C",
+            "status": "C",
+            "mapping": "014D"
+        },
+        {
+            "codepoint": "014E",
+            "status": "C",
+            "mapping": "014F"
+        },
+        {
+            "codepoint": "0150",
+            "status": "C",
+            "mapping": "0151"
+        },
+        {
+            "codepoint": "0152",
+            "status": "C",
+            "mapping": "0153"
+        },
+        {
+            "codepoint": "0154",
+            "status": "C",
+            "mapping": "0155"
+        },
+        {
+            "codepoint": "0156",
+            "status": "C",
+            "mapping": "0157"
+        },
+        {
+            "codepoint": "0158",
+            "status": "C",
+            "mapping": "0159"
+        },
+        {
+            "codepoint": "015A",
+            "status": "C",
+            "mapping": "015B"
+        },
+        {
+            "codepoint": "015C",
+            "status": "C",
+            "mapping": "015D"
+        },
+        {
+            "codepoint": "015E",
+            "status": "C",
+            "mapping": "015F"
+        },
+        {
+            "codepoint": "0160",
+            "status": "C",
+            "mapping": "0161"
+        },
+        {
+            "codepoint": "0162",
+            "status": "C",
+            "mapping": "0163"
+        },
+        {
+            "codepoint": "0164",
+            "status": "C",
+            "mapping": "0165"
+        },
+        {
+            "codepoint": "0166",
+            "status": "C",
+            "mapping": "0167"
+        },
+        {
+            "codepoint": "0168",
+            "status": "C",
+            "mapping": "0169"
+        },
+        {
+            "codepoint": "016A",
+            "status": "C",
+            "mapping": "016B"
+        },
+        {
+            "codepoint": "016C",
+            "status": "C",
+            "mapping": "016D"
+        },
+        {
+            "codepoint": "016E",
+            "status": "C",
+            "mapping": "016F"
+        },
+        {
+            "codepoint": "0170",
+            "status": "C",
+            "mapping": "0171"
+        },
+        {
+            "codepoint": "0172",
+            "status": "C",
+            "mapping": "0173"
+        },
+        {
+            "codepoint": "0174",
+            "status": "C",
+            "mapping": "0175"
+        },
+        {
+            "codepoint": "0176",
+            "status": "C",
+            "mapping": "0177"
+        },
+        {
+            "codepoint": "0178",
+            "status": "C",
+            "mapping": "00FF"
+        },
+        {
+            "codepoint": "0179",
+            "status": "C",
+            "mapping": "017A"
+        },
+        {
+            "codepoint": "017B",
+            "status": "C",
+            "mapping": "017C"
+        },
+        {
+            "codepoint": "017D",
+            "status": "C",
+            "mapping": "017E"
+        },
+        {
+            "codepoint": "017F",
+            "status": "C",
+            "mapping": "0073"
+        },
+        {
+            "codepoint": "0181",
+            "status": "C",
+            "mapping": "0253"
+        },
+        {
+            "codepoint": "0182",
+            "status": "C",
+            "mapping": "0183"
+        },
+        {
+            "codepoint": "0184",
+            "status": "C",
+            "mapping": "0185"
+        },
+        {
+            "codepoint": "0186",
+            "status": "C",
+            "mapping": "0254"
+        },
+        {
+            "codepoint": "0187",
+            "status": "C",
+            "mapping": "0188"
+        },
+        {
+            "codepoint": "0189",
+            "status": "C",
+            "mapping": "0256"
+        },
+        {
+            "codepoint": "018A",
+            "status": "C",
+            "mapping": "0257"
+        },
+        {
+            "codepoint": "018B",
+            "status": "C",
+            "mapping": "018C"
+        },
+        {
+            "codepoint": "018E",
+            "status": "C",
+            "mapping": "01DD"
+        },
+        {
+            "codepoint": "018F",
+            "status": "C",
+            "mapping": "0259"
+        },
+        {
+            "codepoint": "0190",
+            "status": "C",
+            "mapping": "025B"
+        },
+        {
+            "codepoint": "0191",
+            "status": "C",
+            "mapping": "0192"
+        },
+        {
+            "codepoint": "0193",
+            "status": "C",
+            "mapping": "0260"
+        },
+        {
+            "codepoint": "0194",
+            "status": "C",
+            "mapping": "0263"
+        },
+        {
+            "codepoint": "0196",
+            "status": "C",
+            "mapping": "0269"
+        },
+        {
+            "codepoint": "0197",
+            "status": "C",
+            "mapping": "0268"
+        },
+        {
+            "codepoint": "0198",
+            "status": "C",
+            "mapping": "0199"
+        },
+        {
+            "codepoint": "019C",
+            "status": "C",
+            "mapping": "026F"
+        },
+        {
+            "codepoint": "019D",
+            "status": "C",
+            "mapping": "0272"
+        },
+        {
+            "codepoint": "019F",
+            "status": "C",
+            "mapping": "0275"
+        },
+        {
+            "codepoint": "01A0",
+            "status": "C",
+            "mapping": "01A1"
+        },
+        {
+            "codepoint": "01A2",
+            "status": "C",
+            "mapping": "01A3"
+        },
+        {
+            "codepoint": "01A4",
+            "status": "C",
+            "mapping": "01A5"
+        },
+        {
+            "codepoint": "01A6",
+            "status": "C",
+            "mapping": "0280"
+        },
+        {
+            "codepoint": "01A7",
+            "status": "C",
+            "mapping": "01A8"
+        },
+        {
+            "codepoint": "01A9",
+            "status": "C",
+            "mapping": "0283"
+        },
+        {
+            "codepoint": "01AC",
+            "status": "C",
+            "mapping": "01AD"
+        },
+        {
+            "codepoint": "01AE",
+            "status": "C",
+            "mapping": "0288"
+        },
+        {
+            "codepoint": "01AF",
+            "status": "C",
+            "mapping": "01B0"
+        },
+        {
+            "codepoint": "01B1",
+            "status": "C",
+            "mapping": "028A"
+        },
+        {
+            "codepoint": "01B2",
+            "status": "C",
+            "mapping": "028B"
+        },
+        {
+            "codepoint": "01B3",
+            "status": "C",
+            "mapping": "01B4"
+        },
+        {
+            "codepoint": "01B5",
+            "status": "C",
+            "mapping": "01B6"
+        },
+        {
+            "codepoint": "01B7",
+            "status": "C",
+            "mapping": "0292"
+        },
+        {
+            "codepoint": "01B8",
+            "status": "C",
+            "mapping": "01B9"
+        },
+        {
+            "codepoint": "01BC",
+            "status": "C",
+            "mapping": "01BD"
+        },
+        {
+            "codepoint": "01C4",
+            "status": "C",
+            "mapping": "01C6"
+        },
+        {
+            "codepoint": "01C5",
+            "status": "C",
+            "mapping": "01C6"
+        },
+        {
+            "codepoint": "01C7",
+            "status": "C",
+            "mapping": "01C9"
+        },
+        {
+            "codepoint": "01C8",
+            "status": "C",
+            "mapping": "01C9"
+        },
+        {
+            "codepoint": "01CA",
+            "status": "C",
+            "mapping": "01CC"
+        },
+        {
+            "codepoint": "01CB",
+            "status": "C",
+            "mapping": "01CC"
+        },
+        {
+            "codepoint": "01CD",
+            "status": "C",
+            "mapping": "01CE"
+        },
+        {
+            "codepoint": "01CF",
+            "status": "C",
+            "mapping": "01D0"
+        },
+        {
+            "codepoint": "01D1",
+            "status": "C",
+            "mapping": "01D2"
+        },
+        {
+            "codepoint": "01D3",
+            "status": "C",
+            "mapping": "01D4"
+        },
+        {
+            "codepoint": "01D5",
+            "status": "C",
+            "mapping": "01D6"
+        },
+        {
+            "codepoint": "01D7",
+            "status": "C",
+            "mapping": "01D8"
+        },
+        {
+            "codepoint": "01D9",
+            "status": "C",
+            "mapping": "01DA"
+        },
+        {
+            "codepoint": "01DB",
+            "status": "C",
+            "mapping": "01DC"
+        },
+        {
+            "codepoint": "01DE",
+            "status": "C",
+            "mapping": "01DF"
+        },
+        {
+            "codepoint": "01E0",
+            "status": "C",
+            "mapping": "01E1"
+        },
+        {
+            "codepoint": "01E2",
+            "status": "C",
+            "mapping": "01E3"
+        },
+        {
+            "codepoint": "01E4",
+            "status": "C",
+            "mapping": "01E5"
+        },
+        {
+            "codepoint": "01E6",
+            "status": "C",
+            "mapping": "01E7"
+        },
+        {
+            "codepoint": "01E8",
+            "status": "C",
+            "mapping": "01E9"
+        },
+        {
+            "codepoint": "01EA",
+            "status": "C",
+            "mapping": "01EB"
+        },
+        {
+            "codepoint": "01EC",
+            "status": "C",
+            "mapping": "01ED"
+        },
+        {
+            "codepoint": "01EE",
+            "status": "C",
+            "mapping": "01EF"
+        },
+        {
+            "codepoint": "01F0",
+            "status": "F",
+            "mapping": "006A 030C"
+        },
+        {
+            "codepoint": "01F1",
+            "status": "C",
+            "mapping": "01F3"
+        },
+        {
+            "codepoint": "01F2",
+            "status": "C",
+            "mapping": "01F3"
+        },
+        {
+            "codepoint": "01F4",
+            "status": "C",
+            "mapping": "01F5"
+        },
+        {
+            "codepoint": "01F6",
+            "status": "C",
+            "mapping": "0195"
+        },
+        {
+            "codepoint": "01F7",
+            "status": "C",
+            "mapping": "01BF"
+        },
+        {
+            "codepoint": "01F8",
+            "status": "C",
+            "mapping": "01F9"
+        },
+        {
+            "codepoint": "01FA",
+            "status": "C",
+            "mapping": "01FB"
+        },
+        {
+            "codepoint": "01FC",
+            "status": "C",
+            "mapping": "01FD"
+        },
+        {
+            "codepoint": "01FE",
+            "status": "C",
+            "mapping": "01FF"
+        },
+        {
+            "codepoint": "0200",
+            "status": "C",
+            "mapping": "0201"
+        },
+        {
+            "codepoint": "0202",
+            "status": "C",
+            "mapping": "0203"
+        },
+        {
+            "codepoint": "0204",
+            "status": "C",
+            "mapping": "0205"
+        },
+        {
+            "codepoint": "0206",
+            "status": "C",
+            "mapping": "0207"
+        },
+        {
+            "codepoint": "0208",
+            "status": "C",
+            "mapping": "0209"
+        },
+        {
+            "codepoint": "020A",
+            "status": "C",
+            "mapping": "020B"
+        },
+        {
+            "codepoint": "020C",
+            "status": "C",
+            "mapping": "020D"
+        },
+        {
+            "codepoint": "020E",
+            "status": "C",
+            "mapping": "020F"
+        },
+        {
+            "codepoint": "0210",
+            "status": "C",
+            "mapping": "0211"
+        },
+        {
+            "codepoint": "0212",
+            "status": "C",
+            "mapping": "0213"
+        },
+        {
+            "codepoint": "0214",
+            "status": "C",
+            "mapping": "0215"
+        },
+        {
+            "codepoint": "0216",
+            "status": "C",
+            "mapping": "0217"
+        },
+        {
+            "codepoint": "0218",
+            "status": "C",
+            "mapping": "0219"
+        },
+        {
+            "codepoint": "021A",
+            "status": "C",
+            "mapping": "021B"
+        },
+        {
+            "codepoint": "021C",
+            "status": "C",
+            "mapping": "021D"
+        },
+        {
+            "codepoint": "021E",
+            "status": "C",
+            "mapping": "021F"
+        },
+        {
+            "codepoint": "0220",
+            "status": "C",
+            "mapping": "019E"
+        },
+        {
+            "codepoint": "0222",
+            "status": "C",
+            "mapping": "0223"
+        },
+        {
+            "codepoint": "0224",
+            "status": "C",
+            "mapping": "0225"
+        },
+        {
+            "codepoint": "0226",
+            "status": "C",
+            "mapping": "0227"
+        },
+        {
+            "codepoint": "0228",
+            "status": "C",
+            "mapping": "0229"
+        },
+        {
+            "codepoint": "022A",
+            "status": "C",
+            "mapping": "022B"
+        },
+        {
+            "codepoint": "022C",
+            "status": "C",
+            "mapping": "022D"
+        },
+        {
+            "codepoint": "022E",
+            "status": "C",
+            "mapping": "022F"
+        },
+        {
+            "codepoint": "0230",
+            "status": "C",
+            "mapping": "0231"
+        },
+        {
+            "codepoint": "0232",
+            "status": "C",
+            "mapping": "0233"
+        },
+        {
+            "codepoint": "023A",
+            "status": "C",
+            "mapping": "2C65"
+        },
+        {
+            "codepoint": "023B",
+            "status": "C",
+            "mapping": "023C"
+        },
+        {
+            "codepoint": "023D",
+            "status": "C",
+            "mapping": "019A"
+        },
+        {
+            "codepoint": "023E",
+            "status": "C",
+            "mapping": "2C66"
+        },
+        {
+            "codepoint": "0241",
+            "status": "C",
+            "mapping": "0242"
+        },
+        {
+            "codepoint": "0243",
+            "status": "C",
+            "mapping": "0180"
+        },
+        {
+            "codepoint": "0244",
+            "status": "C",
+            "mapping": "0289"
+        },
+        {
+            "codepoint": "0245",
+            "status": "C",
+            "mapping": "028C"
+        },
+        {
+            "codepoint": "0246",
+            "status": "C",
+            "mapping": "0247"
+        },
+        {
+            "codepoint": "0248",
+            "status": "C",
+            "mapping": "0249"
+        },
+        {
+            "codepoint": "024A",
+            "status": "C",
+            "mapping": "024B"
+        },
+        {
+            "codepoint": "024C",
+            "status": "C",
+            "mapping": "024D"
+        },
+        {
+            "codepoint": "024E",
+            "status": "C",
+            "mapping": "024F"
+        },
+        {
+            "codepoint": "0345",
+            "status": "C",
+            "mapping": "03B9"
+        },
+        {
+            "codepoint": "0370",
+            "status": "C",
+            "mapping": "0371"
+        },
+        {
+            "codepoint": "0372",
+            "status": "C",
+            "mapping": "0373"
+        },
+        {
+            "codepoint": "0376",
+            "status": "C",
+            "mapping": "0377"
+        },
+        {
+            "codepoint": "037F",
+            "status": "C",
+            "mapping": "03F3"
+        },
+        {
+            "codepoint": "0386",
+            "status": "C",
+            "mapping": "03AC"
+        },
+        {
+            "codepoint": "0388",
+            "status": "C",
+            "mapping": "03AD"
+        },
+        {
+            "codepoint": "0389",
+            "status": "C",
+            "mapping": "03AE"
+        },
+        {
+            "codepoint": "038A",
+            "status": "C",
+            "mapping": "03AF"
+        },
+        {
+            "codepoint": "038C",
+            "status": "C",
+            "mapping": "03CC"
+        },
+        {
+            "codepoint": "038E",
+            "status": "C",
+            "mapping": "03CD"
+        },
+        {
+            "codepoint": "038F",
+            "status": "C",
+            "mapping": "03CE"
+        },
+        {
+            "codepoint": "0390",
+            "status": "F",
+            "mapping": "03B9 0308 0301"
+        },
+        {
+            "codepoint": "0391",
+            "status": "C",
+            "mapping": "03B1"
+        },
+        {
+            "codepoint": "0392",
+            "status": "C",
+            "mapping": "03B2"
+        },
+        {
+            "codepoint": "0393",
+            "status": "C",
+            "mapping": "03B3"
+        },
+        {
+            "codepoint": "0394",
+            "status": "C",
+            "mapping": "03B4"
+        },
+        {
+            "codepoint": "0395",
+            "status": "C",
+            "mapping": "03B5"
+        },
+        {
+            "codepoint": "0396",
+            "status": "C",
+            "mapping": "03B6"
+        },
+        {
+            "codepoint": "0397",
+            "status": "C",
+            "mapping": "03B7"
+        },
+        {
+            "codepoint": "0398",
+            "status": "C",
+            "mapping": "03B8"
+        },
+        {
+            "codepoint": "0399",
+            "status": "C",
+            "mapping": "03B9"
+        },
+        {
+            "codepoint": "039A",
+            "status": "C",
+            "mapping": "03BA"
+        },
+        {
+            "codepoint": "039B",
+            "status": "C",
+            "mapping": "03BB"
+        },
+        {
+            "codepoint": "039C",
+            "status": "C",
+            "mapping": "03BC"
+        },
+        {
+            "codepoint": "039D",
+            "status": "C",
+            "mapping": "03BD"
+        },
+        {
+            "codepoint": "039E",
+            "status": "C",
+            "mapping": "03BE"
+        },
+        {
+            "codepoint": "039F",
+            "status": "C",
+            "mapping": "03BF"
+        },
+        {
+            "codepoint": "03A0",
+            "status": "C",
+            "mapping": "03C0"
+        },
+        {
+            "codepoint": "03A1",
+            "status": "C",
+            "mapping": "03C1"
+        },
+        {
+            "codepoint": "03A3",
+            "status": "C",
+            "mapping": "03C3"
+        },
+        {
+            "codepoint": "03A4",
+            "status": "C",
+            "mapping": "03C4"
+        },
+        {
+            "codepoint": "03A5",
+            "status": "C",
+            "mapping": "03C5"
+        },
+        {
+            "codepoint": "03A6",
+            "status": "C",
+            "mapping": "03C6"
+        },
+        {
+            "codepoint": "03A7",
+            "status": "C",
+            "mapping": "03C7"
+        },
+        {
+            "codepoint": "03A8",
+            "status": "C",
+            "mapping": "03C8"
+        },
+        {
+            "codepoint": "03A9",
+            "status": "C",
+            "mapping": "03C9"
+        },
+        {
+            "codepoint": "03AA",
+            "status": "C",
+            "mapping": "03CA"
+        },
+        {
+            "codepoint": "03AB",
+            "status": "C",
+            "mapping": "03CB"
+        },
+        {
+            "codepoint": "03B0",
+            "status": "F",
+            "mapping": "03C5 0308 0301"
+        },
+        {
+            "codepoint": "03C2",
+            "status": "C",
+            "mapping": "03C3"
+        },
+        {
+            "codepoint": "03CF",
+            "status": "C",
+            "mapping": "03D7"
+        },
+        {
+            "codepoint": "03D0",
+            "status": "C",
+            "mapping": "03B2"
+        },
+        {
+            "codepoint": "03D1",
+            "status": "C",
+            "mapping": "03B8"
+        },
+        {
+            "codepoint": "03D5",
+            "status": "C",
+            "mapping": "03C6"
+        },
+        {
+            "codepoint": "03D6",
+            "status": "C",
+            "mapping": "03C0"
+        },
+        {
+            "codepoint": "03D8",
+            "status": "C",
+            "mapping": "03D9"
+        },
+        {
+            "codepoint": "03DA",
+            "status": "C",
+            "mapping": "03DB"
+        },
+        {
+            "codepoint": "03DC",
+            "status": "C",
+            "mapping": "03DD"
+        },
+        {
+            "codepoint": "03DE",
+            "status": "C",
+            "mapping": "03DF"
+        },
+        {
+            "codepoint": "03E0",
+            "status": "C",
+            "mapping": "03E1"
+        },
+        {
+            "codepoint": "03E2",
+            "status": "C",
+            "mapping": "03E3"
+        },
+        {
+            "codepoint": "03E4",
+            "status": "C",
+            "mapping": "03E5"
+        },
+        {
+            "codepoint": "03E6",
+            "status": "C",
+            "mapping": "03E7"
+        },
+        {
+            "codepoint": "03E8",
+            "status": "C",
+            "mapping": "03E9"
+        },
+        {
+            "codepoint": "03EA",
+            "status": "C",
+            "mapping": "03EB"
+        },
+        {
+            "codepoint": "03EC",
+            "status": "C",
+            "mapping": "03ED"
+        },
+        {
+            "codepoint": "03EE",
+            "status": "C",
+            "mapping": "03EF"
+        },
+        {
+            "codepoint": "03F0",
+            "status": "C",
+            "mapping": "03BA"
+        },
+        {
+            "codepoint": "03F1",
+            "status": "C",
+            "mapping": "03C1"
+        },
+        {
+            "codepoint": "03F4",
+            "status": "C",
+            "mapping": "03B8"
+        },
+        {
+            "codepoint": "03F5",
+            "status": "C",
+            "mapping": "03B5"
+        },
+        {
+            "codepoint": "03F7",
+            "status": "C",
+            "mapping": "03F8"
+        },
+        {
+            "codepoint": "03F9",
+            "status": "C",
+            "mapping": "03F2"
+        },
+        {
+            "codepoint": "03FA",
+            "status": "C",
+            "mapping": "03FB"
+        },
+        {
+            "codepoint": "03FD",
+            "status": "C",
+            "mapping": "037B"
+        },
+        {
+            "codepoint": "03FE",
+            "status": "C",
+            "mapping": "037C"
+        },
+        {
+            "codepoint": "03FF",
+            "status": "C",
+            "mapping": "037D"
+        },
+        {
+            "codepoint": "0400",
+            "status": "C",
+            "mapping": "0450"
+        },
+        {
+            "codepoint": "0401",
+            "status": "C",
+            "mapping": "0451"
+        },
+        {
+            "codepoint": "0402",
+            "status": "C",
+            "mapping": "0452"
+        },
+        {
+            "codepoint": "0403",
+            "status": "C",
+            "mapping": "0453"
+        },
+        {
+            "codepoint": "0404",
+            "status": "C",
+            "mapping": "0454"
+        },
+        {
+            "codepoint": "0405",
+            "status": "C",
+            "mapping": "0455"
+        },
+        {
+            "codepoint": "0406",
+            "status": "C",
+            "mapping": "0456"
+        },
+        {
+            "codepoint": "0407",
+            "status": "C",
+            "mapping": "0457"
+        },
+        {
+            "codepoint": "0408",
+            "status": "C",
+            "mapping": "0458"
+        },
+        {
+            "codepoint": "0409",
+            "status": "C",
+            "mapping": "0459"
+        },
+        {
+            "codepoint": "040A",
+            "status": "C",
+            "mapping": "045A"
+        },
+        {
+            "codepoint": "040B",
+            "status": "C",
+            "mapping": "045B"
+        },
+        {
+            "codepoint": "040C",
+            "status": "C",
+            "mapping": "045C"
+        },
+        {
+            "codepoint": "040D",
+            "status": "C",
+            "mapping": "045D"
+        },
+        {
+            "codepoint": "040E",
+            "status": "C",
+            "mapping": "045E"
+        },
+        {
+            "codepoint": "040F",
+            "status": "C",
+            "mapping": "045F"
+        },
+        {
+            "codepoint": "0410",
+            "status": "C",
+            "mapping": "0430"
+        },
+        {
+            "codepoint": "0411",
+            "status": "C",
+            "mapping": "0431"
+        },
+        {
+            "codepoint": "0412",
+            "status": "C",
+            "mapping": "0432"
+        },
+        {
+            "codepoint": "0413",
+            "status": "C",
+            "mapping": "0433"
+        },
+        {
+            "codepoint": "0414",
+            "status": "C",
+            "mapping": "0434"
+        },
+        {
+            "codepoint": "0415",
+            "status": "C",
+            "mapping": "0435"
+        },
+        {
+            "codepoint": "0416",
+            "status": "C",
+            "mapping": "0436"
+        },
+        {
+            "codepoint": "0417",
+            "status": "C",
+            "mapping": "0437"
+        },
+        {
+            "codepoint": "0418",
+            "status": "C",
+            "mapping": "0438"
+        },
+        {
+            "codepoint": "0419",
+            "status": "C",
+            "mapping": "0439"
+        },
+        {
+            "codepoint": "041A",
+            "status": "C",
+            "mapping": "043A"
+        },
+        {
+            "codepoint": "041B",
+            "status": "C",
+            "mapping": "043B"
+        },
+        {
+            "codepoint": "041C",
+            "status": "C",
+            "mapping": "043C"
+        },
+        {
+            "codepoint": "041D",
+            "status": "C",
+            "mapping": "043D"
+        },
+        {
+            "codepoint": "041E",
+            "status": "C",
+            "mapping": "043E"
+        },
+        {
+            "codepoint": "041F",
+            "status": "C",
+            "mapping": "043F"
+        },
+        {
+            "codepoint": "0420",
+            "status": "C",
+            "mapping": "0440"
+        },
+        {
+            "codepoint": "0421",
+            "status": "C",
+            "mapping": "0441"
+        },
+        {
+            "codepoint": "0422",
+            "status": "C",
+            "mapping": "0442"
+        },
+        {
+            "codepoint": "0423",
+            "status": "C",
+            "mapping": "0443"
+        },
+        {
+            "codepoint": "0424",
+            "status": "C",
+            "mapping": "0444"
+        },
+        {
+            "codepoint": "0425",
+            "status": "C",
+            "mapping": "0445"
+        },
+        {
+            "codepoint": "0426",
+            "status": "C",
+            "mapping": "0446"
+        },
+        {
+            "codepoint": "0427",
+            "status": "C",
+            "mapping": "0447"
+        },
+        {
+            "codepoint": "0428",
+            "status": "C",
+            "mapping": "0448"
+        },
+        {
+            "codepoint": "0429",
+            "status": "C",
+            "mapping": "0449"
+        },
+        {
+            "codepoint": "042A",
+            "status": "C",
+            "mapping": "044A"
+        },
+        {
+            "codepoint": "042B",
+            "status": "C",
+            "mapping": "044B"
+        },
+        {
+            "codepoint": "042C",
+            "status": "C",
+            "mapping": "044C"
+        },
+        {
+            "codepoint": "042D",
+            "status": "C",
+            "mapping": "044D"
+        },
+        {
+            "codepoint": "042E",
+            "status": "C",
+            "mapping": "044E"
+        },
+        {
+            "codepoint": "042F",
+            "status": "C",
+            "mapping": "044F"
+        },
+        {
+            "codepoint": "0460",
+            "status": "C",
+            "mapping": "0461"
+        },
+        {
+            "codepoint": "0462",
+            "status": "C",
+            "mapping": "0463"
+        },
+        {
+            "codepoint": "0464",
+            "status": "C",
+            "mapping": "0465"
+        },
+        {
+            "codepoint": "0466",
+            "status": "C",
+            "mapping": "0467"
+        },
+        {
+            "codepoint": "0468",
+            "status": "C",
+            "mapping": "0469"
+        },
+        {
+            "codepoint": "046A",
+            "status": "C",
+            "mapping": "046B"
+        },
+        {
+            "codepoint": "046C",
+            "status": "C",
+            "mapping": "046D"
+        },
+        {
+            "codepoint": "046E",
+            "status": "C",
+            "mapping": "046F"
+        },
+        {
+            "codepoint": "0470",
+            "status": "C",
+            "mapping": "0471"
+        },
+        {
+            "codepoint": "0472",
+            "status": "C",
+            "mapping": "0473"
+        },
+        {
+            "codepoint": "0474",
+            "status": "C",
+            "mapping": "0475"
+        },
+        {
+            "codepoint": "0476",
+            "status": "C",
+            "mapping": "0477"
+        },
+        {
+            "codepoint": "0478",
+            "status": "C",
+            "mapping": "0479"
+        },
+        {
+            "codepoint": "047A",
+            "status": "C",
+            "mapping": "047B"
+        },
+        {
+            "codepoint": "047C",
+            "status": "C",
+            "mapping": "047D"
+        },
+        {
+            "codepoint": "047E",
+            "status": "C",
+            "mapping": "047F"
+        },
+        {
+            "codepoint": "0480",
+            "status": "C",
+            "mapping": "0481"
+        },
+        {
+            "codepoint": "048A",
+            "status": "C",
+            "mapping": "048B"
+        },
+        {
+            "codepoint": "048C",
+            "status": "C",
+            "mapping": "048D"
+        },
+        {
+            "codepoint": "048E",
+            "status": "C",
+            "mapping": "048F"
+        },
+        {
+            "codepoint": "0490",
+            "status": "C",
+            "mapping": "0491"
+        },
+        {
+            "codepoint": "0492",
+            "status": "C",
+            "mapping": "0493"
+        },
+        {
+            "codepoint": "0494",
+            "status": "C",
+            "mapping": "0495"
+        },
+        {
+            "codepoint": "0496",
+            "status": "C",
+            "mapping": "0497"
+        },
+        {
+            "codepoint": "0498",
+            "status": "C",
+            "mapping": "0499"
+        },
+        {
+            "codepoint": "049A",
+            "status": "C",
+            "mapping": "049B"
+        },
+        {
+            "codepoint": "049C",
+            "status": "C",
+            "mapping": "049D"
+        },
+        {
+            "codepoint": "049E",
+            "status": "C",
+            "mapping": "049F"
+        },
+        {
+            "codepoint": "04A0",
+            "status": "C",
+            "mapping": "04A1"
+        },
+        {
+            "codepoint": "04A2",
+            "status": "C",
+            "mapping": "04A3"
+        },
+        {
+            "codepoint": "04A4",
+            "status": "C",
+            "mapping": "04A5"
+        },
+        {
+            "codepoint": "04A6",
+            "status": "C",
+            "mapping": "04A7"
+        },
+        {
+            "codepoint": "04A8",
+            "status": "C",
+            "mapping": "04A9"
+        },
+        {
+            "codepoint": "04AA",
+            "status": "C",
+            "mapping": "04AB"
+        },
+        {
+            "codepoint": "04AC",
+            "status": "C",
+            "mapping": "04AD"
+        },
+        {
+            "codepoint": "04AE",
+            "status": "C",
+            "mapping": "04AF"
+        },
+        {
+            "codepoint": "04B0",
+            "status": "C",
+            "mapping": "04B1"
+        },
+        {
+            "codepoint": "04B2",
+            "status": "C",
+            "mapping": "04B3"
+        },
+        {
+            "codepoint": "04B4",
+            "status": "C",
+            "mapping": "04B5"
+        },
+        {
+            "codepoint": "04B6",
+            "status": "C",
+            "mapping": "04B7"
+        },
+        {
+            "codepoint": "04B8",
+            "status": "C",
+            "mapping": "04B9"
+        },
+        {
+            "codepoint": "04BA",
+            "status": "C",
+            "mapping": "04BB"
+        },
+        {
+            "codepoint": "04BC",
+            "status": "C",
+            "mapping": "04BD"
+        },
+        {
+            "codepoint": "04BE",
+            "status": "C",
+            "mapping": "04BF"
+        },
+        {
+            "codepoint": "04C0",
+            "status": "C",
+            "mapping": "04CF"
+        },
+        {
+            "codepoint": "04C1",
+            "status": "C",
+            "mapping": "04C2"
+        },
+        {
+            "codepoint": "04C3",
+            "status": "C",
+            "mapping": "04C4"
+        },
+        {
+            "codepoint": "04C5",
+            "status": "C",
+            "mapping": "04C6"
+        },
+        {
+            "codepoint": "04C7",
+            "status": "C",
+            "mapping": "04C8"
+        },
+        {
+            "codepoint": "04C9",
+            "status": "C",
+            "mapping": "04CA"
+        },
+        {
+            "codepoint": "04CB",
+            "status": "C",
+            "mapping": "04CC"
+        },
+        {
+            "codepoint": "04CD",
+            "status": "C",
+            "mapping": "04CE"
+        },
+        {
+            "codepoint": "04D0",
+            "status": "C",
+            "mapping": "04D1"
+        },
+        {
+            "codepoint": "04D2",
+            "status": "C",
+            "mapping": "04D3"
+        },
+        {
+            "codepoint": "04D4",
+            "status": "C",
+            "mapping": "04D5"
+        },
+        {
+            "codepoint": "04D6",
+            "status": "C",
+            "mapping": "04D7"
+        },
+        {
+            "codepoint": "04D8",
+            "status": "C",
+            "mapping": "04D9"
+        },
+        {
+            "codepoint": "04DA",
+            "status": "C",
+            "mapping": "04DB"
+        },
+        {
+            "codepoint": "04DC",
+            "status": "C",
+            "mapping": "04DD"
+        },
+        {
+            "codepoint": "04DE",
+            "status": "C",
+            "mapping": "04DF"
+        },
+        {
+            "codepoint": "04E0",
+            "status": "C",
+            "mapping": "04E1"
+        },
+        {
+            "codepoint": "04E2",
+            "status": "C",
+            "mapping": "04E3"
+        },
+        {
+            "codepoint": "04E4",
+            "status": "C",
+            "mapping": "04E5"
+        },
+        {
+            "codepoint": "04E6",
+            "status": "C",
+            "mapping": "04E7"
+        },
+        {
+            "codepoint": "04E8",
+            "status": "C",
+            "mapping": "04E9"
+        },
+        {
+            "codepoint": "04EA",
+            "status": "C",
+            "mapping": "04EB"
+        },
+        {
+            "codepoint": "04EC",
+            "status": "C",
+            "mapping": "04ED"
+        },
+        {
+            "codepoint": "04EE",
+            "status": "C",
+            "mapping": "04EF"
+        },
+        {
+            "codepoint": "04F0",
+            "status": "C",
+            "mapping": "04F1"
+        },
+        {
+            "codepoint": "04F2",
+            "status": "C",
+            "mapping": "04F3"
+        },
+        {
+            "codepoint": "04F4",
+            "status": "C",
+            "mapping": "04F5"
+        },
+        {
+            "codepoint": "04F6",
+            "status": "C",
+            "mapping": "04F7"
+        },
+        {
+            "codepoint": "04F8",
+            "status": "C",
+            "mapping": "04F9"
+        },
+        {
+            "codepoint": "04FA",
+            "status": "C",
+            "mapping": "04FB"
+        },
+        {
+            "codepoint": "04FC",
+            "status": "C",
+            "mapping": "04FD"
+        },
+        {
+            "codepoint": "04FE",
+            "status": "C",
+            "mapping": "04FF"
+        },
+        {
+            "codepoint": "0500",
+            "status": "C",
+            "mapping": "0501"
+        },
+        {
+            "codepoint": "0502",
+            "status": "C",
+            "mapping": "0503"
+        },
+        {
+            "codepoint": "0504",
+            "status": "C",
+            "mapping": "0505"
+        },
+        {
+            "codepoint": "0506",
+            "status": "C",
+            "mapping": "0507"
+        },
+        {
+            "codepoint": "0508",
+            "status": "C",
+            "mapping": "0509"
+        },
+        {
+            "codepoint": "050A",
+            "status": "C",
+            "mapping": "050B"
+        },
+        {
+            "codepoint": "050C",
+            "status": "C",
+            "mapping": "050D"
+        },
+        {
+            "codepoint": "050E",
+            "status": "C",
+            "mapping": "050F"
+        },
+        {
+            "codepoint": "0510",
+            "status": "C",
+            "mapping": "0511"
+        },
+        {
+            "codepoint": "0512",
+            "status": "C",
+            "mapping": "0513"
+        },
+        {
+            "codepoint": "0514",
+            "status": "C",
+            "mapping": "0515"
+        },
+        {
+            "codepoint": "0516",
+            "status": "C",
+            "mapping": "0517"
+        },
+        {
+            "codepoint": "0518",
+            "status": "C",
+            "mapping": "0519"
+        },
+        {
+            "codepoint": "051A",
+            "status": "C",
+            "mapping": "051B"
+        },
+        {
+            "codepoint": "051C",
+            "status": "C",
+            "mapping": "051D"
+        },
+        {
+            "codepoint": "051E",
+            "status": "C",
+            "mapping": "051F"
+        },
+        {
+            "codepoint": "0520",
+            "status": "C",
+            "mapping": "0521"
+        },
+        {
+            "codepoint": "0522",
+            "status": "C",
+            "mapping": "0523"
+        },
+        {
+            "codepoint": "0524",
+            "status": "C",
+            "mapping": "0525"
+        },
+        {
+            "codepoint": "0526",
+            "status": "C",
+            "mapping": "0527"
+        },
+        {
+            "codepoint": "0528",
+            "status": "C",
+            "mapping": "0529"
+        },
+        {
+            "codepoint": "052A",
+            "status": "C",
+            "mapping": "052B"
+        },
+        {
+            "codepoint": "052C",
+            "status": "C",
+            "mapping": "052D"
+        },
+        {
+            "codepoint": "052E",
+            "status": "C",
+            "mapping": "052F"
+        },
+        {
+            "codepoint": "0531",
+            "status": "C",
+            "mapping": "0561"
+        },
+        {
+            "codepoint": "0532",
+            "status": "C",
+            "mapping": "0562"
+        },
+        {
+            "codepoint": "0533",
+            "status": "C",
+            "mapping": "0563"
+        },
+        {
+            "codepoint": "0534",
+            "status": "C",
+            "mapping": "0564"
+        },
+        {
+            "codepoint": "0535",
+            "status": "C",
+            "mapping": "0565"
+        },
+        {
+            "codepoint": "0536",
+            "status": "C",
+            "mapping": "0566"
+        },
+        {
+            "codepoint": "0537",
+            "status": "C",
+            "mapping": "0567"
+        },
+        {
+            "codepoint": "0538",
+            "status": "C",
+            "mapping": "0568"
+        },
+        {
+            "codepoint": "0539",
+            "status": "C",
+            "mapping": "0569"
+        },
+        {
+            "codepoint": "053A",
+            "status": "C",
+            "mapping": "056A"
+        },
+        {
+            "codepoint": "053B",
+            "status": "C",
+            "mapping": "056B"
+        },
+        {
+            "codepoint": "053C",
+            "status": "C",
+            "mapping": "056C"
+        },
+        {
+            "codepoint": "053D",
+            "status": "C",
+            "mapping": "056D"
+        },
+        {
+            "codepoint": "053E",
+            "status": "C",
+            "mapping": "056E"
+        },
+        {
+            "codepoint": "053F",
+            "status": "C",
+            "mapping": "056F"
+        },
+        {
+            "codepoint": "0540",
+            "status": "C",
+            "mapping": "0570"
+        },
+        {
+            "codepoint": "0541",
+            "status": "C",
+            "mapping": "0571"
+        },
+        {
+            "codepoint": "0542",
+            "status": "C",
+            "mapping": "0572"
+        },
+        {
+            "codepoint": "0543",
+            "status": "C",
+            "mapping": "0573"
+        },
+        {
+            "codepoint": "0544",
+            "status": "C",
+            "mapping": "0574"
+        },
+        {
+            "codepoint": "0545",
+            "status": "C",
+            "mapping": "0575"
+        },
+        {
+            "codepoint": "0546",
+            "status": "C",
+            "mapping": "0576"
+        },
+        {
+            "codepoint": "0547",
+            "status": "C",
+            "mapping": "0577"
+        },
+        {
+            "codepoint": "0548",
+            "status": "C",
+            "mapping": "0578"
+        },
+        {
+            "codepoint": "0549",
+            "status": "C",
+            "mapping": "0579"
+        },
+        {
+            "codepoint": "054A",
+            "status": "C",
+            "mapping": "057A"
+        },
+        {
+            "codepoint": "054B",
+            "status": "C",
+            "mapping": "057B"
+        },
+        {
+            "codepoint": "054C",
+            "status": "C",
+            "mapping": "057C"
+        },
+        {
+            "codepoint": "054D",
+            "status": "C",
+            "mapping": "057D"
+        },
+        {
+            "codepoint": "054E",
+            "status": "C",
+            "mapping": "057E"
+        },
+        {
+            "codepoint": "054F",
+            "status": "C",
+            "mapping": "057F"
+        },
+        {
+            "codepoint": "0550",
+            "status": "C",
+            "mapping": "0580"
+        },
+        {
+            "codepoint": "0551",
+            "status": "C",
+            "mapping": "0581"
+        },
+        {
+            "codepoint": "0552",
+            "status": "C",
+            "mapping": "0582"
+        },
+        {
+            "codepoint": "0553",
+            "status": "C",
+            "mapping": "0583"
+        },
+        {
+            "codepoint": "0554",
+            "status": "C",
+            "mapping": "0584"
+        },
+        {
+            "codepoint": "0555",
+            "status": "C",
+            "mapping": "0585"
+        },
+        {
+            "codepoint": "0556",
+            "status": "C",
+            "mapping": "0586"
+        },
+        {
+            "codepoint": "0587",
+            "status": "F",
+            "mapping": "0565 0582"
+        },
+        {
+            "codepoint": "10A0",
+            "status": "C",
+            "mapping": "2D00"
+        },
+        {
+            "codepoint": "10A1",
+            "status": "C",
+            "mapping": "2D01"
+        },
+        {
+            "codepoint": "10A2",
+            "status": "C",
+            "mapping": "2D02"
+        },
+        {
+            "codepoint": "10A3",
+            "status": "C",
+            "mapping": "2D03"
+        },
+        {
+            "codepoint": "10A4",
+            "status": "C",
+            "mapping": "2D04"
+        },
+        {
+            "codepoint": "10A5",
+            "status": "C",
+            "mapping": "2D05"
+        },
+        {
+            "codepoint": "10A6",
+            "status": "C",
+            "mapping": "2D06"
+        },
+        {
+            "codepoint": "10A7",
+            "status": "C",
+            "mapping": "2D07"
+        },
+        {
+            "codepoint": "10A8",
+            "status": "C",
+            "mapping": "2D08"
+        },
+        {
+            "codepoint": "10A9",
+            "status": "C",
+            "mapping": "2D09"
+        },
+        {
+            "codepoint": "10AA",
+            "status": "C",
+            "mapping": "2D0A"
+        },
+        {
+            "codepoint": "10AB",
+            "status": "C",
+            "mapping": "2D0B"
+        },
+        {
+            "codepoint": "10AC",
+            "status": "C",
+            "mapping": "2D0C"
+        },
+        {
+            "codepoint": "10AD",
+            "status": "C",
+            "mapping": "2D0D"
+        },
+        {
+            "codepoint": "10AE",
+            "status": "C",
+            "mapping": "2D0E"
+        },
+        {
+            "codepoint": "10AF",
+            "status": "C",
+            "mapping": "2D0F"
+        },
+        {
+            "codepoint": "10B0",
+            "status": "C",
+            "mapping": "2D10"
+        },
+        {
+            "codepoint": "10B1",
+            "status": "C",
+            "mapping": "2D11"
+        },
+        {
+            "codepoint": "10B2",
+            "status": "C",
+            "mapping": "2D12"
+        },
+        {
+            "codepoint": "10B3",
+            "status": "C",
+            "mapping": "2D13"
+        },
+        {
+            "codepoint": "10B4",
+            "status": "C",
+            "mapping": "2D14"
+        },
+        {
+            "codepoint": "10B5",
+            "status": "C",
+            "mapping": "2D15"
+        },
+        {
+            "codepoint": "10B6",
+            "status": "C",
+            "mapping": "2D16"
+        },
+        {
+            "codepoint": "10B7",
+            "status": "C",
+            "mapping": "2D17"
+        },
+        {
+            "codepoint": "10B8",
+            "status": "C",
+            "mapping": "2D18"
+        },
+        {
+            "codepoint": "10B9",
+            "status": "C",
+            "mapping": "2D19"
+        },
+        {
+            "codepoint": "10BA",
+            "status": "C",
+            "mapping": "2D1A"
+        },
+        {
+            "codepoint": "10BB",
+            "status": "C",
+            "mapping": "2D1B"
+        },
+        {
+            "codepoint": "10BC",
+            "status": "C",
+            "mapping": "2D1C"
+        },
+        {
+            "codepoint": "10BD",
+            "status": "C",
+            "mapping": "2D1D"
+        },
+        {
+            "codepoint": "10BE",
+            "status": "C",
+            "mapping": "2D1E"
+        },
+        {
+            "codepoint": "10BF",
+            "status": "C",
+            "mapping": "2D1F"
+        },
+        {
+            "codepoint": "10C0",
+            "status": "C",
+            "mapping": "2D20"
+        },
+        {
+            "codepoint": "10C1",
+            "status": "C",
+            "mapping": "2D21"
+        },
+        {
+            "codepoint": "10C2",
+            "status": "C",
+            "mapping": "2D22"
+        },
+        {
+            "codepoint": "10C3",
+            "status": "C",
+            "mapping": "2D23"
+        },
+        {
+            "codepoint": "10C4",
+            "status": "C",
+            "mapping": "2D24"
+        },
+        {
+            "codepoint": "10C5",
+            "status": "C",
+            "mapping": "2D25"
+        },
+        {
+            "codepoint": "10C7",
+            "status": "C",
+            "mapping": "2D27"
+        },
+        {
+            "codepoint": "10CD",
+            "status": "C",
+            "mapping": "2D2D"
+        },
+        {
+            "codepoint": "13F8",
+            "status": "C",
+            "mapping": "13F0"
+        },
+        {
+            "codepoint": "13F9",
+            "status": "C",
+            "mapping": "13F1"
+        },
+        {
+            "codepoint": "13FA",
+            "status": "C",
+            "mapping": "13F2"
+        },
+        {
+            "codepoint": "13FB",
+            "status": "C",
+            "mapping": "13F3"
+        },
+        {
+            "codepoint": "13FC",
+            "status": "C",
+            "mapping": "13F4"
+        },
+        {
+            "codepoint": "13FD",
+            "status": "C",
+            "mapping": "13F5"
+        },
+        {
+            "codepoint": "1C80",
+            "status": "C",
+            "mapping": "0432"
+        },
+        {
+            "codepoint": "1C81",
+            "status": "C",
+            "mapping": "0434"
+        },
+        {
+            "codepoint": "1C82",
+            "status": "C",
+            "mapping": "043E"
+        },
+        {
+            "codepoint": "1C83",
+            "status": "C",
+            "mapping": "0441"
+        },
+        {
+            "codepoint": "1C84",
+            "status": "C",
+            "mapping": "0442"
+        },
+        {
+            "codepoint": "1C85",
+            "status": "C",
+            "mapping": "0442"
+        },
+        {
+            "codepoint": "1C86",
+            "status": "C",
+            "mapping": "044A"
+        },
+        {
+            "codepoint": "1C87",
+            "status": "C",
+            "mapping": "0463"
+        },
+        {
+            "codepoint": "1C88",
+            "status": "C",
+            "mapping": "A64B"
+        },
+        {
+            "codepoint": "1C90",
+            "status": "C",
+            "mapping": "10D0"
+        },
+        {
+            "codepoint": "1C91",
+            "status": "C",
+            "mapping": "10D1"
+        },
+        {
+            "codepoint": "1C92",
+            "status": "C",
+            "mapping": "10D2"
+        },
+        {
+            "codepoint": "1C93",
+            "status": "C",
+            "mapping": "10D3"
+        },
+        {
+            "codepoint": "1C94",
+            "status": "C",
+            "mapping": "10D4"
+        },
+        {
+            "codepoint": "1C95",
+            "status": "C",
+            "mapping": "10D5"
+        },
+        {
+            "codepoint": "1C96",
+            "status": "C",
+            "mapping": "10D6"
+        },
+        {
+            "codepoint": "1C97",
+            "status": "C",
+            "mapping": "10D7"
+        },
+        {
+            "codepoint": "1C98",
+            "status": "C",
+            "mapping": "10D8"
+        },
+        {
+            "codepoint": "1C99",
+            "status": "C",
+            "mapping": "10D9"
+        },
+        {
+            "codepoint": "1C9A",
+            "status": "C",
+            "mapping": "10DA"
+        },
+        {
+            "codepoint": "1C9B",
+            "status": "C",
+            "mapping": "10DB"
+        },
+        {
+            "codepoint": "1C9C",
+            "status": "C",
+            "mapping": "10DC"
+        },
+        {
+            "codepoint": "1C9D",
+            "status": "C",
+            "mapping": "10DD"
+        },
+        {
+            "codepoint": "1C9E",
+            "status": "C",
+            "mapping": "10DE"
+        },
+        {
+            "codepoint": "1C9F",
+            "status": "C",
+            "mapping": "10DF"
+        },
+        {
+            "codepoint": "1CA0",
+            "status": "C",
+            "mapping": "10E0"
+        },
+        {
+            "codepoint": "1CA1",
+            "status": "C",
+            "mapping": "10E1"
+        },
+        {
+            "codepoint": "1CA2",
+            "status": "C",
+            "mapping": "10E2"
+        },
+        {
+            "codepoint": "1CA3",
+            "status": "C",
+            "mapping": "10E3"
+        },
+        {
+            "codepoint": "1CA4",
+            "status": "C",
+            "mapping": "10E4"
+        },
+        {
+            "codepoint": "1CA5",
+            "status": "C",
+            "mapping": "10E5"
+        },
+        {
+            "codepoint": "1CA6",
+            "status": "C",
+            "mapping": "10E6"
+        },
+        {
+            "codepoint": "1CA7",
+            "status": "C",
+            "mapping": "10E7"
+        },
+        {
+            "codepoint": "1CA8",
+            "status": "C",
+            "mapping": "10E8"
+        },
+        {
+            "codepoint": "1CA9",
+            "status": "C",
+            "mapping": "10E9"
+        },
+        {
+            "codepoint": "1CAA",
+            "status": "C",
+            "mapping": "10EA"
+        },
+        {
+            "codepoint": "1CAB",
+            "status": "C",
+            "mapping": "10EB"
+        },
+        {
+            "codepoint": "1CAC",
+            "status": "C",
+            "mapping": "10EC"
+        },
+        {
+            "codepoint": "1CAD",
+            "status": "C",
+            "mapping": "10ED"
+        },
+        {
+            "codepoint": "1CAE",
+            "status": "C",
+            "mapping": "10EE"
+        },
+        {
+            "codepoint": "1CAF",
+            "status": "C",
+            "mapping": "10EF"
+        },
+        {
+            "codepoint": "1CB0",
+            "status": "C",
+            "mapping": "10F0"
+        },
+        {
+            "codepoint": "1CB1",
+            "status": "C",
+            "mapping": "10F1"
+        },
+        {
+            "codepoint": "1CB2",
+            "status": "C",
+            "mapping": "10F2"
+        },
+        {
+            "codepoint": "1CB3",
+            "status": "C",
+            "mapping": "10F3"
+        },
+        {
+            "codepoint": "1CB4",
+            "status": "C",
+            "mapping": "10F4"
+        },
+        {
+            "codepoint": "1CB5",
+            "status": "C",
+            "mapping": "10F5"
+        },
+        {
+            "codepoint": "1CB6",
+            "status": "C",
+            "mapping": "10F6"
+        },
+        {
+            "codepoint": "1CB7",
+            "status": "C",
+            "mapping": "10F7"
+        },
+        {
+            "codepoint": "1CB8",
+            "status": "C",
+            "mapping": "10F8"
+        },
+        {
+            "codepoint": "1CB9",
+            "status": "C",
+            "mapping": "10F9"
+        },
+        {
+            "codepoint": "1CBA",
+            "status": "C",
+            "mapping": "10FA"
+        },
+        {
+            "codepoint": "1CBD",
+            "status": "C",
+            "mapping": "10FD"
+        },
+        {
+            "codepoint": "1CBE",
+            "status": "C",
+            "mapping": "10FE"
+        },
+        {
+            "codepoint": "1CBF",
+            "status": "C",
+            "mapping": "10FF"
+        },
+        {
+            "codepoint": "1E00",
+            "status": "C",
+            "mapping": "1E01"
+        },
+        {
+            "codepoint": "1E02",
+            "status": "C",
+            "mapping": "1E03"
+        },
+        {
+            "codepoint": "1E04",
+            "status": "C",
+            "mapping": "1E05"
+        },
+        {
+            "codepoint": "1E06",
+            "status": "C",
+            "mapping": "1E07"
+        },
+        {
+            "codepoint": "1E08",
+            "status": "C",
+            "mapping": "1E09"
+        },
+        {
+            "codepoint": "1E0A",
+            "status": "C",
+            "mapping": "1E0B"
+        },
+        {
+            "codepoint": "1E0C",
+            "status": "C",
+            "mapping": "1E0D"
+        },
+        {
+            "codepoint": "1E0E",
+            "status": "C",
+            "mapping": "1E0F"
+        },
+        {
+            "codepoint": "1E10",
+            "status": "C",
+            "mapping": "1E11"
+        },
+        {
+            "codepoint": "1E12",
+            "status": "C",
+            "mapping": "1E13"
+        },
+        {
+            "codepoint": "1E14",
+            "status": "C",
+            "mapping": "1E15"
+        },
+        {
+            "codepoint": "1E16",
+            "status": "C",
+            "mapping": "1E17"
+        },
+        {
+            "codepoint": "1E18",
+            "status": "C",
+            "mapping": "1E19"
+        },
+        {
+            "codepoint": "1E1A",
+            "status": "C",
+            "mapping": "1E1B"
+        },
+        {
+            "codepoint": "1E1C",
+            "status": "C",
+            "mapping": "1E1D"
+        },
+        {
+            "codepoint": "1E1E",
+            "status": "C",
+            "mapping": "1E1F"
+        },
+        {
+            "codepoint": "1E20",
+            "status": "C",
+            "mapping": "1E21"
+        },
+        {
+            "codepoint": "1E22",
+            "status": "C",
+            "mapping": "1E23"
+        },
+        {
+            "codepoint": "1E24",
+            "status": "C",
+            "mapping": "1E25"
+        },
+        {
+            "codepoint": "1E26",
+            "status": "C",
+            "mapping": "1E27"
+        },
+        {
+            "codepoint": "1E28",
+            "status": "C",
+            "mapping": "1E29"
+        },
+        {
+            "codepoint": "1E2A",
+            "status": "C",
+            "mapping": "1E2B"
+        },
+        {
+            "codepoint": "1E2C",
+            "status": "C",
+            "mapping": "1E2D"
+        },
+        {
+            "codepoint": "1E2E",
+            "status": "C",
+            "mapping": "1E2F"
+        },
+        {
+            "codepoint": "1E30",
+            "status": "C",
+            "mapping": "1E31"
+        },
+        {
+            "codepoint": "1E32",
+            "status": "C",
+            "mapping": "1E33"
+        },
+        {
+            "codepoint": "1E34",
+            "status": "C",
+            "mapping": "1E35"
+        },
+        {
+            "codepoint": "1E36",
+            "status": "C",
+            "mapping": "1E37"
+        },
+        {
+            "codepoint": "1E38",
+            "status": "C",
+            "mapping": "1E39"
+        },
+        {
+            "codepoint": "1E3A",
+            "status": "C",
+            "mapping": "1E3B"
+        },
+        {
+            "codepoint": "1E3C",
+            "status": "C",
+            "mapping": "1E3D"
+        },
+        {
+            "codepoint": "1E3E",
+            "status": "C",
+            "mapping": "1E3F"
+        },
+        {
+            "codepoint": "1E40",
+            "status": "C",
+            "mapping": "1E41"
+        },
+        {
+            "codepoint": "1E42",
+            "status": "C",
+            "mapping": "1E43"
+        },
+        {
+            "codepoint": "1E44",
+            "status": "C",
+            "mapping": "1E45"
+        },
+        {
+            "codepoint": "1E46",
+            "status": "C",
+            "mapping": "1E47"
+        },
+        {
+            "codepoint": "1E48",
+            "status": "C",
+            "mapping": "1E49"
+        },
+        {
+            "codepoint": "1E4A",
+            "status": "C",
+            "mapping": "1E4B"
+        },
+        {
+            "codepoint": "1E4C",
+            "status": "C",
+            "mapping": "1E4D"
+        },
+        {
+            "codepoint": "1E4E",
+            "status": "C",
+            "mapping": "1E4F"
+        },
+        {
+            "codepoint": "1E50",
+            "status": "C",
+            "mapping": "1E51"
+        },
+        {
+            "codepoint": "1E52",
+            "status": "C",
+            "mapping": "1E53"
+        },
+        {
+            "codepoint": "1E54",
+            "status": "C",
+            "mapping": "1E55"
+        },
+        {
+            "codepoint": "1E56",
+            "status": "C",
+            "mapping": "1E57"
+        },
+        {
+            "codepoint": "1E58",
+            "status": "C",
+            "mapping": "1E59"
+        },
+        {
+            "codepoint": "1E5A",
+            "status": "C",
+            "mapping": "1E5B"
+        },
+        {
+            "codepoint": "1E5C",
+            "status": "C",
+            "mapping": "1E5D"
+        },
+        {
+            "codepoint": "1E5E",
+            "status": "C",
+            "mapping": "1E5F"
+        },
+        {
+            "codepoint": "1E60",
+            "status": "C",
+            "mapping": "1E61"
+        },
+        {
+            "codepoint": "1E62",
+            "status": "C",
+            "mapping": "1E63"
+        },
+        {
+            "codepoint": "1E64",
+            "status": "C",
+            "mapping": "1E65"
+        },
+        {
+            "codepoint": "1E66",
+            "status": "C",
+            "mapping": "1E67"
+        },
+        {
+            "codepoint": "1E68",
+            "status": "C",
+            "mapping": "1E69"
+        },
+        {
+            "codepoint": "1E6A",
+            "status": "C",
+            "mapping": "1E6B"
+        },
+        {
+            "codepoint": "1E6C",
+            "status": "C",
+            "mapping": "1E6D"
+        },
+        {
+            "codepoint": "1E6E",
+            "status": "C",
+            "mapping": "1E6F"
+        },
+        {
+            "codepoint": "1E70",
+            "status": "C",
+            "mapping": "1E71"
+        },
+        {
+            "codepoint": "1E72",
+            "status": "C",
+            "mapping": "1E73"
+        },
+        {
+            "codepoint": "1E74",
+            "status": "C",
+            "mapping": "1E75"
+        },
+        {
+            "codepoint": "1E76",
+            "status": "C",
+            "mapping": "1E77"
+        },
+        {
+            "codepoint": "1E78",
+            "status": "C",
+            "mapping": "1E79"
+        },
+        {
+            "codepoint": "1E7A",
+            "status": "C",
+            "mapping": "1E7B"
+        },
+        {
+            "codepoint": "1E7C",
+            "status": "C",
+            "mapping": "1E7D"
+        },
+        {
+            "codepoint": "1E7E",
+            "status": "C",
+            "mapping": "1E7F"
+        },
+        {
+            "codepoint": "1E80",
+            "status": "C",
+            "mapping": "1E81"
+        },
+        {
+            "codepoint": "1E82",
+            "status": "C",
+            "mapping": "1E83"
+        },
+        {
+            "codepoint": "1E84",
+            "status": "C",
+            "mapping": "1E85"
+        },
+        {
+            "codepoint": "1E86",
+            "status": "C",
+            "mapping": "1E87"
+        },
+        {
+            "codepoint": "1E88",
+            "status": "C",
+            "mapping": "1E89"
+        },
+        {
+            "codepoint": "1E8A",
+            "status": "C",
+            "mapping": "1E8B"
+        },
+        {
+            "codepoint": "1E8C",
+            "status": "C",
+            "mapping": "1E8D"
+        },
+        {
+            "codepoint": "1E8E",
+            "status": "C",
+            "mapping": "1E8F"
+        },
+        {
+            "codepoint": "1E90",
+            "status": "C",
+            "mapping": "1E91"
+        },
+        {
+            "codepoint": "1E92",
+            "status": "C",
+            "mapping": "1E93"
+        },
+        {
+            "codepoint": "1E94",
+            "status": "C",
+            "mapping": "1E95"
+        },
+        {
+            "codepoint": "1E96",
+            "status": "F",
+            "mapping": "0068 0331"
+        },
+        {
+            "codepoint": "1E97",
+            "status": "F",
+            "mapping": "0074 0308"
+        },
+        {
+            "codepoint": "1E98",
+            "status": "F",
+            "mapping": "0077 030A"
+        },
+        {
+            "codepoint": "1E99",
+            "status": "F",
+            "mapping": "0079 030A"
+        },
+        {
+            "codepoint": "1E9A",
+            "status": "F",
+            "mapping": "0061 02BE"
+        },
+        {
+            "codepoint": "1E9B",
+            "status": "C",
+            "mapping": "1E61"
+        },
+        {
+            "codepoint": "1E9E",
+            "status": "F",
+            "mapping": "0073 0073"
+        },
+        {
+            "codepoint": "1E9E",
+            "status": "S",
+            "mapping": "00DF"
+        },
+        {
+            "codepoint": "1EA0",
+            "status": "C",
+            "mapping": "1EA1"
+        },
+        {
+            "codepoint": "1EA2",
+            "status": "C",
+            "mapping": "1EA3"
+        },
+        {
+            "codepoint": "1EA4",
+            "status": "C",
+            "mapping": "1EA5"
+        },
+        {
+            "codepoint": "1EA6",
+            "status": "C",
+            "mapping": "1EA7"
+        },
+        {
+            "codepoint": "1EA8",
+            "status": "C",
+            "mapping": "1EA9"
+        },
+        {
+            "codepoint": "1EAA",
+            "status": "C",
+            "mapping": "1EAB"
+        },
+        {
+            "codepoint": "1EAC",
+            "status": "C",
+            "mapping": "1EAD"
+        },
+        {
+            "codepoint": "1EAE",
+            "status": "C",
+            "mapping": "1EAF"
+        },
+        {
+            "codepoint": "1EB0",
+            "status": "C",
+            "mapping": "1EB1"
+        },
+        {
+            "codepoint": "1EB2",
+            "status": "C",
+            "mapping": "1EB3"
+        },
+        {
+            "codepoint": "1EB4",
+            "status": "C",
+            "mapping": "1EB5"
+        },
+        {
+            "codepoint": "1EB6",
+            "status": "C",
+            "mapping": "1EB7"
+        },
+        {
+            "codepoint": "1EB8",
+            "status": "C",
+            "mapping": "1EB9"
+        },
+        {
+            "codepoint": "1EBA",
+            "status": "C",
+            "mapping": "1EBB"
+        },
+        {
+            "codepoint": "1EBC",
+            "status": "C",
+            "mapping": "1EBD"
+        },
+        {
+            "codepoint": "1EBE",
+            "status": "C",
+            "mapping": "1EBF"
+        },
+        {
+            "codepoint": "1EC0",
+            "status": "C",
+            "mapping": "1EC1"
+        },
+        {
+            "codepoint": "1EC2",
+            "status": "C",
+            "mapping": "1EC3"
+        },
+        {
+            "codepoint": "1EC4",
+            "status": "C",
+            "mapping": "1EC5"
+        },
+        {
+            "codepoint": "1EC6",
+            "status": "C",
+            "mapping": "1EC7"
+        },
+        {
+            "codepoint": "1EC8",
+            "status": "C",
+            "mapping": "1EC9"
+        },
+        {
+            "codepoint": "1ECA",
+            "status": "C",
+            "mapping": "1ECB"
+        },
+        {
+            "codepoint": "1ECC",
+            "status": "C",
+            "mapping": "1ECD"
+        },
+        {
+            "codepoint": "1ECE",
+            "status": "C",
+            "mapping": "1ECF"
+        },
+        {
+            "codepoint": "1ED0",
+            "status": "C",
+            "mapping": "1ED1"
+        },
+        {
+            "codepoint": "1ED2",
+            "status": "C",
+            "mapping": "1ED3"
+        },
+        {
+            "codepoint": "1ED4",
+            "status": "C",
+            "mapping": "1ED5"
+        },
+        {
+            "codepoint": "1ED6",
+            "status": "C",
+            "mapping": "1ED7"
+        },
+        {
+            "codepoint": "1ED8",
+            "status": "C",
+            "mapping": "1ED9"
+        },
+        {
+            "codepoint": "1EDA",
+            "status": "C",
+            "mapping": "1EDB"
+        },
+        {
+            "codepoint": "1EDC",
+            "status": "C",
+            "mapping": "1EDD"
+        },
+        {
+            "codepoint": "1EDE",
+            "status": "C",
+            "mapping": "1EDF"
+        },
+        {
+            "codepoint": "1EE0",
+            "status": "C",
+            "mapping": "1EE1"
+        },
+        {
+            "codepoint": "1EE2",
+            "status": "C",
+            "mapping": "1EE3"
+        },
+        {
+            "codepoint": "1EE4",
+            "status": "C",
+            "mapping": "1EE5"
+        },
+        {
+            "codepoint": "1EE6",
+            "status": "C",
+            "mapping": "1EE7"
+        },
+        {
+            "codepoint": "1EE8",
+            "status": "C",
+            "mapping": "1EE9"
+        },
+        {
+            "codepoint": "1EEA",
+            "status": "C",
+            "mapping": "1EEB"
+        },
+        {
+            "codepoint": "1EEC",
+            "status": "C",
+            "mapping": "1EED"
+        },
+        {
+            "codepoint": "1EEE",
+            "status": "C",
+            "mapping": "1EEF"
+        },
+        {
+            "codepoint": "1EF0",
+            "status": "C",
+            "mapping": "1EF1"
+        },
+        {
+            "codepoint": "1EF2",
+            "status": "C",
+            "mapping": "1EF3"
+        },
+        {
+            "codepoint": "1EF4",
+            "status": "C",
+            "mapping": "1EF5"
+        },
+        {
+            "codepoint": "1EF6",
+            "status": "C",
+            "mapping": "1EF7"
+        },
+        {
+            "codepoint": "1EF8",
+            "status": "C",
+            "mapping": "1EF9"
+        },
+        {
+            "codepoint": "1EFA",
+            "status": "C",
+            "mapping": "1EFB"
+        },
+        {
+            "codepoint": "1EFC",
+            "status": "C",
+            "mapping": "1EFD"
+        },
+        {
+            "codepoint": "1EFE",
+            "status": "C",
+            "mapping": "1EFF"
+        },
+        {
+            "codepoint": "1F08",
+            "status": "C",
+            "mapping": "1F00"
+        },
+        {
+            "codepoint": "1F09",
+            "status": "C",
+            "mapping": "1F01"
+        },
+        {
+            "codepoint": "1F0A",
+            "status": "C",
+            "mapping": "1F02"
+        },
+        {
+            "codepoint": "1F0B",
+            "status": "C",
+            "mapping": "1F03"
+        },
+        {
+            "codepoint": "1F0C",
+            "status": "C",
+            "mapping": "1F04"
+        },
+        {
+            "codepoint": "1F0D",
+            "status": "C",
+            "mapping": "1F05"
+        },
+        {
+            "codepoint": "1F0E",
+            "status": "C",
+            "mapping": "1F06"
+        },
+        {
+            "codepoint": "1F0F",
+            "status": "C",
+            "mapping": "1F07"
+        },
+        {
+            "codepoint": "1F18",
+            "status": "C",
+            "mapping": "1F10"
+        },
+        {
+            "codepoint": "1F19",
+            "status": "C",
+            "mapping": "1F11"
+        },
+        {
+            "codepoint": "1F1A",
+            "status": "C",
+            "mapping": "1F12"
+        },
+        {
+            "codepoint": "1F1B",
+            "status": "C",
+            "mapping": "1F13"
+        },
+        {
+            "codepoint": "1F1C",
+            "status": "C",
+            "mapping": "1F14"
+        },
+        {
+            "codepoint": "1F1D",
+            "status": "C",
+            "mapping": "1F15"
+        },
+        {
+            "codepoint": "1F28",
+            "status": "C",
+            "mapping": "1F20"
+        },
+        {
+            "codepoint": "1F29",
+            "status": "C",
+            "mapping": "1F21"
+        },
+        {
+            "codepoint": "1F2A",
+            "status": "C",
+            "mapping": "1F22"
+        },
+        {
+            "codepoint": "1F2B",
+            "status": "C",
+            "mapping": "1F23"
+        },
+        {
+            "codepoint": "1F2C",
+            "status": "C",
+            "mapping": "1F24"
+        },
+        {
+            "codepoint": "1F2D",
+            "status": "C",
+            "mapping": "1F25"
+        },
+        {
+            "codepoint": "1F2E",
+            "status": "C",
+            "mapping": "1F26"
+        },
+        {
+            "codepoint": "1F2F",
+            "status": "C",
+            "mapping": "1F27"
+        },
+        {
+            "codepoint": "1F38",
+            "status": "C",
+            "mapping": "1F30"
+        },
+        {
+            "codepoint": "1F39",
+            "status": "C",
+            "mapping": "1F31"
+        },
+        {
+            "codepoint": "1F3A",
+            "status": "C",
+            "mapping": "1F32"
+        },
+        {
+            "codepoint": "1F3B",
+            "status": "C",
+            "mapping": "1F33"
+        },
+        {
+            "codepoint": "1F3C",
+            "status": "C",
+            "mapping": "1F34"
+        },
+        {
+            "codepoint": "1F3D",
+            "status": "C",
+            "mapping": "1F35"
+        },
+        {
+            "codepoint": "1F3E",
+            "status": "C",
+            "mapping": "1F36"
+        },
+        {
+            "codepoint": "1F3F",
+            "status": "C",
+            "mapping": "1F37"
+        },
+        {
+            "codepoint": "1F48",
+            "status": "C",
+            "mapping": "1F40"
+        },
+        {
+            "codepoint": "1F49",
+            "status": "C",
+            "mapping": "1F41"
+        },
+        {
+            "codepoint": "1F4A",
+            "status": "C",
+            "mapping": "1F42"
+        },
+        {
+            "codepoint": "1F4B",
+            "status": "C",
+            "mapping": "1F43"
+        },
+        {
+            "codepoint": "1F4C",
+            "status": "C",
+            "mapping": "1F44"
+        },
+        {
+            "codepoint": "1F4D",
+            "status": "C",
+            "mapping": "1F45"
+        },
+        {
+            "codepoint": "1F50",
+            "status": "F",
+            "mapping": "03C5 0313"
+        },
+        {
+            "codepoint": "1F52",
+            "status": "F",
+            "mapping": "03C5 0313 0300"
+        },
+        {
+            "codepoint": "1F54",
+            "status": "F",
+            "mapping": "03C5 0313 0301"
+        },
+        {
+            "codepoint": "1F56",
+            "status": "F",
+            "mapping": "03C5 0313 0342"
+        },
+        {
+            "codepoint": "1F59",
+            "status": "C",
+            "mapping": "1F51"
+        },
+        {
+            "codepoint": "1F5B",
+            "status": "C",
+            "mapping": "1F53"
+        },
+        {
+            "codepoint": "1F5D",
+            "status": "C",
+            "mapping": "1F55"
+        },
+        {
+            "codepoint": "1F5F",
+            "status": "C",
+            "mapping": "1F57"
+        },
+        {
+            "codepoint": "1F68",
+            "status": "C",
+            "mapping": "1F60"
+        },
+        {
+            "codepoint": "1F69",
+            "status": "C",
+            "mapping": "1F61"
+        },
+        {
+            "codepoint": "1F6A",
+            "status": "C",
+            "mapping": "1F62"
+        },
+        {
+            "codepoint": "1F6B",
+            "status": "C",
+            "mapping": "1F63"
+        },
+        {
+            "codepoint": "1F6C",
+            "status": "C",
+            "mapping": "1F64"
+        },
+        {
+            "codepoint": "1F6D",
+            "status": "C",
+            "mapping": "1F65"
+        },
+        {
+            "codepoint": "1F6E",
+            "status": "C",
+            "mapping": "1F66"
+        },
+        {
+            "codepoint": "1F6F",
+            "status": "C",
+            "mapping": "1F67"
+        },
+        {
+            "codepoint": "1F80",
+            "status": "F",
+            "mapping": "1F00 03B9"
+        },
+        {
+            "codepoint": "1F81",
+            "status": "F",
+            "mapping": "1F01 03B9"
+        },
+        {
+            "codepoint": "1F82",
+            "status": "F",
+            "mapping": "1F02 03B9"
+        },
+        {
+            "codepoint": "1F83",
+            "status": "F",
+            "mapping": "1F03 03B9"
+        },
+        {
+            "codepoint": "1F84",
+            "status": "F",
+            "mapping": "1F04 03B9"
+        },
+        {
+            "codepoint": "1F85",
+            "status": "F",
+            "mapping": "1F05 03B9"
+        },
+        {
+            "codepoint": "1F86",
+            "status": "F",
+            "mapping": "1F06 03B9"
+        },
+        {
+            "codepoint": "1F87",
+            "status": "F",
+            "mapping": "1F07 03B9"
+        },
+        {
+            "codepoint": "1F88",
+            "status": "F",
+            "mapping": "1F00 03B9"
+        },
+        {
+            "codepoint": "1F88",
+            "status": "S",
+            "mapping": "1F80"
+        },
+        {
+            "codepoint": "1F89",
+            "status": "F",
+            "mapping": "1F01 03B9"
+        },
+        {
+            "codepoint": "1F89",
+            "status": "S",
+            "mapping": "1F81"
+        },
+        {
+            "codepoint": "1F8A",
+            "status": "F",
+            "mapping": "1F02 03B9"
+        },
+        {
+            "codepoint": "1F8A",
+            "status": "S",
+            "mapping": "1F82"
+        },
+        {
+            "codepoint": "1F8B",
+            "status": "F",
+            "mapping": "1F03 03B9"
+        },
+        {
+            "codepoint": "1F8B",
+            "status": "S",
+            "mapping": "1F83"
+        },
+        {
+            "codepoint": "1F8C",
+            "status": "F",
+            "mapping": "1F04 03B9"
+        },
+        {
+            "codepoint": "1F8C",
+            "status": "S",
+            "mapping": "1F84"
+        },
+        {
+            "codepoint": "1F8D",
+            "status": "F",
+            "mapping": "1F05 03B9"
+        },
+        {
+            "codepoint": "1F8D",
+            "status": "S",
+            "mapping": "1F85"
+        },
+        {
+            "codepoint": "1F8E",
+            "status": "F",
+            "mapping": "1F06 03B9"
+        },
+        {
+            "codepoint": "1F8E",
+            "status": "S",
+            "mapping": "1F86"
+        },
+        {
+            "codepoint": "1F8F",
+            "status": "F",
+            "mapping": "1F07 03B9"
+        },
+        {
+            "codepoint": "1F8F",
+            "status": "S",
+            "mapping": "1F87"
+        },
+        {
+            "codepoint": "1F90",
+            "status": "F",
+            "mapping": "1F20 03B9"
+        },
+        {
+            "codepoint": "1F91",
+            "status": "F",
+            "mapping": "1F21 03B9"
+        },
+        {
+            "codepoint": "1F92",
+            "status": "F",
+            "mapping": "1F22 03B9"
+        },
+        {
+            "codepoint": "1F93",
+            "status": "F",
+            "mapping": "1F23 03B9"
+        },
+        {
+            "codepoint": "1F94",
+            "status": "F",
+            "mapping": "1F24 03B9"
+        },
+        {
+            "codepoint": "1F95",
+            "status": "F",
+            "mapping": "1F25 03B9"
+        },
+        {
+            "codepoint": "1F96",
+            "status": "F",
+            "mapping": "1F26 03B9"
+        },
+        {
+            "codepoint": "1F97",
+            "status": "F",
+            "mapping": "1F27 03B9"
+        },
+        {
+            "codepoint": "1F98",
+            "status": "F",
+            "mapping": "1F20 03B9"
+        },
+        {
+            "codepoint": "1F98",
+            "status": "S",
+            "mapping": "1F90"
+        },
+        {
+            "codepoint": "1F99",
+            "status": "F",
+            "mapping": "1F21 03B9"
+        },
+        {
+            "codepoint": "1F99",
+            "status": "S",
+            "mapping": "1F91"
+        },
+        {
+            "codepoint": "1F9A",
+            "status": "F",
+            "mapping": "1F22 03B9"
+        },
+        {
+            "codepoint": "1F9A",
+            "status": "S",
+            "mapping": "1F92"
+        },
+        {
+            "codepoint": "1F9B",
+            "status": "F",
+            "mapping": "1F23 03B9"
+        },
+        {
+            "codepoint": "1F9B",
+            "status": "S",
+            "mapping": "1F93"
+        },
+        {
+            "codepoint": "1F9C",
+            "status": "F",
+            "mapping": "1F24 03B9"
+        },
+        {
+            "codepoint": "1F9C",
+            "status": "S",
+            "mapping": "1F94"
+        },
+        {
+            "codepoint": "1F9D",
+            "status": "F",
+            "mapping": "1F25 03B9"
+        },
+        {
+            "codepoint": "1F9D",
+            "status": "S",
+            "mapping": "1F95"
+        },
+        {
+            "codepoint": "1F9E",
+            "status": "F",
+            "mapping": "1F26 03B9"
+        },
+        {
+            "codepoint": "1F9E",
+            "status": "S",
+            "mapping": "1F96"
+        },
+        {
+            "codepoint": "1F9F",
+            "status": "F",
+            "mapping": "1F27 03B9"
+        },
+        {
+            "codepoint": "1F9F",
+            "status": "S",
+            "mapping": "1F97"
+        },
+        {
+            "codepoint": "1FA0",
+            "status": "F",
+            "mapping": "1F60 03B9"
+        },
+        {
+            "codepoint": "1FA1",
+            "status": "F",
+            "mapping": "1F61 03B9"
+        },
+        {
+            "codepoint": "1FA2",
+            "status": "F",
+            "mapping": "1F62 03B9"
+        },
+        {
+            "codepoint": "1FA3",
+            "status": "F",
+            "mapping": "1F63 03B9"
+        },
+        {
+            "codepoint": "1FA4",
+            "status": "F",
+            "mapping": "1F64 03B9"
+        },
+        {
+            "codepoint": "1FA5",
+            "status": "F",
+            "mapping": "1F65 03B9"
+        },
+        {
+            "codepoint": "1FA6",
+            "status": "F",
+            "mapping": "1F66 03B9"
+        },
+        {
+            "codepoint": "1FA7",
+            "status": "F",
+            "mapping": "1F67 03B9"
+        },
+        {
+            "codepoint": "1FA8",
+            "status": "F",
+            "mapping": "1F60 03B9"
+        },
+        {
+            "codepoint": "1FA8",
+            "status": "S",
+            "mapping": "1FA0"
+        },
+        {
+            "codepoint": "1FA9",
+            "status": "F",
+            "mapping": "1F61 03B9"
+        },
+        {
+            "codepoint": "1FA9",
+            "status": "S",
+            "mapping": "1FA1"
+        },
+        {
+            "codepoint": "1FAA",
+            "status": "F",
+            "mapping": "1F62 03B9"
+        },
+        {
+            "codepoint": "1FAA",
+            "status": "S",
+            "mapping": "1FA2"
+        },
+        {
+            "codepoint": "1FAB",
+            "status": "F",
+            "mapping": "1F63 03B9"
+        },
+        {
+            "codepoint": "1FAB",
+            "status": "S",
+            "mapping": "1FA3"
+        },
+        {
+            "codepoint": "1FAC",
+            "status": "F",
+            "mapping": "1F64 03B9"
+        },
+        {
+            "codepoint": "1FAC",
+            "status": "S",
+            "mapping": "1FA4"
+        },
+        {
+            "codepoint": "1FAD",
+            "status": "F",
+            "mapping": "1F65 03B9"
+        },
+        {
+            "codepoint": "1FAD",
+            "status": "S",
+            "mapping": "1FA5"
+        },
+        {
+            "codepoint": "1FAE",
+            "status": "F",
+            "mapping": "1F66 03B9"
+        },
+        {
+            "codepoint": "1FAE",
+            "status": "S",
+            "mapping": "1FA6"
+        },
+        {
+            "codepoint": "1FAF",
+            "status": "F",
+            "mapping": "1F67 03B9"
+        },
+        {
+            "codepoint": "1FAF",
+            "status": "S",
+            "mapping": "1FA7"
+        },
+        {
+            "codepoint": "1FB2",
+            "status": "F",
+            "mapping": "1F70 03B9"
+        },
+        {
+            "codepoint": "1FB3",
+            "status": "F",
+            "mapping": "03B1 03B9"
+        },
+        {
+            "codepoint": "1FB4",
+            "status": "F",
+            "mapping": "03AC 03B9"
+        },
+        {
+            "codepoint": "1FB6",
+            "status": "F",
+            "mapping": "03B1 0342"
+        },
+        {
+            "codepoint": "1FB7",
+            "status": "F",
+            "mapping": "03B1 0342 03B9"
+        },
+        {
+            "codepoint": "1FB8",
+            "status": "C",
+            "mapping": "1FB0"
+        },
+        {
+            "codepoint": "1FB9",
+            "status": "C",
+            "mapping": "1FB1"
+        },
+        {
+            "codepoint": "1FBA",
+            "status": "C",
+            "mapping": "1F70"
+        },
+        {
+            "codepoint": "1FBB",
+            "status": "C",
+            "mapping": "1F71"
+        },
+        {
+            "codepoint": "1FBC",
+            "status": "F",
+            "mapping": "03B1 03B9"
+        },
+        {
+            "codepoint": "1FBC",
+            "status": "S",
+            "mapping": "1FB3"
+        },
+        {
+            "codepoint": "1FBE",
+            "status": "C",
+            "mapping": "03B9"
+        },
+        {
+            "codepoint": "1FC2",
+            "status": "F",
+            "mapping": "1F74 03B9"
+        },
+        {
+            "codepoint": "1FC3",
+            "status": "F",
+            "mapping": "03B7 03B9"
+        },
+        {
+            "codepoint": "1FC4",
+            "status": "F",
+            "mapping": "03AE 03B9"
+        },
+        {
+            "codepoint": "1FC6",
+            "status": "F",
+            "mapping": "03B7 0342"
+        },
+        {
+            "codepoint": "1FC7",
+            "status": "F",
+            "mapping": "03B7 0342 03B9"
+        },
+        {
+            "codepoint": "1FC8",
+            "status": "C",
+            "mapping": "1F72"
+        },
+        {
+            "codepoint": "1FC9",
+            "status": "C",
+            "mapping": "1F73"
+        },
+        {
+            "codepoint": "1FCA",
+            "status": "C",
+            "mapping": "1F74"
+        },
+        {
+            "codepoint": "1FCB",
+            "status": "C",
+            "mapping": "1F75"
+        },
+        {
+            "codepoint": "1FCC",
+            "status": "F",
+            "mapping": "03B7 03B9"
+        },
+        {
+            "codepoint": "1FCC",
+            "status": "S",
+            "mapping": "1FC3"
+        },
+        {
+            "codepoint": "1FD2",
+            "status": "F",
+            "mapping": "03B9 0308 0300"
+        },
+        {
+            "codepoint": "1FD3",
+            "status": "F",
+            "mapping": "03B9 0308 0301"
+        },
+        {
+            "codepoint": "1FD6",
+            "status": "F",
+            "mapping": "03B9 0342"
+        },
+        {
+            "codepoint": "1FD7",
+            "status": "F",
+            "mapping": "03B9 0308 0342"
+        },
+        {
+            "codepoint": "1FD8",
+            "status": "C",
+            "mapping": "1FD0"
+        },
+        {
+            "codepoint": "1FD9",
+            "status": "C",
+            "mapping": "1FD1"
+        },
+        {
+            "codepoint": "1FDA",
+            "status": "C",
+            "mapping": "1F76"
+        },
+        {
+            "codepoint": "1FDB",
+            "status": "C",
+            "mapping": "1F77"
+        },
+        {
+            "codepoint": "1FE2",
+            "status": "F",
+            "mapping": "03C5 0308 0300"
+        },
+        {
+            "codepoint": "1FE3",
+            "status": "F",
+            "mapping": "03C5 0308 0301"
+        },
+        {
+            "codepoint": "1FE4",
+            "status": "F",
+            "mapping": "03C1 0313"
+        },
+        {
+            "codepoint": "1FE6",
+            "status": "F",
+            "mapping": "03C5 0342"
+        },
+        {
+            "codepoint": "1FE7",
+            "status": "F",
+            "mapping": "03C5 0308 0342"
+        },
+        {
+            "codepoint": "1FE8",
+            "status": "C",
+            "mapping": "1FE0"
+        },
+        {
+            "codepoint": "1FE9",
+            "status": "C",
+            "mapping": "1FE1"
+        },
+        {
+            "codepoint": "1FEA",
+            "status": "C",
+            "mapping": "1F7A"
+        },
+        {
+            "codepoint": "1FEB",
+            "status": "C",
+            "mapping": "1F7B"
+        },
+        {
+            "codepoint": "1FEC",
+            "status": "C",
+            "mapping": "1FE5"
+        },
+        {
+            "codepoint": "1FF2",
+            "status": "F",
+            "mapping": "1F7C 03B9"
+        },
+        {
+            "codepoint": "1FF3",
+            "status": "F",
+            "mapping": "03C9 03B9"
+        },
+        {
+            "codepoint": "1FF4",
+            "status": "F",
+            "mapping": "03CE 03B9"
+        },
+        {
+            "codepoint": "1FF6",
+            "status": "F",
+            "mapping": "03C9 0342"
+        },
+        {
+            "codepoint": "1FF7",
+            "status": "F",
+            "mapping": "03C9 0342 03B9"
+        },
+        {
+            "codepoint": "1FF8",
+            "status": "C",
+            "mapping": "1F78"
+        },
+        {
+            "codepoint": "1FF9",
+            "status": "C",
+            "mapping": "1F79"
+        },
+        {
+            "codepoint": "1FFA",
+            "status": "C",
+            "mapping": "1F7C"
+        },
+        {
+            "codepoint": "1FFB",
+            "status": "C",
+            "mapping": "1F7D"
+        },
+        {
+            "codepoint": "1FFC",
+            "status": "F",
+            "mapping": "03C9 03B9"
+        },
+        {
+            "codepoint": "1FFC",
+            "status": "S",
+            "mapping": "1FF3"
+        },
+        {
+            "codepoint": "2126",
+            "status": "C",
+            "mapping": "03C9"
+        },
+        {
+            "codepoint": "212A",
+            "status": "C",
+            "mapping": "006B"
+        },
+        {
+            "codepoint": "212B",
+            "status": "C",
+            "mapping": "00E5"
+        },
+        {
+            "codepoint": "2132",
+            "status": "C",
+            "mapping": "214E"
+        },
+        {
+            "codepoint": "2160",
+            "status": "C",
+            "mapping": "2170"
+        },
+        {
+            "codepoint": "2161",
+            "status": "C",
+            "mapping": "2171"
+        },
+        {
+            "codepoint": "2162",
+            "status": "C",
+            "mapping": "2172"
+        },
+        {
+            "codepoint": "2163",
+            "status": "C",
+            "mapping": "2173"
+        },
+        {
+            "codepoint": "2164",
+            "status": "C",
+            "mapping": "2174"
+        },
+        {
+            "codepoint": "2165",
+            "status": "C",
+            "mapping": "2175"
+        },
+        {
+            "codepoint": "2166",
+            "status": "C",
+            "mapping": "2176"
+        },
+        {
+            "codepoint": "2167",
+            "status": "C",
+            "mapping": "2177"
+        },
+        {
+            "codepoint": "2168",
+            "status": "C",
+            "mapping": "2178"
+        },
+        {
+            "codepoint": "2169",
+            "status": "C",
+            "mapping": "2179"
+        },
+        {
+            "codepoint": "216A",
+            "status": "C",
+            "mapping": "217A"
+        },
+        {
+            "codepoint": "216B",
+            "status": "C",
+            "mapping": "217B"
+        },
+        {
+            "codepoint": "216C",
+            "status": "C",
+            "mapping": "217C"
+        },
+        {
+            "codepoint": "216D",
+            "status": "C",
+            "mapping": "217D"
+        },
+        {
+            "codepoint": "216E",
+            "status": "C",
+            "mapping": "217E"
+        },
+        {
+            "codepoint": "216F",
+            "status": "C",
+            "mapping": "217F"
+        },
+        {
+            "codepoint": "2183",
+            "status": "C",
+            "mapping": "2184"
+        },
+        {
+            "codepoint": "24B6",
+            "status": "C",
+            "mapping": "24D0"
+        },
+        {
+            "codepoint": "24B7",
+            "status": "C",
+            "mapping": "24D1"
+        },
+        {
+            "codepoint": "24B8",
+            "status": "C",
+            "mapping": "24D2"
+        },
+        {
+            "codepoint": "24B9",
+            "status": "C",
+            "mapping": "24D3"
+        },
+        {
+            "codepoint": "24BA",
+            "status": "C",
+            "mapping": "24D4"
+        },
+        {
+            "codepoint": "24BB",
+            "status": "C",
+            "mapping": "24D5"
+        },
+        {
+            "codepoint": "24BC",
+            "status": "C",
+            "mapping": "24D6"
+        },
+        {
+            "codepoint": "24BD",
+            "status": "C",
+            "mapping": "24D7"
+        },
+        {
+            "codepoint": "24BE",
+            "status": "C",
+            "mapping": "24D8"
+        },
+        {
+            "codepoint": "24BF",
+            "status": "C",
+            "mapping": "24D9"
+        },
+        {
+            "codepoint": "24C0",
+            "status": "C",
+            "mapping": "24DA"
+        },
+        {
+            "codepoint": "24C1",
+            "status": "C",
+            "mapping": "24DB"
+        },
+        {
+            "codepoint": "24C2",
+            "status": "C",
+            "mapping": "24DC"
+        },
+        {
+            "codepoint": "24C3",
+            "status": "C",
+            "mapping": "24DD"
+        },
+        {
+            "codepoint": "24C4",
+            "status": "C",
+            "mapping": "24DE"
+        },
+        {
+            "codepoint": "24C5",
+            "status": "C",
+            "mapping": "24DF"
+        },
+        {
+            "codepoint": "24C6",
+            "status": "C",
+            "mapping": "24E0"
+        },
+        {
+            "codepoint": "24C7",
+            "status": "C",
+            "mapping": "24E1"
+        },
+        {
+            "codepoint": "24C8",
+            "status": "C",
+            "mapping": "24E2"
+        },
+        {
+            "codepoint": "24C9",
+            "status": "C",
+            "mapping": "24E3"
+        },
+        {
+            "codepoint": "24CA",
+            "status": "C",
+            "mapping": "24E4"
+        },
+        {
+            "codepoint": "24CB",
+            "status": "C",
+            "mapping": "24E5"
+        },
+        {
+            "codepoint": "24CC",
+            "status": "C",
+            "mapping": "24E6"
+        },
+        {
+            "codepoint": "24CD",
+            "status": "C",
+            "mapping": "24E7"
+        },
+        {
+            "codepoint": "24CE",
+            "status": "C",
+            "mapping": "24E8"
+        },
+        {
+            "codepoint": "24CF",
+            "status": "C",
+            "mapping": "24E9"
+        },
+        {
+            "codepoint": "2C00",
+            "status": "C",
+            "mapping": "2C30"
+        },
+        {
+            "codepoint": "2C01",
+            "status": "C",
+            "mapping": "2C31"
+        },
+        {
+            "codepoint": "2C02",
+            "status": "C",
+            "mapping": "2C32"
+        },
+        {
+            "codepoint": "2C03",
+            "status": "C",
+            "mapping": "2C33"
+        },
+        {
+            "codepoint": "2C04",
+            "status": "C",
+            "mapping": "2C34"
+        },
+        {
+            "codepoint": "2C05",
+            "status": "C",
+            "mapping": "2C35"
+        },
+        {
+            "codepoint": "2C06",
+            "status": "C",
+            "mapping": "2C36"
+        },
+        {
+            "codepoint": "2C07",
+            "status": "C",
+            "mapping": "2C37"
+        },
+        {
+            "codepoint": "2C08",
+            "status": "C",
+            "mapping": "2C38"
+        },
+        {
+            "codepoint": "2C09",
+            "status": "C",
+            "mapping": "2C39"
+        },
+        {
+            "codepoint": "2C0A",
+            "status": "C",
+            "mapping": "2C3A"
+        },
+        {
+            "codepoint": "2C0B",
+            "status": "C",
+            "mapping": "2C3B"
+        },
+        {
+            "codepoint": "2C0C",
+            "status": "C",
+            "mapping": "2C3C"
+        },
+        {
+            "codepoint": "2C0D",
+            "status": "C",
+            "mapping": "2C3D"
+        },
+        {
+            "codepoint": "2C0E",
+            "status": "C",
+            "mapping": "2C3E"
+        },
+        {
+            "codepoint": "2C0F",
+            "status": "C",
+            "mapping": "2C3F"
+        },
+        {
+            "codepoint": "2C10",
+            "status": "C",
+            "mapping": "2C40"
+        },
+        {
+            "codepoint": "2C11",
+            "status": "C",
+            "mapping": "2C41"
+        },
+        {
+            "codepoint": "2C12",
+            "status": "C",
+            "mapping": "2C42"
+        },
+        {
+            "codepoint": "2C13",
+            "status": "C",
+            "mapping": "2C43"
+        },
+        {
+            "codepoint": "2C14",
+            "status": "C",
+            "mapping": "2C44"
+        },
+        {
+            "codepoint": "2C15",
+            "status": "C",
+            "mapping": "2C45"
+        },
+        {
+            "codepoint": "2C16",
+            "status": "C",
+            "mapping": "2C46"
+        },
+        {
+            "codepoint": "2C17",
+            "status": "C",
+            "mapping": "2C47"
+        },
+        {
+            "codepoint": "2C18",
+            "status": "C",
+            "mapping": "2C48"
+        },
+        {
+            "codepoint": "2C19",
+            "status": "C",
+            "mapping": "2C49"
+        },
+        {
+            "codepoint": "2C1A",
+            "status": "C",
+            "mapping": "2C4A"
+        },
+        {
+            "codepoint": "2C1B",
+            "status": "C",
+            "mapping": "2C4B"
+        },
+        {
+            "codepoint": "2C1C",
+            "status": "C",
+            "mapping": "2C4C"
+        },
+        {
+            "codepoint": "2C1D",
+            "status": "C",
+            "mapping": "2C4D"
+        },
+        {
+            "codepoint": "2C1E",
+            "status": "C",
+            "mapping": "2C4E"
+        },
+        {
+            "codepoint": "2C1F",
+            "status": "C",
+            "mapping": "2C4F"
+        },
+        {
+            "codepoint": "2C20",
+            "status": "C",
+            "mapping": "2C50"
+        },
+        {
+            "codepoint": "2C21",
+            "status": "C",
+            "mapping": "2C51"
+        },
+        {
+            "codepoint": "2C22",
+            "status": "C",
+            "mapping": "2C52"
+        },
+        {
+            "codepoint": "2C23",
+            "status": "C",
+            "mapping": "2C53"
+        },
+        {
+            "codepoint": "2C24",
+            "status": "C",
+            "mapping": "2C54"
+        },
+        {
+            "codepoint": "2C25",
+            "status": "C",
+            "mapping": "2C55"
+        },
+        {
+            "codepoint": "2C26",
+            "status": "C",
+            "mapping": "2C56"
+        },
+        {
+            "codepoint": "2C27",
+            "status": "C",
+            "mapping": "2C57"
+        },
+        {
+            "codepoint": "2C28",
+            "status": "C",
+            "mapping": "2C58"
+        },
+        {
+            "codepoint": "2C29",
+            "status": "C",
+            "mapping": "2C59"
+        },
+        {
+            "codepoint": "2C2A",
+            "status": "C",
+            "mapping": "2C5A"
+        },
+        {
+            "codepoint": "2C2B",
+            "status": "C",
+            "mapping": "2C5B"
+        },
+        {
+            "codepoint": "2C2C",
+            "status": "C",
+            "mapping": "2C5C"
+        },
+        {
+            "codepoint": "2C2D",
+            "status": "C",
+            "mapping": "2C5D"
+        },
+        {
+            "codepoint": "2C2E",
+            "status": "C",
+            "mapping": "2C5E"
+        },
+        {
+            "codepoint": "2C2F",
+            "status": "C",
+            "mapping": "2C5F"
+        },
+        {
+            "codepoint": "2C60",
+            "status": "C",
+            "mapping": "2C61"
+        },
+        {
+            "codepoint": "2C62",
+            "status": "C",
+            "mapping": "026B"
+        },
+        {
+            "codepoint": "2C63",
+            "status": "C",
+            "mapping": "1D7D"
+        },
+        {
+            "codepoint": "2C64",
+            "status": "C",
+            "mapping": "027D"
+        },
+        {
+            "codepoint": "2C67",
+            "status": "C",
+            "mapping": "2C68"
+        },
+        {
+            "codepoint": "2C69",
+            "status": "C",
+            "mapping": "2C6A"
+        },
+        {
+            "codepoint": "2C6B",
+            "status": "C",
+            "mapping": "2C6C"
+        },
+        {
+            "codepoint": "2C6D",
+            "status": "C",
+            "mapping": "0251"
+        },
+        {
+            "codepoint": "2C6E",
+            "status": "C",
+            "mapping": "0271"
+        },
+        {
+            "codepoint": "2C6F",
+            "status": "C",
+            "mapping": "0250"
+        },
+        {
+            "codepoint": "2C70",
+            "status": "C",
+            "mapping": "0252"
+        },
+        {
+            "codepoint": "2C72",
+            "status": "C",
+            "mapping": "2C73"
+        },
+        {
+            "codepoint": "2C75",
+            "status": "C",
+            "mapping": "2C76"
+        },
+        {
+            "codepoint": "2C7E",
+            "status": "C",
+            "mapping": "023F"
+        },
+        {
+            "codepoint": "2C7F",
+            "status": "C",
+            "mapping": "0240"
+        },
+        {
+            "codepoint": "2C80",
+            "status": "C",
+            "mapping": "2C81"
+        },
+        {
+            "codepoint": "2C82",
+            "status": "C",
+            "mapping": "2C83"
+        },
+        {
+            "codepoint": "2C84",
+            "status": "C",
+            "mapping": "2C85"
+        },
+        {
+            "codepoint": "2C86",
+            "status": "C",
+            "mapping": "2C87"
+        },
+        {
+            "codepoint": "2C88",
+            "status": "C",
+            "mapping": "2C89"
+        },
+        {
+            "codepoint": "2C8A",
+            "status": "C",
+            "mapping": "2C8B"
+        },
+        {
+            "codepoint": "2C8C",
+            "status": "C",
+            "mapping": "2C8D"
+        },
+        {
+            "codepoint": "2C8E",
+            "status": "C",
+            "mapping": "2C8F"
+        },
+        {
+            "codepoint": "2C90",
+            "status": "C",
+            "mapping": "2C91"
+        },
+        {
+            "codepoint": "2C92",
+            "status": "C",
+            "mapping": "2C93"
+        },
+        {
+            "codepoint": "2C94",
+            "status": "C",
+            "mapping": "2C95"
+        },
+        {
+            "codepoint": "2C96",
+            "status": "C",
+            "mapping": "2C97"
+        },
+        {
+            "codepoint": "2C98",
+            "status": "C",
+            "mapping": "2C99"
+        },
+        {
+            "codepoint": "2C9A",
+            "status": "C",
+            "mapping": "2C9B"
+        },
+        {
+            "codepoint": "2C9C",
+            "status": "C",
+            "mapping": "2C9D"
+        },
+        {
+            "codepoint": "2C9E",
+            "status": "C",
+            "mapping": "2C9F"
+        },
+        {
+            "codepoint": "2CA0",
+            "status": "C",
+            "mapping": "2CA1"
+        },
+        {
+            "codepoint": "2CA2",
+            "status": "C",
+            "mapping": "2CA3"
+        },
+        {
+            "codepoint": "2CA4",
+            "status": "C",
+            "mapping": "2CA5"
+        },
+        {
+            "codepoint": "2CA6",
+            "status": "C",
+            "mapping": "2CA7"
+        },
+        {
+            "codepoint": "2CA8",
+            "status": "C",
+            "mapping": "2CA9"
+        },
+        {
+            "codepoint": "2CAA",
+            "status": "C",
+            "mapping": "2CAB"
+        },
+        {
+            "codepoint": "2CAC",
+            "status": "C",
+            "mapping": "2CAD"
+        },
+        {
+            "codepoint": "2CAE",
+            "status": "C",
+            "mapping": "2CAF"
+        },
+        {
+            "codepoint": "2CB0",
+            "status": "C",
+            "mapping": "2CB1"
+        },
+        {
+            "codepoint": "2CB2",
+            "status": "C",
+            "mapping": "2CB3"
+        },
+        {
+            "codepoint": "2CB4",
+            "status": "C",
+            "mapping": "2CB5"
+        },
+        {
+            "codepoint": "2CB6",
+            "status": "C",
+            "mapping": "2CB7"
+        },
+        {
+            "codepoint": "2CB8",
+            "status": "C",
+            "mapping": "2CB9"
+        },
+        {
+            "codepoint": "2CBA",
+            "status": "C",
+            "mapping": "2CBB"
+        },
+        {
+            "codepoint": "2CBC",
+            "status": "C",
+            "mapping": "2CBD"
+        },
+        {
+            "codepoint": "2CBE",
+            "status": "C",
+            "mapping": "2CBF"
+        },
+        {
+            "codepoint": "2CC0",
+            "status": "C",
+            "mapping": "2CC1"
+        },
+        {
+            "codepoint": "2CC2",
+            "status": "C",
+            "mapping": "2CC3"
+        },
+        {
+            "codepoint": "2CC4",
+            "status": "C",
+            "mapping": "2CC5"
+        },
+        {
+            "codepoint": "2CC6",
+            "status": "C",
+            "mapping": "2CC7"
+        },
+        {
+            "codepoint": "2CC8",
+            "status": "C",
+            "mapping": "2CC9"
+        },
+        {
+            "codepoint": "2CCA",
+            "status": "C",
+            "mapping": "2CCB"
+        },
+        {
+            "codepoint": "2CCC",
+            "status": "C",
+            "mapping": "2CCD"
+        },
+        {
+            "codepoint": "2CCE",
+            "status": "C",
+            "mapping": "2CCF"
+        },
+        {
+            "codepoint": "2CD0",
+            "status": "C",
+            "mapping": "2CD1"
+        },
+        {
+            "codepoint": "2CD2",
+            "status": "C",
+            "mapping": "2CD3"
+        },
+        {
+            "codepoint": "2CD4",
+            "status": "C",
+            "mapping": "2CD5"
+        },
+        {
+            "codepoint": "2CD6",
+            "status": "C",
+            "mapping": "2CD7"
+        },
+        {
+            "codepoint": "2CD8",
+            "status": "C",
+            "mapping": "2CD9"
+        },
+        {
+            "codepoint": "2CDA",
+            "status": "C",
+            "mapping": "2CDB"
+        },
+        {
+            "codepoint": "2CDC",
+            "status": "C",
+            "mapping": "2CDD"
+        },
+        {
+            "codepoint": "2CDE",
+            "status": "C",
+            "mapping": "2CDF"
+        },
+        {
+            "codepoint": "2CE0",
+            "status": "C",
+            "mapping": "2CE1"
+        },
+        {
+            "codepoint": "2CE2",
+            "status": "C",
+            "mapping": "2CE3"
+        },
+        {
+            "codepoint": "2CEB",
+            "status": "C",
+            "mapping": "2CEC"
+        },
+        {
+            "codepoint": "2CED",
+            "status": "C",
+            "mapping": "2CEE"
+        },
+        {
+            "codepoint": "2CF2",
+            "status": "C",
+            "mapping": "2CF3"
+        },
+        {
+            "codepoint": "A640",
+            "status": "C",
+            "mapping": "A641"
+        },
+        {
+            "codepoint": "A642",
+            "status": "C",
+            "mapping": "A643"
+        },
+        {
+            "codepoint": "A644",
+            "status": "C",
+            "mapping": "A645"
+        },
+        {
+            "codepoint": "A646",
+            "status": "C",
+            "mapping": "A647"
+        },
+        {
+            "codepoint": "A648",
+            "status": "C",
+            "mapping": "A649"
+        },
+        {
+            "codepoint": "A64A",
+            "status": "C",
+            "mapping": "A64B"
+        },
+        {
+            "codepoint": "A64C",
+            "status": "C",
+            "mapping": "A64D"
+        },
+        {
+            "codepoint": "A64E",
+            "status": "C",
+            "mapping": "A64F"
+        },
+        {
+            "codepoint": "A650",
+            "status": "C",
+            "mapping": "A651"
+        },
+        {
+            "codepoint": "A652",
+            "status": "C",
+            "mapping": "A653"
+        },
+        {
+            "codepoint": "A654",
+            "status": "C",
+            "mapping": "A655"
+        },
+        {
+            "codepoint": "A656",
+            "status": "C",
+            "mapping": "A657"
+        },
+        {
+            "codepoint": "A658",
+            "status": "C",
+            "mapping": "A659"
+        },
+        {
+            "codepoint": "A65A",
+            "status": "C",
+            "mapping": "A65B"
+        },
+        {
+            "codepoint": "A65C",
+            "status": "C",
+            "mapping": "A65D"
+        },
+        {
+            "codepoint": "A65E",
+            "status": "C",
+            "mapping": "A65F"
+        },
+        {
+            "codepoint": "A660",
+            "status": "C",
+            "mapping": "A661"
+        },
+        {
+            "codepoint": "A662",
+            "status": "C",
+            "mapping": "A663"
+        },
+        {
+            "codepoint": "A664",
+            "status": "C",
+            "mapping": "A665"
+        },
+        {
+            "codepoint": "A666",
+            "status": "C",
+            "mapping": "A667"
+        },
+        {
+            "codepoint": "A668",
+            "status": "C",
+            "mapping": "A669"
+        },
+        {
+            "codepoint": "A66A",
+            "status": "C",
+            "mapping": "A66B"
+        },
+        {
+            "codepoint": "A66C",
+            "status": "C",
+            "mapping": "A66D"
+        },
+        {
+            "codepoint": "A680",
+            "status": "C",
+            "mapping": "A681"
+        },
+        {
+            "codepoint": "A682",
+            "status": "C",
+            "mapping": "A683"
+        },
+        {
+            "codepoint": "A684",
+            "status": "C",
+            "mapping": "A685"
+        },
+        {
+            "codepoint": "A686",
+            "status": "C",
+            "mapping": "A687"
+        },
+        {
+            "codepoint": "A688",
+            "status": "C",
+            "mapping": "A689"
+        },
+        {
+            "codepoint": "A68A",
+            "status": "C",
+            "mapping": "A68B"
+        },
+        {
+            "codepoint": "A68C",
+            "status": "C",
+            "mapping": "A68D"
+        },
+        {
+            "codepoint": "A68E",
+            "status": "C",
+            "mapping": "A68F"
+        },
+        {
+            "codepoint": "A690",
+            "status": "C",
+            "mapping": "A691"
+        },
+        {
+            "codepoint": "A692",
+            "status": "C",
+            "mapping": "A693"
+        },
+        {
+            "codepoint": "A694",
+            "status": "C",
+            "mapping": "A695"
+        },
+        {
+            "codepoint": "A696",
+            "status": "C",
+            "mapping": "A697"
+        },
+        {
+            "codepoint": "A698",
+            "status": "C",
+            "mapping": "A699"
+        },
+        {
+            "codepoint": "A69A",
+            "status": "C",
+            "mapping": "A69B"
+        },
+        {
+            "codepoint": "A722",
+            "status": "C",
+            "mapping": "A723"
+        },
+        {
+            "codepoint": "A724",
+            "status": "C",
+            "mapping": "A725"
+        },
+        {
+            "codepoint": "A726",
+            "status": "C",
+            "mapping": "A727"
+        },
+        {
+            "codepoint": "A728",
+            "status": "C",
+            "mapping": "A729"
+        },
+        {
+            "codepoint": "A72A",
+            "status": "C",
+            "mapping": "A72B"
+        },
+        {
+            "codepoint": "A72C",
+            "status": "C",
+            "mapping": "A72D"
+        },
+        {
+            "codepoint": "A72E",
+            "status": "C",
+            "mapping": "A72F"
+        },
+        {
+            "codepoint": "A732",
+            "status": "C",
+            "mapping": "A733"
+        },
+        {
+            "codepoint": "A734",
+            "status": "C",
+            "mapping": "A735"
+        },
+        {
+            "codepoint": "A736",
+            "status": "C",
+            "mapping": "A737"
+        },
+        {
+            "codepoint": "A738",
+            "status": "C",
+            "mapping": "A739"
+        },
+        {
+            "codepoint": "A73A",
+            "status": "C",
+            "mapping": "A73B"
+        },
+        {
+            "codepoint": "A73C",
+            "status": "C",
+            "mapping": "A73D"
+        },
+        {
+            "codepoint": "A73E",
+            "status": "C",
+            "mapping": "A73F"
+        },
+        {
+            "codepoint": "A740",
+            "status": "C",
+            "mapping": "A741"
+        },
+        {
+            "codepoint": "A742",
+            "status": "C",
+            "mapping": "A743"
+        },
+        {
+            "codepoint": "A744",
+            "status": "C",
+            "mapping": "A745"
+        },
+        {
+            "codepoint": "A746",
+            "status": "C",
+            "mapping": "A747"
+        },
+        {
+            "codepoint": "A748",
+            "status": "C",
+            "mapping": "A749"
+        },
+        {
+            "codepoint": "A74A",
+            "status": "C",
+            "mapping": "A74B"
+        },
+        {
+            "codepoint": "A74C",
+            "status": "C",
+            "mapping": "A74D"
+        },
+        {
+            "codepoint": "A74E",
+            "status": "C",
+            "mapping": "A74F"
+        },
+        {
+            "codepoint": "A750",
+            "status": "C",
+            "mapping": "A751"
+        },
+        {
+            "codepoint": "A752",
+            "status": "C",
+            "mapping": "A753"
+        },
+        {
+            "codepoint": "A754",
+            "status": "C",
+            "mapping": "A755"
+        },
+        {
+            "codepoint": "A756",
+            "status": "C",
+            "mapping": "A757"
+        },
+        {
+            "codepoint": "A758",
+            "status": "C",
+            "mapping": "A759"
+        },
+        {
+            "codepoint": "A75A",
+            "status": "C",
+            "mapping": "A75B"
+        },
+        {
+            "codepoint": "A75C",
+            "status": "C",
+            "mapping": "A75D"
+        },
+        {
+            "codepoint": "A75E",
+            "status": "C",
+            "mapping": "A75F"
+        },
+        {
+            "codepoint": "A760",
+            "status": "C",
+            "mapping": "A761"
+        },
+        {
+            "codepoint": "A762",
+            "status": "C",
+            "mapping": "A763"
+        },
+        {
+            "codepoint": "A764",
+            "status": "C",
+            "mapping": "A765"
+        },
+        {
+            "codepoint": "A766",
+            "status": "C",
+            "mapping": "A767"
+        },
+        {
+            "codepoint": "A768",
+            "status": "C",
+            "mapping": "A769"
+        },
+        {
+            "codepoint": "A76A",
+            "status": "C",
+            "mapping": "A76B"
+        },
+        {
+            "codepoint": "A76C",
+            "status": "C",
+            "mapping": "A76D"
+        },
+        {
+            "codepoint": "A76E",
+            "status": "C",
+            "mapping": "A76F"
+        },
+        {
+            "codepoint": "A779",
+            "status": "C",
+            "mapping": "A77A"
+        },
+        {
+            "codepoint": "A77B",
+            "status": "C",
+            "mapping": "A77C"
+        },
+        {
+            "codepoint": "A77D",
+            "status": "C",
+            "mapping": "1D79"
+        },
+        {
+            "codepoint": "A77E",
+            "status": "C",
+            "mapping": "A77F"
+        },
+        {
+            "codepoint": "A780",
+            "status": "C",
+            "mapping": "A781"
+        },
+        {
+            "codepoint": "A782",
+            "status": "C",
+            "mapping": "A783"
+        },
+        {
+            "codepoint": "A784",
+            "status": "C",
+            "mapping": "A785"
+        },
+        {
+            "codepoint": "A786",
+            "status": "C",
+            "mapping": "A787"
+        },
+        {
+            "codepoint": "A78B",
+            "status": "C",
+            "mapping": "A78C"
+        },
+        {
+            "codepoint": "A78D",
+            "status": "C",
+            "mapping": "0265"
+        },
+        {
+            "codepoint": "A790",
+            "status": "C",
+            "mapping": "A791"
+        },
+        {
+            "codepoint": "A792",
+            "status": "C",
+            "mapping": "A793"
+        },
+        {
+            "codepoint": "A796",
+            "status": "C",
+            "mapping": "A797"
+        },
+        {
+            "codepoint": "A798",
+            "status": "C",
+            "mapping": "A799"
+        },
+        {
+            "codepoint": "A79A",
+            "status": "C",
+            "mapping": "A79B"
+        },
+        {
+            "codepoint": "A79C",
+            "status": "C",
+            "mapping": "A79D"
+        },
+        {
+            "codepoint": "A79E",
+            "status": "C",
+            "mapping": "A79F"
+        },
+        {
+            "codepoint": "A7A0",
+            "status": "C",
+            "mapping": "A7A1"
+        },
+        {
+            "codepoint": "A7A2",
+            "status": "C",
+            "mapping": "A7A3"
+        },
+        {
+            "codepoint": "A7A4",
+            "status": "C",
+            "mapping": "A7A5"
+        },
+        {
+            "codepoint": "A7A6",
+            "status": "C",
+            "mapping": "A7A7"
+        },
+        {
+            "codepoint": "A7A8",
+            "status": "C",
+            "mapping": "A7A9"
+        },
+        {
+            "codepoint": "A7AA",
+            "status": "C",
+            "mapping": "0266"
+        },
+        {
+            "codepoint": "A7AB",
+            "status": "C",
+            "mapping": "025C"
+        },
+        {
+            "codepoint": "A7AC",
+            "status": "C",
+            "mapping": "0261"
+        },
+        {
+            "codepoint": "A7AD",
+            "status": "C",
+            "mapping": "026C"
+        },
+        {
+            "codepoint": "A7AE",
+            "status": "C",
+            "mapping": "026A"
+        },
+        {
+            "codepoint": "A7B0",
+            "status": "C",
+            "mapping": "029E"
+        },
+        {
+            "codepoint": "A7B1",
+            "status": "C",
+            "mapping": "0287"
+        },
+        {
+            "codepoint": "A7B2",
+            "status": "C",
+            "mapping": "029D"
+        },
+        {
+            "codepoint": "A7B3",
+            "status": "C",
+            "mapping": "AB53"
+        },
+        {
+            "codepoint": "A7B4",
+            "status": "C",
+            "mapping": "A7B5"
+        },
+        {
+            "codepoint": "A7B6",
+            "status": "C",
+            "mapping": "A7B7"
+        },
+        {
+            "codepoint": "A7B8",
+            "status": "C",
+            "mapping": "A7B9"
+        },
+        {
+            "codepoint": "A7BA",
+            "status": "C",
+            "mapping": "A7BB"
+        },
+        {
+            "codepoint": "A7BC",
+            "status": "C",
+            "mapping": "A7BD"
+        },
+        {
+            "codepoint": "A7BE",
+            "status": "C",
+            "mapping": "A7BF"
+        },
+        {
+            "codepoint": "A7C0",
+            "status": "C",
+            "mapping": "A7C1"
+        },
+        {
+            "codepoint": "A7C2",
+            "status": "C",
+            "mapping": "A7C3"
+        },
+        {
+            "codepoint": "A7C4",
+            "status": "C",
+            "mapping": "A794"
+        },
+        {
+            "codepoint": "A7C5",
+            "status": "C",
+            "mapping": "0282"
+        },
+        {
+            "codepoint": "A7C6",
+            "status": "C",
+            "mapping": "1D8E"
+        },
+        {
+            "codepoint": "A7C7",
+            "status": "C",
+            "mapping": "A7C8"
+        },
+        {
+            "codepoint": "A7C9",
+            "status": "C",
+            "mapping": "A7CA"
+        },
+        {
+            "codepoint": "A7D0",
+            "status": "C",
+            "mapping": "A7D1"
+        },
+        {
+            "codepoint": "A7D6",
+            "status": "C",
+            "mapping": "A7D7"
+        },
+        {
+            "codepoint": "A7D8",
+            "status": "C",
+            "mapping": "A7D9"
+        },
+        {
+            "codepoint": "A7F5",
+            "status": "C",
+            "mapping": "A7F6"
+        },
+        {
+            "codepoint": "AB70",
+            "status": "C",
+            "mapping": "13A0"
+        },
+        {
+            "codepoint": "AB71",
+            "status": "C",
+            "mapping": "13A1"
+        },
+        {
+            "codepoint": "AB72",
+            "status": "C",
+            "mapping": "13A2"
+        },
+        {
+            "codepoint": "AB73",
+            "status": "C",
+            "mapping": "13A3"
+        },
+        {
+            "codepoint": "AB74",
+            "status": "C",
+            "mapping": "13A4"
+        },
+        {
+            "codepoint": "AB75",
+            "status": "C",
+            "mapping": "13A5"
+        },
+        {
+            "codepoint": "AB76",
+            "status": "C",
+            "mapping": "13A6"
+        },
+        {
+            "codepoint": "AB77",
+            "status": "C",
+            "mapping": "13A7"
+        },
+        {
+            "codepoint": "AB78",
+            "status": "C",
+            "mapping": "13A8"
+        },
+        {
+            "codepoint": "AB79",
+            "status": "C",
+            "mapping": "13A9"
+        },
+        {
+            "codepoint": "AB7A",
+            "status": "C",
+            "mapping": "13AA"
+        },
+        {
+            "codepoint": "AB7B",
+            "status": "C",
+            "mapping": "13AB"
+        },
+        {
+            "codepoint": "AB7C",
+            "status": "C",
+            "mapping": "13AC"
+        },
+        {
+            "codepoint": "AB7D",
+            "status": "C",
+            "mapping": "13AD"
+        },
+        {
+            "codepoint": "AB7E",
+            "status": "C",
+            "mapping": "13AE"
+        },
+        {
+            "codepoint": "AB7F",
+            "status": "C",
+            "mapping": "13AF"
+        },
+        {
+            "codepoint": "AB80",
+            "status": "C",
+            "mapping": "13B0"
+        },
+        {
+            "codepoint": "AB81",
+            "status": "C",
+            "mapping": "13B1"
+        },
+        {
+            "codepoint": "AB82",
+            "status": "C",
+            "mapping": "13B2"
+        },
+        {
+            "codepoint": "AB83",
+            "status": "C",
+            "mapping": "13B3"
+        },
+        {
+            "codepoint": "AB84",
+            "status": "C",
+            "mapping": "13B4"
+        },
+        {
+            "codepoint": "AB85",
+            "status": "C",
+            "mapping": "13B5"
+        },
+        {
+            "codepoint": "AB86",
+            "status": "C",
+            "mapping": "13B6"
+        },
+        {
+            "codepoint": "AB87",
+            "status": "C",
+            "mapping": "13B7"
+        },
+        {
+            "codepoint": "AB88",
+            "status": "C",
+            "mapping": "13B8"
+        },
+        {
+            "codepoint": "AB89",
+            "status": "C",
+            "mapping": "13B9"
+        },
+        {
+            "codepoint": "AB8A",
+            "status": "C",
+            "mapping": "13BA"
+        },
+        {
+            "codepoint": "AB8B",
+            "status": "C",
+            "mapping": "13BB"
+        },
+        {
+            "codepoint": "AB8C",
+            "status": "C",
+            "mapping": "13BC"
+        },
+        {
+            "codepoint": "AB8D",
+            "status": "C",
+            "mapping": "13BD"
+        },
+        {
+            "codepoint": "AB8E",
+            "status": "C",
+            "mapping": "13BE"
+        },
+        {
+            "codepoint": "AB8F",
+            "status": "C",
+            "mapping": "13BF"
+        },
+        {
+            "codepoint": "AB90",
+            "status": "C",
+            "mapping": "13C0"
+        },
+        {
+            "codepoint": "AB91",
+            "status": "C",
+            "mapping": "13C1"
+        },
+        {
+            "codepoint": "AB92",
+            "status": "C",
+            "mapping": "13C2"
+        },
+        {
+            "codepoint": "AB93",
+            "status": "C",
+            "mapping": "13C3"
+        },
+        {
+            "codepoint": "AB94",
+            "status": "C",
+            "mapping": "13C4"
+        },
+        {
+            "codepoint": "AB95",
+            "status": "C",
+            "mapping": "13C5"
+        },
+        {
+            "codepoint": "AB96",
+            "status": "C",
+            "mapping": "13C6"
+        },
+        {
+            "codepoint": "AB97",
+            "status": "C",
+            "mapping": "13C7"
+        },
+        {
+            "codepoint": "AB98",
+            "status": "C",
+            "mapping": "13C8"
+        },
+        {
+            "codepoint": "AB99",
+            "status": "C",
+            "mapping": "13C9"
+        },
+        {
+            "codepoint": "AB9A",
+            "status": "C",
+            "mapping": "13CA"
+        },
+        {
+            "codepoint": "AB9B",
+            "status": "C",
+            "mapping": "13CB"
+        },
+        {
+            "codepoint": "AB9C",
+            "status": "C",
+            "mapping": "13CC"
+        },
+        {
+            "codepoint": "AB9D",
+            "status": "C",
+            "mapping": "13CD"
+        },
+        {
+            "codepoint": "AB9E",
+            "status": "C",
+            "mapping": "13CE"
+        },
+        {
+            "codepoint": "AB9F",
+            "status": "C",
+            "mapping": "13CF"
+        },
+        {
+            "codepoint": "ABA0",
+            "status": "C",
+            "mapping": "13D0"
+        },
+        {
+            "codepoint": "ABA1",
+            "status": "C",
+            "mapping": "13D1"
+        },
+        {
+            "codepoint": "ABA2",
+            "status": "C",
+            "mapping": "13D2"
+        },
+        {
+            "codepoint": "ABA3",
+            "status": "C",
+            "mapping": "13D3"
+        },
+        {
+            "codepoint": "ABA4",
+            "status": "C",
+            "mapping": "13D4"
+        },
+        {
+            "codepoint": "ABA5",
+            "status": "C",
+            "mapping": "13D5"
+        },
+        {
+            "codepoint": "ABA6",
+            "status": "C",
+            "mapping": "13D6"
+        },
+        {
+            "codepoint": "ABA7",
+            "status": "C",
+            "mapping": "13D7"
+        },
+        {
+            "codepoint": "ABA8",
+            "status": "C",
+            "mapping": "13D8"
+        },
+        {
+            "codepoint": "ABA9",
+            "status": "C",
+            "mapping": "13D9"
+        },
+        {
+            "codepoint": "ABAA",
+            "status": "C",
+            "mapping": "13DA"
+        },
+        {
+            "codepoint": "ABAB",
+            "status": "C",
+            "mapping": "13DB"
+        },
+        {
+            "codepoint": "ABAC",
+            "status": "C",
+            "mapping": "13DC"
+        },
+        {
+            "codepoint": "ABAD",
+            "status": "C",
+            "mapping": "13DD"
+        },
+        {
+            "codepoint": "ABAE",
+            "status": "C",
+            "mapping": "13DE"
+        },
+        {
+            "codepoint": "ABAF",
+            "status": "C",
+            "mapping": "13DF"
+        },
+        {
+            "codepoint": "ABB0",
+            "status": "C",
+            "mapping": "13E0"
+        },
+        {
+            "codepoint": "ABB1",
+            "status": "C",
+            "mapping": "13E1"
+        },
+        {
+            "codepoint": "ABB2",
+            "status": "C",
+            "mapping": "13E2"
+        },
+        {
+            "codepoint": "ABB3",
+            "status": "C",
+            "mapping": "13E3"
+        },
+        {
+            "codepoint": "ABB4",
+            "status": "C",
+            "mapping": "13E4"
+        },
+        {
+            "codepoint": "ABB5",
+            "status": "C",
+            "mapping": "13E5"
+        },
+        {
+            "codepoint": "ABB6",
+            "status": "C",
+            "mapping": "13E6"
+        },
+        {
+            "codepoint": "ABB7",
+            "status": "C",
+            "mapping": "13E7"
+        },
+        {
+            "codepoint": "ABB8",
+            "status": "C",
+            "mapping": "13E8"
+        },
+        {
+            "codepoint": "ABB9",
+            "status": "C",
+            "mapping": "13E9"
+        },
+        {
+            "codepoint": "ABBA",
+            "status": "C",
+            "mapping": "13EA"
+        },
+        {
+            "codepoint": "ABBB",
+            "status": "C",
+            "mapping": "13EB"
+        },
+        {
+            "codepoint": "ABBC",
+            "status": "C",
+            "mapping": "13EC"
+        },
+        {
+            "codepoint": "ABBD",
+            "status": "C",
+            "mapping": "13ED"
+        },
+        {
+            "codepoint": "ABBE",
+            "status": "C",
+            "mapping": "13EE"
+        },
+        {
+            "codepoint": "ABBF",
+            "status": "C",
+            "mapping": "13EF"
+        },
+        {
+            "codepoint": "FB00",
+            "status": "F",
+            "mapping": "0066 0066"
+        },
+        {
+            "codepoint": "FB01",
+            "status": "F",
+            "mapping": "0066 0069"
+        },
+        {
+            "codepoint": "FB02",
+            "status": "F",
+            "mapping": "0066 006C"
+        },
+        {
+            "codepoint": "FB03",
+            "status": "F",
+            "mapping": "0066 0066 0069"
+        },
+        {
+            "codepoint": "FB04",
+            "status": "F",
+            "mapping": "0066 0066 006C"
+        },
+        {
+            "codepoint": "FB05",
+            "status": "F",
+            "mapping": "0073 0074"
+        },
+        {
+            "codepoint": "FB06",
+            "status": "F",
+            "mapping": "0073 0074"
+        },
+        {
+            "codepoint": "FB13",
+            "status": "F",
+            "mapping": "0574 0576"
+        },
+        {
+            "codepoint": "FB14",
+            "status": "F",
+            "mapping": "0574 0565"
+        },
+        {
+            "codepoint": "FB15",
+            "status": "F",
+            "mapping": "0574 056B"
+        },
+        {
+            "codepoint": "FB16",
+            "status": "F",
+            "mapping": "057E 0576"
+        },
+        {
+            "codepoint": "FB17",
+            "status": "F",
+            "mapping": "0574 056D"
+        },
+        {
+            "codepoint": "FF21",
+            "status": "C",
+            "mapping": "FF41"
+        },
+        {
+            "codepoint": "FF22",
+            "status": "C",
+            "mapping": "FF42"
+        },
+        {
+            "codepoint": "FF23",
+            "status": "C",
+            "mapping": "FF43"
+        },
+        {
+            "codepoint": "FF24",
+            "status": "C",
+            "mapping": "FF44"
+        },
+        {
+            "codepoint": "FF25",
+            "status": "C",
+            "mapping": "FF45"
+        },
+        {
+            "codepoint": "FF26",
+            "status": "C",
+            "mapping": "FF46"
+        },
+        {
+            "codepoint": "FF27",
+            "status": "C",
+            "mapping": "FF47"
+        },
+        {
+            "codepoint": "FF28",
+            "status": "C",
+            "mapping": "FF48"
+        },
+        {
+            "codepoint": "FF29",
+            "status": "C",
+            "mapping": "FF49"
+        },
+        {
+            "codepoint": "FF2A",
+            "status": "C",
+            "mapping": "FF4A"
+        },
+        {
+            "codepoint": "FF2B",
+            "status": "C",
+            "mapping": "FF4B"
+        },
+        {
+            "codepoint": "FF2C",
+            "status": "C",
+            "mapping": "FF4C"
+        },
+        {
+            "codepoint": "FF2D",
+            "status": "C",
+            "mapping": "FF4D"
+        },
+        {
+            "codepoint": "FF2E",
+            "status": "C",
+            "mapping": "FF4E"
+        },
+        {
+            "codepoint": "FF2F",
+            "status": "C",
+            "mapping": "FF4F"
+        },
+        {
+            "codepoint": "FF30",
+            "status": "C",
+            "mapping": "FF50"
+        },
+        {
+            "codepoint": "FF31",
+            "status": "C",
+            "mapping": "FF51"
+        },
+        {
+            "codepoint": "FF32",
+            "status": "C",
+            "mapping": "FF52"
+        },
+        {
+            "codepoint": "FF33",
+            "status": "C",
+            "mapping": "FF53"
+        },
+        {
+            "codepoint": "FF34",
+            "status": "C",
+            "mapping": "FF54"
+        },
+        {
+            "codepoint": "FF35",
+            "status": "C",
+            "mapping": "FF55"
+        },
+        {
+            "codepoint": "FF36",
+            "status": "C",
+            "mapping": "FF56"
+        },
+        {
+            "codepoint": "FF37",
+            "status": "C",
+            "mapping": "FF57"
+        },
+        {
+            "codepoint": "FF38",
+            "status": "C",
+            "mapping": "FF58"
+        },
+        {
+            "codepoint": "FF39",
+            "status": "C",
+            "mapping": "FF59"
+        },
+        {
+            "codepoint": "FF3A",
+            "status": "C",
+            "mapping": "FF5A"
+        },
+        {
+            "codepoint": "10400",
+            "status": "C",
+            "mapping": "10428"
+        },
+        {
+            "codepoint": "10401",
+            "status": "C",
+            "mapping": "10429"
+        },
+        {
+            "codepoint": "10402",
+            "status": "C",
+            "mapping": "1042A"
+        },
+        {
+            "codepoint": "10403",
+            "status": "C",
+            "mapping": "1042B"
+        },
+        {
+            "codepoint": "10404",
+            "status": "C",
+            "mapping": "1042C"
+        },
+        {
+            "codepoint": "10405",
+            "status": "C",
+            "mapping": "1042D"
+        },
+        {
+            "codepoint": "10406",
+            "status": "C",
+            "mapping": "1042E"
+        },
+        {
+            "codepoint": "10407",
+            "status": "C",
+            "mapping": "1042F"
+        },
+        {
+            "codepoint": "10408",
+            "status": "C",
+            "mapping": "10430"
+        },
+        {
+            "codepoint": "10409",
+            "status": "C",
+            "mapping": "10431"
+        },
+        {
+            "codepoint": "1040A",
+            "status": "C",
+            "mapping": "10432"
+        },
+        {
+            "codepoint": "1040B",
+            "status": "C",
+            "mapping": "10433"
+        },
+        {
+            "codepoint": "1040C",
+            "status": "C",
+            "mapping": "10434"
+        },
+        {
+            "codepoint": "1040D",
+            "status": "C",
+            "mapping": "10435"
+        },
+        {
+            "codepoint": "1040E",
+            "status": "C",
+            "mapping": "10436"
+        },
+        {
+            "codepoint": "1040F",
+            "status": "C",
+            "mapping": "10437"
+        },
+        {
+            "codepoint": "10410",
+            "status": "C",
+            "mapping": "10438"
+        },
+        {
+            "codepoint": "10411",
+            "status": "C",
+            "mapping": "10439"
+        },
+        {
+            "codepoint": "10412",
+            "status": "C",
+            "mapping": "1043A"
+        },
+        {
+            "codepoint": "10413",
+            "status": "C",
+            "mapping": "1043B"
+        },
+        {
+            "codepoint": "10414",
+            "status": "C",
+            "mapping": "1043C"
+        },
+        {
+            "codepoint": "10415",
+            "status": "C",
+            "mapping": "1043D"
+        },
+        {
+            "codepoint": "10416",
+            "status": "C",
+            "mapping": "1043E"
+        },
+        {
+            "codepoint": "10417",
+            "status": "C",
+            "mapping": "1043F"
+        },
+        {
+            "codepoint": "10418",
+            "status": "C",
+            "mapping": "10440"
+        },
+        {
+            "codepoint": "10419",
+            "status": "C",
+            "mapping": "10441"
+        },
+        {
+            "codepoint": "1041A",
+            "status": "C",
+            "mapping": "10442"
+        },
+        {
+            "codepoint": "1041B",
+            "status": "C",
+            "mapping": "10443"
+        },
+        {
+            "codepoint": "1041C",
+            "status": "C",
+            "mapping": "10444"
+        },
+        {
+            "codepoint": "1041D",
+            "status": "C",
+            "mapping": "10445"
+        },
+        {
+            "codepoint": "1041E",
+            "status": "C",
+            "mapping": "10446"
+        },
+        {
+            "codepoint": "1041F",
+            "status": "C",
+            "mapping": "10447"
+        },
+        {
+            "codepoint": "10420",
+            "status": "C",
+            "mapping": "10448"
+        },
+        {
+            "codepoint": "10421",
+            "status": "C",
+            "mapping": "10449"
+        },
+        {
+            "codepoint": "10422",
+            "status": "C",
+            "mapping": "1044A"
+        },
+        {
+            "codepoint": "10423",
+            "status": "C",
+            "mapping": "1044B"
+        },
+        {
+            "codepoint": "10424",
+            "status": "C",
+            "mapping": "1044C"
+        },
+        {
+            "codepoint": "10425",
+            "status": "C",
+            "mapping": "1044D"
+        },
+        {
+            "codepoint": "10426",
+            "status": "C",
+            "mapping": "1044E"
+        },
+        {
+            "codepoint": "10427",
+            "status": "C",
+            "mapping": "1044F"
+        },
+        {
+            "codepoint": "104B0",
+            "status": "C",
+            "mapping": "104D8"
+        },
+        {
+            "codepoint": "104B1",
+            "status": "C",
+            "mapping": "104D9"
+        },
+        {
+            "codepoint": "104B2",
+            "status": "C",
+            "mapping": "104DA"
+        },
+        {
+            "codepoint": "104B3",
+            "status": "C",
+            "mapping": "104DB"
+        },
+        {
+            "codepoint": "104B4",
+            "status": "C",
+            "mapping": "104DC"
+        },
+        {
+            "codepoint": "104B5",
+            "status": "C",
+            "mapping": "104DD"
+        },
+        {
+            "codepoint": "104B6",
+            "status": "C",
+            "mapping": "104DE"
+        },
+        {
+            "codepoint": "104B7",
+            "status": "C",
+            "mapping": "104DF"
+        },
+        {
+            "codepoint": "104B8",
+            "status": "C",
+            "mapping": "104E0"
+        },
+        {
+            "codepoint": "104B9",
+            "status": "C",
+            "mapping": "104E1"
+        },
+        {
+            "codepoint": "104BA",
+            "status": "C",
+            "mapping": "104E2"
+        },
+        {
+            "codepoint": "104BB",
+            "status": "C",
+            "mapping": "104E3"
+        },
+        {
+            "codepoint": "104BC",
+            "status": "C",
+            "mapping": "104E4"
+        },
+        {
+            "codepoint": "104BD",
+            "status": "C",
+            "mapping": "104E5"
+        },
+        {
+            "codepoint": "104BE",
+            "status": "C",
+            "mapping": "104E6"
+        },
+        {
+            "codepoint": "104BF",
+            "status": "C",
+            "mapping": "104E7"
+        },
+        {
+            "codepoint": "104C0",
+            "status": "C",
+            "mapping": "104E8"
+        },
+        {
+            "codepoint": "104C1",
+            "status": "C",
+            "mapping": "104E9"
+        },
+        {
+            "codepoint": "104C2",
+            "status": "C",
+            "mapping": "104EA"
+        },
+        {
+            "codepoint": "104C3",
+            "status": "C",
+            "mapping": "104EB"
+        },
+        {
+            "codepoint": "104C4",
+            "status": "C",
+            "mapping": "104EC"
+        },
+        {
+            "codepoint": "104C5",
+            "status": "C",
+            "mapping": "104ED"
+        },
+        {
+            "codepoint": "104C6",
+            "status": "C",
+            "mapping": "104EE"
+        },
+        {
+            "codepoint": "104C7",
+            "status": "C",
+            "mapping": "104EF"
+        },
+        {
+            "codepoint": "104C8",
+            "status": "C",
+            "mapping": "104F0"
+        },
+        {
+            "codepoint": "104C9",
+            "status": "C",
+            "mapping": "104F1"
+        },
+        {
+            "codepoint": "104CA",
+            "status": "C",
+            "mapping": "104F2"
+        },
+        {
+            "codepoint": "104CB",
+            "status": "C",
+            "mapping": "104F3"
+        },
+        {
+            "codepoint": "104CC",
+            "status": "C",
+            "mapping": "104F4"
+        },
+        {
+            "codepoint": "104CD",
+            "status": "C",
+            "mapping": "104F5"
+        },
+        {
+            "codepoint": "104CE",
+            "status": "C",
+            "mapping": "104F6"
+        },
+        {
+            "codepoint": "104CF",
+            "status": "C",
+            "mapping": "104F7"
+        },
+        {
+            "codepoint": "104D0",
+            "status": "C",
+            "mapping": "104F8"
+        },
+        {
+            "codepoint": "104D1",
+            "status": "C",
+            "mapping": "104F9"
+        },
+        {
+            "codepoint": "104D2",
+            "status": "C",
+            "mapping": "104FA"
+        },
+        {
+            "codepoint": "104D3",
+            "status": "C",
+            "mapping": "104FB"
+        },
+        {
+            "codepoint": "10570",
+            "status": "C",
+            "mapping": "10597"
+        },
+        {
+            "codepoint": "10571",
+            "status": "C",
+            "mapping": "10598"
+        },
+        {
+            "codepoint": "10572",
+            "status": "C",
+            "mapping": "10599"
+        },
+        {
+            "codepoint": "10573",
+            "status": "C",
+            "mapping": "1059A"
+        },
+        {
+            "codepoint": "10574",
+            "status": "C",
+            "mapping": "1059B"
+        },
+        {
+            "codepoint": "10575",
+            "status": "C",
+            "mapping": "1059C"
+        },
+        {
+            "codepoint": "10576",
+            "status": "C",
+            "mapping": "1059D"
+        },
+        {
+            "codepoint": "10577",
+            "status": "C",
+            "mapping": "1059E"
+        },
+        {
+            "codepoint": "10578",
+            "status": "C",
+            "mapping": "1059F"
+        },
+        {
+            "codepoint": "10579",
+            "status": "C",
+            "mapping": "105A0"
+        },
+        {
+            "codepoint": "1057A",
+            "status": "C",
+            "mapping": "105A1"
+        },
+        {
+            "codepoint": "1057C",
+            "status": "C",
+            "mapping": "105A3"
+        },
+        {
+            "codepoint": "1057D",
+            "status": "C",
+            "mapping": "105A4"
+        },
+        {
+            "codepoint": "1057E",
+            "status": "C",
+            "mapping": "105A5"
+        },
+        {
+            "codepoint": "1057F",
+            "status": "C",
+            "mapping": "105A6"
+        },
+        {
+            "codepoint": "10580",
+            "status": "C",
+            "mapping": "105A7"
+        },
+        {
+            "codepoint": "10581",
+            "status": "C",
+            "mapping": "105A8"
+        },
+        {
+            "codepoint": "10582",
+            "status": "C",
+            "mapping": "105A9"
+        },
+        {
+            "codepoint": "10583",
+            "status": "C",
+            "mapping": "105AA"
+        },
+        {
+            "codepoint": "10584",
+            "status": "C",
+            "mapping": "105AB"
+        },
+        {
+            "codepoint": "10585",
+            "status": "C",
+            "mapping": "105AC"
+        },
+        {
+            "codepoint": "10586",
+            "status": "C",
+            "mapping": "105AD"
+        },
+        {
+            "codepoint": "10587",
+            "status": "C",
+            "mapping": "105AE"
+        },
+        {
+            "codepoint": "10588",
+            "status": "C",
+            "mapping": "105AF"
+        },
+        {
+            "codepoint": "10589",
+            "status": "C",
+            "mapping": "105B0"
+        },
+        {
+            "codepoint": "1058A",
+            "status": "C",
+            "mapping": "105B1"
+        },
+        {
+            "codepoint": "1058C",
+            "status": "C",
+            "mapping": "105B3"
+        },
+        {
+            "codepoint": "1058D",
+            "status": "C",
+            "mapping": "105B4"
+        },
+        {
+            "codepoint": "1058E",
+            "status": "C",
+            "mapping": "105B5"
+        },
+        {
+            "codepoint": "1058F",
+            "status": "C",
+            "mapping": "105B6"
+        },
+        {
+            "codepoint": "10590",
+            "status": "C",
+            "mapping": "105B7"
+        },
+        {
+            "codepoint": "10591",
+            "status": "C",
+            "mapping": "105B8"
+        },
+        {
+            "codepoint": "10592",
+            "status": "C",
+            "mapping": "105B9"
+        },
+        {
+            "codepoint": "10594",
+            "status": "C",
+            "mapping": "105BB"
+        },
+        {
+            "codepoint": "10595",
+            "status": "C",
+            "mapping": "105BC"
+        },
+        {
+            "codepoint": "10C80",
+            "status": "C",
+            "mapping": "10CC0"
+        },
+        {
+            "codepoint": "10C81",
+            "status": "C",
+            "mapping": "10CC1"
+        },
+        {
+            "codepoint": "10C82",
+            "status": "C",
+            "mapping": "10CC2"
+        },
+        {
+            "codepoint": "10C83",
+            "status": "C",
+            "mapping": "10CC3"
+        },
+        {
+            "codepoint": "10C84",
+            "status": "C",
+            "mapping": "10CC4"
+        },
+        {
+            "codepoint": "10C85",
+            "status": "C",
+            "mapping": "10CC5"
+        },
+        {
+            "codepoint": "10C86",
+            "status": "C",
+            "mapping": "10CC6"
+        },
+        {
+            "codepoint": "10C87",
+            "status": "C",
+            "mapping": "10CC7"
+        },
+        {
+            "codepoint": "10C88",
+            "status": "C",
+            "mapping": "10CC8"
+        },
+        {
+            "codepoint": "10C89",
+            "status": "C",
+            "mapping": "10CC9"
+        },
+        {
+            "codepoint": "10C8A",
+            "status": "C",
+            "mapping": "10CCA"
+        },
+        {
+            "codepoint": "10C8B",
+            "status": "C",
+            "mapping": "10CCB"
+        },
+        {
+            "codepoint": "10C8C",
+            "status": "C",
+            "mapping": "10CCC"
+        },
+        {
+            "codepoint": "10C8D",
+            "status": "C",
+            "mapping": "10CCD"
+        },
+        {
+            "codepoint": "10C8E",
+            "status": "C",
+            "mapping": "10CCE"
+        },
+        {
+            "codepoint": "10C8F",
+            "status": "C",
+            "mapping": "10CCF"
+        },
+        {
+            "codepoint": "10C90",
+            "status": "C",
+            "mapping": "10CD0"
+        },
+        {
+            "codepoint": "10C91",
+            "status": "C",
+            "mapping": "10CD1"
+        },
+        {
+            "codepoint": "10C92",
+            "status": "C",
+            "mapping": "10CD2"
+        },
+        {
+            "codepoint": "10C93",
+            "status": "C",
+            "mapping": "10CD3"
+        },
+        {
+            "codepoint": "10C94",
+            "status": "C",
+            "mapping": "10CD4"
+        },
+        {
+            "codepoint": "10C95",
+            "status": "C",
+            "mapping": "10CD5"
+        },
+        {
+            "codepoint": "10C96",
+            "status": "C",
+            "mapping": "10CD6"
+        },
+        {
+            "codepoint": "10C97",
+            "status": "C",
+            "mapping": "10CD7"
+        },
+        {
+            "codepoint": "10C98",
+            "status": "C",
+            "mapping": "10CD8"
+        },
+        {
+            "codepoint": "10C99",
+            "status": "C",
+            "mapping": "10CD9"
+        },
+        {
+            "codepoint": "10C9A",
+            "status": "C",
+            "mapping": "10CDA"
+        },
+        {
+            "codepoint": "10C9B",
+            "status": "C",
+            "mapping": "10CDB"
+        },
+        {
+            "codepoint": "10C9C",
+            "status": "C",
+            "mapping": "10CDC"
+        },
+        {
+            "codepoint": "10C9D",
+            "status": "C",
+            "mapping": "10CDD"
+        },
+        {
+            "codepoint": "10C9E",
+            "status": "C",
+            "mapping": "10CDE"
+        },
+        {
+            "codepoint": "10C9F",
+            "status": "C",
+            "mapping": "10CDF"
+        },
+        {
+            "codepoint": "10CA0",
+            "status": "C",
+            "mapping": "10CE0"
+        },
+        {
+            "codepoint": "10CA1",
+            "status": "C",
+            "mapping": "10CE1"
+        },
+        {
+            "codepoint": "10CA2",
+            "status": "C",
+            "mapping": "10CE2"
+        },
+        {
+            "codepoint": "10CA3",
+            "status": "C",
+            "mapping": "10CE3"
+        },
+        {
+            "codepoint": "10CA4",
+            "status": "C",
+            "mapping": "10CE4"
+        },
+        {
+            "codepoint": "10CA5",
+            "status": "C",
+            "mapping": "10CE5"
+        },
+        {
+            "codepoint": "10CA6",
+            "status": "C",
+            "mapping": "10CE6"
+        },
+        {
+            "codepoint": "10CA7",
+            "status": "C",
+            "mapping": "10CE7"
+        },
+        {
+            "codepoint": "10CA8",
+            "status": "C",
+            "mapping": "10CE8"
+        },
+        {
+            "codepoint": "10CA9",
+            "status": "C",
+            "mapping": "10CE9"
+        },
+        {
+            "codepoint": "10CAA",
+            "status": "C",
+            "mapping": "10CEA"
+        },
+        {
+            "codepoint": "10CAB",
+            "status": "C",
+            "mapping": "10CEB"
+        },
+        {
+            "codepoint": "10CAC",
+            "status": "C",
+            "mapping": "10CEC"
+        },
+        {
+            "codepoint": "10CAD",
+            "status": "C",
+            "mapping": "10CED"
+        },
+        {
+            "codepoint": "10CAE",
+            "status": "C",
+            "mapping": "10CEE"
+        },
+        {
+            "codepoint": "10CAF",
+            "status": "C",
+            "mapping": "10CEF"
+        },
+        {
+            "codepoint": "10CB0",
+            "status": "C",
+            "mapping": "10CF0"
+        },
+        {
+            "codepoint": "10CB1",
+            "status": "C",
+            "mapping": "10CF1"
+        },
+        {
+            "codepoint": "10CB2",
+            "status": "C",
+            "mapping": "10CF2"
+        },
+        {
+            "codepoint": "118A0",
+            "status": "C",
+            "mapping": "118C0"
+        },
+        {
+            "codepoint": "118A1",
+            "status": "C",
+            "mapping": "118C1"
+        },
+        {
+            "codepoint": "118A2",
+            "status": "C",
+            "mapping": "118C2"
+        },
+        {
+            "codepoint": "118A3",
+            "status": "C",
+            "mapping": "118C3"
+        },
+        {
+            "codepoint": "118A4",
+            "status": "C",
+            "mapping": "118C4"
+        },
+        {
+            "codepoint": "118A5",
+            "status": "C",
+            "mapping": "118C5"
+        },
+        {
+            "codepoint": "118A6",
+            "status": "C",
+            "mapping": "118C6"
+        },
+        {
+            "codepoint": "118A7",
+            "status": "C",
+            "mapping": "118C7"
+        },
+        {
+            "codepoint": "118A8",
+            "status": "C",
+            "mapping": "118C8"
+        },
+        {
+            "codepoint": "118A9",
+            "status": "C",
+            "mapping": "118C9"
+        },
+        {
+            "codepoint": "118AA",
+            "status": "C",
+            "mapping": "118CA"
+        },
+        {
+            "codepoint": "118AB",
+            "status": "C",
+            "mapping": "118CB"
+        },
+        {
+            "codepoint": "118AC",
+            "status": "C",
+            "mapping": "118CC"
+        },
+        {
+            "codepoint": "118AD",
+            "status": "C",
+            "mapping": "118CD"
+        },
+        {
+            "codepoint": "118AE",
+            "status": "C",
+            "mapping": "118CE"
+        },
+        {
+            "codepoint": "118AF",
+            "status": "C",
+            "mapping": "118CF"
+        },
+        {
+            "codepoint": "118B0",
+            "status": "C",
+            "mapping": "118D0"
+        },
+        {
+            "codepoint": "118B1",
+            "status": "C",
+            "mapping": "118D1"
+        },
+        {
+            "codepoint": "118B2",
+            "status": "C",
+            "mapping": "118D2"
+        },
+        {
+            "codepoint": "118B3",
+            "status": "C",
+            "mapping": "118D3"
+        },
+        {
+            "codepoint": "118B4",
+            "status": "C",
+            "mapping": "118D4"
+        },
+        {
+            "codepoint": "118B5",
+            "status": "C",
+            "mapping": "118D5"
+        },
+        {
+            "codepoint": "118B6",
+            "status": "C",
+            "mapping": "118D6"
+        },
+        {
+            "codepoint": "118B7",
+            "status": "C",
+            "mapping": "118D7"
+        },
+        {
+            "codepoint": "118B8",
+            "status": "C",
+            "mapping": "118D8"
+        },
+        {
+            "codepoint": "118B9",
+            "status": "C",
+            "mapping": "118D9"
+        },
+        {
+            "codepoint": "118BA",
+            "status": "C",
+            "mapping": "118DA"
+        },
+        {
+            "codepoint": "118BB",
+            "status": "C",
+            "mapping": "118DB"
+        },
+        {
+            "codepoint": "118BC",
+            "status": "C",
+            "mapping": "118DC"
+        },
+        {
+            "codepoint": "118BD",
+            "status": "C",
+            "mapping": "118DD"
+        },
+        {
+            "codepoint": "118BE",
+            "status": "C",
+            "mapping": "118DE"
+        },
+        {
+            "codepoint": "118BF",
+            "status": "C",
+            "mapping": "118DF"
+        },
+        {
+            "codepoint": "16E40",
+            "status": "C",
+            "mapping": "16E60"
+        },
+        {
+            "codepoint": "16E41",
+            "status": "C",
+            "mapping": "16E61"
+        },
+        {
+            "codepoint": "16E42",
+            "status": "C",
+            "mapping": "16E62"
+        },
+        {
+            "codepoint": "16E43",
+            "status": "C",
+            "mapping": "16E63"
+        },
+        {
+            "codepoint": "16E44",
+            "status": "C",
+            "mapping": "16E64"
+        },
+        {
+            "codepoint": "16E45",
+            "status": "C",
+            "mapping": "16E65"
+        },
+        {
+            "codepoint": "16E46",
+            "status": "C",
+            "mapping": "16E66"
+        },
+        {
+            "codepoint": "16E47",
+            "status": "C",
+            "mapping": "16E67"
+        },
+        {
+            "codepoint": "16E48",
+            "status": "C",
+            "mapping": "16E68"
+        },
+        {
+            "codepoint": "16E49",
+            "status": "C",
+            "mapping": "16E69"
+        },
+        {
+            "codepoint": "16E4A",
+            "status": "C",
+            "mapping": "16E6A"
+        },
+        {
+            "codepoint": "16E4B",
+            "status": "C",
+            "mapping": "16E6B"
+        },
+        {
+            "codepoint": "16E4C",
+            "status": "C",
+            "mapping": "16E6C"
+        },
+        {
+            "codepoint": "16E4D",
+            "status": "C",
+            "mapping": "16E6D"
+        },
+        {
+            "codepoint": "16E4E",
+            "status": "C",
+            "mapping": "16E6E"
+        },
+        {
+            "codepoint": "16E4F",
+            "status": "C",
+            "mapping": "16E6F"
+        },
+        {
+            "codepoint": "16E50",
+            "status": "C",
+            "mapping": "16E70"
+        },
+        {
+            "codepoint": "16E51",
+            "status": "C",
+            "mapping": "16E71"
+        },
+        {
+            "codepoint": "16E52",
+            "status": "C",
+            "mapping": "16E72"
+        },
+        {
+            "codepoint": "16E53",
+            "status": "C",
+            "mapping": "16E73"
+        },
+        {
+            "codepoint": "16E54",
+            "status": "C",
+            "mapping": "16E74"
+        },
+        {
+            "codepoint": "16E55",
+            "status": "C",
+            "mapping": "16E75"
+        },
+        {
+            "codepoint": "16E56",
+            "status": "C",
+            "mapping": "16E76"
+        },
+        {
+            "codepoint": "16E57",
+            "status": "C",
+            "mapping": "16E77"
+        },
+        {
+            "codepoint": "16E58",
+            "status": "C",
+            "mapping": "16E78"
+        },
+        {
+            "codepoint": "16E59",
+            "status": "C",
+            "mapping": "16E79"
+        },
+        {
+            "codepoint": "16E5A",
+            "status": "C",
+            "mapping": "16E7A"
+        },
+        {
+            "codepoint": "16E5B",
+            "status": "C",
+            "mapping": "16E7B"
+        },
+        {
+            "codepoint": "16E5C",
+            "status": "C",
+            "mapping": "16E7C"
+        },
+        {
+            "codepoint": "16E5D",
+            "status": "C",
+            "mapping": "16E7D"
+        },
+        {
+            "codepoint": "16E5E",
+            "status": "C",
+            "mapping": "16E7E"
+        },
+        {
+            "codepoint": "16E5F",
+            "status": "C",
+            "mapping": "16E7F"
+        },
+        {
+            "codepoint": "1E900",
+            "status": "C",
+            "mapping": "1E922"
+        },
+        {
+            "codepoint": "1E901",
+            "status": "C",
+            "mapping": "1E923"
+        },
+        {
+            "codepoint": "1E902",
+            "status": "C",
+            "mapping": "1E924"
+        },
+        {
+            "codepoint": "1E903",
+            "status": "C",
+            "mapping": "1E925"
+        },
+        {
+            "codepoint": "1E904",
+            "status": "C",
+            "mapping": "1E926"
+        },
+        {
+            "codepoint": "1E905",
+            "status": "C",
+            "mapping": "1E927"
+        },
+        {
+            "codepoint": "1E906",
+            "status": "C",
+            "mapping": "1E928"
+        },
+        {
+            "codepoint": "1E907",
+            "status": "C",
+            "mapping": "1E929"
+        },
+        {
+            "codepoint": "1E908",
+            "status": "C",
+            "mapping": "1E92A"
+        },
+        {
+            "codepoint": "1E909",
+            "status": "C",
+            "mapping": "1E92B"
+        },
+        {
+            "codepoint": "1E90A",
+            "status": "C",
+            "mapping": "1E92C"
+        },
+        {
+            "codepoint": "1E90B",
+            "status": "C",
+            "mapping": "1E92D"
+        },
+        {
+            "codepoint": "1E90C",
+            "status": "C",
+            "mapping": "1E92E"
+        },
+        {
+            "codepoint": "1E90D",
+            "status": "C",
+            "mapping": "1E92F"
+        },
+        {
+            "codepoint": "1E90E",
+            "status": "C",
+            "mapping": "1E930"
+        },
+        {
+            "codepoint": "1E90F",
+            "status": "C",
+            "mapping": "1E931"
+        },
+        {
+            "codepoint": "1E910",
+            "status": "C",
+            "mapping": "1E932"
+        },
+        {
+            "codepoint": "1E911",
+            "status": "C",
+            "mapping": "1E933"
+        },
+        {
+            "codepoint": "1E912",
+            "status": "C",
+            "mapping": "1E934"
+        },
+        {
+            "codepoint": "1E913",
+            "status": "C",
+            "mapping": "1E935"
+        },
+        {
+            "codepoint": "1E914",
+            "status": "C",
+            "mapping": "1E936"
+        },
+        {
+            "codepoint": "1E915",
+            "status": "C",
+            "mapping": "1E937"
+        },
+        {
+            "codepoint": "1E916",
+            "status": "C",
+            "mapping": "1E938"
+        },
+        {
+            "codepoint": "1E917",
+            "status": "C",
+            "mapping": "1E939"
+        },
+        {
+            "codepoint": "1E918",
+            "status": "C",
+            "mapping": "1E93A"
+        },
+        {
+            "codepoint": "1E919",
+            "status": "C",
+            "mapping": "1E93B"
+        },
+        {
+            "codepoint": "1E91A",
+            "status": "C",
+            "mapping": "1E93C"
+        },
+        {
+            "codepoint": "1E91B",
+            "status": "C",
+            "mapping": "1E93D"
+        },
+        {
+            "codepoint": "1E91C",
+            "status": "C",
+            "mapping": "1E93E"
+        },
+        {
+            "codepoint": "1E91D",
+            "status": "C",
+            "mapping": "1E93F"
+        },
+        {
+            "codepoint": "1E91E",
+            "status": "C",
+            "mapping": "1E940"
+        },
+        {
+            "codepoint": "1E91F",
+            "status": "C",
+            "mapping": "1E941"
+        },
+        {
+            "codepoint": "1E920",
+            "status": "C",
+            "mapping": "1E942"
+        },
+        {
+            "codepoint": "1E921",
+            "status": "C",
+            "mapping": "1E943"
+        }
+    ]
+}

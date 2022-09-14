@@ -1,0 +1,1399 @@
+{
+    "DerivedBinaryProperties": [
+        {
+            "range": [
+                "0028"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "0029"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "003C"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "003E"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "005B"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "005D"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "007B"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "007D"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "00AB"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "00BB"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "0F3A"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "0F3B"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "0F3C"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "0F3D"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "169B"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "169C"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2039"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "203A"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2045"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2046"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "207D"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "207E"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "208D"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "208E"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2140"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2201",
+                "2204"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2208",
+                "220D"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2211"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2215",
+                "2216"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "221A",
+                "221D"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "221F",
+                "2222"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2224"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2226"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "222B",
+                "2233"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2239"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "223B",
+                "224C"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2252",
+                "2255"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "225F",
+                "2260"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2262"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2264",
+                "226B"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "226E",
+                "228C"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "228F",
+                "2292"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2298"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "22A2",
+                "22A3"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "22A6",
+                "22B8"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "22BE",
+                "22BF"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "22C9",
+                "22CD"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "22D0",
+                "22D1"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "22D6",
+                "22ED"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "22F0",
+                "22FF"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2308"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2309"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "230A"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "230B"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2320",
+                "2321"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2329"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "232A"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2768"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2769"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "276A"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "276B"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "276C"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "276D"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "276E"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "276F"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2770"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2771"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2772"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2773"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2774"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2775"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "27C0"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "27C3",
+                "27C4"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "27C5"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "27C6"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "27C8",
+                "27C9"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "27CB",
+                "27CD"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "27D3",
+                "27D6"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "27DC",
+                "27DE"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "27E2",
+                "27E5"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "27E6"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "27E7"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "27E8"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "27E9"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "27EA"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "27EB"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "27EC"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "27ED"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "27EE"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "27EF"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2983"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2984"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2985"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2986"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2987"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2988"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2989"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "298A"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "298B"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "298C"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "298D"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "298E"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "298F"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2990"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2991"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2992"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2993"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2994"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2995"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2996"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2997"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2998"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "299B",
+                "29A0"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "29A2",
+                "29AF"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "29B8"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "29C0",
+                "29C5"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "29C9"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "29CE",
+                "29D2"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "29D4",
+                "29D5"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "29D8"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "29D9"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "29DA"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "29DB"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "29DC"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "29E1"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "29E3",
+                "29E5"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "29E8",
+                "29E9"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "29F4",
+                "29F9"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "29FC"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "29FD"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2A0A",
+                "2A1C"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2A1E",
+                "2A21"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2A24"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2A26"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2A29"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2A2B",
+                "2A2E"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2A34",
+                "2A35"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2A3C",
+                "2A3E"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2A57",
+                "2A58"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2A64",
+                "2A65"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2A6A",
+                "2A6D"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2A6F",
+                "2A70"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2A73",
+                "2A74"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2A79",
+                "2AA3"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2AA6",
+                "2AAD"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2AAF",
+                "2AD6"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2ADC"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2ADE"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2AE2",
+                "2AE6"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2AEC",
+                "2AEE"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2AF3"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2AF7",
+                "2AFB"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2AFD"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2BFE"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E02"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E03"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E04"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E05"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E09"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E0A"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E0C"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E0D"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E1C"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E1D"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E20"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E21"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E22"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E23"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E24"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E25"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E26"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E27"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E28"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E29"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E55"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E56"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E57"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E58"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E59"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E5A"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E5B"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "2E5C"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "3008"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "3009"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "300A"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "300B"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "300C"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "300D"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "300E"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "300F"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "3010"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "3011"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "3014"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "3015"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "3016"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "3017"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "3018"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "3019"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "301A"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "301B"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "FE59"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "FE5A"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "FE5B"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "FE5C"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "FE5D"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "FE5E"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "FE64",
+                "FE65"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "FF08"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "FF09"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "FF1C"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "FF1E"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "FF3B"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "FF3D"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "FF5B"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "FF5D"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "FF5F"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "FF60"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "FF62"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "FF63"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "1D6DB"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "1D715"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "1D74F"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "1D789"
+            ],
+            "property": "Bidi_Mirrored"
+        },
+        {
+            "range": [
+                "1D7C3"
+            ],
+            "property": "Bidi_Mirrored"
+        }
+    ]
+}

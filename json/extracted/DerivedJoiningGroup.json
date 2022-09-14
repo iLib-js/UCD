@@ -1,0 +1,1332 @@
+{
+    "DerivedJoiningGroup": [
+        {
+            "range": [
+                "0639",
+                "063A"
+            ],
+            "group": "Ain"
+        },
+        {
+            "range": [
+                "06A0"
+            ],
+            "group": "Ain"
+        },
+        {
+            "range": [
+                "06FC"
+            ],
+            "group": "Ain"
+        },
+        {
+            "range": [
+                "075D",
+                "075F"
+            ],
+            "group": "Ain"
+        },
+        {
+            "range": [
+                "08B3"
+            ],
+            "group": "Ain"
+        },
+        {
+            "range": [
+                "08C3"
+            ],
+            "group": "Ain"
+        },
+        {
+            "range": [
+                "0710"
+            ],
+            "group": "Alaph"
+        },
+        {
+            "range": [
+                "0622",
+                "0623"
+            ],
+            "group": "Alef"
+        },
+        {
+            "range": [
+                "0625"
+            ],
+            "group": "Alef"
+        },
+        {
+            "range": [
+                "0627"
+            ],
+            "group": "Alef"
+        },
+        {
+            "range": [
+                "0671",
+                "0673"
+            ],
+            "group": "Alef"
+        },
+        {
+            "range": [
+                "0675"
+            ],
+            "group": "Alef"
+        },
+        {
+            "range": [
+                "0773",
+                "0774"
+            ],
+            "group": "Alef"
+        },
+        {
+            "range": [
+                "0870",
+                "0882"
+            ],
+            "group": "Alef"
+        },
+        {
+            "range": [
+                "0628"
+            ],
+            "group": "Beh"
+        },
+        {
+            "range": [
+                "062A",
+                "062B"
+            ],
+            "group": "Beh"
+        },
+        {
+            "range": [
+                "066E"
+            ],
+            "group": "Beh"
+        },
+        {
+            "range": [
+                "0679",
+                "0680"
+            ],
+            "group": "Beh"
+        },
+        {
+            "range": [
+                "0750",
+                "0756"
+            ],
+            "group": "Beh"
+        },
+        {
+            "range": [
+                "08A0",
+                "08A1"
+            ],
+            "group": "Beh"
+        },
+        {
+            "range": [
+                "08B6",
+                "08B8"
+            ],
+            "group": "Beh"
+        },
+        {
+            "range": [
+                "08BE",
+                "08C0"
+            ],
+            "group": "Beh"
+        },
+        {
+            "range": [
+                "0712"
+            ],
+            "group": "Beth"
+        },
+        {
+            "range": [
+                "072D"
+            ],
+            "group": "Beth"
+        },
+        {
+            "range": [
+                "062F",
+                "0630"
+            ],
+            "group": "Dal"
+        },
+        {
+            "range": [
+                "0688",
+                "0690"
+            ],
+            "group": "Dal"
+        },
+        {
+            "range": [
+                "06EE"
+            ],
+            "group": "Dal"
+        },
+        {
+            "range": [
+                "0759",
+                "075A"
+            ],
+            "group": "Dal"
+        },
+        {
+            "range": [
+                "08AE"
+            ],
+            "group": "Dal"
+        },
+        {
+            "range": [
+                "0715",
+                "0716"
+            ],
+            "group": "Dalath_Rish"
+        },
+        {
+            "range": [
+                "072A"
+            ],
+            "group": "Dalath_Rish"
+        },
+        {
+            "range": [
+                "072F"
+            ],
+            "group": "Dalath_Rish"
+        },
+        {
+            "range": [
+                "0725"
+            ],
+            "group": "E"
+        },
+        {
+            "range": [
+                "0641"
+            ],
+            "group": "Feh"
+        },
+        {
+            "range": [
+                "06A1",
+                "06A6"
+            ],
+            "group": "Feh"
+        },
+        {
+            "range": [
+                "0760",
+                "0761"
+            ],
+            "group": "Feh"
+        },
+        {
+            "range": [
+                "08A4"
+            ],
+            "group": "Feh"
+        },
+        {
+            "range": [
+                "0724"
+            ],
+            "group": "Final_Semkath"
+        },
+        {
+            "range": [
+                "063B",
+                "063C"
+            ],
+            "group": "Gaf"
+        },
+        {
+            "range": [
+                "06A9"
+            ],
+            "group": "Gaf"
+        },
+        {
+            "range": [
+                "06AB"
+            ],
+            "group": "Gaf"
+        },
+        {
+            "range": [
+                "06AF",
+                "06B4"
+            ],
+            "group": "Gaf"
+        },
+        {
+            "range": [
+                "0762",
+                "0764"
+            ],
+            "group": "Gaf"
+        },
+        {
+            "range": [
+                "088D"
+            ],
+            "group": "Gaf"
+        },
+        {
+            "range": [
+                "08B0"
+            ],
+            "group": "Gaf"
+        },
+        {
+            "range": [
+                "08C2"
+            ],
+            "group": "Gaf"
+        },
+        {
+            "range": [
+                "08C8"
+            ],
+            "group": "Gaf"
+        },
+        {
+            "range": [
+                "0713",
+                "0714"
+            ],
+            "group": "Gamal"
+        },
+        {
+            "range": [
+                "072E"
+            ],
+            "group": "Gamal"
+        },
+        {
+            "range": [
+                "062C",
+                "062E"
+            ],
+            "group": "Hah"
+        },
+        {
+            "range": [
+                "0681",
+                "0687"
+            ],
+            "group": "Hah"
+        },
+        {
+            "range": [
+                "06BF"
+            ],
+            "group": "Hah"
+        },
+        {
+            "range": [
+                "0757",
+                "0758"
+            ],
+            "group": "Hah"
+        },
+        {
+            "range": [
+                "076E",
+                "076F"
+            ],
+            "group": "Hah"
+        },
+        {
+            "range": [
+                "0772"
+            ],
+            "group": "Hah"
+        },
+        {
+            "range": [
+                "077C"
+            ],
+            "group": "Hah"
+        },
+        {
+            "range": [
+                "088A"
+            ],
+            "group": "Hah"
+        },
+        {
+            "range": [
+                "08A2"
+            ],
+            "group": "Hah"
+        },
+        {
+            "range": [
+                "08C1"
+            ],
+            "group": "Hah"
+        },
+        {
+            "range": [
+                "08C5",
+                "08C6"
+            ],
+            "group": "Hah"
+        },
+        {
+            "range": [
+                "06C3"
+            ],
+            "group": "Teh_Marbuta_Goal"
+        },
+        {
+            "range": [
+                "0717"
+            ],
+            "group": "He"
+        },
+        {
+            "range": [
+                "0647"
+            ],
+            "group": "Heh"
+        },
+        {
+            "range": [
+                "06C1",
+                "06C2"
+            ],
+            "group": "Heh_Goal"
+        },
+        {
+            "range": [
+                "071A"
+            ],
+            "group": "Heth"
+        },
+        {
+            "range": [
+                "0643"
+            ],
+            "group": "Kaf"
+        },
+        {
+            "range": [
+                "06AC",
+                "06AE"
+            ],
+            "group": "Kaf"
+        },
+        {
+            "range": [
+                "077F"
+            ],
+            "group": "Kaf"
+        },
+        {
+            "range": [
+                "08B4"
+            ],
+            "group": "Kaf"
+        },
+        {
+            "range": [
+                "071F"
+            ],
+            "group": "Kaph"
+        },
+        {
+            "range": [
+                "06BE"
+            ],
+            "group": "Knotted_Heh"
+        },
+        {
+            "range": [
+                "06FF"
+            ],
+            "group": "Knotted_Heh"
+        },
+        {
+            "range": [
+                "0644"
+            ],
+            "group": "Lam"
+        },
+        {
+            "range": [
+                "06B5",
+                "06B8"
+            ],
+            "group": "Lam"
+        },
+        {
+            "range": [
+                "076A"
+            ],
+            "group": "Lam"
+        },
+        {
+            "range": [
+                "08A6"
+            ],
+            "group": "Lam"
+        },
+        {
+            "range": [
+                "08C7"
+            ],
+            "group": "Lam"
+        },
+        {
+            "range": [
+                "0720"
+            ],
+            "group": "Lamadh"
+        },
+        {
+            "range": [
+                "0645"
+            ],
+            "group": "Meem"
+        },
+        {
+            "range": [
+                "0765",
+                "0766"
+            ],
+            "group": "Meem"
+        },
+        {
+            "range": [
+                "08A7"
+            ],
+            "group": "Meem"
+        },
+        {
+            "range": [
+                "0721"
+            ],
+            "group": "Mim"
+        },
+        {
+            "range": [
+                "0646"
+            ],
+            "group": "Noon"
+        },
+        {
+            "range": [
+                "06B9",
+                "06BC"
+            ],
+            "group": "Noon"
+        },
+        {
+            "range": [
+                "0767",
+                "0769"
+            ],
+            "group": "Noon"
+        },
+        {
+            "range": [
+                "0889"
+            ],
+            "group": "Noon"
+        },
+        {
+            "range": [
+                "0722"
+            ],
+            "group": "Nun"
+        },
+        {
+            "range": [
+                "0726"
+            ],
+            "group": "Pe"
+        },
+        {
+            "range": [
+                "0642"
+            ],
+            "group": "Qaf"
+        },
+        {
+            "range": [
+                "066F"
+            ],
+            "group": "Qaf"
+        },
+        {
+            "range": [
+                "06A7",
+                "06A8"
+            ],
+            "group": "Qaf"
+        },
+        {
+            "range": [
+                "08A5"
+            ],
+            "group": "Qaf"
+        },
+        {
+            "range": [
+                "08B5"
+            ],
+            "group": "Qaf"
+        },
+        {
+            "range": [
+                "0729"
+            ],
+            "group": "Qaph"
+        },
+        {
+            "range": [
+                "0631",
+                "0632"
+            ],
+            "group": "Reh"
+        },
+        {
+            "range": [
+                "0691",
+                "0699"
+            ],
+            "group": "Reh"
+        },
+        {
+            "range": [
+                "06EF"
+            ],
+            "group": "Reh"
+        },
+        {
+            "range": [
+                "075B"
+            ],
+            "group": "Reh"
+        },
+        {
+            "range": [
+                "076B",
+                "076C"
+            ],
+            "group": "Reh"
+        },
+        {
+            "range": [
+                "0771"
+            ],
+            "group": "Reh"
+        },
+        {
+            "range": [
+                "08AA"
+            ],
+            "group": "Reh"
+        },
+        {
+            "range": [
+                "08B2"
+            ],
+            "group": "Reh"
+        },
+        {
+            "range": [
+                "08B9"
+            ],
+            "group": "Reh"
+        },
+        {
+            "range": [
+                "0727"
+            ],
+            "group": "Reversed_Pe"
+        },
+        {
+            "range": [
+                "0635",
+                "0636"
+            ],
+            "group": "Sad"
+        },
+        {
+            "range": [
+                "069D",
+                "069E"
+            ],
+            "group": "Sad"
+        },
+        {
+            "range": [
+                "06FB"
+            ],
+            "group": "Sad"
+        },
+        {
+            "range": [
+                "08AF"
+            ],
+            "group": "Sad"
+        },
+        {
+            "range": [
+                "0728"
+            ],
+            "group": "Sadhe"
+        },
+        {
+            "range": [
+                "0633",
+                "0634"
+            ],
+            "group": "Seen"
+        },
+        {
+            "range": [
+                "069A",
+                "069C"
+            ],
+            "group": "Seen"
+        },
+        {
+            "range": [
+                "06FA"
+            ],
+            "group": "Seen"
+        },
+        {
+            "range": [
+                "075C"
+            ],
+            "group": "Seen"
+        },
+        {
+            "range": [
+                "076D"
+            ],
+            "group": "Seen"
+        },
+        {
+            "range": [
+                "0770"
+            ],
+            "group": "Seen"
+        },
+        {
+            "range": [
+                "077D",
+                "077E"
+            ],
+            "group": "Seen"
+        },
+        {
+            "range": [
+                "0723"
+            ],
+            "group": "Semkath"
+        },
+        {
+            "range": [
+                "072B"
+            ],
+            "group": "Shin"
+        },
+        {
+            "range": [
+                "06AA"
+            ],
+            "group": "Swash_Kaf"
+        },
+        {
+            "range": [
+                "0637",
+                "0638"
+            ],
+            "group": "Tah"
+        },
+        {
+            "range": [
+                "069F"
+            ],
+            "group": "Tah"
+        },
+        {
+            "range": [
+                "088B",
+                "088C"
+            ],
+            "group": "Tah"
+        },
+        {
+            "range": [
+                "08A3"
+            ],
+            "group": "Tah"
+        },
+        {
+            "range": [
+                "072C"
+            ],
+            "group": "Taw"
+        },
+        {
+            "range": [
+                "0629"
+            ],
+            "group": "Teh_Marbuta"
+        },
+        {
+            "range": [
+                "06C0"
+            ],
+            "group": "Teh_Marbuta"
+        },
+        {
+            "range": [
+                "06D5"
+            ],
+            "group": "Teh_Marbuta"
+        },
+        {
+            "range": [
+                "071B",
+                "071C"
+            ],
+            "group": "Teth"
+        },
+        {
+            "range": [
+                "0624"
+            ],
+            "group": "Waw"
+        },
+        {
+            "range": [
+                "0648"
+            ],
+            "group": "Waw"
+        },
+        {
+            "range": [
+                "0676",
+                "0677"
+            ],
+            "group": "Waw"
+        },
+        {
+            "range": [
+                "06C4",
+                "06CB"
+            ],
+            "group": "Waw"
+        },
+        {
+            "range": [
+                "06CF"
+            ],
+            "group": "Waw"
+        },
+        {
+            "range": [
+                "0778",
+                "0779"
+            ],
+            "group": "Waw"
+        },
+        {
+            "range": [
+                "08AB"
+            ],
+            "group": "Waw"
+        },
+        {
+            "range": [
+                "0718"
+            ],
+            "group": "Syriac_Waw"
+        },
+        {
+            "range": [
+                "0620"
+            ],
+            "group": "Yeh"
+        },
+        {
+            "range": [
+                "0626"
+            ],
+            "group": "Yeh"
+        },
+        {
+            "range": [
+                "0649",
+                "064A"
+            ],
+            "group": "Yeh"
+        },
+        {
+            "range": [
+                "0678"
+            ],
+            "group": "Yeh"
+        },
+        {
+            "range": [
+                "06D0",
+                "06D1"
+            ],
+            "group": "Yeh"
+        },
+        {
+            "range": [
+                "0777"
+            ],
+            "group": "Yeh"
+        },
+        {
+            "range": [
+                "08A8",
+                "08A9"
+            ],
+            "group": "Yeh"
+        },
+        {
+            "range": [
+                "08BA"
+            ],
+            "group": "Yeh"
+        },
+        {
+            "range": [
+                "06D2",
+                "06D3"
+            ],
+            "group": "Yeh_Barree"
+        },
+        {
+            "range": [
+                "06CD"
+            ],
+            "group": "Yeh_With_Tail"
+        },
+        {
+            "range": [
+                "071D"
+            ],
+            "group": "Yudh"
+        },
+        {
+            "range": [
+                "071E"
+            ],
+            "group": "Yudh_He"
+        },
+        {
+            "range": [
+                "0719"
+            ],
+            "group": "Zain"
+        },
+        {
+            "range": [
+                "074D"
+            ],
+            "group": "Zhain"
+        },
+        {
+            "range": [
+                "074E"
+            ],
+            "group": "Khaph"
+        },
+        {
+            "range": [
+                "074F"
+            ],
+            "group": "Fe"
+        },
+        {
+            "range": [
+                "077A",
+                "077B"
+            ],
+            "group": "Burushaski_Yeh_Barree"
+        },
+        {
+            "range": [
+                "063D",
+                "063F"
+            ],
+            "group": "Farsi_Yeh"
+        },
+        {
+            "range": [
+                "06CC"
+            ],
+            "group": "Farsi_Yeh"
+        },
+        {
+            "range": [
+                "06CE"
+            ],
+            "group": "Farsi_Yeh"
+        },
+        {
+            "range": [
+                "0775",
+                "0776"
+            ],
+            "group": "Farsi_Yeh"
+        },
+        {
+            "range": [
+                "06BD"
+            ],
+            "group": "Nya"
+        },
+        {
+            "range": [
+                "08AC"
+            ],
+            "group": "Rohingya_Yeh"
+        },
+        {
+            "range": [
+                "08B1"
+            ],
+            "group": "Straight_Waw"
+        },
+        {
+            "range": [
+                "10AC0"
+            ],
+            "group": "Manichaean_Aleph"
+        },
+        {
+            "range": [
+                "10AD9",
+                "10ADA"
+            ],
+            "group": "Manichaean_Ayin"
+        },
+        {
+            "range": [
+                "10AC1",
+                "10AC2"
+            ],
+            "group": "Manichaean_Beth"
+        },
+        {
+            "range": [
+                "10AC5"
+            ],
+            "group": "Manichaean_Daleth"
+        },
+        {
+            "range": [
+                "10AD4"
+            ],
+            "group": "Manichaean_Dhamedh"
+        },
+        {
+            "range": [
+                "10AEC"
+            ],
+            "group": "Manichaean_Five"
+        },
+        {
+            "range": [
+                "10AC3",
+                "10AC4"
+            ],
+            "group": "Manichaean_Gimel"
+        },
+        {
+            "range": [
+                "10ACD"
+            ],
+            "group": "Manichaean_Heth"
+        },
+        {
+            "range": [
+                "10AEF"
+            ],
+            "group": "Manichaean_Hundred"
+        },
+        {
+            "range": [
+                "10AD0",
+                "10AD2"
+            ],
+            "group": "Manichaean_Kaph"
+        },
+        {
+            "range": [
+                "10AD3"
+            ],
+            "group": "Manichaean_Lamedh"
+        },
+        {
+            "range": [
+                "10AD6"
+            ],
+            "group": "Manichaean_Mem"
+        },
+        {
+            "range": [
+                "10AD7"
+            ],
+            "group": "Manichaean_Nun"
+        },
+        {
+            "range": [
+                "10AEB"
+            ],
+            "group": "Manichaean_One"
+        },
+        {
+            "range": [
+                "10ADB",
+                "10ADC"
+            ],
+            "group": "Manichaean_Pe"
+        },
+        {
+            "range": [
+                "10ADE",
+                "10AE0"
+            ],
+            "group": "Manichaean_Qoph"
+        },
+        {
+            "range": [
+                "10AE1"
+            ],
+            "group": "Manichaean_Resh"
+        },
+        {
+            "range": [
+                "10ADD"
+            ],
+            "group": "Manichaean_Sadhe"
+        },
+        {
+            "range": [
+                "10AD8"
+            ],
+            "group": "Manichaean_Samekh"
+        },
+        {
+            "range": [
+                "10AE4"
+            ],
+            "group": "Manichaean_Taw"
+        },
+        {
+            "range": [
+                "10AED"
+            ],
+            "group": "Manichaean_Ten"
+        },
+        {
+            "range": [
+                "10ACE"
+            ],
+            "group": "Manichaean_Teth"
+        },
+        {
+            "range": [
+                "10AD5"
+            ],
+            "group": "Manichaean_Thamedh"
+        },
+        {
+            "range": [
+                "10AEE"
+            ],
+            "group": "Manichaean_Twenty"
+        },
+        {
+            "range": [
+                "10AC7"
+            ],
+            "group": "Manichaean_Waw"
+        },
+        {
+            "range": [
+                "10ACF"
+            ],
+            "group": "Manichaean_Yodh"
+        },
+        {
+            "range": [
+                "10AC9",
+                "10ACA"
+            ],
+            "group": "Manichaean_Zayin"
+        },
+        {
+            "range": [
+                "08BB"
+            ],
+            "group": "African_Feh"
+        },
+        {
+            "range": [
+                "08BC"
+            ],
+            "group": "African_Qaf"
+        },
+        {
+            "range": [
+                "08C4"
+            ],
+            "group": "African_Qaf"
+        },
+        {
+            "range": [
+                "08BD"
+            ],
+            "group": "African_Noon"
+        },
+        {
+            "range": [
+                "0860"
+            ],
+            "group": "Malayalam_Nga"
+        },
+        {
+            "range": [
+                "0861"
+            ],
+            "group": "Malayalam_Ja"
+        },
+        {
+            "range": [
+                "0862"
+            ],
+            "group": "Malayalam_Nya"
+        },
+        {
+            "range": [
+                "0863"
+            ],
+            "group": "Malayalam_Tta"
+        },
+        {
+            "range": [
+                "0864"
+            ],
+            "group": "Malayalam_Nna"
+        },
+        {
+            "range": [
+                "0865"
+            ],
+            "group": "Malayalam_Nnna"
+        },
+        {
+            "range": [
+                "0866"
+            ],
+            "group": "Malayalam_Bha"
+        },
+        {
+            "range": [
+                "0867"
+            ],
+            "group": "Malayalam_Ra"
+        },
+        {
+            "range": [
+                "0868"
+            ],
+            "group": "Malayalam_Lla"
+        },
+        {
+            "range": [
+                "0869"
+            ],
+            "group": "Malayalam_Llla"
+        },
+        {
+            "range": [
+                "086A"
+            ],
+            "group": "Malayalam_Ssa"
+        },
+        {
+            "range": [
+                "10D02"
+            ],
+            "group": "Hanifi_Rohingya_Pa"
+        },
+        {
+            "range": [
+                "10D09"
+            ],
+            "group": "Hanifi_Rohingya_Pa"
+        },
+        {
+            "range": [
+                "10D1C"
+            ],
+            "group": "Hanifi_Rohingya_Pa"
+        },
+        {
+            "range": [
+                "10D19"
+            ],
+            "group": "Hanifi_Rohingya_Kinna_Ya"
+        },
+        {
+            "range": [
+                "10D1E"
+            ],
+            "group": "Hanifi_Rohingya_Kinna_Ya"
+        },
+        {
+            "range": [
+                "10D20"
+            ],
+            "group": "Hanifi_Rohingya_Kinna_Ya"
+        },
+        {
+            "range": [
+                "10D23"
+            ],
+            "group": "Hanifi_Rohingya_Kinna_Ya"
+        },
+        {
+            "range": [
+                "0886"
+            ],
+            "group": "Thin_Yeh"
+        },
+        {
+            "range": [
+                "088E"
+            ],
+            "group": "Vertical_Tail"
+        }
+    ]
+}

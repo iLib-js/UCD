@@ -1,0 +1,5233 @@
+{
+    "HangulSyllableType": [
+        {
+            "range": [
+                "1100",
+                "115F"
+            ],
+            "hangulType": "L"
+        },
+        {
+            "range": [
+                "A960",
+                "A97C"
+            ],
+            "hangulType": "L"
+        },
+        {
+            "range": [
+                "1160",
+                "11A7"
+            ],
+            "hangulType": "V"
+        },
+        {
+            "range": [
+                "D7B0",
+                "D7C6"
+            ],
+            "hangulType": "V"
+        },
+        {
+            "range": [
+                "11A8",
+                "11FF"
+            ],
+            "hangulType": "T"
+        },
+        {
+            "range": [
+                "D7CB",
+                "D7FB"
+            ],
+            "hangulType": "T"
+        },
+        {
+            "range": [
+                "AC00"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AC1C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AC38"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AC54"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AC70"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AC8C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "ACA8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "ACC4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "ACE0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "ACFC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AD18"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AD34"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AD50"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AD6C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AD88"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "ADA4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "ADC0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "ADDC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "ADF8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AE14"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AE30"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AE4C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AE68"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AE84"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AEA0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AEBC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AED8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AEF4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AF10"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AF2C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AF48"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AF64"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AF80"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AF9C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AFB8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AFD4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AFF0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B00C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B028"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B044"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B060"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B07C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B098"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B0B4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B0D0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B0EC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B108"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B124"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B140"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B15C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B178"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B194"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B1B0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B1CC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B1E8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B204"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B220"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B23C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B258"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B274"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B290"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B2AC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B2C8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B2E4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B300"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B31C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B338"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B354"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B370"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B38C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B3A8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B3C4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B3E0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B3FC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B418"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B434"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B450"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B46C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B488"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B4A4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B4C0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B4DC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B4F8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B514"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B530"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B54C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B568"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B584"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B5A0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B5BC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B5D8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B5F4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B610"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B62C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B648"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B664"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B680"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B69C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B6B8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B6D4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B6F0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B70C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B728"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B744"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B760"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B77C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B798"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B7B4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B7D0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B7EC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B808"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B824"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B840"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B85C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B878"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B894"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B8B0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B8CC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B8E8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B904"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B920"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B93C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B958"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B974"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B990"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B9AC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B9C8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "B9E4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BA00"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BA1C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BA38"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BA54"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BA70"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BA8C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BAA8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BAC4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BAE0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BAFC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BB18"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BB34"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BB50"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BB6C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BB88"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BBA4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BBC0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BBDC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BBF8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BC14"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BC30"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BC4C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BC68"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BC84"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BCA0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BCBC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BCD8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BCF4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BD10"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BD2C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BD48"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BD64"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BD80"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BD9C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BDB8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BDD4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BDF0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BE0C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BE28"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BE44"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BE60"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BE7C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BE98"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BEB4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BED0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BEEC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BF08"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BF24"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BF40"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BF5C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BF78"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BF94"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BFB0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BFCC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "BFE8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C004"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C020"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C03C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C058"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C074"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C090"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C0AC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C0C8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C0E4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C100"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C11C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C138"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C154"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C170"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C18C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C1A8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C1C4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C1E0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C1FC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C218"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C234"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C250"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C26C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C288"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C2A4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C2C0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C2DC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C2F8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C314"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C330"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C34C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C368"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C384"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C3A0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C3BC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C3D8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C3F4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C410"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C42C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C448"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C464"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C480"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C49C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C4B8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C4D4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C4F0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C50C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C528"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C544"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C560"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C57C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C598"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C5B4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C5D0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C5EC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C608"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C624"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C640"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C65C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C678"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C694"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C6B0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C6CC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C6E8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C704"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C720"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C73C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C758"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C774"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C790"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C7AC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C7C8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C7E4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C800"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C81C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C838"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C854"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C870"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C88C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C8A8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C8C4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C8E0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C8FC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C918"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C934"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C950"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C96C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C988"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C9A4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C9C0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C9DC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "C9F8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CA14"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CA30"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CA4C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CA68"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CA84"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CAA0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CABC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CAD8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CAF4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CB10"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CB2C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CB48"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CB64"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CB80"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CB9C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CBB8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CBD4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CBF0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CC0C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CC28"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CC44"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CC60"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CC7C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CC98"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CCB4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CCD0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CCEC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CD08"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CD24"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CD40"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CD5C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CD78"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CD94"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CDB0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CDCC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CDE8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CE04"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CE20"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CE3C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CE58"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CE74"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CE90"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CEAC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CEC8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CEE4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CF00"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CF1C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CF38"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CF54"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CF70"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CF8C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CFA8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CFC4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CFE0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "CFFC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D018"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D034"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D050"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D06C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D088"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D0A4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D0C0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D0DC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D0F8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D114"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D130"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D14C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D168"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D184"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D1A0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D1BC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D1D8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D1F4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D210"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D22C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D248"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D264"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D280"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D29C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D2B8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D2D4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D2F0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D30C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D328"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D344"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D360"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D37C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D398"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D3B4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D3D0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D3EC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D408"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D424"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D440"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D45C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D478"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D494"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D4B0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D4CC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D4E8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D504"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D520"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D53C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D558"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D574"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D590"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D5AC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D5C8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D5E4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D600"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D61C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D638"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D654"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D670"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D68C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D6A8"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D6C4"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D6E0"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D6FC"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D718"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D734"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D750"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D76C"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "D788"
+            ],
+            "hangulType": "LV"
+        },
+        {
+            "range": [
+                "AC01",
+                "AC1B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AC1D",
+                "AC37"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AC39",
+                "AC53"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AC55",
+                "AC6F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AC71",
+                "AC8B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AC8D",
+                "ACA7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "ACA9",
+                "ACC3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "ACC5",
+                "ACDF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "ACE1",
+                "ACFB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "ACFD",
+                "AD17"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AD19",
+                "AD33"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AD35",
+                "AD4F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AD51",
+                "AD6B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AD6D",
+                "AD87"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AD89",
+                "ADA3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "ADA5",
+                "ADBF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "ADC1",
+                "ADDB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "ADDD",
+                "ADF7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "ADF9",
+                "AE13"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AE15",
+                "AE2F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AE31",
+                "AE4B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AE4D",
+                "AE67"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AE69",
+                "AE83"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AE85",
+                "AE9F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AEA1",
+                "AEBB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AEBD",
+                "AED7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AED9",
+                "AEF3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AEF5",
+                "AF0F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AF11",
+                "AF2B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AF2D",
+                "AF47"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AF49",
+                "AF63"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AF65",
+                "AF7F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AF81",
+                "AF9B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AF9D",
+                "AFB7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AFB9",
+                "AFD3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AFD5",
+                "AFEF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "AFF1",
+                "B00B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B00D",
+                "B027"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B029",
+                "B043"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B045",
+                "B05F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B061",
+                "B07B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B07D",
+                "B097"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B099",
+                "B0B3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B0B5",
+                "B0CF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B0D1",
+                "B0EB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B0ED",
+                "B107"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B109",
+                "B123"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B125",
+                "B13F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B141",
+                "B15B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B15D",
+                "B177"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B179",
+                "B193"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B195",
+                "B1AF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B1B1",
+                "B1CB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B1CD",
+                "B1E7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B1E9",
+                "B203"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B205",
+                "B21F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B221",
+                "B23B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B23D",
+                "B257"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B259",
+                "B273"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B275",
+                "B28F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B291",
+                "B2AB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B2AD",
+                "B2C7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B2C9",
+                "B2E3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B2E5",
+                "B2FF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B301",
+                "B31B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B31D",
+                "B337"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B339",
+                "B353"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B355",
+                "B36F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B371",
+                "B38B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B38D",
+                "B3A7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B3A9",
+                "B3C3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B3C5",
+                "B3DF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B3E1",
+                "B3FB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B3FD",
+                "B417"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B419",
+                "B433"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B435",
+                "B44F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B451",
+                "B46B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B46D",
+                "B487"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B489",
+                "B4A3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B4A5",
+                "B4BF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B4C1",
+                "B4DB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B4DD",
+                "B4F7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B4F9",
+                "B513"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B515",
+                "B52F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B531",
+                "B54B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B54D",
+                "B567"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B569",
+                "B583"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B585",
+                "B59F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B5A1",
+                "B5BB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B5BD",
+                "B5D7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B5D9",
+                "B5F3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B5F5",
+                "B60F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B611",
+                "B62B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B62D",
+                "B647"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B649",
+                "B663"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B665",
+                "B67F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B681",
+                "B69B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B69D",
+                "B6B7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B6B9",
+                "B6D3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B6D5",
+                "B6EF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B6F1",
+                "B70B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B70D",
+                "B727"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B729",
+                "B743"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B745",
+                "B75F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B761",
+                "B77B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B77D",
+                "B797"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B799",
+                "B7B3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B7B5",
+                "B7CF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B7D1",
+                "B7EB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B7ED",
+                "B807"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B809",
+                "B823"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B825",
+                "B83F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B841",
+                "B85B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B85D",
+                "B877"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B879",
+                "B893"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B895",
+                "B8AF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B8B1",
+                "B8CB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B8CD",
+                "B8E7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B8E9",
+                "B903"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B905",
+                "B91F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B921",
+                "B93B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B93D",
+                "B957"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B959",
+                "B973"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B975",
+                "B98F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B991",
+                "B9AB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B9AD",
+                "B9C7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B9C9",
+                "B9E3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "B9E5",
+                "B9FF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BA01",
+                "BA1B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BA1D",
+                "BA37"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BA39",
+                "BA53"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BA55",
+                "BA6F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BA71",
+                "BA8B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BA8D",
+                "BAA7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BAA9",
+                "BAC3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BAC5",
+                "BADF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BAE1",
+                "BAFB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BAFD",
+                "BB17"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BB19",
+                "BB33"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BB35",
+                "BB4F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BB51",
+                "BB6B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BB6D",
+                "BB87"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BB89",
+                "BBA3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BBA5",
+                "BBBF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BBC1",
+                "BBDB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BBDD",
+                "BBF7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BBF9",
+                "BC13"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BC15",
+                "BC2F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BC31",
+                "BC4B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BC4D",
+                "BC67"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BC69",
+                "BC83"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BC85",
+                "BC9F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BCA1",
+                "BCBB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BCBD",
+                "BCD7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BCD9",
+                "BCF3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BCF5",
+                "BD0F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BD11",
+                "BD2B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BD2D",
+                "BD47"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BD49",
+                "BD63"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BD65",
+                "BD7F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BD81",
+                "BD9B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BD9D",
+                "BDB7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BDB9",
+                "BDD3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BDD5",
+                "BDEF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BDF1",
+                "BE0B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BE0D",
+                "BE27"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BE29",
+                "BE43"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BE45",
+                "BE5F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BE61",
+                "BE7B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BE7D",
+                "BE97"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BE99",
+                "BEB3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BEB5",
+                "BECF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BED1",
+                "BEEB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BEED",
+                "BF07"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BF09",
+                "BF23"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BF25",
+                "BF3F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BF41",
+                "BF5B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BF5D",
+                "BF77"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BF79",
+                "BF93"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BF95",
+                "BFAF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BFB1",
+                "BFCB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BFCD",
+                "BFE7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "BFE9",
+                "C003"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C005",
+                "C01F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C021",
+                "C03B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C03D",
+                "C057"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C059",
+                "C073"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C075",
+                "C08F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C091",
+                "C0AB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C0AD",
+                "C0C7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C0C9",
+                "C0E3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C0E5",
+                "C0FF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C101",
+                "C11B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C11D",
+                "C137"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C139",
+                "C153"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C155",
+                "C16F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C171",
+                "C18B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C18D",
+                "C1A7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C1A9",
+                "C1C3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C1C5",
+                "C1DF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C1E1",
+                "C1FB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C1FD",
+                "C217"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C219",
+                "C233"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C235",
+                "C24F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C251",
+                "C26B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C26D",
+                "C287"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C289",
+                "C2A3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C2A5",
+                "C2BF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C2C1",
+                "C2DB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C2DD",
+                "C2F7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C2F9",
+                "C313"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C315",
+                "C32F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C331",
+                "C34B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C34D",
+                "C367"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C369",
+                "C383"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C385",
+                "C39F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C3A1",
+                "C3BB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C3BD",
+                "C3D7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C3D9",
+                "C3F3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C3F5",
+                "C40F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C411",
+                "C42B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C42D",
+                "C447"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C449",
+                "C463"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C465",
+                "C47F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C481",
+                "C49B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C49D",
+                "C4B7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C4B9",
+                "C4D3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C4D5",
+                "C4EF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C4F1",
+                "C50B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C50D",
+                "C527"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C529",
+                "C543"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C545",
+                "C55F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C561",
+                "C57B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C57D",
+                "C597"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C599",
+                "C5B3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C5B5",
+                "C5CF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C5D1",
+                "C5EB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C5ED",
+                "C607"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C609",
+                "C623"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C625",
+                "C63F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C641",
+                "C65B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C65D",
+                "C677"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C679",
+                "C693"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C695",
+                "C6AF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C6B1",
+                "C6CB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C6CD",
+                "C6E7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C6E9",
+                "C703"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C705",
+                "C71F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C721",
+                "C73B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C73D",
+                "C757"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C759",
+                "C773"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C775",
+                "C78F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C791",
+                "C7AB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C7AD",
+                "C7C7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C7C9",
+                "C7E3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C7E5",
+                "C7FF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C801",
+                "C81B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C81D",
+                "C837"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C839",
+                "C853"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C855",
+                "C86F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C871",
+                "C88B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C88D",
+                "C8A7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C8A9",
+                "C8C3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C8C5",
+                "C8DF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C8E1",
+                "C8FB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C8FD",
+                "C917"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C919",
+                "C933"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C935",
+                "C94F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C951",
+                "C96B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C96D",
+                "C987"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C989",
+                "C9A3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C9A5",
+                "C9BF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C9C1",
+                "C9DB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C9DD",
+                "C9F7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "C9F9",
+                "CA13"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CA15",
+                "CA2F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CA31",
+                "CA4B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CA4D",
+                "CA67"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CA69",
+                "CA83"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CA85",
+                "CA9F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CAA1",
+                "CABB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CABD",
+                "CAD7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CAD9",
+                "CAF3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CAF5",
+                "CB0F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CB11",
+                "CB2B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CB2D",
+                "CB47"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CB49",
+                "CB63"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CB65",
+                "CB7F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CB81",
+                "CB9B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CB9D",
+                "CBB7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CBB9",
+                "CBD3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CBD5",
+                "CBEF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CBF1",
+                "CC0B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CC0D",
+                "CC27"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CC29",
+                "CC43"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CC45",
+                "CC5F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CC61",
+                "CC7B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CC7D",
+                "CC97"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CC99",
+                "CCB3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CCB5",
+                "CCCF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CCD1",
+                "CCEB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CCED",
+                "CD07"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CD09",
+                "CD23"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CD25",
+                "CD3F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CD41",
+                "CD5B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CD5D",
+                "CD77"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CD79",
+                "CD93"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CD95",
+                "CDAF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CDB1",
+                "CDCB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CDCD",
+                "CDE7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CDE9",
+                "CE03"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CE05",
+                "CE1F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CE21",
+                "CE3B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CE3D",
+                "CE57"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CE59",
+                "CE73"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CE75",
+                "CE8F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CE91",
+                "CEAB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CEAD",
+                "CEC7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CEC9",
+                "CEE3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CEE5",
+                "CEFF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CF01",
+                "CF1B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CF1D",
+                "CF37"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CF39",
+                "CF53"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CF55",
+                "CF6F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CF71",
+                "CF8B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CF8D",
+                "CFA7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CFA9",
+                "CFC3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CFC5",
+                "CFDF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CFE1",
+                "CFFB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "CFFD",
+                "D017"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D019",
+                "D033"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D035",
+                "D04F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D051",
+                "D06B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D06D",
+                "D087"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D089",
+                "D0A3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D0A5",
+                "D0BF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D0C1",
+                "D0DB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D0DD",
+                "D0F7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D0F9",
+                "D113"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D115",
+                "D12F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D131",
+                "D14B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D14D",
+                "D167"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D169",
+                "D183"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D185",
+                "D19F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D1A1",
+                "D1BB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D1BD",
+                "D1D7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D1D9",
+                "D1F3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D1F5",
+                "D20F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D211",
+                "D22B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D22D",
+                "D247"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D249",
+                "D263"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D265",
+                "D27F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D281",
+                "D29B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D29D",
+                "D2B7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D2B9",
+                "D2D3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D2D5",
+                "D2EF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D2F1",
+                "D30B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D30D",
+                "D327"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D329",
+                "D343"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D345",
+                "D35F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D361",
+                "D37B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D37D",
+                "D397"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D399",
+                "D3B3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D3B5",
+                "D3CF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D3D1",
+                "D3EB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D3ED",
+                "D407"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D409",
+                "D423"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D425",
+                "D43F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D441",
+                "D45B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D45D",
+                "D477"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D479",
+                "D493"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D495",
+                "D4AF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D4B1",
+                "D4CB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D4CD",
+                "D4E7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D4E9",
+                "D503"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D505",
+                "D51F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D521",
+                "D53B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D53D",
+                "D557"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D559",
+                "D573"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D575",
+                "D58F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D591",
+                "D5AB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D5AD",
+                "D5C7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D5C9",
+                "D5E3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D5E5",
+                "D5FF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D601",
+                "D61B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D61D",
+                "D637"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D639",
+                "D653"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D655",
+                "D66F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D671",
+                "D68B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D68D",
+                "D6A7"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D6A9",
+                "D6C3"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D6C5",
+                "D6DF"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D6E1",
+                "D6FB"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D6FD",
+                "D717"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D719",
+                "D733"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D735",
+                "D74F"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D751",
+                "D76B"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D76D",
+                "D787"
+            ],
+            "hangulType": "LVT"
+        },
+        {
+            "range": [
+                "D789",
+                "D7A3"
+            ],
+            "hangulType": "LVT"
+        }
+    ]
+}

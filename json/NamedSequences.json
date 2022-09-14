@@ -1,0 +1,3281 @@
+{
+    "NamedSequences": [
+        {
+            "name": "KEYCAP NUMBER SIGN",
+            "codepointSequence": [
+                "0023",
+                "FE0F",
+                "20E3"
+            ]
+        },
+        {
+            "name": "KEYCAP ASTERISK",
+            "codepointSequence": [
+                "002A",
+                "FE0F",
+                "20E3"
+            ]
+        },
+        {
+            "name": "KEYCAP DIGIT ZERO",
+            "codepointSequence": [
+                "0030",
+                "FE0F",
+                "20E3"
+            ]
+        },
+        {
+            "name": "KEYCAP DIGIT ONE",
+            "codepointSequence": [
+                "0031",
+                "FE0F",
+                "20E3"
+            ]
+        },
+        {
+            "name": "KEYCAP DIGIT TWO",
+            "codepointSequence": [
+                "0032",
+                "FE0F",
+                "20E3"
+            ]
+        },
+        {
+            "name": "KEYCAP DIGIT THREE",
+            "codepointSequence": [
+                "0033",
+                "FE0F",
+                "20E3"
+            ]
+        },
+        {
+            "name": "KEYCAP DIGIT FOUR",
+            "codepointSequence": [
+                "0034",
+                "FE0F",
+                "20E3"
+            ]
+        },
+        {
+            "name": "KEYCAP DIGIT FIVE",
+            "codepointSequence": [
+                "0035",
+                "FE0F",
+                "20E3"
+            ]
+        },
+        {
+            "name": "KEYCAP DIGIT SIX",
+            "codepointSequence": [
+                "0036",
+                "FE0F",
+                "20E3"
+            ]
+        },
+        {
+            "name": "KEYCAP DIGIT SEVEN",
+            "codepointSequence": [
+                "0037",
+                "FE0F",
+                "20E3"
+            ]
+        },
+        {
+            "name": "KEYCAP DIGIT EIGHT",
+            "codepointSequence": [
+                "0038",
+                "FE0F",
+                "20E3"
+            ]
+        },
+        {
+            "name": "KEYCAP DIGIT NINE",
+            "codepointSequence": [
+                "0039",
+                "FE0F",
+                "20E3"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER A WITH MACRON AND GRAVE",
+            "codepointSequence": [
+                "0100",
+                "0300"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER A WITH MACRON AND GRAVE",
+            "codepointSequence": [
+                "0101",
+                "0300"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER I WITH MACRON AND GRAVE",
+            "codepointSequence": [
+                "012A",
+                "0300"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER I WITH MACRON AND GRAVE",
+            "codepointSequence": [
+                "012B",
+                "0300"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER U WITH MACRON AND GRAVE",
+            "codepointSequence": [
+                "016A",
+                "0300"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER U WITH MACRON AND GRAVE",
+            "codepointSequence": [
+                "016B",
+                "0300"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER E WITH VERTICAL LINE BELOW",
+            "codepointSequence": [
+                "0045",
+                "0329"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER E WITH VERTICAL LINE BELOW",
+            "codepointSequence": [
+                "0065",
+                "0329"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER E WITH VERTICAL LINE BELOW AND GRAVE",
+            "codepointSequence": [
+                "00C8",
+                "0329"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER E WITH VERTICAL LINE BELOW AND GRAVE",
+            "codepointSequence": [
+                "00E8",
+                "0329"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER E WITH VERTICAL LINE BELOW AND ACUTE",
+            "codepointSequence": [
+                "00C9",
+                "0329"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER E WITH VERTICAL LINE BELOW AND ACUTE",
+            "codepointSequence": [
+                "00E9",
+                "0329"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER O WITH VERTICAL LINE BELOW",
+            "codepointSequence": [
+                "004F",
+                "0329"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER O WITH VERTICAL LINE BELOW",
+            "codepointSequence": [
+                "006F",
+                "0329"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER O WITH VERTICAL LINE BELOW AND GRAVE",
+            "codepointSequence": [
+                "00D2",
+                "0329"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER O WITH VERTICAL LINE BELOW AND GRAVE",
+            "codepointSequence": [
+                "00F2",
+                "0329"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER O WITH VERTICAL LINE BELOW AND ACUTE",
+            "codepointSequence": [
+                "00D3",
+                "0329"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER O WITH VERTICAL LINE BELOW AND ACUTE",
+            "codepointSequence": [
+                "00F3",
+                "0329"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER S WITH VERTICAL LINE BELOW",
+            "codepointSequence": [
+                "0053",
+                "0329"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER S WITH VERTICAL LINE BELOW",
+            "codepointSequence": [
+                "0073",
+                "0329"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND MACRON",
+            "codepointSequence": [
+                "00CA",
+                "0304"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND MACRON",
+            "codepointSequence": [
+                "00EA",
+                "0304"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND CARON",
+            "codepointSequence": [
+                "00CA",
+                "030C"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND CARON",
+            "codepointSequence": [
+                "00EA",
+                "030C"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER I WITH DOT ABOVE AND ACUTE",
+            "codepointSequence": [
+                "0069",
+                "0307",
+                "0301"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER NG WITH TILDE ABOVE",
+            "codepointSequence": [
+                "006E",
+                "0360",
+                "0067"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER A WITH OGONEK AND ACUTE",
+            "codepointSequence": [
+                "0104",
+                "0301"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER A WITH OGONEK AND ACUTE",
+            "codepointSequence": [
+                "0105",
+                "0301"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER A WITH OGONEK AND TILDE",
+            "codepointSequence": [
+                "0104",
+                "0303"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER A WITH OGONEK AND TILDE",
+            "codepointSequence": [
+                "0105",
+                "0303"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER E WITH OGONEK AND ACUTE",
+            "codepointSequence": [
+                "0118",
+                "0301"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER E WITH OGONEK AND ACUTE",
+            "codepointSequence": [
+                "0119",
+                "0301"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER E WITH OGONEK AND TILDE",
+            "codepointSequence": [
+                "0118",
+                "0303"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER E WITH OGONEK AND TILDE",
+            "codepointSequence": [
+                "0119",
+                "0303"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER E WITH DOT ABOVE AND ACUTE",
+            "codepointSequence": [
+                "0116",
+                "0301"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER E WITH DOT ABOVE AND ACUTE",
+            "codepointSequence": [
+                "0117",
+                "0301"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER E WITH DOT ABOVE AND TILDE",
+            "codepointSequence": [
+                "0116",
+                "0303"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER E WITH DOT ABOVE AND TILDE",
+            "codepointSequence": [
+                "0117",
+                "0303"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER I WITH DOT ABOVE AND GRAVE",
+            "codepointSequence": [
+                "0069",
+                "0307",
+                "0300"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER I WITH DOT ABOVE AND TILDE",
+            "codepointSequence": [
+                "0069",
+                "0307",
+                "0303"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER I WITH OGONEK AND ACUTE",
+            "codepointSequence": [
+                "012E",
+                "0301"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER I WITH OGONEK AND DOT ABOVE AND ACUTE",
+            "codepointSequence": [
+                "012F",
+                "0307",
+                "0301"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER I WITH OGONEK AND TILDE",
+            "codepointSequence": [
+                "012E",
+                "0303"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER I WITH OGONEK AND DOT ABOVE AND TILDE",
+            "codepointSequence": [
+                "012F",
+                "0307",
+                "0303"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER J WITH TILDE",
+            "codepointSequence": [
+                "004A",
+                "0303"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER J WITH DOT ABOVE AND TILDE",
+            "codepointSequence": [
+                "006A",
+                "0307",
+                "0303"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER L WITH TILDE",
+            "codepointSequence": [
+                "004C",
+                "0303"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER L WITH TILDE",
+            "codepointSequence": [
+                "006C",
+                "0303"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER M WITH TILDE",
+            "codepointSequence": [
+                "004D",
+                "0303"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER M WITH TILDE",
+            "codepointSequence": [
+                "006D",
+                "0303"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER R WITH TILDE",
+            "codepointSequence": [
+                "0052",
+                "0303"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER R WITH TILDE",
+            "codepointSequence": [
+                "0072",
+                "0303"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER U WITH OGONEK AND ACUTE",
+            "codepointSequence": [
+                "0172",
+                "0301"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER U WITH OGONEK AND ACUTE",
+            "codepointSequence": [
+                "0173",
+                "0301"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER U WITH OGONEK AND TILDE",
+            "codepointSequence": [
+                "0172",
+                "0303"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER U WITH OGONEK AND TILDE",
+            "codepointSequence": [
+                "0173",
+                "0303"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER U WITH MACRON AND ACUTE",
+            "codepointSequence": [
+                "016A",
+                "0301"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER U WITH MACRON AND ACUTE",
+            "codepointSequence": [
+                "016B",
+                "0301"
+            ]
+        },
+        {
+            "name": "LATIN CAPITAL LETTER U WITH MACRON AND TILDE",
+            "codepointSequence": [
+                "016A",
+                "0303"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER U WITH MACRON AND TILDE",
+            "codepointSequence": [
+                "016B",
+                "0303"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER AE WITH GRAVE",
+            "codepointSequence": [
+                "00E6",
+                "0300"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER OPEN O WITH GRAVE",
+            "codepointSequence": [
+                "0254",
+                "0300"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER OPEN O WITH ACUTE",
+            "codepointSequence": [
+                "0254",
+                "0301"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER TURNED V WITH GRAVE",
+            "codepointSequence": [
+                "028C",
+                "0300"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER TURNED V WITH ACUTE",
+            "codepointSequence": [
+                "028C",
+                "0301"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER SCHWA WITH GRAVE",
+            "codepointSequence": [
+                "0259",
+                "0300"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER SCHWA WITH ACUTE",
+            "codepointSequence": [
+                "0259",
+                "0301"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER HOOKED SCHWA WITH GRAVE",
+            "codepointSequence": [
+                "025A",
+                "0300"
+            ]
+        },
+        {
+            "name": "LATIN SMALL LETTER HOOKED SCHWA WITH ACUTE",
+            "codepointSequence": [
+                "025A",
+                "0301"
+            ]
+        },
+        {
+            "name": "ARABIC SEQUENCE YEH WITH HAMZA ABOVE WITH ALEF",
+            "codepointSequence": [
+                "0626",
+                "0627"
+            ]
+        },
+        {
+            "name": "ARABIC SEQUENCE YEH WITH HAMZA ABOVE WITH WAW",
+            "codepointSequence": [
+                "0626",
+                "0648"
+            ]
+        },
+        {
+            "name": "ARABIC SEQUENCE YEH WITH HAMZA ABOVE WITH ALEF MAKSURA",
+            "codepointSequence": [
+                "0626",
+                "0649"
+            ]
+        },
+        {
+            "name": "ARABIC SEQUENCE YEH WITH HAMZA ABOVE WITH OE",
+            "codepointSequence": [
+                "0626",
+                "06C6"
+            ]
+        },
+        {
+            "name": "ARABIC SEQUENCE YEH WITH HAMZA ABOVE WITH U",
+            "codepointSequence": [
+                "0626",
+                "06C7"
+            ]
+        },
+        {
+            "name": "ARABIC SEQUENCE YEH WITH HAMZA ABOVE WITH YU",
+            "codepointSequence": [
+                "0626",
+                "06C8"
+            ]
+        },
+        {
+            "name": "ARABIC SEQUENCE YEH WITH HAMZA ABOVE WITH E",
+            "codepointSequence": [
+                "0626",
+                "06D0"
+            ]
+        },
+        {
+            "name": "ARABIC SEQUENCE YEH WITH HAMZA ABOVE WITH AE",
+            "codepointSequence": [
+                "0626",
+                "06D5"
+            ]
+        },
+        {
+            "name": "ARABIC SEQUENCE NOON WITH KEHEH",
+            "codepointSequence": [
+                "0646",
+                "06A9"
+            ]
+        },
+        {
+            "name": "DEVANAGARI SEQUENCE FOR LETTER QA",
+            "codepointSequence": [
+                "0915",
+                "093C"
+            ]
+        },
+        {
+            "name": "DEVANAGARI SEQUENCE FOR LETTER KHHA",
+            "codepointSequence": [
+                "0916",
+                "093C"
+            ]
+        },
+        {
+            "name": "DEVANAGARI SEQUENCE FOR LETTER GHHA",
+            "codepointSequence": [
+                "0917",
+                "093C"
+            ]
+        },
+        {
+            "name": "DEVANAGARI SEQUENCE FOR LETTER ZA",
+            "codepointSequence": [
+                "091C",
+                "093C"
+            ]
+        },
+        {
+            "name": "DEVANAGARI SEQUENCE FOR LETTER DDDHA",
+            "codepointSequence": [
+                "0921",
+                "093C"
+            ]
+        },
+        {
+            "name": "DEVANAGARI SEQUENCE FOR LETTER RHA",
+            "codepointSequence": [
+                "0922",
+                "093C"
+            ]
+        },
+        {
+            "name": "DEVANAGARI SEQUENCE FOR LETTER FA",
+            "codepointSequence": [
+                "092B",
+                "093C"
+            ]
+        },
+        {
+            "name": "DEVANAGARI SEQUENCE FOR LETTER YYA",
+            "codepointSequence": [
+                "092F",
+                "093C"
+            ]
+        },
+        {
+            "name": "BENGALI SEQUENCE FOR LETTER RRA",
+            "codepointSequence": [
+                "09A1",
+                "09BC"
+            ]
+        },
+        {
+            "name": "BENGALI SEQUENCE FOR LETTER RHA",
+            "codepointSequence": [
+                "09A2",
+                "09BC"
+            ]
+        },
+        {
+            "name": "BENGALI SEQUENCE FOR LETTER YYA",
+            "codepointSequence": [
+                "09AF",
+                "09BC"
+            ]
+        },
+        {
+            "name": "GURMUKHI SEQUENCE FOR LETTER LLA",
+            "codepointSequence": [
+                "0A32",
+                "0A3C"
+            ]
+        },
+        {
+            "name": "GURMUKHI SEQUENCE FOR LETTER SHA",
+            "codepointSequence": [
+                "0A38",
+                "0A3C"
+            ]
+        },
+        {
+            "name": "GURMUKHI SEQUENCE FOR LETTER KHHA",
+            "codepointSequence": [
+                "0A16",
+                "0A3C"
+            ]
+        },
+        {
+            "name": "GURMUKHI SEQUENCE FOR LETTER GHHA",
+            "codepointSequence": [
+                "0A17",
+                "0A3C"
+            ]
+        },
+        {
+            "name": "GURMUKHI SEQUENCE FOR LETTER ZA",
+            "codepointSequence": [
+                "0A1C",
+                "0A3C"
+            ]
+        },
+        {
+            "name": "GURMUKHI SEQUENCE FOR LETTER FA",
+            "codepointSequence": [
+                "0A2B",
+                "0A3C"
+            ]
+        },
+        {
+            "name": "ORIYA SEQUENCE FOR LETTER RRA",
+            "codepointSequence": [
+                "0B21",
+                "0B3C"
+            ]
+        },
+        {
+            "name": "ORIYA SEQUENCE FOR LETTER RHA",
+            "codepointSequence": [
+                "0B22",
+                "0B3C"
+            ]
+        },
+        {
+            "name": "BENGALI LETTER KHINYA",
+            "codepointSequence": [
+                "0995",
+                "09CD",
+                "09B7"
+            ]
+        },
+        {
+            "name": "TAMIL CONSONANT K",
+            "codepointSequence": [
+                "0B95",
+                "0BCD"
+            ]
+        },
+        {
+            "name": "TAMIL CONSONANT NG",
+            "codepointSequence": [
+                "0B99",
+                "0BCD"
+            ]
+        },
+        {
+            "name": "TAMIL CONSONANT C",
+            "codepointSequence": [
+                "0B9A",
+                "0BCD"
+            ]
+        },
+        {
+            "name": "TAMIL CONSONANT NY",
+            "codepointSequence": [
+                "0B9E",
+                "0BCD"
+            ]
+        },
+        {
+            "name": "TAMIL CONSONANT TT",
+            "codepointSequence": [
+                "0B9F",
+                "0BCD"
+            ]
+        },
+        {
+            "name": "TAMIL CONSONANT NN",
+            "codepointSequence": [
+                "0BA3",
+                "0BCD"
+            ]
+        },
+        {
+            "name": "TAMIL CONSONANT T",
+            "codepointSequence": [
+                "0BA4",
+                "0BCD"
+            ]
+        },
+        {
+            "name": "TAMIL CONSONANT N",
+            "codepointSequence": [
+                "0BA8",
+                "0BCD"
+            ]
+        },
+        {
+            "name": "TAMIL CONSONANT P",
+            "codepointSequence": [
+                "0BAA",
+                "0BCD"
+            ]
+        },
+        {
+            "name": "TAMIL CONSONANT M",
+            "codepointSequence": [
+                "0BAE",
+                "0BCD"
+            ]
+        },
+        {
+            "name": "TAMIL CONSONANT Y",
+            "codepointSequence": [
+                "0BAF",
+                "0BCD"
+            ]
+        },
+        {
+            "name": "TAMIL CONSONANT R",
+            "codepointSequence": [
+                "0BB0",
+                "0BCD"
+            ]
+        },
+        {
+            "name": "TAMIL CONSONANT L",
+            "codepointSequence": [
+                "0BB2",
+                "0BCD"
+            ]
+        },
+        {
+            "name": "TAMIL CONSONANT V",
+            "codepointSequence": [
+                "0BB5",
+                "0BCD"
+            ]
+        },
+        {
+            "name": "TAMIL CONSONANT LLL",
+            "codepointSequence": [
+                "0BB4",
+                "0BCD"
+            ]
+        },
+        {
+            "name": "TAMIL CONSONANT LL",
+            "codepointSequence": [
+                "0BB3",
+                "0BCD"
+            ]
+        },
+        {
+            "name": "TAMIL CONSONANT RR",
+            "codepointSequence": [
+                "0BB1",
+                "0BCD"
+            ]
+        },
+        {
+            "name": "TAMIL CONSONANT NNN",
+            "codepointSequence": [
+                "0BA9",
+                "0BCD"
+            ]
+        },
+        {
+            "name": "TAMIL CONSONANT J",
+            "codepointSequence": [
+                "0B9C",
+                "0BCD"
+            ]
+        },
+        {
+            "name": "TAMIL CONSONANT SH",
+            "codepointSequence": [
+                "0BB6",
+                "0BCD"
+            ]
+        },
+        {
+            "name": "TAMIL CONSONANT SS",
+            "codepointSequence": [
+                "0BB7",
+                "0BCD"
+            ]
+        },
+        {
+            "name": "TAMIL CONSONANT S",
+            "codepointSequence": [
+                "0BB8",
+                "0BCD"
+            ]
+        },
+        {
+            "name": "TAMIL CONSONANT H",
+            "codepointSequence": [
+                "0BB9",
+                "0BCD"
+            ]
+        },
+        {
+            "name": "TAMIL CONSONANT KSS",
+            "codepointSequence": [
+                "0B95",
+                "0BCD",
+                "0BB7",
+                "0BCD"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE KAA",
+            "codepointSequence": [
+                "0B95",
+                "0BBE"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE KI",
+            "codepointSequence": [
+                "0B95",
+                "0BBF"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE KII",
+            "codepointSequence": [
+                "0B95",
+                "0BC0"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE KU",
+            "codepointSequence": [
+                "0B95",
+                "0BC1"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE KUU",
+            "codepointSequence": [
+                "0B95",
+                "0BC2"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE KE",
+            "codepointSequence": [
+                "0B95",
+                "0BC6"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE KEE",
+            "codepointSequence": [
+                "0B95",
+                "0BC7"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE KAI",
+            "codepointSequence": [
+                "0B95",
+                "0BC8"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE KO",
+            "codepointSequence": [
+                "0B95",
+                "0BCA"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE KOO",
+            "codepointSequence": [
+                "0B95",
+                "0BCB"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE KAU",
+            "codepointSequence": [
+                "0B95",
+                "0BCC"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NGAA",
+            "codepointSequence": [
+                "0B99",
+                "0BBE"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NGI",
+            "codepointSequence": [
+                "0B99",
+                "0BBF"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NGII",
+            "codepointSequence": [
+                "0B99",
+                "0BC0"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NGU",
+            "codepointSequence": [
+                "0B99",
+                "0BC1"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NGUU",
+            "codepointSequence": [
+                "0B99",
+                "0BC2"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NGE",
+            "codepointSequence": [
+                "0B99",
+                "0BC6"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NGEE",
+            "codepointSequence": [
+                "0B99",
+                "0BC7"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NGAI",
+            "codepointSequence": [
+                "0B99",
+                "0BC8"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NGO",
+            "codepointSequence": [
+                "0B99",
+                "0BCA"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NGOO",
+            "codepointSequence": [
+                "0B99",
+                "0BCB"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NGAU",
+            "codepointSequence": [
+                "0B99",
+                "0BCC"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE CAA",
+            "codepointSequence": [
+                "0B9A",
+                "0BBE"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE CI",
+            "codepointSequence": [
+                "0B9A",
+                "0BBF"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE CII",
+            "codepointSequence": [
+                "0B9A",
+                "0BC0"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE CU",
+            "codepointSequence": [
+                "0B9A",
+                "0BC1"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE CUU",
+            "codepointSequence": [
+                "0B9A",
+                "0BC2"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE CE",
+            "codepointSequence": [
+                "0B9A",
+                "0BC6"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE CEE",
+            "codepointSequence": [
+                "0B9A",
+                "0BC7"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE CAI",
+            "codepointSequence": [
+                "0B9A",
+                "0BC8"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE CO",
+            "codepointSequence": [
+                "0B9A",
+                "0BCA"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE COO",
+            "codepointSequence": [
+                "0B9A",
+                "0BCB"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE CAU",
+            "codepointSequence": [
+                "0B9A",
+                "0BCC"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NYAA",
+            "codepointSequence": [
+                "0B9E",
+                "0BBE"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NYI",
+            "codepointSequence": [
+                "0B9E",
+                "0BBF"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NYII",
+            "codepointSequence": [
+                "0B9E",
+                "0BC0"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NYU",
+            "codepointSequence": [
+                "0B9E",
+                "0BC1"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NYUU",
+            "codepointSequence": [
+                "0B9E",
+                "0BC2"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NYE",
+            "codepointSequence": [
+                "0B9E",
+                "0BC6"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NYEE",
+            "codepointSequence": [
+                "0B9E",
+                "0BC7"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NYAI",
+            "codepointSequence": [
+                "0B9E",
+                "0BC8"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NYO",
+            "codepointSequence": [
+                "0B9E",
+                "0BCA"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NYOO",
+            "codepointSequence": [
+                "0B9E",
+                "0BCB"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NYAU",
+            "codepointSequence": [
+                "0B9E",
+                "0BCC"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE TTAA",
+            "codepointSequence": [
+                "0B9F",
+                "0BBE"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE TTI",
+            "codepointSequence": [
+                "0B9F",
+                "0BBF"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE TTII",
+            "codepointSequence": [
+                "0B9F",
+                "0BC0"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE TTU",
+            "codepointSequence": [
+                "0B9F",
+                "0BC1"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE TTUU",
+            "codepointSequence": [
+                "0B9F",
+                "0BC2"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE TTE",
+            "codepointSequence": [
+                "0B9F",
+                "0BC6"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE TTEE",
+            "codepointSequence": [
+                "0B9F",
+                "0BC7"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE TTAI",
+            "codepointSequence": [
+                "0B9F",
+                "0BC8"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE TTO",
+            "codepointSequence": [
+                "0B9F",
+                "0BCA"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE TTOO",
+            "codepointSequence": [
+                "0B9F",
+                "0BCB"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE TTAU",
+            "codepointSequence": [
+                "0B9F",
+                "0BCC"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NNAA",
+            "codepointSequence": [
+                "0BA3",
+                "0BBE"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NNI",
+            "codepointSequence": [
+                "0BA3",
+                "0BBF"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NNII",
+            "codepointSequence": [
+                "0BA3",
+                "0BC0"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NNU",
+            "codepointSequence": [
+                "0BA3",
+                "0BC1"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NNUU",
+            "codepointSequence": [
+                "0BA3",
+                "0BC2"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NNE",
+            "codepointSequence": [
+                "0BA3",
+                "0BC6"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NNEE",
+            "codepointSequence": [
+                "0BA3",
+                "0BC7"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NNAI",
+            "codepointSequence": [
+                "0BA3",
+                "0BC8"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NNO",
+            "codepointSequence": [
+                "0BA3",
+                "0BCA"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NNOO",
+            "codepointSequence": [
+                "0BA3",
+                "0BCB"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NNAU",
+            "codepointSequence": [
+                "0BA3",
+                "0BCC"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE TAA",
+            "codepointSequence": [
+                "0BA4",
+                "0BBE"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE TI",
+            "codepointSequence": [
+                "0BA4",
+                "0BBF"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE TII",
+            "codepointSequence": [
+                "0BA4",
+                "0BC0"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE TU",
+            "codepointSequence": [
+                "0BA4",
+                "0BC1"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE TUU",
+            "codepointSequence": [
+                "0BA4",
+                "0BC2"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE TE",
+            "codepointSequence": [
+                "0BA4",
+                "0BC6"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE TEE",
+            "codepointSequence": [
+                "0BA4",
+                "0BC7"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE TAI",
+            "codepointSequence": [
+                "0BA4",
+                "0BC8"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE TO",
+            "codepointSequence": [
+                "0BA4",
+                "0BCA"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE TOO",
+            "codepointSequence": [
+                "0BA4",
+                "0BCB"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE TAU",
+            "codepointSequence": [
+                "0BA4",
+                "0BCC"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NAA",
+            "codepointSequence": [
+                "0BA8",
+                "0BBE"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NI",
+            "codepointSequence": [
+                "0BA8",
+                "0BBF"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NII",
+            "codepointSequence": [
+                "0BA8",
+                "0BC0"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NU",
+            "codepointSequence": [
+                "0BA8",
+                "0BC1"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NUU",
+            "codepointSequence": [
+                "0BA8",
+                "0BC2"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NE",
+            "codepointSequence": [
+                "0BA8",
+                "0BC6"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NEE",
+            "codepointSequence": [
+                "0BA8",
+                "0BC7"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NAI",
+            "codepointSequence": [
+                "0BA8",
+                "0BC8"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NO",
+            "codepointSequence": [
+                "0BA8",
+                "0BCA"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NOO",
+            "codepointSequence": [
+                "0BA8",
+                "0BCB"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NAU",
+            "codepointSequence": [
+                "0BA8",
+                "0BCC"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE PAA",
+            "codepointSequence": [
+                "0BAA",
+                "0BBE"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE PI",
+            "codepointSequence": [
+                "0BAA",
+                "0BBF"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE PII",
+            "codepointSequence": [
+                "0BAA",
+                "0BC0"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE PU",
+            "codepointSequence": [
+                "0BAA",
+                "0BC1"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE PUU",
+            "codepointSequence": [
+                "0BAA",
+                "0BC2"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE PE",
+            "codepointSequence": [
+                "0BAA",
+                "0BC6"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE PEE",
+            "codepointSequence": [
+                "0BAA",
+                "0BC7"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE PAI",
+            "codepointSequence": [
+                "0BAA",
+                "0BC8"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE PO",
+            "codepointSequence": [
+                "0BAA",
+                "0BCA"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE POO",
+            "codepointSequence": [
+                "0BAA",
+                "0BCB"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE PAU",
+            "codepointSequence": [
+                "0BAA",
+                "0BCC"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE MAA",
+            "codepointSequence": [
+                "0BAE",
+                "0BBE"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE MI",
+            "codepointSequence": [
+                "0BAE",
+                "0BBF"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE MII",
+            "codepointSequence": [
+                "0BAE",
+                "0BC0"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE MU",
+            "codepointSequence": [
+                "0BAE",
+                "0BC1"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE MUU",
+            "codepointSequence": [
+                "0BAE",
+                "0BC2"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE ME",
+            "codepointSequence": [
+                "0BAE",
+                "0BC6"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE MEE",
+            "codepointSequence": [
+                "0BAE",
+                "0BC7"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE MAI",
+            "codepointSequence": [
+                "0BAE",
+                "0BC8"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE MO",
+            "codepointSequence": [
+                "0BAE",
+                "0BCA"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE MOO",
+            "codepointSequence": [
+                "0BAE",
+                "0BCB"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE MAU",
+            "codepointSequence": [
+                "0BAE",
+                "0BCC"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE YAA",
+            "codepointSequence": [
+                "0BAF",
+                "0BBE"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE YI",
+            "codepointSequence": [
+                "0BAF",
+                "0BBF"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE YII",
+            "codepointSequence": [
+                "0BAF",
+                "0BC0"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE YU",
+            "codepointSequence": [
+                "0BAF",
+                "0BC1"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE YUU",
+            "codepointSequence": [
+                "0BAF",
+                "0BC2"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE YE",
+            "codepointSequence": [
+                "0BAF",
+                "0BC6"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE YEE",
+            "codepointSequence": [
+                "0BAF",
+                "0BC7"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE YAI",
+            "codepointSequence": [
+                "0BAF",
+                "0BC8"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE YO",
+            "codepointSequence": [
+                "0BAF",
+                "0BCA"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE YOO",
+            "codepointSequence": [
+                "0BAF",
+                "0BCB"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE YAU",
+            "codepointSequence": [
+                "0BAF",
+                "0BCC"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE RAA",
+            "codepointSequence": [
+                "0BB0",
+                "0BBE"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE RI",
+            "codepointSequence": [
+                "0BB0",
+                "0BBF"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE RII",
+            "codepointSequence": [
+                "0BB0",
+                "0BC0"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE RU",
+            "codepointSequence": [
+                "0BB0",
+                "0BC1"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE RUU",
+            "codepointSequence": [
+                "0BB0",
+                "0BC2"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE RE",
+            "codepointSequence": [
+                "0BB0",
+                "0BC6"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE REE",
+            "codepointSequence": [
+                "0BB0",
+                "0BC7"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE RAI",
+            "codepointSequence": [
+                "0BB0",
+                "0BC8"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE RO",
+            "codepointSequence": [
+                "0BB0",
+                "0BCA"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE ROO",
+            "codepointSequence": [
+                "0BB0",
+                "0BCB"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE RAU",
+            "codepointSequence": [
+                "0BB0",
+                "0BCC"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LAA",
+            "codepointSequence": [
+                "0BB2",
+                "0BBE"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LI",
+            "codepointSequence": [
+                "0BB2",
+                "0BBF"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LII",
+            "codepointSequence": [
+                "0BB2",
+                "0BC0"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LU",
+            "codepointSequence": [
+                "0BB2",
+                "0BC1"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LUU",
+            "codepointSequence": [
+                "0BB2",
+                "0BC2"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LE",
+            "codepointSequence": [
+                "0BB2",
+                "0BC6"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LEE",
+            "codepointSequence": [
+                "0BB2",
+                "0BC7"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LAI",
+            "codepointSequence": [
+                "0BB2",
+                "0BC8"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LO",
+            "codepointSequence": [
+                "0BB2",
+                "0BCA"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LOO",
+            "codepointSequence": [
+                "0BB2",
+                "0BCB"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LAU",
+            "codepointSequence": [
+                "0BB2",
+                "0BCC"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE VAA",
+            "codepointSequence": [
+                "0BB5",
+                "0BBE"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE VI",
+            "codepointSequence": [
+                "0BB5",
+                "0BBF"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE VII",
+            "codepointSequence": [
+                "0BB5",
+                "0BC0"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE VU",
+            "codepointSequence": [
+                "0BB5",
+                "0BC1"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE VUU",
+            "codepointSequence": [
+                "0BB5",
+                "0BC2"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE VE",
+            "codepointSequence": [
+                "0BB5",
+                "0BC6"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE VEE",
+            "codepointSequence": [
+                "0BB5",
+                "0BC7"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE VAI",
+            "codepointSequence": [
+                "0BB5",
+                "0BC8"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE VO",
+            "codepointSequence": [
+                "0BB5",
+                "0BCA"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE VOO",
+            "codepointSequence": [
+                "0BB5",
+                "0BCB"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE VAU",
+            "codepointSequence": [
+                "0BB5",
+                "0BCC"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LLLAA",
+            "codepointSequence": [
+                "0BB4",
+                "0BBE"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LLLI",
+            "codepointSequence": [
+                "0BB4",
+                "0BBF"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LLLII",
+            "codepointSequence": [
+                "0BB4",
+                "0BC0"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LLLU",
+            "codepointSequence": [
+                "0BB4",
+                "0BC1"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LLLUU",
+            "codepointSequence": [
+                "0BB4",
+                "0BC2"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LLLE",
+            "codepointSequence": [
+                "0BB4",
+                "0BC6"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LLLEE",
+            "codepointSequence": [
+                "0BB4",
+                "0BC7"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LLLAI",
+            "codepointSequence": [
+                "0BB4",
+                "0BC8"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LLLO",
+            "codepointSequence": [
+                "0BB4",
+                "0BCA"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LLLOO",
+            "codepointSequence": [
+                "0BB4",
+                "0BCB"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LLLAU",
+            "codepointSequence": [
+                "0BB4",
+                "0BCC"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LLAA",
+            "codepointSequence": [
+                "0BB3",
+                "0BBE"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LLI",
+            "codepointSequence": [
+                "0BB3",
+                "0BBF"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LLII",
+            "codepointSequence": [
+                "0BB3",
+                "0BC0"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LLU",
+            "codepointSequence": [
+                "0BB3",
+                "0BC1"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LLUU",
+            "codepointSequence": [
+                "0BB3",
+                "0BC2"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LLE",
+            "codepointSequence": [
+                "0BB3",
+                "0BC6"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LLEE",
+            "codepointSequence": [
+                "0BB3",
+                "0BC7"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LLAI",
+            "codepointSequence": [
+                "0BB3",
+                "0BC8"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LLO",
+            "codepointSequence": [
+                "0BB3",
+                "0BCA"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LLOO",
+            "codepointSequence": [
+                "0BB3",
+                "0BCB"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE LLAU",
+            "codepointSequence": [
+                "0BB3",
+                "0BCC"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE RRAA",
+            "codepointSequence": [
+                "0BB1",
+                "0BBE"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE RRI",
+            "codepointSequence": [
+                "0BB1",
+                "0BBF"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE RRII",
+            "codepointSequence": [
+                "0BB1",
+                "0BC0"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE RRU",
+            "codepointSequence": [
+                "0BB1",
+                "0BC1"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE RRUU",
+            "codepointSequence": [
+                "0BB1",
+                "0BC2"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE RRE",
+            "codepointSequence": [
+                "0BB1",
+                "0BC6"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE RREE",
+            "codepointSequence": [
+                "0BB1",
+                "0BC7"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE RRAI",
+            "codepointSequence": [
+                "0BB1",
+                "0BC8"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE RRO",
+            "codepointSequence": [
+                "0BB1",
+                "0BCA"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE RROO",
+            "codepointSequence": [
+                "0BB1",
+                "0BCB"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE RRAU",
+            "codepointSequence": [
+                "0BB1",
+                "0BCC"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NNNAA",
+            "codepointSequence": [
+                "0BA9",
+                "0BBE"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NNNI",
+            "codepointSequence": [
+                "0BA9",
+                "0BBF"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NNNII",
+            "codepointSequence": [
+                "0BA9",
+                "0BC0"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NNNU",
+            "codepointSequence": [
+                "0BA9",
+                "0BC1"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NNNUU",
+            "codepointSequence": [
+                "0BA9",
+                "0BC2"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NNNE",
+            "codepointSequence": [
+                "0BA9",
+                "0BC6"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NNNEE",
+            "codepointSequence": [
+                "0BA9",
+                "0BC7"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NNNAI",
+            "codepointSequence": [
+                "0BA9",
+                "0BC8"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NNNO",
+            "codepointSequence": [
+                "0BA9",
+                "0BCA"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NNNOO",
+            "codepointSequence": [
+                "0BA9",
+                "0BCB"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE NNNAU",
+            "codepointSequence": [
+                "0BA9",
+                "0BCC"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE JAA",
+            "codepointSequence": [
+                "0B9C",
+                "0BBE"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE JI",
+            "codepointSequence": [
+                "0B9C",
+                "0BBF"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE JII",
+            "codepointSequence": [
+                "0B9C",
+                "0BC0"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE JU",
+            "codepointSequence": [
+                "0B9C",
+                "0BC1"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE JUU",
+            "codepointSequence": [
+                "0B9C",
+                "0BC2"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE JE",
+            "codepointSequence": [
+                "0B9C",
+                "0BC6"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE JEE",
+            "codepointSequence": [
+                "0B9C",
+                "0BC7"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE JAI",
+            "codepointSequence": [
+                "0B9C",
+                "0BC8"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE JO",
+            "codepointSequence": [
+                "0B9C",
+                "0BCA"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE JOO",
+            "codepointSequence": [
+                "0B9C",
+                "0BCB"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE JAU",
+            "codepointSequence": [
+                "0B9C",
+                "0BCC"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SHAA",
+            "codepointSequence": [
+                "0BB6",
+                "0BBE"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SHI",
+            "codepointSequence": [
+                "0BB6",
+                "0BBF"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SHII",
+            "codepointSequence": [
+                "0BB6",
+                "0BC0"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SHU",
+            "codepointSequence": [
+                "0BB6",
+                "0BC1"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SHUU",
+            "codepointSequence": [
+                "0BB6",
+                "0BC2"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SHE",
+            "codepointSequence": [
+                "0BB6",
+                "0BC6"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SHEE",
+            "codepointSequence": [
+                "0BB6",
+                "0BC7"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SHAI",
+            "codepointSequence": [
+                "0BB6",
+                "0BC8"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SHO",
+            "codepointSequence": [
+                "0BB6",
+                "0BCA"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SHOO",
+            "codepointSequence": [
+                "0BB6",
+                "0BCB"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SHAU",
+            "codepointSequence": [
+                "0BB6",
+                "0BCC"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SSAA",
+            "codepointSequence": [
+                "0BB7",
+                "0BBE"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SSI",
+            "codepointSequence": [
+                "0BB7",
+                "0BBF"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SSII",
+            "codepointSequence": [
+                "0BB7",
+                "0BC0"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SSU",
+            "codepointSequence": [
+                "0BB7",
+                "0BC1"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SSUU",
+            "codepointSequence": [
+                "0BB7",
+                "0BC2"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SSE",
+            "codepointSequence": [
+                "0BB7",
+                "0BC6"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SSEE",
+            "codepointSequence": [
+                "0BB7",
+                "0BC7"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SSAI",
+            "codepointSequence": [
+                "0BB7",
+                "0BC8"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SSO",
+            "codepointSequence": [
+                "0BB7",
+                "0BCA"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SSOO",
+            "codepointSequence": [
+                "0BB7",
+                "0BCB"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SSAU",
+            "codepointSequence": [
+                "0BB7",
+                "0BCC"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SAA",
+            "codepointSequence": [
+                "0BB8",
+                "0BBE"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SI",
+            "codepointSequence": [
+                "0BB8",
+                "0BBF"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SII",
+            "codepointSequence": [
+                "0BB8",
+                "0BC0"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SU",
+            "codepointSequence": [
+                "0BB8",
+                "0BC1"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SUU",
+            "codepointSequence": [
+                "0BB8",
+                "0BC2"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SE",
+            "codepointSequence": [
+                "0BB8",
+                "0BC6"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SEE",
+            "codepointSequence": [
+                "0BB8",
+                "0BC7"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SAI",
+            "codepointSequence": [
+                "0BB8",
+                "0BC8"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SO",
+            "codepointSequence": [
+                "0BB8",
+                "0BCA"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SOO",
+            "codepointSequence": [
+                "0BB8",
+                "0BCB"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SAU",
+            "codepointSequence": [
+                "0BB8",
+                "0BCC"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE HAA",
+            "codepointSequence": [
+                "0BB9",
+                "0BBE"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE HI",
+            "codepointSequence": [
+                "0BB9",
+                "0BBF"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE HII",
+            "codepointSequence": [
+                "0BB9",
+                "0BC0"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE HU",
+            "codepointSequence": [
+                "0BB9",
+                "0BC1"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE HUU",
+            "codepointSequence": [
+                "0BB9",
+                "0BC2"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE HE",
+            "codepointSequence": [
+                "0BB9",
+                "0BC6"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE HEE",
+            "codepointSequence": [
+                "0BB9",
+                "0BC7"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE HAI",
+            "codepointSequence": [
+                "0BB9",
+                "0BC8"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE HO",
+            "codepointSequence": [
+                "0BB9",
+                "0BCA"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE HOO",
+            "codepointSequence": [
+                "0BB9",
+                "0BCB"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE HAU",
+            "codepointSequence": [
+                "0BB9",
+                "0BCC"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE KSSA",
+            "codepointSequence": [
+                "0B95",
+                "0BCD",
+                "0BB7"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE KSSAA",
+            "codepointSequence": [
+                "0B95",
+                "0BCD",
+                "0BB7",
+                "0BBE"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE KSSI",
+            "codepointSequence": [
+                "0B95",
+                "0BCD",
+                "0BB7",
+                "0BBF"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE KSSII",
+            "codepointSequence": [
+                "0B95",
+                "0BCD",
+                "0BB7",
+                "0BC0"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE KSSU",
+            "codepointSequence": [
+                "0B95",
+                "0BCD",
+                "0BB7",
+                "0BC1"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE KSSUU",
+            "codepointSequence": [
+                "0B95",
+                "0BCD",
+                "0BB7",
+                "0BC2"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE KSSE",
+            "codepointSequence": [
+                "0B95",
+                "0BCD",
+                "0BB7",
+                "0BC6"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE KSSEE",
+            "codepointSequence": [
+                "0B95",
+                "0BCD",
+                "0BB7",
+                "0BC7"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE KSSAI",
+            "codepointSequence": [
+                "0B95",
+                "0BCD",
+                "0BB7",
+                "0BC8"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE KSSO",
+            "codepointSequence": [
+                "0B95",
+                "0BCD",
+                "0BB7",
+                "0BCA"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE KSSOO",
+            "codepointSequence": [
+                "0B95",
+                "0BCD",
+                "0BB7",
+                "0BCB"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE KSSAU",
+            "codepointSequence": [
+                "0B95",
+                "0BCD",
+                "0BB7",
+                "0BCC"
+            ]
+        },
+        {
+            "name": "TAMIL SYLLABLE SHRII",
+            "codepointSequence": [
+                "0BB6",
+                "0BCD",
+                "0BB0",
+                "0BC0"
+            ]
+        },
+        {
+            "name": "SINHALA CONSONANT SIGN YANSAYA",
+            "codepointSequence": [
+                "0DCA",
+                "200D",
+                "0DBA"
+            ]
+        },
+        {
+            "name": "SINHALA CONSONANT SIGN RAKAARAANSAYA",
+            "codepointSequence": [
+                "0DCA",
+                "200D",
+                "0DBB"
+            ]
+        },
+        {
+            "name": "SINHALA CONSONANT SIGN REPAYA",
+            "codepointSequence": [
+                "0DBB",
+                "0DCA",
+                "200D"
+            ]
+        },
+        {
+            "name": "GEORGIAN LETTER U-BRJGU",
+            "codepointSequence": [
+                "10E3",
+                "0302"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG KA",
+            "codepointSequence": [
+                "17D2",
+                "1780"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG KHA",
+            "codepointSequence": [
+                "17D2",
+                "1781"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG KO",
+            "codepointSequence": [
+                "17D2",
+                "1782"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG KHO",
+            "codepointSequence": [
+                "17D2",
+                "1783"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG NGO",
+            "codepointSequence": [
+                "17D2",
+                "1784"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG CA",
+            "codepointSequence": [
+                "17D2",
+                "1785"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG CHA",
+            "codepointSequence": [
+                "17D2",
+                "1786"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG CO",
+            "codepointSequence": [
+                "17D2",
+                "1787"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG CHO",
+            "codepointSequence": [
+                "17D2",
+                "1788"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG NYO",
+            "codepointSequence": [
+                "17D2",
+                "1789"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG DA",
+            "codepointSequence": [
+                "17D2",
+                "178A"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG TTHA",
+            "codepointSequence": [
+                "17D2",
+                "178B"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG DO",
+            "codepointSequence": [
+                "17D2",
+                "178C"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG TTHO",
+            "codepointSequence": [
+                "17D2",
+                "178D"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG NA",
+            "codepointSequence": [
+                "17D2",
+                "178E"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG TA",
+            "codepointSequence": [
+                "17D2",
+                "178F"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG THA",
+            "codepointSequence": [
+                "17D2",
+                "1790"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG TO",
+            "codepointSequence": [
+                "17D2",
+                "1791"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG THO",
+            "codepointSequence": [
+                "17D2",
+                "1792"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG NO",
+            "codepointSequence": [
+                "17D2",
+                "1793"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG BA",
+            "codepointSequence": [
+                "17D2",
+                "1794"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG PHA",
+            "codepointSequence": [
+                "17D2",
+                "1795"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG PO",
+            "codepointSequence": [
+                "17D2",
+                "1796"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG PHO",
+            "codepointSequence": [
+                "17D2",
+                "1797"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG MO",
+            "codepointSequence": [
+                "17D2",
+                "1798"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG YO",
+            "codepointSequence": [
+                "17D2",
+                "1799"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG RO",
+            "codepointSequence": [
+                "17D2",
+                "179A"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG LO",
+            "codepointSequence": [
+                "17D2",
+                "179B"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG VO",
+            "codepointSequence": [
+                "17D2",
+                "179C"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG SHA",
+            "codepointSequence": [
+                "17D2",
+                "179D"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG SSA",
+            "codepointSequence": [
+                "17D2",
+                "179E"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG SA",
+            "codepointSequence": [
+                "17D2",
+                "179F"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG HA",
+            "codepointSequence": [
+                "17D2",
+                "17A0"
+            ]
+        },
+        {
+            "name": "KHMER CONSONANT SIGN COENG LA",
+            "codepointSequence": [
+                "17D2",
+                "17A1"
+            ]
+        },
+        {
+            "name": "KHMER VOWEL SIGN COENG QA",
+            "codepointSequence": [
+                "17D2",
+                "17A2"
+            ]
+        },
+        {
+            "name": "KHMER INDEPENDENT VOWEL SIGN COENG QU",
+            "codepointSequence": [
+                "17D2",
+                "17A7"
+            ]
+        },
+        {
+            "name": "KHMER INDEPENDENT VOWEL SIGN COENG RY",
+            "codepointSequence": [
+                "17D2",
+                "17AB"
+            ]
+        },
+        {
+            "name": "KHMER INDEPENDENT VOWEL SIGN COENG RYY",
+            "codepointSequence": [
+                "17D2",
+                "17AC"
+            ]
+        },
+        {
+            "name": "KHMER INDEPENDENT VOWEL SIGN COENG QE",
+            "codepointSequence": [
+                "17D2",
+                "17AF"
+            ]
+        },
+        {
+            "name": "KHMER VOWEL SIGN OM",
+            "codepointSequence": [
+                "17BB",
+                "17C6"
+            ]
+        },
+        {
+            "name": "KHMER VOWEL SIGN AAM",
+            "codepointSequence": [
+                "17B6",
+                "17C6"
+            ]
+        },
+        {
+            "name": "HIRAGANA LETTER BIDAKUON NGA",
+            "codepointSequence": [
+                "304B",
+                "309A"
+            ]
+        },
+        {
+            "name": "HIRAGANA LETTER BIDAKUON NGI",
+            "codepointSequence": [
+                "304D",
+                "309A"
+            ]
+        },
+        {
+            "name": "HIRAGANA LETTER BIDAKUON NGU",
+            "codepointSequence": [
+                "304F",
+                "309A"
+            ]
+        },
+        {
+            "name": "HIRAGANA LETTER BIDAKUON NGE",
+            "codepointSequence": [
+                "3051",
+                "309A"
+            ]
+        },
+        {
+            "name": "HIRAGANA LETTER BIDAKUON NGO",
+            "codepointSequence": [
+                "3053",
+                "309A"
+            ]
+        },
+        {
+            "name": "KATAKANA LETTER BIDAKUON NGA",
+            "codepointSequence": [
+                "30AB",
+                "309A"
+            ]
+        },
+        {
+            "name": "KATAKANA LETTER BIDAKUON NGI",
+            "codepointSequence": [
+                "30AD",
+                "309A"
+            ]
+        },
+        {
+            "name": "KATAKANA LETTER BIDAKUON NGU",
+            "codepointSequence": [
+                "30AF",
+                "309A"
+            ]
+        },
+        {
+            "name": "KATAKANA LETTER BIDAKUON NGE",
+            "codepointSequence": [
+                "30B1",
+                "309A"
+            ]
+        },
+        {
+            "name": "KATAKANA LETTER BIDAKUON NGO",
+            "codepointSequence": [
+                "30B3",
+                "309A"
+            ]
+        },
+        {
+            "name": "KATAKANA LETTER AINU CE",
+            "codepointSequence": [
+                "30BB",
+                "309A"
+            ]
+        },
+        {
+            "name": "KATAKANA LETTER AINU TU",
+            "codepointSequence": [
+                "30C4",
+                "309A"
+            ]
+        },
+        {
+            "name": "KATAKANA LETTER AINU TO",
+            "codepointSequence": [
+                "30C8",
+                "309A"
+            ]
+        },
+        {
+            "name": "KATAKANA LETTER AINU P",
+            "codepointSequence": [
+                "31F7",
+                "309A"
+            ]
+        },
+        {
+            "name": "MODIFIER LETTER EXTRA-HIGH EXTRA-LOW CONTOUR TONE BAR",
+            "codepointSequence": [
+                "02E5",
+                "02E9"
+            ]
+        },
+        {
+            "name": "MODIFIER LETTER EXTRA-LOW EXTRA-HIGH CONTOUR TONE BAR",
+            "codepointSequence": [
+                "02E9",
+                "02E5"
+            ]
+        }
+    ]
+}
