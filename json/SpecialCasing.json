@@ -1,0 +1,1628 @@
+{
+    "SpecialCasing": [
+        {
+            "codepoint": "00DF",
+            "lowerSequence": [
+                "00DF"
+            ],
+            "titleSequence": [
+                "0053",
+                "0073"
+            ],
+            "upperSequence": [
+                "0053",
+                "0053"
+            ]
+        },
+        {
+            "codepoint": "0130",
+            "lowerSequence": [
+                "0069",
+                "0307"
+            ],
+            "titleSequence": [
+                "0130"
+            ],
+            "upperSequence": [
+                "0130"
+            ]
+        },
+        {
+            "codepoint": "FB00",
+            "lowerSequence": [
+                "FB00"
+            ],
+            "titleSequence": [
+                "0046",
+                "0066"
+            ],
+            "upperSequence": [
+                "0046",
+                "0046"
+            ]
+        },
+        {
+            "codepoint": "FB01",
+            "lowerSequence": [
+                "FB01"
+            ],
+            "titleSequence": [
+                "0046",
+                "0069"
+            ],
+            "upperSequence": [
+                "0046",
+                "0049"
+            ]
+        },
+        {
+            "codepoint": "FB02",
+            "lowerSequence": [
+                "FB02"
+            ],
+            "titleSequence": [
+                "0046",
+                "006C"
+            ],
+            "upperSequence": [
+                "0046",
+                "004C"
+            ]
+        },
+        {
+            "codepoint": "FB03",
+            "lowerSequence": [
+                "FB03"
+            ],
+            "titleSequence": [
+                "0046",
+                "0066",
+                "0069"
+            ],
+            "upperSequence": [
+                "0046",
+                "0046",
+                "0049"
+            ]
+        },
+        {
+            "codepoint": "FB04",
+            "lowerSequence": [
+                "FB04"
+            ],
+            "titleSequence": [
+                "0046",
+                "0066",
+                "006C"
+            ],
+            "upperSequence": [
+                "0046",
+                "0046",
+                "004C"
+            ]
+        },
+        {
+            "codepoint": "FB05",
+            "lowerSequence": [
+                "FB05"
+            ],
+            "titleSequence": [
+                "0053",
+                "0074"
+            ],
+            "upperSequence": [
+                "0053",
+                "0054"
+            ]
+        },
+        {
+            "codepoint": "FB06",
+            "lowerSequence": [
+                "FB06"
+            ],
+            "titleSequence": [
+                "0053",
+                "0074"
+            ],
+            "upperSequence": [
+                "0053",
+                "0054"
+            ]
+        },
+        {
+            "codepoint": "0587",
+            "lowerSequence": [
+                "0587"
+            ],
+            "titleSequence": [
+                "0535",
+                "0582"
+            ],
+            "upperSequence": [
+                "0535",
+                "0552"
+            ]
+        },
+        {
+            "codepoint": "FB13",
+            "lowerSequence": [
+                "FB13"
+            ],
+            "titleSequence": [
+                "0544",
+                "0576"
+            ],
+            "upperSequence": [
+                "0544",
+                "0546"
+            ]
+        },
+        {
+            "codepoint": "FB14",
+            "lowerSequence": [
+                "FB14"
+            ],
+            "titleSequence": [
+                "0544",
+                "0565"
+            ],
+            "upperSequence": [
+                "0544",
+                "0535"
+            ]
+        },
+        {
+            "codepoint": "FB15",
+            "lowerSequence": [
+                "FB15"
+            ],
+            "titleSequence": [
+                "0544",
+                "056B"
+            ],
+            "upperSequence": [
+                "0544",
+                "053B"
+            ]
+        },
+        {
+            "codepoint": "FB16",
+            "lowerSequence": [
+                "FB16"
+            ],
+            "titleSequence": [
+                "054E",
+                "0576"
+            ],
+            "upperSequence": [
+                "054E",
+                "0546"
+            ]
+        },
+        {
+            "codepoint": "FB17",
+            "lowerSequence": [
+                "FB17"
+            ],
+            "titleSequence": [
+                "0544",
+                "056D"
+            ],
+            "upperSequence": [
+                "0544",
+                "053D"
+            ]
+        },
+        {
+            "codepoint": "0149",
+            "lowerSequence": [
+                "0149"
+            ],
+            "titleSequence": [
+                "02BC",
+                "004E"
+            ],
+            "upperSequence": [
+                "02BC",
+                "004E"
+            ]
+        },
+        {
+            "codepoint": "0390",
+            "lowerSequence": [
+                "0390"
+            ],
+            "titleSequence": [
+                "0399",
+                "0308",
+                "0301"
+            ],
+            "upperSequence": [
+                "0399",
+                "0308",
+                "0301"
+            ]
+        },
+        {
+            "codepoint": "03B0",
+            "lowerSequence": [
+                "03B0"
+            ],
+            "titleSequence": [
+                "03A5",
+                "0308",
+                "0301"
+            ],
+            "upperSequence": [
+                "03A5",
+                "0308",
+                "0301"
+            ]
+        },
+        {
+            "codepoint": "01F0",
+            "lowerSequence": [
+                "01F0"
+            ],
+            "titleSequence": [
+                "004A",
+                "030C"
+            ],
+            "upperSequence": [
+                "004A",
+                "030C"
+            ]
+        },
+        {
+            "codepoint": "1E96",
+            "lowerSequence": [
+                "1E96"
+            ],
+            "titleSequence": [
+                "0048",
+                "0331"
+            ],
+            "upperSequence": [
+                "0048",
+                "0331"
+            ]
+        },
+        {
+            "codepoint": "1E97",
+            "lowerSequence": [
+                "1E97"
+            ],
+            "titleSequence": [
+                "0054",
+                "0308"
+            ],
+            "upperSequence": [
+                "0054",
+                "0308"
+            ]
+        },
+        {
+            "codepoint": "1E98",
+            "lowerSequence": [
+                "1E98"
+            ],
+            "titleSequence": [
+                "0057",
+                "030A"
+            ],
+            "upperSequence": [
+                "0057",
+                "030A"
+            ]
+        },
+        {
+            "codepoint": "1E99",
+            "lowerSequence": [
+                "1E99"
+            ],
+            "titleSequence": [
+                "0059",
+                "030A"
+            ],
+            "upperSequence": [
+                "0059",
+                "030A"
+            ]
+        },
+        {
+            "codepoint": "1E9A",
+            "lowerSequence": [
+                "1E9A"
+            ],
+            "titleSequence": [
+                "0041",
+                "02BE"
+            ],
+            "upperSequence": [
+                "0041",
+                "02BE"
+            ]
+        },
+        {
+            "codepoint": "1F50",
+            "lowerSequence": [
+                "1F50"
+            ],
+            "titleSequence": [
+                "03A5",
+                "0313"
+            ],
+            "upperSequence": [
+                "03A5",
+                "0313"
+            ]
+        },
+        {
+            "codepoint": "1F52",
+            "lowerSequence": [
+                "1F52"
+            ],
+            "titleSequence": [
+                "03A5",
+                "0313",
+                "0300"
+            ],
+            "upperSequence": [
+                "03A5",
+                "0313",
+                "0300"
+            ]
+        },
+        {
+            "codepoint": "1F54",
+            "lowerSequence": [
+                "1F54"
+            ],
+            "titleSequence": [
+                "03A5",
+                "0313",
+                "0301"
+            ],
+            "upperSequence": [
+                "03A5",
+                "0313",
+                "0301"
+            ]
+        },
+        {
+            "codepoint": "1F56",
+            "lowerSequence": [
+                "1F56"
+            ],
+            "titleSequence": [
+                "03A5",
+                "0313",
+                "0342"
+            ],
+            "upperSequence": [
+                "03A5",
+                "0313",
+                "0342"
+            ]
+        },
+        {
+            "codepoint": "1FB6",
+            "lowerSequence": [
+                "1FB6"
+            ],
+            "titleSequence": [
+                "0391",
+                "0342"
+            ],
+            "upperSequence": [
+                "0391",
+                "0342"
+            ]
+        },
+        {
+            "codepoint": "1FC6",
+            "lowerSequence": [
+                "1FC6"
+            ],
+            "titleSequence": [
+                "0397",
+                "0342"
+            ],
+            "upperSequence": [
+                "0397",
+                "0342"
+            ]
+        },
+        {
+            "codepoint": "1FD2",
+            "lowerSequence": [
+                "1FD2"
+            ],
+            "titleSequence": [
+                "0399",
+                "0308",
+                "0300"
+            ],
+            "upperSequence": [
+                "0399",
+                "0308",
+                "0300"
+            ]
+        },
+        {
+            "codepoint": "1FD3",
+            "lowerSequence": [
+                "1FD3"
+            ],
+            "titleSequence": [
+                "0399",
+                "0308",
+                "0301"
+            ],
+            "upperSequence": [
+                "0399",
+                "0308",
+                "0301"
+            ]
+        },
+        {
+            "codepoint": "1FD6",
+            "lowerSequence": [
+                "1FD6"
+            ],
+            "titleSequence": [
+                "0399",
+                "0342"
+            ],
+            "upperSequence": [
+                "0399",
+                "0342"
+            ]
+        },
+        {
+            "codepoint": "1FD7",
+            "lowerSequence": [
+                "1FD7"
+            ],
+            "titleSequence": [
+                "0399",
+                "0308",
+                "0342"
+            ],
+            "upperSequence": [
+                "0399",
+                "0308",
+                "0342"
+            ]
+        },
+        {
+            "codepoint": "1FE2",
+            "lowerSequence": [
+                "1FE2"
+            ],
+            "titleSequence": [
+                "03A5",
+                "0308",
+                "0300"
+            ],
+            "upperSequence": [
+                "03A5",
+                "0308",
+                "0300"
+            ]
+        },
+        {
+            "codepoint": "1FE3",
+            "lowerSequence": [
+                "1FE3"
+            ],
+            "titleSequence": [
+                "03A5",
+                "0308",
+                "0301"
+            ],
+            "upperSequence": [
+                "03A5",
+                "0308",
+                "0301"
+            ]
+        },
+        {
+            "codepoint": "1FE4",
+            "lowerSequence": [
+                "1FE4"
+            ],
+            "titleSequence": [
+                "03A1",
+                "0313"
+            ],
+            "upperSequence": [
+                "03A1",
+                "0313"
+            ]
+        },
+        {
+            "codepoint": "1FE6",
+            "lowerSequence": [
+                "1FE6"
+            ],
+            "titleSequence": [
+                "03A5",
+                "0342"
+            ],
+            "upperSequence": [
+                "03A5",
+                "0342"
+            ]
+        },
+        {
+            "codepoint": "1FE7",
+            "lowerSequence": [
+                "1FE7"
+            ],
+            "titleSequence": [
+                "03A5",
+                "0308",
+                "0342"
+            ],
+            "upperSequence": [
+                "03A5",
+                "0308",
+                "0342"
+            ]
+        },
+        {
+            "codepoint": "1FF6",
+            "lowerSequence": [
+                "1FF6"
+            ],
+            "titleSequence": [
+                "03A9",
+                "0342"
+            ],
+            "upperSequence": [
+                "03A9",
+                "0342"
+            ]
+        },
+        {
+            "codepoint": "1F80",
+            "lowerSequence": [
+                "1F80"
+            ],
+            "titleSequence": [
+                "1F88"
+            ],
+            "upperSequence": [
+                "1F08",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F81",
+            "lowerSequence": [
+                "1F81"
+            ],
+            "titleSequence": [
+                "1F89"
+            ],
+            "upperSequence": [
+                "1F09",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F82",
+            "lowerSequence": [
+                "1F82"
+            ],
+            "titleSequence": [
+                "1F8A"
+            ],
+            "upperSequence": [
+                "1F0A",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F83",
+            "lowerSequence": [
+                "1F83"
+            ],
+            "titleSequence": [
+                "1F8B"
+            ],
+            "upperSequence": [
+                "1F0B",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F84",
+            "lowerSequence": [
+                "1F84"
+            ],
+            "titleSequence": [
+                "1F8C"
+            ],
+            "upperSequence": [
+                "1F0C",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F85",
+            "lowerSequence": [
+                "1F85"
+            ],
+            "titleSequence": [
+                "1F8D"
+            ],
+            "upperSequence": [
+                "1F0D",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F86",
+            "lowerSequence": [
+                "1F86"
+            ],
+            "titleSequence": [
+                "1F8E"
+            ],
+            "upperSequence": [
+                "1F0E",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F87",
+            "lowerSequence": [
+                "1F87"
+            ],
+            "titleSequence": [
+                "1F8F"
+            ],
+            "upperSequence": [
+                "1F0F",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F88",
+            "lowerSequence": [
+                "1F80"
+            ],
+            "titleSequence": [
+                "1F88"
+            ],
+            "upperSequence": [
+                "1F08",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F89",
+            "lowerSequence": [
+                "1F81"
+            ],
+            "titleSequence": [
+                "1F89"
+            ],
+            "upperSequence": [
+                "1F09",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F8A",
+            "lowerSequence": [
+                "1F82"
+            ],
+            "titleSequence": [
+                "1F8A"
+            ],
+            "upperSequence": [
+                "1F0A",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F8B",
+            "lowerSequence": [
+                "1F83"
+            ],
+            "titleSequence": [
+                "1F8B"
+            ],
+            "upperSequence": [
+                "1F0B",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F8C",
+            "lowerSequence": [
+                "1F84"
+            ],
+            "titleSequence": [
+                "1F8C"
+            ],
+            "upperSequence": [
+                "1F0C",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F8D",
+            "lowerSequence": [
+                "1F85"
+            ],
+            "titleSequence": [
+                "1F8D"
+            ],
+            "upperSequence": [
+                "1F0D",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F8E",
+            "lowerSequence": [
+                "1F86"
+            ],
+            "titleSequence": [
+                "1F8E"
+            ],
+            "upperSequence": [
+                "1F0E",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F8F",
+            "lowerSequence": [
+                "1F87"
+            ],
+            "titleSequence": [
+                "1F8F"
+            ],
+            "upperSequence": [
+                "1F0F",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F90",
+            "lowerSequence": [
+                "1F90"
+            ],
+            "titleSequence": [
+                "1F98"
+            ],
+            "upperSequence": [
+                "1F28",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F91",
+            "lowerSequence": [
+                "1F91"
+            ],
+            "titleSequence": [
+                "1F99"
+            ],
+            "upperSequence": [
+                "1F29",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F92",
+            "lowerSequence": [
+                "1F92"
+            ],
+            "titleSequence": [
+                "1F9A"
+            ],
+            "upperSequence": [
+                "1F2A",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F93",
+            "lowerSequence": [
+                "1F93"
+            ],
+            "titleSequence": [
+                "1F9B"
+            ],
+            "upperSequence": [
+                "1F2B",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F94",
+            "lowerSequence": [
+                "1F94"
+            ],
+            "titleSequence": [
+                "1F9C"
+            ],
+            "upperSequence": [
+                "1F2C",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F95",
+            "lowerSequence": [
+                "1F95"
+            ],
+            "titleSequence": [
+                "1F9D"
+            ],
+            "upperSequence": [
+                "1F2D",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F96",
+            "lowerSequence": [
+                "1F96"
+            ],
+            "titleSequence": [
+                "1F9E"
+            ],
+            "upperSequence": [
+                "1F2E",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F97",
+            "lowerSequence": [
+                "1F97"
+            ],
+            "titleSequence": [
+                "1F9F"
+            ],
+            "upperSequence": [
+                "1F2F",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F98",
+            "lowerSequence": [
+                "1F90"
+            ],
+            "titleSequence": [
+                "1F98"
+            ],
+            "upperSequence": [
+                "1F28",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F99",
+            "lowerSequence": [
+                "1F91"
+            ],
+            "titleSequence": [
+                "1F99"
+            ],
+            "upperSequence": [
+                "1F29",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F9A",
+            "lowerSequence": [
+                "1F92"
+            ],
+            "titleSequence": [
+                "1F9A"
+            ],
+            "upperSequence": [
+                "1F2A",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F9B",
+            "lowerSequence": [
+                "1F93"
+            ],
+            "titleSequence": [
+                "1F9B"
+            ],
+            "upperSequence": [
+                "1F2B",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F9C",
+            "lowerSequence": [
+                "1F94"
+            ],
+            "titleSequence": [
+                "1F9C"
+            ],
+            "upperSequence": [
+                "1F2C",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F9D",
+            "lowerSequence": [
+                "1F95"
+            ],
+            "titleSequence": [
+                "1F9D"
+            ],
+            "upperSequence": [
+                "1F2D",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F9E",
+            "lowerSequence": [
+                "1F96"
+            ],
+            "titleSequence": [
+                "1F9E"
+            ],
+            "upperSequence": [
+                "1F2E",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1F9F",
+            "lowerSequence": [
+                "1F97"
+            ],
+            "titleSequence": [
+                "1F9F"
+            ],
+            "upperSequence": [
+                "1F2F",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FA0",
+            "lowerSequence": [
+                "1FA0"
+            ],
+            "titleSequence": [
+                "1FA8"
+            ],
+            "upperSequence": [
+                "1F68",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FA1",
+            "lowerSequence": [
+                "1FA1"
+            ],
+            "titleSequence": [
+                "1FA9"
+            ],
+            "upperSequence": [
+                "1F69",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FA2",
+            "lowerSequence": [
+                "1FA2"
+            ],
+            "titleSequence": [
+                "1FAA"
+            ],
+            "upperSequence": [
+                "1F6A",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FA3",
+            "lowerSequence": [
+                "1FA3"
+            ],
+            "titleSequence": [
+                "1FAB"
+            ],
+            "upperSequence": [
+                "1F6B",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FA4",
+            "lowerSequence": [
+                "1FA4"
+            ],
+            "titleSequence": [
+                "1FAC"
+            ],
+            "upperSequence": [
+                "1F6C",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FA5",
+            "lowerSequence": [
+                "1FA5"
+            ],
+            "titleSequence": [
+                "1FAD"
+            ],
+            "upperSequence": [
+                "1F6D",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FA6",
+            "lowerSequence": [
+                "1FA6"
+            ],
+            "titleSequence": [
+                "1FAE"
+            ],
+            "upperSequence": [
+                "1F6E",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FA7",
+            "lowerSequence": [
+                "1FA7"
+            ],
+            "titleSequence": [
+                "1FAF"
+            ],
+            "upperSequence": [
+                "1F6F",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FA8",
+            "lowerSequence": [
+                "1FA0"
+            ],
+            "titleSequence": [
+                "1FA8"
+            ],
+            "upperSequence": [
+                "1F68",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FA9",
+            "lowerSequence": [
+                "1FA1"
+            ],
+            "titleSequence": [
+                "1FA9"
+            ],
+            "upperSequence": [
+                "1F69",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FAA",
+            "lowerSequence": [
+                "1FA2"
+            ],
+            "titleSequence": [
+                "1FAA"
+            ],
+            "upperSequence": [
+                "1F6A",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FAB",
+            "lowerSequence": [
+                "1FA3"
+            ],
+            "titleSequence": [
+                "1FAB"
+            ],
+            "upperSequence": [
+                "1F6B",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FAC",
+            "lowerSequence": [
+                "1FA4"
+            ],
+            "titleSequence": [
+                "1FAC"
+            ],
+            "upperSequence": [
+                "1F6C",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FAD",
+            "lowerSequence": [
+                "1FA5"
+            ],
+            "titleSequence": [
+                "1FAD"
+            ],
+            "upperSequence": [
+                "1F6D",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FAE",
+            "lowerSequence": [
+                "1FA6"
+            ],
+            "titleSequence": [
+                "1FAE"
+            ],
+            "upperSequence": [
+                "1F6E",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FAF",
+            "lowerSequence": [
+                "1FA7"
+            ],
+            "titleSequence": [
+                "1FAF"
+            ],
+            "upperSequence": [
+                "1F6F",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FB3",
+            "lowerSequence": [
+                "1FB3"
+            ],
+            "titleSequence": [
+                "1FBC"
+            ],
+            "upperSequence": [
+                "0391",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FBC",
+            "lowerSequence": [
+                "1FB3"
+            ],
+            "titleSequence": [
+                "1FBC"
+            ],
+            "upperSequence": [
+                "0391",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FC3",
+            "lowerSequence": [
+                "1FC3"
+            ],
+            "titleSequence": [
+                "1FCC"
+            ],
+            "upperSequence": [
+                "0397",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FCC",
+            "lowerSequence": [
+                "1FC3"
+            ],
+            "titleSequence": [
+                "1FCC"
+            ],
+            "upperSequence": [
+                "0397",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FF3",
+            "lowerSequence": [
+                "1FF3"
+            ],
+            "titleSequence": [
+                "1FFC"
+            ],
+            "upperSequence": [
+                "03A9",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FFC",
+            "lowerSequence": [
+                "1FF3"
+            ],
+            "titleSequence": [
+                "1FFC"
+            ],
+            "upperSequence": [
+                "03A9",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FB2",
+            "lowerSequence": [
+                "1FB2"
+            ],
+            "titleSequence": [
+                "1FBA",
+                "0345"
+            ],
+            "upperSequence": [
+                "1FBA",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FB4",
+            "lowerSequence": [
+                "1FB4"
+            ],
+            "titleSequence": [
+                "0386",
+                "0345"
+            ],
+            "upperSequence": [
+                "0386",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FC2",
+            "lowerSequence": [
+                "1FC2"
+            ],
+            "titleSequence": [
+                "1FCA",
+                "0345"
+            ],
+            "upperSequence": [
+                "1FCA",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FC4",
+            "lowerSequence": [
+                "1FC4"
+            ],
+            "titleSequence": [
+                "0389",
+                "0345"
+            ],
+            "upperSequence": [
+                "0389",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FF2",
+            "lowerSequence": [
+                "1FF2"
+            ],
+            "titleSequence": [
+                "1FFA",
+                "0345"
+            ],
+            "upperSequence": [
+                "1FFA",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FF4",
+            "lowerSequence": [
+                "1FF4"
+            ],
+            "titleSequence": [
+                "038F",
+                "0345"
+            ],
+            "upperSequence": [
+                "038F",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FB7",
+            "lowerSequence": [
+                "1FB7"
+            ],
+            "titleSequence": [
+                "0391",
+                "0342",
+                "0345"
+            ],
+            "upperSequence": [
+                "0391",
+                "0342",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FC7",
+            "lowerSequence": [
+                "1FC7"
+            ],
+            "titleSequence": [
+                "0397",
+                "0342",
+                "0345"
+            ],
+            "upperSequence": [
+                "0397",
+                "0342",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "1FF7",
+            "lowerSequence": [
+                "1FF7"
+            ],
+            "titleSequence": [
+                "03A9",
+                "0342",
+                "0345"
+            ],
+            "upperSequence": [
+                "03A9",
+                "0342",
+                "0399"
+            ]
+        },
+        {
+            "codepoint": "03A3",
+            "lowerSequence": [
+                "03C2"
+            ],
+            "titleSequence": [
+                "03A3"
+            ],
+            "upperSequence": [
+                "03A3"
+            ],
+            "conditions": "Final_Sigma"
+        },
+        {
+            "codepoint": "0307",
+            "lowerSequence": [
+                "0307"
+            ],
+            "conditions": "lt After_Soft_Dotted"
+        },
+        {
+            "codepoint": "0049",
+            "lowerSequence": [
+                "0069",
+                "0307"
+            ],
+            "titleSequence": [
+                "0049"
+            ],
+            "upperSequence": [
+                "0049"
+            ],
+            "conditions": "lt More_Above"
+        },
+        {
+            "codepoint": "004A",
+            "lowerSequence": [
+                "006A",
+                "0307"
+            ],
+            "titleSequence": [
+                "004A"
+            ],
+            "upperSequence": [
+                "004A"
+            ],
+            "conditions": "lt More_Above"
+        },
+        {
+            "codepoint": "012E",
+            "lowerSequence": [
+                "012F",
+                "0307"
+            ],
+            "titleSequence": [
+                "012E"
+            ],
+            "upperSequence": [
+                "012E"
+            ],
+            "conditions": "lt More_Above"
+        },
+        {
+            "codepoint": "00CC",
+            "lowerSequence": [
+                "0069",
+                "0307",
+                "0300"
+            ],
+            "titleSequence": [
+                "00CC"
+            ],
+            "upperSequence": [
+                "00CC"
+            ],
+            "conditions": "lt"
+        },
+        {
+            "codepoint": "00CD",
+            "lowerSequence": [
+                "0069",
+                "0307",
+                "0301"
+            ],
+            "titleSequence": [
+                "00CD"
+            ],
+            "upperSequence": [
+                "00CD"
+            ],
+            "conditions": "lt"
+        },
+        {
+            "codepoint": "0128",
+            "lowerSequence": [
+                "0069",
+                "0307",
+                "0303"
+            ],
+            "titleSequence": [
+                "0128"
+            ],
+            "upperSequence": [
+                "0128"
+            ],
+            "conditions": "lt"
+        },
+        {
+            "codepoint": "0130",
+            "lowerSequence": [
+                "0069"
+            ],
+            "titleSequence": [
+                "0130"
+            ],
+            "upperSequence": [
+                "0130"
+            ],
+            "conditions": "tr"
+        },
+        {
+            "codepoint": "0130",
+            "lowerSequence": [
+                "0069"
+            ],
+            "titleSequence": [
+                "0130"
+            ],
+            "upperSequence": [
+                "0130"
+            ],
+            "conditions": "az"
+        },
+        {
+            "codepoint": "0307",
+            "titleSequence": [
+                "0307"
+            ],
+            "upperSequence": [
+                "0307"
+            ],
+            "conditions": "tr After_I"
+        },
+        {
+            "codepoint": "0307",
+            "titleSequence": [
+                "0307"
+            ],
+            "upperSequence": [
+                "0307"
+            ],
+            "conditions": "az After_I"
+        },
+        {
+            "codepoint": "0049",
+            "lowerSequence": [
+                "0131"
+            ],
+            "titleSequence": [
+                "0049"
+            ],
+            "upperSequence": [
+                "0049"
+            ],
+            "conditions": "tr Not_Before_Dot"
+        },
+        {
+            "codepoint": "0049",
+            "lowerSequence": [
+                "0131"
+            ],
+            "titleSequence": [
+                "0049"
+            ],
+            "upperSequence": [
+                "0049"
+            ],
+            "conditions": "az Not_Before_Dot"
+        },
+        {
+            "codepoint": "0069",
+            "lowerSequence": [
+                "0069"
+            ],
+            "titleSequence": [
+                "0130"
+            ],
+            "upperSequence": [
+                "0130"
+            ],
+            "conditions": "tr"
+        },
+        {
+            "codepoint": "0069",
+            "lowerSequence": [
+                "0069"
+            ],
+            "titleSequence": [
+                "0130"
+            ],
+            "upperSequence": [
+                "0130"
+            ],
+            "conditions": "az"
+        }
+    ]
+}

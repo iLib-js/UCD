@@ -1,0 +1,4972 @@
+{
+    "ArabicShaping": [
+        {
+            "codepoint": "0600",
+            "name": "ARABIC NUMBER SIGN",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0601",
+            "name": "ARABIC SIGN SANAH",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0602",
+            "name": "ARABIC FOOTNOTE MARKER",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0603",
+            "name": "ARABIC SIGN SAFHA",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0604",
+            "name": "ARABIC SIGN SAMVAT",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0605",
+            "name": "ARABIC NUMBER MARK ABOVE",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0608",
+            "name": "ARABIC RAY",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "060B",
+            "name": "AFGHANI SIGN",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0620",
+            "name": "DOTLESS YEH WITH SEPARATE RING BELOW",
+            "type": "D",
+            "joiningGroup": "YEH"
+        },
+        {
+            "codepoint": "0621",
+            "name": "HAMZA",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0622",
+            "name": "ALEF WITH MADDA ABOVE",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "0623",
+            "name": "ALEF WITH HAMZA ABOVE",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "0624",
+            "name": "WAW WITH HAMZA ABOVE",
+            "type": "R",
+            "joiningGroup": "WAW"
+        },
+        {
+            "codepoint": "0625",
+            "name": "ALEF WITH HAMZA BELOW",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "0626",
+            "name": "DOTLESS YEH WITH HAMZA ABOVE",
+            "type": "D",
+            "joiningGroup": "YEH"
+        },
+        {
+            "codepoint": "0627",
+            "name": "ALEF",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "0628",
+            "name": "BEH",
+            "type": "D",
+            "joiningGroup": "BEH"
+        },
+        {
+            "codepoint": "0629",
+            "name": "TEH MARBUTA",
+            "type": "R",
+            "joiningGroup": "TEH MARBUTA"
+        },
+        {
+            "codepoint": "062A",
+            "name": "DOTLESS BEH WITH 2 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "BEH"
+        },
+        {
+            "codepoint": "062B",
+            "name": "DOTLESS BEH WITH 3 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "BEH"
+        },
+        {
+            "codepoint": "062C",
+            "name": "HAH WITH DOT BELOW",
+            "type": "D",
+            "joiningGroup": "HAH"
+        },
+        {
+            "codepoint": "062D",
+            "name": "HAH",
+            "type": "D",
+            "joiningGroup": "HAH"
+        },
+        {
+            "codepoint": "062E",
+            "name": "HAH WITH DOT ABOVE",
+            "type": "D",
+            "joiningGroup": "HAH"
+        },
+        {
+            "codepoint": "062F",
+            "name": "DAL",
+            "type": "R",
+            "joiningGroup": "DAL"
+        },
+        {
+            "codepoint": "0630",
+            "name": "DAL WITH DOT ABOVE",
+            "type": "R",
+            "joiningGroup": "DAL"
+        },
+        {
+            "codepoint": "0631",
+            "name": "REH",
+            "type": "R",
+            "joiningGroup": "REH"
+        },
+        {
+            "codepoint": "0632",
+            "name": "REH WITH DOT ABOVE",
+            "type": "R",
+            "joiningGroup": "REH"
+        },
+        {
+            "codepoint": "0633",
+            "name": "SEEN",
+            "type": "D",
+            "joiningGroup": "SEEN"
+        },
+        {
+            "codepoint": "0634",
+            "name": "SEEN WITH 3 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "SEEN"
+        },
+        {
+            "codepoint": "0635",
+            "name": "SAD",
+            "type": "D",
+            "joiningGroup": "SAD"
+        },
+        {
+            "codepoint": "0636",
+            "name": "SAD WITH DOT ABOVE",
+            "type": "D",
+            "joiningGroup": "SAD"
+        },
+        {
+            "codepoint": "0637",
+            "name": "TAH",
+            "type": "D",
+            "joiningGroup": "TAH"
+        },
+        {
+            "codepoint": "0638",
+            "name": "TAH WITH DOT ABOVE",
+            "type": "D",
+            "joiningGroup": "TAH"
+        },
+        {
+            "codepoint": "0639",
+            "name": "AIN",
+            "type": "D",
+            "joiningGroup": "AIN"
+        },
+        {
+            "codepoint": "063A",
+            "name": "AIN WITH DOT ABOVE",
+            "type": "D",
+            "joiningGroup": "AIN"
+        },
+        {
+            "codepoint": "063B",
+            "name": "KEHEH WITH 2 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "GAF"
+        },
+        {
+            "codepoint": "063C",
+            "name": "KEHEH WITH 3 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "GAF"
+        },
+        {
+            "codepoint": "063D",
+            "name": "FARSI YEH WITH INVERTED V ABOVE",
+            "type": "D",
+            "joiningGroup": "FARSI YEH"
+        },
+        {
+            "codepoint": "063E",
+            "name": "FARSI YEH WITH 2 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "FARSI YEH"
+        },
+        {
+            "codepoint": "063F",
+            "name": "FARSI YEH WITH 3 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "FARSI YEH"
+        },
+        {
+            "codepoint": "0640",
+            "name": "TATWEEL",
+            "type": "C",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0641",
+            "name": "FEH",
+            "type": "D",
+            "joiningGroup": "FEH"
+        },
+        {
+            "codepoint": "0642",
+            "name": "QAF",
+            "type": "D",
+            "joiningGroup": "QAF"
+        },
+        {
+            "codepoint": "0643",
+            "name": "KAF",
+            "type": "D",
+            "joiningGroup": "KAF"
+        },
+        {
+            "codepoint": "0644",
+            "name": "LAM",
+            "type": "D",
+            "joiningGroup": "LAM"
+        },
+        {
+            "codepoint": "0645",
+            "name": "MEEM",
+            "type": "D",
+            "joiningGroup": "MEEM"
+        },
+        {
+            "codepoint": "0646",
+            "name": "NOON",
+            "type": "D",
+            "joiningGroup": "NOON"
+        },
+        {
+            "codepoint": "0647",
+            "name": "HEH",
+            "type": "D",
+            "joiningGroup": "HEH"
+        },
+        {
+            "codepoint": "0648",
+            "name": "WAW",
+            "type": "R",
+            "joiningGroup": "WAW"
+        },
+        {
+            "codepoint": "0649",
+            "name": "DOTLESS YEH",
+            "type": "D",
+            "joiningGroup": "YEH"
+        },
+        {
+            "codepoint": "064A",
+            "name": "YEH",
+            "type": "D",
+            "joiningGroup": "YEH"
+        },
+        {
+            "codepoint": "066E",
+            "name": "DOTLESS BEH",
+            "type": "D",
+            "joiningGroup": "BEH"
+        },
+        {
+            "codepoint": "066F",
+            "name": "DOTLESS QAF",
+            "type": "D",
+            "joiningGroup": "QAF"
+        },
+        {
+            "codepoint": "0671",
+            "name": "ALEF WITH WASLA ABOVE",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "0672",
+            "name": "ALEF WITH WAVY HAMZA ABOVE",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "0673",
+            "name": "ALEF WITH WAVY HAMZA BELOW",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "0674",
+            "name": "HIGH HAMZA",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0675",
+            "name": "HIGH HAMZA ALEF",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "0676",
+            "name": "HIGH HAMZA WAW",
+            "type": "R",
+            "joiningGroup": "WAW"
+        },
+        {
+            "codepoint": "0677",
+            "name": "HIGH HAMZA WAW WITH COMMA ABOVE",
+            "type": "R",
+            "joiningGroup": "WAW"
+        },
+        {
+            "codepoint": "0678",
+            "name": "HIGH HAMZA DOTLESS YEH",
+            "type": "D",
+            "joiningGroup": "YEH"
+        },
+        {
+            "codepoint": "0679",
+            "name": "DOTLESS BEH WITH TAH ABOVE",
+            "type": "D",
+            "joiningGroup": "BEH"
+        },
+        {
+            "codepoint": "067A",
+            "name": "DOTLESS BEH WITH VERTICAL 2 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "BEH"
+        },
+        {
+            "codepoint": "067B",
+            "name": "DOTLESS BEH WITH VERTICAL 2 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "BEH"
+        },
+        {
+            "codepoint": "067C",
+            "name": "DOTLESS BEH WITH ATTACHED RING BELOW AND 2 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "BEH"
+        },
+        {
+            "codepoint": "067D",
+            "name": "DOTLESS BEH WITH INVERTED 3 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "BEH"
+        },
+        {
+            "codepoint": "067E",
+            "name": "DOTLESS BEH WITH 3 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "BEH"
+        },
+        {
+            "codepoint": "067F",
+            "name": "DOTLESS BEH WITH 4 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "BEH"
+        },
+        {
+            "codepoint": "0680",
+            "name": "DOTLESS BEH WITH 4 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "BEH"
+        },
+        {
+            "codepoint": "0681",
+            "name": "HAH WITH HAMZA ABOVE",
+            "type": "D",
+            "joiningGroup": "HAH"
+        },
+        {
+            "codepoint": "0682",
+            "name": "HAH WITH VERTICAL 2 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "HAH"
+        },
+        {
+            "codepoint": "0683",
+            "name": "HAH WITH 2 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "HAH"
+        },
+        {
+            "codepoint": "0684",
+            "name": "HAH WITH VERTICAL 2 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "HAH"
+        },
+        {
+            "codepoint": "0685",
+            "name": "HAH WITH 3 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "HAH"
+        },
+        {
+            "codepoint": "0686",
+            "name": "HAH WITH 3 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "HAH"
+        },
+        {
+            "codepoint": "0687",
+            "name": "HAH WITH 4 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "HAH"
+        },
+        {
+            "codepoint": "0688",
+            "name": "DAL WITH TAH ABOVE",
+            "type": "R",
+            "joiningGroup": "DAL"
+        },
+        {
+            "codepoint": "0689",
+            "name": "DAL WITH ATTACHED RING BELOW",
+            "type": "R",
+            "joiningGroup": "DAL"
+        },
+        {
+            "codepoint": "068A",
+            "name": "DAL WITH DOT BELOW",
+            "type": "R",
+            "joiningGroup": "DAL"
+        },
+        {
+            "codepoint": "068B",
+            "name": "DAL WITH DOT BELOW AND TAH ABOVE",
+            "type": "R",
+            "joiningGroup": "DAL"
+        },
+        {
+            "codepoint": "068C",
+            "name": "DAL WITH 2 DOTS ABOVE",
+            "type": "R",
+            "joiningGroup": "DAL"
+        },
+        {
+            "codepoint": "068D",
+            "name": "DAL WITH 2 DOTS BELOW",
+            "type": "R",
+            "joiningGroup": "DAL"
+        },
+        {
+            "codepoint": "068E",
+            "name": "DAL WITH 3 DOTS ABOVE",
+            "type": "R",
+            "joiningGroup": "DAL"
+        },
+        {
+            "codepoint": "068F",
+            "name": "DAL WITH INVERTED 3 DOTS ABOVE",
+            "type": "R",
+            "joiningGroup": "DAL"
+        },
+        {
+            "codepoint": "0690",
+            "name": "DAL WITH 4 DOTS ABOVE",
+            "type": "R",
+            "joiningGroup": "DAL"
+        },
+        {
+            "codepoint": "0691",
+            "name": "REH WITH TAH ABOVE",
+            "type": "R",
+            "joiningGroup": "REH"
+        },
+        {
+            "codepoint": "0692",
+            "name": "REH WITH V ABOVE",
+            "type": "R",
+            "joiningGroup": "REH"
+        },
+        {
+            "codepoint": "0693",
+            "name": "REH WITH ATTACHED RING BELOW",
+            "type": "R",
+            "joiningGroup": "REH"
+        },
+        {
+            "codepoint": "0694",
+            "name": "REH WITH DOT BELOW",
+            "type": "R",
+            "joiningGroup": "REH"
+        },
+        {
+            "codepoint": "0695",
+            "name": "REH WITH V BELOW",
+            "type": "R",
+            "joiningGroup": "REH"
+        },
+        {
+            "codepoint": "0696",
+            "name": "REH WITH DOT BELOW AND DOT WITHIN",
+            "type": "R",
+            "joiningGroup": "REH"
+        },
+        {
+            "codepoint": "0697",
+            "name": "REH WITH 2 DOTS ABOVE",
+            "type": "R",
+            "joiningGroup": "REH"
+        },
+        {
+            "codepoint": "0698",
+            "name": "REH WITH 3 DOTS ABOVE",
+            "type": "R",
+            "joiningGroup": "REH"
+        },
+        {
+            "codepoint": "0699",
+            "name": "REH WITH 4 DOTS ABOVE",
+            "type": "R",
+            "joiningGroup": "REH"
+        },
+        {
+            "codepoint": "069A",
+            "name": "SEEN WITH DOT BELOW AND DOT ABOVE",
+            "type": "D",
+            "joiningGroup": "SEEN"
+        },
+        {
+            "codepoint": "069B",
+            "name": "SEEN WITH 3 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "SEEN"
+        },
+        {
+            "codepoint": "069C",
+            "name": "SEEN WITH 3 DOTS BELOW AND 3 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "SEEN"
+        },
+        {
+            "codepoint": "069D",
+            "name": "SAD WITH 2 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "SAD"
+        },
+        {
+            "codepoint": "069E",
+            "name": "SAD WITH 3 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "SAD"
+        },
+        {
+            "codepoint": "069F",
+            "name": "TAH WITH 3 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "TAH"
+        },
+        {
+            "codepoint": "06A0",
+            "name": "AIN WITH 3 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "AIN"
+        },
+        {
+            "codepoint": "06A1",
+            "name": "DOTLESS FEH",
+            "type": "D",
+            "joiningGroup": "FEH"
+        },
+        {
+            "codepoint": "06A2",
+            "name": "DOTLESS FEH WITH DOT BELOW",
+            "type": "D",
+            "joiningGroup": "FEH"
+        },
+        {
+            "codepoint": "06A3",
+            "name": "FEH WITH DOT BELOW",
+            "type": "D",
+            "joiningGroup": "FEH"
+        },
+        {
+            "codepoint": "06A4",
+            "name": "DOTLESS FEH WITH 3 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "FEH"
+        },
+        {
+            "codepoint": "06A5",
+            "name": "DOTLESS FEH WITH 3 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "FEH"
+        },
+        {
+            "codepoint": "06A6",
+            "name": "DOTLESS FEH WITH 4 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "FEH"
+        },
+        {
+            "codepoint": "06A7",
+            "name": "DOTLESS QAF WITH DOT ABOVE",
+            "type": "D",
+            "joiningGroup": "QAF"
+        },
+        {
+            "codepoint": "06A8",
+            "name": "DOTLESS QAF WITH 3 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "QAF"
+        },
+        {
+            "codepoint": "06A9",
+            "name": "KEHEH",
+            "type": "D",
+            "joiningGroup": "GAF"
+        },
+        {
+            "codepoint": "06AA",
+            "name": "SWASH KAF",
+            "type": "D",
+            "joiningGroup": "SWASH KAF"
+        },
+        {
+            "codepoint": "06AB",
+            "name": "KEHEH WITH ATTACHED RING BELOW",
+            "type": "D",
+            "joiningGroup": "GAF"
+        },
+        {
+            "codepoint": "06AC",
+            "name": "KAF WITH DOT ABOVE",
+            "type": "D",
+            "joiningGroup": "KAF"
+        },
+        {
+            "codepoint": "06AD",
+            "name": "KAF WITH 3 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "KAF"
+        },
+        {
+            "codepoint": "06AE",
+            "name": "KAF WITH 3 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "KAF"
+        },
+        {
+            "codepoint": "06AF",
+            "name": "GAF",
+            "type": "D",
+            "joiningGroup": "GAF"
+        },
+        {
+            "codepoint": "06B0",
+            "name": "GAF WITH ATTACHED RING BELOW",
+            "type": "D",
+            "joiningGroup": "GAF"
+        },
+        {
+            "codepoint": "06B1",
+            "name": "GAF WITH 2 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "GAF"
+        },
+        {
+            "codepoint": "06B2",
+            "name": "GAF WITH 2 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "GAF"
+        },
+        {
+            "codepoint": "06B3",
+            "name": "GAF WITH VERTICAL 2 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "GAF"
+        },
+        {
+            "codepoint": "06B4",
+            "name": "GAF WITH 3 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "GAF"
+        },
+        {
+            "codepoint": "06B5",
+            "name": "LAM WITH V ABOVE",
+            "type": "D",
+            "joiningGroup": "LAM"
+        },
+        {
+            "codepoint": "06B6",
+            "name": "LAM WITH DOT ABOVE",
+            "type": "D",
+            "joiningGroup": "LAM"
+        },
+        {
+            "codepoint": "06B7",
+            "name": "LAM WITH 3 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "LAM"
+        },
+        {
+            "codepoint": "06B8",
+            "name": "LAM WITH 3 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "LAM"
+        },
+        {
+            "codepoint": "06B9",
+            "name": "NOON WITH DOT BELOW",
+            "type": "D",
+            "joiningGroup": "NOON"
+        },
+        {
+            "codepoint": "06BA",
+            "name": "DOTLESS NOON",
+            "type": "D",
+            "joiningGroup": "NOON"
+        },
+        {
+            "codepoint": "06BB",
+            "name": "DOTLESS NOON WITH TAH ABOVE",
+            "type": "D",
+            "joiningGroup": "NOON"
+        },
+        {
+            "codepoint": "06BC",
+            "name": "NOON WITH ATTACHED RING BELOW",
+            "type": "D",
+            "joiningGroup": "NOON"
+        },
+        {
+            "codepoint": "06BD",
+            "name": "NYA",
+            "type": "D",
+            "joiningGroup": "NYA"
+        },
+        {
+            "codepoint": "06BE",
+            "name": "KNOTTED HEH",
+            "type": "D",
+            "joiningGroup": "KNOTTED HEH"
+        },
+        {
+            "codepoint": "06BF",
+            "name": "HAH WITH 3 DOTS BELOW AND DOT ABOVE",
+            "type": "D",
+            "joiningGroup": "HAH"
+        },
+        {
+            "codepoint": "06C0",
+            "name": "DOTLESS TEH MARBUTA WITH HAMZA ABOVE",
+            "type": "R",
+            "joiningGroup": "TEH MARBUTA"
+        },
+        {
+            "codepoint": "06C1",
+            "name": "HEH GOAL",
+            "type": "D",
+            "joiningGroup": "HEH GOAL"
+        },
+        {
+            "codepoint": "06C2",
+            "name": "HEH GOAL WITH HAMZA ABOVE",
+            "type": "D",
+            "joiningGroup": "HEH GOAL"
+        },
+        {
+            "codepoint": "06C3",
+            "name": "TEH MARBUTA GOAL",
+            "type": "R",
+            "joiningGroup": "TEH MARBUTA GOAL"
+        },
+        {
+            "codepoint": "06C4",
+            "name": "WAW WITH ATTACHED RING WITHIN",
+            "type": "R",
+            "joiningGroup": "WAW"
+        },
+        {
+            "codepoint": "06C5",
+            "name": "WAW WITH LOOP",
+            "type": "R",
+            "joiningGroup": "WAW"
+        },
+        {
+            "codepoint": "06C6",
+            "name": "WAW WITH V ABOVE",
+            "type": "R",
+            "joiningGroup": "WAW"
+        },
+        {
+            "codepoint": "06C7",
+            "name": "WAW WITH COMMA ABOVE",
+            "type": "R",
+            "joiningGroup": "WAW"
+        },
+        {
+            "codepoint": "06C8",
+            "name": "WAW WITH ALEF ABOVE",
+            "type": "R",
+            "joiningGroup": "WAW"
+        },
+        {
+            "codepoint": "06C9",
+            "name": "WAW WITH INVERTED V ABOVE",
+            "type": "R",
+            "joiningGroup": "WAW"
+        },
+        {
+            "codepoint": "06CA",
+            "name": "WAW WITH 2 DOTS ABOVE",
+            "type": "R",
+            "joiningGroup": "WAW"
+        },
+        {
+            "codepoint": "06CB",
+            "name": "WAW WITH 3 DOTS ABOVE",
+            "type": "R",
+            "joiningGroup": "WAW"
+        },
+        {
+            "codepoint": "06CC",
+            "name": "FARSI YEH",
+            "type": "D",
+            "joiningGroup": "FARSI YEH"
+        },
+        {
+            "codepoint": "06CD",
+            "name": "YEH WITH TAIL",
+            "type": "R",
+            "joiningGroup": "YEH WITH TAIL"
+        },
+        {
+            "codepoint": "06CE",
+            "name": "FARSI YEH WITH V ABOVE",
+            "type": "D",
+            "joiningGroup": "FARSI YEH"
+        },
+        {
+            "codepoint": "06CF",
+            "name": "WAW WITH DOT ABOVE",
+            "type": "R",
+            "joiningGroup": "WAW"
+        },
+        {
+            "codepoint": "06D0",
+            "name": "DOTLESS YEH WITH VERTICAL 2 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "YEH"
+        },
+        {
+            "codepoint": "06D1",
+            "name": "DOTLESS YEH WITH 3 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "YEH"
+        },
+        {
+            "codepoint": "06D2",
+            "name": "YEH BARREE",
+            "type": "R",
+            "joiningGroup": "YEH BARREE"
+        },
+        {
+            "codepoint": "06D3",
+            "name": "YEH BARREE WITH HAMZA ABOVE",
+            "type": "R",
+            "joiningGroup": "YEH BARREE"
+        },
+        {
+            "codepoint": "06D5",
+            "name": "DOTLESS TEH MARBUTA",
+            "type": "R",
+            "joiningGroup": "TEH MARBUTA"
+        },
+        {
+            "codepoint": "06DD",
+            "name": "ARABIC END OF AYAH",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "06EE",
+            "name": "DAL WITH INVERTED V ABOVE",
+            "type": "R",
+            "joiningGroup": "DAL"
+        },
+        {
+            "codepoint": "06EF",
+            "name": "REH WITH INVERTED V ABOVE",
+            "type": "R",
+            "joiningGroup": "REH"
+        },
+        {
+            "codepoint": "06FA",
+            "name": "SEEN WITH DOT BELOW AND 3 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "SEEN"
+        },
+        {
+            "codepoint": "06FB",
+            "name": "SAD WITH DOT BELOW AND DOT ABOVE",
+            "type": "D",
+            "joiningGroup": "SAD"
+        },
+        {
+            "codepoint": "06FC",
+            "name": "AIN WITH DOT BELOW AND DOT ABOVE",
+            "type": "D",
+            "joiningGroup": "AIN"
+        },
+        {
+            "codepoint": "06FF",
+            "name": "KNOTTED HEH WITH INVERTED V ABOVE",
+            "type": "D",
+            "joiningGroup": "KNOTTED HEH"
+        },
+        {
+            "codepoint": "070F",
+            "name": "SYRIAC ABBREVIATION MARK",
+            "type": "T",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0710",
+            "name": "ALAPH",
+            "type": "R",
+            "joiningGroup": "ALAPH"
+        },
+        {
+            "codepoint": "0712",
+            "name": "BETH",
+            "type": "D",
+            "joiningGroup": "BETH"
+        },
+        {
+            "codepoint": "0713",
+            "name": "GAMAL",
+            "type": "D",
+            "joiningGroup": "GAMAL"
+        },
+        {
+            "codepoint": "0714",
+            "name": "GAMAL GARSHUNI",
+            "type": "D",
+            "joiningGroup": "GAMAL"
+        },
+        {
+            "codepoint": "0715",
+            "name": "DALATH",
+            "type": "R",
+            "joiningGroup": "DALATH RISH"
+        },
+        {
+            "codepoint": "0716",
+            "name": "DOTLESS DALATH RISH",
+            "type": "R",
+            "joiningGroup": "DALATH RISH"
+        },
+        {
+            "codepoint": "0717",
+            "name": "HE",
+            "type": "R",
+            "joiningGroup": "HE"
+        },
+        {
+            "codepoint": "0718",
+            "name": "WAW",
+            "type": "R",
+            "joiningGroup": "SYRIAC WAW"
+        },
+        {
+            "codepoint": "0719",
+            "name": "ZAIN",
+            "type": "R",
+            "joiningGroup": "ZAIN"
+        },
+        {
+            "codepoint": "071A",
+            "name": "HETH",
+            "type": "D",
+            "joiningGroup": "HETH"
+        },
+        {
+            "codepoint": "071B",
+            "name": "TETH",
+            "type": "D",
+            "joiningGroup": "TETH"
+        },
+        {
+            "codepoint": "071C",
+            "name": "TETH GARSHUNI",
+            "type": "D",
+            "joiningGroup": "TETH"
+        },
+        {
+            "codepoint": "071D",
+            "name": "YUDH",
+            "type": "D",
+            "joiningGroup": "YUDH"
+        },
+        {
+            "codepoint": "071E",
+            "name": "YUDH HE",
+            "type": "R",
+            "joiningGroup": "YUDH HE"
+        },
+        {
+            "codepoint": "071F",
+            "name": "KAPH",
+            "type": "D",
+            "joiningGroup": "KAPH"
+        },
+        {
+            "codepoint": "0720",
+            "name": "LAMADH",
+            "type": "D",
+            "joiningGroup": "LAMADH"
+        },
+        {
+            "codepoint": "0721",
+            "name": "MIM",
+            "type": "D",
+            "joiningGroup": "MIM"
+        },
+        {
+            "codepoint": "0722",
+            "name": "NUN",
+            "type": "D",
+            "joiningGroup": "NUN"
+        },
+        {
+            "codepoint": "0723",
+            "name": "SEMKATH",
+            "type": "D",
+            "joiningGroup": "SEMKATH"
+        },
+        {
+            "codepoint": "0724",
+            "name": "FINAL SEMKATH",
+            "type": "D",
+            "joiningGroup": "FINAL SEMKATH"
+        },
+        {
+            "codepoint": "0725",
+            "name": "E",
+            "type": "D",
+            "joiningGroup": "E"
+        },
+        {
+            "codepoint": "0726",
+            "name": "PE",
+            "type": "D",
+            "joiningGroup": "PE"
+        },
+        {
+            "codepoint": "0727",
+            "name": "REVERSED PE",
+            "type": "D",
+            "joiningGroup": "REVERSED PE"
+        },
+        {
+            "codepoint": "0728",
+            "name": "SADHE",
+            "type": "R",
+            "joiningGroup": "SADHE"
+        },
+        {
+            "codepoint": "0729",
+            "name": "QAPH",
+            "type": "D",
+            "joiningGroup": "QAPH"
+        },
+        {
+            "codepoint": "072A",
+            "name": "RISH",
+            "type": "R",
+            "joiningGroup": "DALATH RISH"
+        },
+        {
+            "codepoint": "072B",
+            "name": "SHIN",
+            "type": "D",
+            "joiningGroup": "SHIN"
+        },
+        {
+            "codepoint": "072C",
+            "name": "TAW",
+            "type": "R",
+            "joiningGroup": "TAW"
+        },
+        {
+            "codepoint": "072D",
+            "name": "PERSIAN BHETH",
+            "type": "D",
+            "joiningGroup": "BETH"
+        },
+        {
+            "codepoint": "072E",
+            "name": "PERSIAN GHAMAL",
+            "type": "D",
+            "joiningGroup": "GAMAL"
+        },
+        {
+            "codepoint": "072F",
+            "name": "PERSIAN DHALATH",
+            "type": "R",
+            "joiningGroup": "DALATH RISH"
+        },
+        {
+            "codepoint": "074D",
+            "name": "SOGDIAN ZHAIN",
+            "type": "R",
+            "joiningGroup": "ZHAIN"
+        },
+        {
+            "codepoint": "074E",
+            "name": "SOGDIAN KHAPH",
+            "type": "D",
+            "joiningGroup": "KHAPH"
+        },
+        {
+            "codepoint": "074F",
+            "name": "SOGDIAN FE",
+            "type": "D",
+            "joiningGroup": "FE"
+        },
+        {
+            "codepoint": "0750",
+            "name": "DOTLESS BEH WITH HORIZONTAL 3 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "BEH"
+        },
+        {
+            "codepoint": "0751",
+            "name": "BEH WITH 3 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "BEH"
+        },
+        {
+            "codepoint": "0752",
+            "name": "DOTLESS BEH WITH INVERTED 3 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "BEH"
+        },
+        {
+            "codepoint": "0753",
+            "name": "DOTLESS BEH WITH INVERTED 3 DOTS BELOW AND 2 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "BEH"
+        },
+        {
+            "codepoint": "0754",
+            "name": "DOTLESS BEH WITH 2 DOTS BELOW AND DOT ABOVE",
+            "type": "D",
+            "joiningGroup": "BEH"
+        },
+        {
+            "codepoint": "0755",
+            "name": "DOTLESS BEH WITH INVERTED V BELOW",
+            "type": "D",
+            "joiningGroup": "BEH"
+        },
+        {
+            "codepoint": "0756",
+            "name": "DOTLESS BEH WITH V ABOVE",
+            "type": "D",
+            "joiningGroup": "BEH"
+        },
+        {
+            "codepoint": "0757",
+            "name": "HAH WITH 2 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "HAH"
+        },
+        {
+            "codepoint": "0758",
+            "name": "HAH WITH INVERTED 3 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "HAH"
+        },
+        {
+            "codepoint": "0759",
+            "name": "DAL WITH VERTICAL 2 DOTS BELOW AND TAH ABOVE",
+            "type": "R",
+            "joiningGroup": "DAL"
+        },
+        {
+            "codepoint": "075A",
+            "name": "DAL WITH INVERTED V BELOW",
+            "type": "R",
+            "joiningGroup": "DAL"
+        },
+        {
+            "codepoint": "075B",
+            "name": "REH WITH BAR",
+            "type": "R",
+            "joiningGroup": "REH"
+        },
+        {
+            "codepoint": "075C",
+            "name": "SEEN WITH 4 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "SEEN"
+        },
+        {
+            "codepoint": "075D",
+            "name": "AIN WITH 2 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "AIN"
+        },
+        {
+            "codepoint": "075E",
+            "name": "AIN WITH INVERTED 3 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "AIN"
+        },
+        {
+            "codepoint": "075F",
+            "name": "AIN WITH VERTICAL 2 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "AIN"
+        },
+        {
+            "codepoint": "0760",
+            "name": "DOTLESS FEH WITH 2 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "FEH"
+        },
+        {
+            "codepoint": "0761",
+            "name": "DOTLESS FEH WITH INVERTED 3 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "FEH"
+        },
+        {
+            "codepoint": "0762",
+            "name": "KEHEH WITH DOT ABOVE",
+            "type": "D",
+            "joiningGroup": "GAF"
+        },
+        {
+            "codepoint": "0763",
+            "name": "KEHEH WITH 3 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "GAF"
+        },
+        {
+            "codepoint": "0764",
+            "name": "KEHEH WITH INVERTED 3 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "GAF"
+        },
+        {
+            "codepoint": "0765",
+            "name": "MEEM WITH DOT ABOVE",
+            "type": "D",
+            "joiningGroup": "MEEM"
+        },
+        {
+            "codepoint": "0766",
+            "name": "MEEM WITH DOT BELOW",
+            "type": "D",
+            "joiningGroup": "MEEM"
+        },
+        {
+            "codepoint": "0767",
+            "name": "NOON WITH 2 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "NOON"
+        },
+        {
+            "codepoint": "0768",
+            "name": "NOON WITH TAH ABOVE",
+            "type": "D",
+            "joiningGroup": "NOON"
+        },
+        {
+            "codepoint": "0769",
+            "name": "NOON WITH V ABOVE",
+            "type": "D",
+            "joiningGroup": "NOON"
+        },
+        {
+            "codepoint": "076A",
+            "name": "LAM WITH BAR",
+            "type": "D",
+            "joiningGroup": "LAM"
+        },
+        {
+            "codepoint": "076B",
+            "name": "REH WITH VERTICAL 2 DOTS ABOVE",
+            "type": "R",
+            "joiningGroup": "REH"
+        },
+        {
+            "codepoint": "076C",
+            "name": "REH WITH HAMZA ABOVE",
+            "type": "R",
+            "joiningGroup": "REH"
+        },
+        {
+            "codepoint": "076D",
+            "name": "SEEN WITH VERTICAL 2 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "SEEN"
+        },
+        {
+            "codepoint": "076E",
+            "name": "HAH WITH TAH BELOW",
+            "type": "D",
+            "joiningGroup": "HAH"
+        },
+        {
+            "codepoint": "076F",
+            "name": "HAH WITH TAH AND 2 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "HAH"
+        },
+        {
+            "codepoint": "0770",
+            "name": "SEEN WITH 2 DOTS AND TAH ABOVE",
+            "type": "D",
+            "joiningGroup": "SEEN"
+        },
+        {
+            "codepoint": "0771",
+            "name": "REH WITH 2 DOTS AND TAH ABOVE",
+            "type": "R",
+            "joiningGroup": "REH"
+        },
+        {
+            "codepoint": "0772",
+            "name": "HAH WITH TAH ABOVE",
+            "type": "D",
+            "joiningGroup": "HAH"
+        },
+        {
+            "codepoint": "0773",
+            "name": "ALEF WITH DIGIT TWO ABOVE",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "0774",
+            "name": "ALEF WITH DIGIT THREE ABOVE",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "0775",
+            "name": "FARSI YEH WITH DIGIT TWO ABOVE",
+            "type": "D",
+            "joiningGroup": "FARSI YEH"
+        },
+        {
+            "codepoint": "0776",
+            "name": "FARSI YEH WITH DIGIT THREE ABOVE",
+            "type": "D",
+            "joiningGroup": "FARSI YEH"
+        },
+        {
+            "codepoint": "0777",
+            "name": "DOTLESS YEH WITH DIGIT FOUR BELOW",
+            "type": "D",
+            "joiningGroup": "YEH"
+        },
+        {
+            "codepoint": "0778",
+            "name": "WAW WITH DIGIT TWO ABOVE",
+            "type": "R",
+            "joiningGroup": "WAW"
+        },
+        {
+            "codepoint": "0779",
+            "name": "WAW WITH DIGIT THREE ABOVE",
+            "type": "R",
+            "joiningGroup": "WAW"
+        },
+        {
+            "codepoint": "077A",
+            "name": "BURUSHASKI YEH BARREE WITH DIGIT TWO ABOVE",
+            "type": "D",
+            "joiningGroup": "BURUSHASKI YEH BARREE"
+        },
+        {
+            "codepoint": "077B",
+            "name": "BURUSHASKI YEH BARREE WITH DIGIT THREE ABOVE",
+            "type": "D",
+            "joiningGroup": "BURUSHASKI YEH BARREE"
+        },
+        {
+            "codepoint": "077C",
+            "name": "HAH WITH DIGIT FOUR BELOW",
+            "type": "D",
+            "joiningGroup": "HAH"
+        },
+        {
+            "codepoint": "077D",
+            "name": "SEEN WITH DIGIT FOUR ABOVE",
+            "type": "D",
+            "joiningGroup": "SEEN"
+        },
+        {
+            "codepoint": "077E",
+            "name": "SEEN WITH INVERTED V ABOVE",
+            "type": "D",
+            "joiningGroup": "SEEN"
+        },
+        {
+            "codepoint": "077F",
+            "name": "KAF WITH 2 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "KAF"
+        },
+        {
+            "codepoint": "07CA",
+            "name": "NKO A",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07CB",
+            "name": "NKO EE",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07CC",
+            "name": "NKO I",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07CD",
+            "name": "NKO E",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07CE",
+            "name": "NKO U",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07CF",
+            "name": "NKO OO",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07D0",
+            "name": "NKO O",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07D1",
+            "name": "NKO DAGBASINNA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07D2",
+            "name": "NKO N",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07D3",
+            "name": "NKO BA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07D4",
+            "name": "NKO PA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07D5",
+            "name": "NKO TA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07D6",
+            "name": "NKO JA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07D7",
+            "name": "NKO CHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07D8",
+            "name": "NKO DA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07D9",
+            "name": "NKO RA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07DA",
+            "name": "NKO RRA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07DB",
+            "name": "NKO SA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07DC",
+            "name": "NKO GBA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07DD",
+            "name": "NKO FA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07DE",
+            "name": "NKO KA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07DF",
+            "name": "NKO LA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07E0",
+            "name": "NKO NA WOLOSO",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07E1",
+            "name": "NKO MA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07E2",
+            "name": "NKO NYA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07E3",
+            "name": "NKO NA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07E4",
+            "name": "NKO HA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07E5",
+            "name": "NKO WA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07E6",
+            "name": "NKO YA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07E7",
+            "name": "NKO NYA WOLOSO",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07E8",
+            "name": "NKO JONA JA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07E9",
+            "name": "NKO JONA CHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07EA",
+            "name": "NKO JONA RA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "07FA",
+            "name": "NKO LAJANYALAN",
+            "type": "C",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0840",
+            "name": "MANDAIC HALQA",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0841",
+            "name": "MANDAIC AB",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0842",
+            "name": "MANDAIC AG",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0843",
+            "name": "MANDAIC AD",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0844",
+            "name": "MANDAIC AH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0845",
+            "name": "MANDAIC USHENNA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0846",
+            "name": "MANDAIC AZ",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0847",
+            "name": "MANDAIC IT",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0848",
+            "name": "MANDAIC ATT",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0849",
+            "name": "MANDAIC AKSA",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "084A",
+            "name": "MANDAIC AK",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "084B",
+            "name": "MANDAIC AL",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "084C",
+            "name": "MANDAIC AM",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "084D",
+            "name": "MANDAIC AN",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "084E",
+            "name": "MANDAIC AS",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "084F",
+            "name": "MANDAIC IN",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0850",
+            "name": "MANDAIC AP",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0851",
+            "name": "MANDAIC ASZ",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0852",
+            "name": "MANDAIC AQ",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0853",
+            "name": "MANDAIC AR",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0854",
+            "name": "MANDAIC ASH",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0855",
+            "name": "MANDAIC AT",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0856",
+            "name": "MANDAIC DUSHENNA",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0857",
+            "name": "MANDAIC KAD",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0858",
+            "name": "MANDAIC AIN",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0860",
+            "name": "MALAYALAM NGA",
+            "type": "D",
+            "joiningGroup": "MALAYALAM NGA"
+        },
+        {
+            "codepoint": "0861",
+            "name": "MALAYALAM JA",
+            "type": "U",
+            "joiningGroup": "MALAYALAM JA"
+        },
+        {
+            "codepoint": "0862",
+            "name": "MALAYALAM NYA",
+            "type": "D",
+            "joiningGroup": "MALAYALAM NYA"
+        },
+        {
+            "codepoint": "0863",
+            "name": "MALAYALAM TTA",
+            "type": "D",
+            "joiningGroup": "MALAYALAM TTA"
+        },
+        {
+            "codepoint": "0864",
+            "name": "MALAYALAM NNA",
+            "type": "D",
+            "joiningGroup": "MALAYALAM NNA"
+        },
+        {
+            "codepoint": "0865",
+            "name": "MALAYALAM NNNA",
+            "type": "D",
+            "joiningGroup": "MALAYALAM NNNA"
+        },
+        {
+            "codepoint": "0866",
+            "name": "MALAYALAM BHA",
+            "type": "U",
+            "joiningGroup": "MALAYALAM BHA"
+        },
+        {
+            "codepoint": "0867",
+            "name": "MALAYALAM RA",
+            "type": "R",
+            "joiningGroup": "MALAYALAM RA"
+        },
+        {
+            "codepoint": "0868",
+            "name": "MALAYALAM LLA",
+            "type": "D",
+            "joiningGroup": "MALAYALAM LLA"
+        },
+        {
+            "codepoint": "0869",
+            "name": "MALAYALAM LLLA",
+            "type": "R",
+            "joiningGroup": "MALAYALAM LLLA"
+        },
+        {
+            "codepoint": "086A",
+            "name": "MALAYALAM SSA",
+            "type": "R",
+            "joiningGroup": "MALAYALAM SSA"
+        },
+        {
+            "codepoint": "0870",
+            "name": "ALEF WITH ATTACHED FATHA",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "0871",
+            "name": "ALEF WITH ATTACHED TOP RIGHT FATHA",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "0872",
+            "name": "ALEF WITH RIGHT MIDDLE STROKE",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "0873",
+            "name": "ALEF WITH LEFT MIDDLE STROKE",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "0874",
+            "name": "ALEF WITH ATTACHED KASRA",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "0875",
+            "name": "ALEF WITH ATTACHED BOTTOM RIGHT KASRA",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "0876",
+            "name": "ALEF WITH ATTACHED ROUND DOT ABOVE",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "0877",
+            "name": "ALEF WITH ATTACHED RIGHT ROUND DOT",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "0878",
+            "name": "ALEF WITH ATTACHED LEFT ROUND DOT",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "0879",
+            "name": "ALEF WITH ATTACHED ROUND DOT BELOW",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "087A",
+            "name": "ALEF WITH DOT ABOVE",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "087B",
+            "name": "ALEF WITH ATTACHED TOP RIGHT FATHA AND DOT ABOVE",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "087C",
+            "name": "ALEF WITH RIGHT MIDDLE STROKE AND DOT ABOVE",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "087D",
+            "name": "ALEF WITH ATTACHED BOTTOM RIGHT KASRA AND DOT ABOVE",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "087E",
+            "name": "ALEF WITH ATTACHED TOP RIGHT FATHA AND LEFT RING",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "087F",
+            "name": "ALEF WITH RIGHT MIDDLE STROKE AND LEFT RING",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "0880",
+            "name": "ALEF WITH ATTACHED BOTTOM RIGHT KASRA AND LEFT RING",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "0881",
+            "name": "ALEF WITH ATTACHED RIGHT HAMZA",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "0882",
+            "name": "ALEF WITH ATTACHED LEFT HAMZA",
+            "type": "R",
+            "joiningGroup": "ALEF"
+        },
+        {
+            "codepoint": "0883",
+            "name": "TATWEEL WITH OVERSTRUCK HAMZA",
+            "type": "C",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0884",
+            "name": "TATWEEL WITH OVERSTRUCK WAW",
+            "type": "C",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0885",
+            "name": "TATWEEL WITH TWO DOTS BELOW",
+            "type": "C",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0886",
+            "name": "THIN YEH",
+            "type": "D",
+            "joiningGroup": "THIN YEH"
+        },
+        {
+            "codepoint": "0887",
+            "name": "ARABIC BASELINE ROUND DOT",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0888",
+            "name": "ARABIC RAISED ROUND DOT",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0889",
+            "name": "DOTLESS NOON WITH INVERTED V ABOVE",
+            "type": "D",
+            "joiningGroup": "NOON"
+        },
+        {
+            "codepoint": "088A",
+            "name": "HAH WITH INVERTED V BELOW",
+            "type": "D",
+            "joiningGroup": "HAH"
+        },
+        {
+            "codepoint": "088B",
+            "name": "TAH WITH DOT BELOW",
+            "type": "D",
+            "joiningGroup": "TAH"
+        },
+        {
+            "codepoint": "088C",
+            "name": "TAH WITH 3 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "TAH"
+        },
+        {
+            "codepoint": "088D",
+            "name": "KEHEH WITH VERTICAL 2 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "GAF"
+        },
+        {
+            "codepoint": "088E",
+            "name": "VERTICAL TAIL",
+            "type": "R",
+            "joiningGroup": "VERTICAL TAIL"
+        },
+        {
+            "codepoint": "0890",
+            "name": "ARABIC POUND MARK ABOVE",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "0891",
+            "name": "ARABIC PIASTRE MARK ABOVE",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "08A0",
+            "name": "DOTLESS BEH WITH V BELOW",
+            "type": "D",
+            "joiningGroup": "BEH"
+        },
+        {
+            "codepoint": "08A1",
+            "name": "BEH WITH HAMZA ABOVE",
+            "type": "D",
+            "joiningGroup": "BEH"
+        },
+        {
+            "codepoint": "08A2",
+            "name": "HAH WITH DOT BELOW AND 2 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "HAH"
+        },
+        {
+            "codepoint": "08A3",
+            "name": "TAH WITH 2 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "TAH"
+        },
+        {
+            "codepoint": "08A4",
+            "name": "DOTLESS FEH WITH DOT BELOW AND 3 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "FEH"
+        },
+        {
+            "codepoint": "08A5",
+            "name": "QAF WITH DOT BELOW",
+            "type": "D",
+            "joiningGroup": "QAF"
+        },
+        {
+            "codepoint": "08A6",
+            "name": "LAM WITH DOUBLE BAR",
+            "type": "D",
+            "joiningGroup": "LAM"
+        },
+        {
+            "codepoint": "08A7",
+            "name": "MEEM WITH 3 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "MEEM"
+        },
+        {
+            "codepoint": "08A8",
+            "name": "YEH WITH HAMZA ABOVE",
+            "type": "D",
+            "joiningGroup": "YEH"
+        },
+        {
+            "codepoint": "08A9",
+            "name": "YEH WITH DOT ABOVE",
+            "type": "D",
+            "joiningGroup": "YEH"
+        },
+        {
+            "codepoint": "08AA",
+            "name": "REH WITH LOOP",
+            "type": "R",
+            "joiningGroup": "REH"
+        },
+        {
+            "codepoint": "08AB",
+            "name": "WAW WITH DOT WITHIN",
+            "type": "R",
+            "joiningGroup": "WAW"
+        },
+        {
+            "codepoint": "08AC",
+            "name": "ROHINGYA YEH",
+            "type": "R",
+            "joiningGroup": "ROHINGYA YEH"
+        },
+        {
+            "codepoint": "08AD",
+            "name": "LOW ALEF",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "08AE",
+            "name": "DAL WITH 3 DOTS BELOW",
+            "type": "R",
+            "joiningGroup": "DAL"
+        },
+        {
+            "codepoint": "08AF",
+            "name": "SAD WITH 3 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "SAD"
+        },
+        {
+            "codepoint": "08B0",
+            "name": "KEHEH WITH STROKE BELOW",
+            "type": "D",
+            "joiningGroup": "GAF"
+        },
+        {
+            "codepoint": "08B1",
+            "name": "STRAIGHT WAW",
+            "type": "R",
+            "joiningGroup": "STRAIGHT WAW"
+        },
+        {
+            "codepoint": "08B2",
+            "name": "REH WITH DOT AND INVERTED V ABOVE",
+            "type": "R",
+            "joiningGroup": "REH"
+        },
+        {
+            "codepoint": "08B3",
+            "name": "AIN WITH 3 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "AIN"
+        },
+        {
+            "codepoint": "08B4",
+            "name": "KAF WITH DOT BELOW",
+            "type": "D",
+            "joiningGroup": "KAF"
+        },
+        {
+            "codepoint": "08B5",
+            "name": "DOTLESS QAF WITH DOT BELOW",
+            "type": "D",
+            "joiningGroup": "QAF"
+        },
+        {
+            "codepoint": "08B6",
+            "name": "BEH WITH MEEM ABOVE",
+            "type": "D",
+            "joiningGroup": "BEH"
+        },
+        {
+            "codepoint": "08B7",
+            "name": "DOTLESS BEH WITH 3 DOTS BELOW AND MEEM ABOVE",
+            "type": "D",
+            "joiningGroup": "BEH"
+        },
+        {
+            "codepoint": "08B8",
+            "name": "DOTLESS BEH WITH TEH ABOVE",
+            "type": "D",
+            "joiningGroup": "BEH"
+        },
+        {
+            "codepoint": "08B9",
+            "name": "REH WITH NOON ABOVE",
+            "type": "R",
+            "joiningGroup": "REH"
+        },
+        {
+            "codepoint": "08BA",
+            "name": "YEH WITH NOON ABOVE",
+            "type": "D",
+            "joiningGroup": "YEH"
+        },
+        {
+            "codepoint": "08BB",
+            "name": "AFRICAN FEH",
+            "type": "D",
+            "joiningGroup": "AFRICAN FEH"
+        },
+        {
+            "codepoint": "08BC",
+            "name": "AFRICAN QAF",
+            "type": "D",
+            "joiningGroup": "AFRICAN QAF"
+        },
+        {
+            "codepoint": "08BD",
+            "name": "AFRICAN NOON",
+            "type": "D",
+            "joiningGroup": "AFRICAN NOON"
+        },
+        {
+            "codepoint": "08BE",
+            "name": "DOTLESS BEH WITH 3 DOTS BELOW AND V ABOVE",
+            "type": "D",
+            "joiningGroup": "BEH"
+        },
+        {
+            "codepoint": "08BF",
+            "name": "DOTLESS BEH WITH 2 DOTS AND V ABOVE",
+            "type": "D",
+            "joiningGroup": "BEH"
+        },
+        {
+            "codepoint": "08C0",
+            "name": "DOTLESS BEH WITH TAH AND V ABOVE",
+            "type": "D",
+            "joiningGroup": "BEH"
+        },
+        {
+            "codepoint": "08C1",
+            "name": "HAH WITH 3 DOTS BELOW AND V ABOVE",
+            "type": "D",
+            "joiningGroup": "HAH"
+        },
+        {
+            "codepoint": "08C2",
+            "name": "KEHEH WITH V ABOVE",
+            "type": "D",
+            "joiningGroup": "GAF"
+        },
+        {
+            "codepoint": "08C3",
+            "name": "AIN WITH DIAMOND 4 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "AIN"
+        },
+        {
+            "codepoint": "08C4",
+            "name": "AFRICAN QAF WITH 3 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "AFRICAN QAF"
+        },
+        {
+            "codepoint": "08C5",
+            "name": "HAH WITH DOT BELOW AND 3 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "HAH"
+        },
+        {
+            "codepoint": "08C6",
+            "name": "HAH WITH DIAMOND 4 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "HAH"
+        },
+        {
+            "codepoint": "08C7",
+            "name": "LAM WITH TAH ABOVE",
+            "type": "D",
+            "joiningGroup": "LAM"
+        },
+        {
+            "codepoint": "08C8",
+            "name": "KEHEH WITH ELONGATED HAMZA ABOVE",
+            "type": "D",
+            "joiningGroup": "GAF"
+        },
+        {
+            "codepoint": "08E2",
+            "name": "ARABIC DISPUTED END OF AYAH",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1806",
+            "name": "MONGOLIAN TODO SOFT HYPHEN",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1807",
+            "name": "MONGOLIAN SIBE SYLLABLE BOUNDARY MARKER",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "180A",
+            "name": "MONGOLIAN NIRUGU",
+            "type": "C",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "180E",
+            "name": "MONGOLIAN VOWEL SEPARATOR",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1820",
+            "name": "MONGOLIAN A",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1821",
+            "name": "MONGOLIAN E",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1822",
+            "name": "MONGOLIAN I",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1823",
+            "name": "MONGOLIAN O",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1824",
+            "name": "MONGOLIAN U",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1825",
+            "name": "MONGOLIAN OE",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1826",
+            "name": "MONGOLIAN UE",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1827",
+            "name": "MONGOLIAN EE",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1828",
+            "name": "MONGOLIAN NA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1829",
+            "name": "MONGOLIAN ANG",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "182A",
+            "name": "MONGOLIAN BA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "182B",
+            "name": "MONGOLIAN PA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "182C",
+            "name": "MONGOLIAN QA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "182D",
+            "name": "MONGOLIAN GA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "182E",
+            "name": "MONGOLIAN MA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "182F",
+            "name": "MONGOLIAN LA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1830",
+            "name": "MONGOLIAN SA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1831",
+            "name": "MONGOLIAN SHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1832",
+            "name": "MONGOLIAN TA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1833",
+            "name": "MONGOLIAN DA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1834",
+            "name": "MONGOLIAN CHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1835",
+            "name": "MONGOLIAN JA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1836",
+            "name": "MONGOLIAN YA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1837",
+            "name": "MONGOLIAN RA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1838",
+            "name": "MONGOLIAN WA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1839",
+            "name": "MONGOLIAN FA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "183A",
+            "name": "MONGOLIAN KA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "183B",
+            "name": "MONGOLIAN KHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "183C",
+            "name": "MONGOLIAN TSA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "183D",
+            "name": "MONGOLIAN ZA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "183E",
+            "name": "MONGOLIAN HAA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "183F",
+            "name": "MONGOLIAN ZRA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1840",
+            "name": "MONGOLIAN LHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1841",
+            "name": "MONGOLIAN ZHI",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1842",
+            "name": "MONGOLIAN CHI",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1843",
+            "name": "MONGOLIAN TODO LONG VOWEL SIGN",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1844",
+            "name": "MONGOLIAN TODO E",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1845",
+            "name": "MONGOLIAN TODO I",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1846",
+            "name": "MONGOLIAN TODO O",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1847",
+            "name": "MONGOLIAN TODO U",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1848",
+            "name": "MONGOLIAN TODO OE",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1849",
+            "name": "MONGOLIAN TODO UE",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "184A",
+            "name": "MONGOLIAN TODO ANG",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "184B",
+            "name": "MONGOLIAN TODO BA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "184C",
+            "name": "MONGOLIAN TODO PA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "184D",
+            "name": "MONGOLIAN TODO QA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "184E",
+            "name": "MONGOLIAN TODO GA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "184F",
+            "name": "MONGOLIAN TODO MA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1850",
+            "name": "MONGOLIAN TODO TA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1851",
+            "name": "MONGOLIAN TODO DA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1852",
+            "name": "MONGOLIAN TODO CHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1853",
+            "name": "MONGOLIAN TODO JA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1854",
+            "name": "MONGOLIAN TODO TSA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1855",
+            "name": "MONGOLIAN TODO YA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1856",
+            "name": "MONGOLIAN TODO WA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1857",
+            "name": "MONGOLIAN TODO KA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1858",
+            "name": "MONGOLIAN TODO GAA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1859",
+            "name": "MONGOLIAN TODO HAA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "185A",
+            "name": "MONGOLIAN TODO JIA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "185B",
+            "name": "MONGOLIAN TODO NIA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "185C",
+            "name": "MONGOLIAN TODO DZA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "185D",
+            "name": "MONGOLIAN SIBE E",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "185E",
+            "name": "MONGOLIAN SIBE I",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "185F",
+            "name": "MONGOLIAN SIBE IY",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1860",
+            "name": "MONGOLIAN SIBE UE",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1861",
+            "name": "MONGOLIAN SIBE U",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1862",
+            "name": "MONGOLIAN SIBE ANG",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1863",
+            "name": "MONGOLIAN SIBE KA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1864",
+            "name": "MONGOLIAN SIBE GA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1865",
+            "name": "MONGOLIAN SIBE HA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1866",
+            "name": "MONGOLIAN SIBE PA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1867",
+            "name": "MONGOLIAN SIBE SHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1868",
+            "name": "MONGOLIAN SIBE TA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1869",
+            "name": "MONGOLIAN SIBE DA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "186A",
+            "name": "MONGOLIAN SIBE JA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "186B",
+            "name": "MONGOLIAN SIBE FA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "186C",
+            "name": "MONGOLIAN SIBE GAA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "186D",
+            "name": "MONGOLIAN SIBE HAA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "186E",
+            "name": "MONGOLIAN SIBE TSA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "186F",
+            "name": "MONGOLIAN SIBE ZA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1870",
+            "name": "MONGOLIAN SIBE RAA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1871",
+            "name": "MONGOLIAN SIBE CHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1872",
+            "name": "MONGOLIAN SIBE ZHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1873",
+            "name": "MONGOLIAN MANCHU I",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1874",
+            "name": "MONGOLIAN MANCHU KA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1875",
+            "name": "MONGOLIAN MANCHU RA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1876",
+            "name": "MONGOLIAN MANCHU FA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1877",
+            "name": "MONGOLIAN MANCHU ZHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1878",
+            "name": "MONGOLIAN MANCHU CHA WITH 2 DOTS",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1880",
+            "name": "MONGOLIAN ALI GALI ANUSVARA ONE",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1881",
+            "name": "MONGOLIAN ALI GALI VISARGA ONE",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1882",
+            "name": "MONGOLIAN ALI GALI DAMARU",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1883",
+            "name": "MONGOLIAN ALI GALI UBADAMA",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1884",
+            "name": "MONGOLIAN ALI GALI INVERTED UBADAMA",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1885",
+            "name": "MONGOLIAN ALI GALI BALUDA",
+            "type": "T",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1886",
+            "name": "MONGOLIAN ALI GALI THREE BALUDA",
+            "type": "T",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1887",
+            "name": "MONGOLIAN ALI GALI A",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1888",
+            "name": "MONGOLIAN ALI GALI I",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1889",
+            "name": "MONGOLIAN ALI GALI KA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "188A",
+            "name": "MONGOLIAN ALI GALI NGA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "188B",
+            "name": "MONGOLIAN ALI GALI CA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "188C",
+            "name": "MONGOLIAN ALI GALI TTA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "188D",
+            "name": "MONGOLIAN ALI GALI TTHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "188E",
+            "name": "MONGOLIAN ALI GALI DDA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "188F",
+            "name": "MONGOLIAN ALI GALI NNA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1890",
+            "name": "MONGOLIAN ALI GALI TA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1891",
+            "name": "MONGOLIAN ALI GALI DA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1892",
+            "name": "MONGOLIAN ALI GALI PA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1893",
+            "name": "MONGOLIAN ALI GALI PHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1894",
+            "name": "MONGOLIAN ALI GALI SSA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1895",
+            "name": "MONGOLIAN ALI GALI ZHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1896",
+            "name": "MONGOLIAN ALI GALI ZA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1897",
+            "name": "MONGOLIAN ALI GALI AH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1898",
+            "name": "MONGOLIAN TODO ALI GALI TA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1899",
+            "name": "MONGOLIAN TODO ALI GALI ZHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "189A",
+            "name": "MONGOLIAN MANCHU ALI GALI GHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "189B",
+            "name": "MONGOLIAN MANCHU ALI GALI NGA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "189C",
+            "name": "MONGOLIAN MANCHU ALI GALI CA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "189D",
+            "name": "MONGOLIAN MANCHU ALI GALI JHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "189E",
+            "name": "MONGOLIAN MANCHU ALI GALI TTA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "189F",
+            "name": "MONGOLIAN MANCHU ALI GALI DDHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "18A0",
+            "name": "MONGOLIAN MANCHU ALI GALI TA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "18A1",
+            "name": "MONGOLIAN MANCHU ALI GALI DHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "18A2",
+            "name": "MONGOLIAN MANCHU ALI GALI SSA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "18A3",
+            "name": "MONGOLIAN MANCHU ALI GALI CYA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "18A4",
+            "name": "MONGOLIAN MANCHU ALI GALI ZHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "18A5",
+            "name": "MONGOLIAN MANCHU ALI GALI ZA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "18A6",
+            "name": "MONGOLIAN ALI GALI HALF U",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "18A7",
+            "name": "MONGOLIAN ALI GALI HALF YA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "18A8",
+            "name": "MONGOLIAN MANCHU ALI GALI BHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "18AA",
+            "name": "MONGOLIAN MANCHU ALI GALI LHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "200C",
+            "name": "ZERO WIDTH NON-JOINER",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "200D",
+            "name": "ZERO WIDTH JOINER",
+            "type": "C",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "202F",
+            "name": "NARROW NO-BREAK SPACE",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "2066",
+            "name": "LEFT-TO-RIGHT ISOLATE",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "2067",
+            "name": "RIGHT-TO-LEFT ISOLATE",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "2068",
+            "name": "FIRST STRONG ISOLATE",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "2069",
+            "name": "POP DIRECTIONAL ISOLATE",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A840",
+            "name": "PHAGS-PA KA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A841",
+            "name": "PHAGS-PA KHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A842",
+            "name": "PHAGS-PA GA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A843",
+            "name": "PHAGS-PA NGA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A844",
+            "name": "PHAGS-PA CA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A845",
+            "name": "PHAGS-PA CHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A846",
+            "name": "PHAGS-PA JA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A847",
+            "name": "PHAGS-PA NYA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A848",
+            "name": "PHAGS-PA TA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A849",
+            "name": "PHAGS-PA THA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A84A",
+            "name": "PHAGS-PA DA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A84B",
+            "name": "PHAGS-PA NA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A84C",
+            "name": "PHAGS-PA PA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A84D",
+            "name": "PHAGS-PA PHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A84E",
+            "name": "PHAGS-PA BA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A84F",
+            "name": "PHAGS-PA MA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A850",
+            "name": "PHAGS-PA TSA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A851",
+            "name": "PHAGS-PA TSHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A852",
+            "name": "PHAGS-PA DZA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A853",
+            "name": "PHAGS-PA WA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A854",
+            "name": "PHAGS-PA ZHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A855",
+            "name": "PHAGS-PA ZA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A856",
+            "name": "PHAGS-PA SMALL A",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A857",
+            "name": "PHAGS-PA YA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A858",
+            "name": "PHAGS-PA RA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A859",
+            "name": "PHAGS-PA LA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A85A",
+            "name": "PHAGS-PA SHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A85B",
+            "name": "PHAGS-PA SA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A85C",
+            "name": "PHAGS-PA HA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A85D",
+            "name": "PHAGS-PA A",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A85E",
+            "name": "PHAGS-PA I",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A85F",
+            "name": "PHAGS-PA U",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A860",
+            "name": "PHAGS-PA E",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A861",
+            "name": "PHAGS-PA O",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A862",
+            "name": "PHAGS-PA QA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A863",
+            "name": "PHAGS-PA XA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A864",
+            "name": "PHAGS-PA FA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A865",
+            "name": "PHAGS-PA GGA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A866",
+            "name": "PHAGS-PA EE",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A867",
+            "name": "PHAGS-PA SUBJOINED WA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A868",
+            "name": "PHAGS-PA SUBJOINED YA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A869",
+            "name": "PHAGS-PA TTA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A86A",
+            "name": "PHAGS-PA TTHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A86B",
+            "name": "PHAGS-PA DDA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A86C",
+            "name": "PHAGS-PA NNA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A86D",
+            "name": "PHAGS-PA ALTERNATE YA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A86E",
+            "name": "PHAGS-PA VOICELESS SHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A86F",
+            "name": "PHAGS-PA VOICED HA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A870",
+            "name": "PHAGS-PA ASPIRATED FA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A871",
+            "name": "PHAGS-PA SUBJOINED RA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A872",
+            "name": "PHAGS-PA SUPERFIXED RA",
+            "type": "L",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "A873",
+            "name": "PHAGS-PA CANDRABINDU",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10AC0",
+            "name": "MANICHAEAN ALEPH",
+            "type": "D",
+            "joiningGroup": "MANICHAEAN ALEPH"
+        },
+        {
+            "codepoint": "10AC1",
+            "name": "MANICHAEAN BETH",
+            "type": "D",
+            "joiningGroup": "MANICHAEAN BETH"
+        },
+        {
+            "codepoint": "10AC2",
+            "name": "MANICHAEAN BETH WITH 2 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "MANICHAEAN BETH"
+        },
+        {
+            "codepoint": "10AC3",
+            "name": "MANICHAEAN GIMEL",
+            "type": "D",
+            "joiningGroup": "MANICHAEAN GIMEL"
+        },
+        {
+            "codepoint": "10AC4",
+            "name": "MANICHAEAN GIMEL WITH ATTACHED RING BELOW",
+            "type": "D",
+            "joiningGroup": "MANICHAEAN GIMEL"
+        },
+        {
+            "codepoint": "10AC5",
+            "name": "MANICHAEAN DALETH",
+            "type": "R",
+            "joiningGroup": "MANICHAEAN DALETH"
+        },
+        {
+            "codepoint": "10AC6",
+            "name": "MANICHAEAN HE",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10AC7",
+            "name": "MANICHAEAN WAW",
+            "type": "R",
+            "joiningGroup": "MANICHAEAN WAW"
+        },
+        {
+            "codepoint": "10AC8",
+            "name": "MANICHAEAN UD",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10AC9",
+            "name": "MANICHAEAN ZAYIN",
+            "type": "R",
+            "joiningGroup": "MANICHAEAN ZAYIN"
+        },
+        {
+            "codepoint": "10ACA",
+            "name": "MANICHAEAN ZAYIN WITH 2 DOTS ABOVE",
+            "type": "R",
+            "joiningGroup": "MANICHAEAN ZAYIN"
+        },
+        {
+            "codepoint": "10ACB",
+            "name": "MANICHAEAN JAYIN",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10ACC",
+            "name": "MANICHAEAN JAYIN WITH 2 DOTS ABOVE",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10ACD",
+            "name": "MANICHAEAN HETH",
+            "type": "L",
+            "joiningGroup": "MANICHAEAN HETH"
+        },
+        {
+            "codepoint": "10ACE",
+            "name": "MANICHAEAN TETH",
+            "type": "R",
+            "joiningGroup": "MANICHAEAN TETH"
+        },
+        {
+            "codepoint": "10ACF",
+            "name": "MANICHAEAN YODH",
+            "type": "R",
+            "joiningGroup": "MANICHAEAN YODH"
+        },
+        {
+            "codepoint": "10AD0",
+            "name": "MANICHAEAN KAPH",
+            "type": "R",
+            "joiningGroup": "MANICHAEAN KAPH"
+        },
+        {
+            "codepoint": "10AD1",
+            "name": "MANICHAEAN KAPH WITH DOT ABOVE",
+            "type": "R",
+            "joiningGroup": "MANICHAEAN KAPH"
+        },
+        {
+            "codepoint": "10AD2",
+            "name": "MANICHAEAN KAPH WITH 2 DOTS ABOVE",
+            "type": "R",
+            "joiningGroup": "MANICHAEAN KAPH"
+        },
+        {
+            "codepoint": "10AD3",
+            "name": "MANICHAEAN LAMEDH",
+            "type": "D",
+            "joiningGroup": "MANICHAEAN LAMEDH"
+        },
+        {
+            "codepoint": "10AD4",
+            "name": "MANICHAEAN DHAMEDH",
+            "type": "D",
+            "joiningGroup": "MANICHAEAN DHAMEDH"
+        },
+        {
+            "codepoint": "10AD5",
+            "name": "MANICHAEAN THAMEDH",
+            "type": "D",
+            "joiningGroup": "MANICHAEAN THAMEDH"
+        },
+        {
+            "codepoint": "10AD6",
+            "name": "MANICHAEAN MEM",
+            "type": "D",
+            "joiningGroup": "MANICHAEAN MEM"
+        },
+        {
+            "codepoint": "10AD7",
+            "name": "MANICHAEAN NUN",
+            "type": "L",
+            "joiningGroup": "MANICHAEAN NUN"
+        },
+        {
+            "codepoint": "10AD8",
+            "name": "MANICHAEAN SAMEKH",
+            "type": "D",
+            "joiningGroup": "MANICHAEAN SAMEKH"
+        },
+        {
+            "codepoint": "10AD9",
+            "name": "MANICHAEAN AYIN",
+            "type": "D",
+            "joiningGroup": "MANICHAEAN AYIN"
+        },
+        {
+            "codepoint": "10ADA",
+            "name": "MANICHAEAN AYIN WITH 2 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "MANICHAEAN AYIN"
+        },
+        {
+            "codepoint": "10ADB",
+            "name": "MANICHAEAN PE",
+            "type": "D",
+            "joiningGroup": "MANICHAEAN PE"
+        },
+        {
+            "codepoint": "10ADC",
+            "name": "MANICHAEAN PE WITH DOT ABOVE",
+            "type": "D",
+            "joiningGroup": "MANICHAEAN PE"
+        },
+        {
+            "codepoint": "10ADD",
+            "name": "MANICHAEAN SADHE",
+            "type": "R",
+            "joiningGroup": "MANICHAEAN SADHE"
+        },
+        {
+            "codepoint": "10ADE",
+            "name": "MANICHAEAN QOPH",
+            "type": "D",
+            "joiningGroup": "MANICHAEAN QOPH"
+        },
+        {
+            "codepoint": "10ADF",
+            "name": "MANICHAEAN QOPH WITH DOT ABOVE",
+            "type": "D",
+            "joiningGroup": "MANICHAEAN QOPH"
+        },
+        {
+            "codepoint": "10AE0",
+            "name": "MANICHAEAN QOPH WITH 2 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "MANICHAEAN QOPH"
+        },
+        {
+            "codepoint": "10AE1",
+            "name": "MANICHAEAN RESH",
+            "type": "R",
+            "joiningGroup": "MANICHAEAN RESH"
+        },
+        {
+            "codepoint": "10AE2",
+            "name": "MANICHAEAN SHIN",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10AE3",
+            "name": "MANICHAEAN SHIN WITH 2 DOTS ABOVE",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10AE4",
+            "name": "MANICHAEAN TAW",
+            "type": "R",
+            "joiningGroup": "MANICHAEAN TAW"
+        },
+        {
+            "codepoint": "10AEB",
+            "name": "MANICHAEAN ONE",
+            "type": "D",
+            "joiningGroup": "MANICHAEAN ONE"
+        },
+        {
+            "codepoint": "10AEC",
+            "name": "MANICHAEAN FIVE",
+            "type": "D",
+            "joiningGroup": "MANICHAEAN FIVE"
+        },
+        {
+            "codepoint": "10AED",
+            "name": "MANICHAEAN TEN",
+            "type": "D",
+            "joiningGroup": "MANICHAEAN TEN"
+        },
+        {
+            "codepoint": "10AEE",
+            "name": "MANICHAEAN TWENTY",
+            "type": "D",
+            "joiningGroup": "MANICHAEAN TWENTY"
+        },
+        {
+            "codepoint": "10AEF",
+            "name": "MANICHAEAN HUNDRED",
+            "type": "R",
+            "joiningGroup": "MANICHAEAN HUNDRED"
+        },
+        {
+            "codepoint": "10B80",
+            "name": "PSALTER PAHLAVI ALEPH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10B81",
+            "name": "PSALTER PAHLAVI BETH",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10B82",
+            "name": "PSALTER PAHLAVI GIMEL",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10B83",
+            "name": "PSALTER PAHLAVI DALETH",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10B84",
+            "name": "PSALTER PAHLAVI HE",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10B85",
+            "name": "PSALTER PAHLAVI WAW-AYIN-RESH",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10B86",
+            "name": "PSALTER PAHLAVI ZAYIN",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10B87",
+            "name": "PSALTER PAHLAVI HETH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10B88",
+            "name": "PSALTER PAHLAVI YODH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10B89",
+            "name": "PSALTER PAHLAVI KAPH",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10B8A",
+            "name": "PSALTER PAHLAVI LAMEDH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10B8B",
+            "name": "PSALTER PAHLAVI MEM-QOPH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10B8C",
+            "name": "PSALTER PAHLAVI NUN",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10B8D",
+            "name": "PSALTER PAHLAVI SAMEKH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10B8E",
+            "name": "PSALTER PAHLAVI PE",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10B8F",
+            "name": "PSALTER PAHLAVI SADHE",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10B90",
+            "name": "PSALTER PAHLAVI SHIN",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10B91",
+            "name": "PSALTER PAHLAVI TAW",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10BA9",
+            "name": "PSALTER PAHLAVI ONE",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10BAA",
+            "name": "PSALTER PAHLAVI TWO",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10BAB",
+            "name": "PSALTER PAHLAVI THREE",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10BAC",
+            "name": "PSALTER PAHLAVI FOUR",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10BAD",
+            "name": "PSALTER PAHLAVI TEN",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10BAE",
+            "name": "PSALTER PAHLAVI TWENTY",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10BAF",
+            "name": "PSALTER PAHLAVI HUNDRED",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D00",
+            "name": "HANIFI ROHINGYA A",
+            "type": "L",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D01",
+            "name": "HANIFI ROHINGYA BA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D02",
+            "name": "HANIFI ROHINGYA PA",
+            "type": "D",
+            "joiningGroup": "HANIFI ROHINGYA PA"
+        },
+        {
+            "codepoint": "10D03",
+            "name": "HANIFI ROHINGYA TA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D04",
+            "name": "HANIFI ROHINGYA TTA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D05",
+            "name": "HANIFI ROHINGYA JA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D06",
+            "name": "HANIFI ROHINGYA CA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D07",
+            "name": "HANIFI ROHINGYA HA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D08",
+            "name": "HANIFI ROHINGYA KHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D09",
+            "name": "HANIFI ROHINGYA PA WITH DOT ABOVE",
+            "type": "D",
+            "joiningGroup": "HANIFI ROHINGYA PA"
+        },
+        {
+            "codepoint": "10D0A",
+            "name": "HANIFI ROHINGYA DA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D0B",
+            "name": "HANIFI ROHINGYA DDA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D0C",
+            "name": "HANIFI ROHINGYA RA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D0D",
+            "name": "HANIFI ROHINGYA RRA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D0E",
+            "name": "HANIFI ROHINGYA ZA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D0F",
+            "name": "HANIFI ROHINGYA SA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D10",
+            "name": "HANIFI ROHINGYA SHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D11",
+            "name": "HANIFI ROHINGYA KA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D12",
+            "name": "HANIFI ROHINGYA GA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D13",
+            "name": "HANIFI ROHINGYA LA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D14",
+            "name": "HANIFI ROHINGYA MA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D15",
+            "name": "HANIFI ROHINGYA NA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D16",
+            "name": "HANIFI ROHINGYA WA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D17",
+            "name": "HANIFI ROHINGYA KINNA WA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D18",
+            "name": "HANIFI ROHINGYA YA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D19",
+            "name": "HANIFI ROHINGYA KINNA YA",
+            "type": "D",
+            "joiningGroup": "HANIFI ROHINGYA KINNA YA"
+        },
+        {
+            "codepoint": "10D1A",
+            "name": "HANIFI ROHINGYA NGA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D1B",
+            "name": "HANIFI ROHINGYA NYA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D1C",
+            "name": "HANIFI ROHINGYA PA WITH 3 DOTS ABOVE",
+            "type": "D",
+            "joiningGroup": "HANIFI ROHINGYA PA"
+        },
+        {
+            "codepoint": "10D1D",
+            "name": "HANIFI ROHINGYA VOWEL A",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D1E",
+            "name": "HANIFI ROHINGYA DOTLESS KINNA YA WITH LEFT-FACING HOOK BELOW",
+            "type": "D",
+            "joiningGroup": "HANIFI ROHINGYA KINNA YA"
+        },
+        {
+            "codepoint": "10D1F",
+            "name": "HANIFI ROHINGYA VOWEL U",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D20",
+            "name": "HANIFI ROHINGYA DOTLESS KINNA YA WITH RIGHT-FACING HOOK BELOW",
+            "type": "D",
+            "joiningGroup": "HANIFI ROHINGYA KINNA YA"
+        },
+        {
+            "codepoint": "10D21",
+            "name": "HANIFI ROHINGYA VOWEL O",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D22",
+            "name": "HANIFI ROHINGYA SAKIN",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10D23",
+            "name": "HANIFI ROHINGYA DOTLESS KINNA YA WITH DOT ABOVE",
+            "type": "D",
+            "joiningGroup": "HANIFI ROHINGYA KINNA YA"
+        },
+        {
+            "codepoint": "10F30",
+            "name": "SOGDIAN ALEPH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F31",
+            "name": "SOGDIAN BETH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F32",
+            "name": "SOGDIAN GIMEL",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F33",
+            "name": "SOGDIAN HE",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F34",
+            "name": "SOGDIAN WAW",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F35",
+            "name": "SOGDIAN ZAYIN",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F36",
+            "name": "SOGDIAN HETH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F37",
+            "name": "SOGDIAN YODH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F38",
+            "name": "SOGDIAN KAPH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F39",
+            "name": "SOGDIAN LAMEDH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F3A",
+            "name": "SOGDIAN MEM",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F3B",
+            "name": "SOGDIAN NUN",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F3C",
+            "name": "SOGDIAN SAMEKH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F3D",
+            "name": "SOGDIAN AYIN",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F3E",
+            "name": "SOGDIAN PE",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F3F",
+            "name": "SOGDIAN SADHE",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F40",
+            "name": "SOGDIAN RESH-AYIN",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F41",
+            "name": "SOGDIAN SHIN",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F42",
+            "name": "SOGDIAN TAW",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F43",
+            "name": "SOGDIAN FETH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F44",
+            "name": "SOGDIAN LESH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F45",
+            "name": "SOGDIAN INDEPENDENT SHIN",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F51",
+            "name": "SOGDIAN ONE",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F52",
+            "name": "SOGDIAN TEN",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F53",
+            "name": "SOGDIAN TWENTY",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F54",
+            "name": "SOGDIAN ONE HUNDRED",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F70",
+            "name": "OLD UYGHUR ALEPH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F71",
+            "name": "OLD UYGHUR BETH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F72",
+            "name": "OLD UYGHUR GIMEL-HETH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F73",
+            "name": "OLD UYGHUR WAW",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F74",
+            "name": "OLD UYGHUR ZAYIN",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F75",
+            "name": "OLD UYGHUR FINAL HETH",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F76",
+            "name": "OLD UYGHUR YODH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F77",
+            "name": "OLD UYGHUR KAPH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F78",
+            "name": "OLD UYGHUR LAMEDH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F79",
+            "name": "OLD UYGHUR MEM",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F7A",
+            "name": "OLD UYGHUR NUN",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F7B",
+            "name": "OLD UYGHUR SAMEKH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F7C",
+            "name": "OLD UYGHUR PE",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F7D",
+            "name": "OLD UYGHUR SADHE",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F7E",
+            "name": "OLD UYGHUR RESH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F7F",
+            "name": "OLD UYGHUR SHIN",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F80",
+            "name": "OLD UYGHUR TAW",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10F81",
+            "name": "OLD UYGHUR LESH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FB0",
+            "name": "CHORASMIAN ALEPH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FB1",
+            "name": "CHORASMIAN SMALL ALEPH",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FB2",
+            "name": "CHORASMIAN BETH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FB3",
+            "name": "CHORASMIAN GIMEL",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FB4",
+            "name": "CHORASMIAN DALETH",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FB5",
+            "name": "CHORASMIAN HE",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FB6",
+            "name": "CHORASMIAN WAW",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FB7",
+            "name": "CHORASMIAN CURLED WAW",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FB8",
+            "name": "CHORASMIAN ZAYIN",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FB9",
+            "name": "CHORASMIAN HETH",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FBA",
+            "name": "CHORASMIAN YODH",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FBB",
+            "name": "CHORASMIAN KAPH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FBC",
+            "name": "CHORASMIAN LAMEDH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FBD",
+            "name": "CHORASMIAN MEM",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FBE",
+            "name": "CHORASMIAN NUN",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FBF",
+            "name": "CHORASMIAN SAMEKH",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FC0",
+            "name": "CHORASMIAN AYIN",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FC1",
+            "name": "CHORASMIAN PE",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FC2",
+            "name": "CHORASMIAN RESH",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FC3",
+            "name": "CHORASMIAN SHIN",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FC4",
+            "name": "CHORASMIAN TAW",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FC5",
+            "name": "CHORASMIAN ONE",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FC6",
+            "name": "CHORASMIAN TWO",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FC7",
+            "name": "CHORASMIAN THREE",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FC8",
+            "name": "CHORASMIAN FOUR",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FC9",
+            "name": "CHORASMIAN TEN",
+            "type": "R",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FCA",
+            "name": "CHORASMIAN TWENTY",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "10FCB",
+            "name": "CHORASMIAN ONE HUNDRED",
+            "type": "L",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "110BD",
+            "name": "KAITHI NUMBER SIGN",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "110CD",
+            "name": "KAITHI NUMBER SIGN ABOVE",
+            "type": "U",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E900",
+            "name": "ADLAM CAPITAL ALIF",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E901",
+            "name": "ADLAM CAPITAL DAALI",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E902",
+            "name": "ADLAM CAPITAL LAAM",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E903",
+            "name": "ADLAM CAPITAL MIIM",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E904",
+            "name": "ADLAM CAPITAL BA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E905",
+            "name": "ADLAM CAPITAL SINNYIIYHE",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E906",
+            "name": "ADLAM CAPITAL PE",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E907",
+            "name": "ADLAM CAPITAL BHE",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E908",
+            "name": "ADLAM CAPITAL RA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E909",
+            "name": "ADLAM CAPITAL E",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E90A",
+            "name": "ADLAM CAPITAL FA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E90B",
+            "name": "ADLAM CAPITAL I",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E90C",
+            "name": "ADLAM CAPITAL O",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E90D",
+            "name": "ADLAM CAPITAL DHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E90E",
+            "name": "ADLAM CAPITAL YHE",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E90F",
+            "name": "ADLAM CAPITAL WAW",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E910",
+            "name": "ADLAM CAPITAL NUN",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E911",
+            "name": "ADLAM CAPITAL KAF",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E912",
+            "name": "ADLAM CAPITAL YA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E913",
+            "name": "ADLAM CAPITAL U",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E914",
+            "name": "ADLAM CAPITAL JIIM",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E915",
+            "name": "ADLAM CAPITAL CHI",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E916",
+            "name": "ADLAM CAPITAL HA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E917",
+            "name": "ADLAM CAPITAL QAAF",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E918",
+            "name": "ADLAM CAPITAL GA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E919",
+            "name": "ADLAM CAPITAL NYA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E91A",
+            "name": "ADLAM CAPITAL TU",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E91B",
+            "name": "ADLAM CAPITAL NHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E91C",
+            "name": "ADLAM CAPITAL VA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E91D",
+            "name": "ADLAM CAPITAL KHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E91E",
+            "name": "ADLAM CAPITAL GBE",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E91F",
+            "name": "ADLAM CAPITAL ZAL",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E920",
+            "name": "ADLAM CAPITAL KPO",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E921",
+            "name": "ADLAM CAPITAL SHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E922",
+            "name": "ADLAM SMALL ALIF",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E923",
+            "name": "ADLAM SMALL DAALI",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E924",
+            "name": "ADLAM SMALL LAAM",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E925",
+            "name": "ADLAM SMALL MIIM",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E926",
+            "name": "ADLAM SMALL BA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E927",
+            "name": "ADLAM SMALL SINNYIIYHE",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E928",
+            "name": "ADLAM SMALL PE",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E929",
+            "name": "ADLAM SMALL BHE",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E92A",
+            "name": "ADLAM SMALL RA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E92B",
+            "name": "ADLAM SMALL E",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E92C",
+            "name": "ADLAM SMALL FA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E92D",
+            "name": "ADLAM SMALL I",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E92E",
+            "name": "ADLAM SMALL O",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E92F",
+            "name": "ADLAM SMALL DHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E930",
+            "name": "ADLAM SMALL YHE",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E931",
+            "name": "ADLAM SMALL WAW",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E932",
+            "name": "ADLAM SMALL NUN",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E933",
+            "name": "ADLAM SMALL KAF",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E934",
+            "name": "ADLAM SMALL YA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E935",
+            "name": "ADLAM SMALL U",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E936",
+            "name": "ADLAM SMALL JIIM",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E937",
+            "name": "ADLAM SMALL CHI",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E938",
+            "name": "ADLAM SMALL HA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E939",
+            "name": "ADLAM SMALL QAAF",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E93A",
+            "name": "ADLAM SMALL GA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E93B",
+            "name": "ADLAM SMALL NYA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E93C",
+            "name": "ADLAM SMALL TU",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E93D",
+            "name": "ADLAM SMALL NHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E93E",
+            "name": "ADLAM SMALL VA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E93F",
+            "name": "ADLAM SMALL KHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E940",
+            "name": "ADLAM SMALL GBE",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E941",
+            "name": "ADLAM SMALL ZAL",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E942",
+            "name": "ADLAM SMALL KPO",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E943",
+            "name": "ADLAM SMALL SHA",
+            "type": "D",
+            "joiningGroup": "No_Joining_Group"
+        },
+        {
+            "codepoint": "1E94B",
+            "name": "ADLAM NASALIZATION MARK",
+            "type": "T",
+            "joiningGroup": "No_Joining_Group"
+        }
+    ]
+}

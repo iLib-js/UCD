@@ -1,0 +1,1204 @@
+{
+    "CJKRadicals": [
+        {
+            "radical": "1",
+            "character": "2F00",
+            "unified": "4E00"
+        },
+        {
+            "radical": "2",
+            "character": "2F01",
+            "unified": "4E28"
+        },
+        {
+            "radical": "3",
+            "character": "2F02",
+            "unified": "4E36"
+        },
+        {
+            "radical": "4",
+            "character": "2F03",
+            "unified": "4E3F"
+        },
+        {
+            "radical": "5",
+            "character": "2F04",
+            "unified": "4E59"
+        },
+        {
+            "radical": "6",
+            "character": "2F05",
+            "unified": "4E85"
+        },
+        {
+            "radical": "7",
+            "character": "2F06",
+            "unified": "4E8C"
+        },
+        {
+            "radical": "8",
+            "character": "2F07",
+            "unified": "4EA0"
+        },
+        {
+            "radical": "9",
+            "character": "2F08",
+            "unified": "4EBA"
+        },
+        {
+            "radical": "10",
+            "character": "2F09",
+            "unified": "513F"
+        },
+        {
+            "radical": "11",
+            "character": "2F0A",
+            "unified": "5165"
+        },
+        {
+            "radical": "12",
+            "character": "2F0B",
+            "unified": "516B"
+        },
+        {
+            "radical": "13",
+            "character": "2F0C",
+            "unified": "5182"
+        },
+        {
+            "radical": "14",
+            "character": "2F0D",
+            "unified": "5196"
+        },
+        {
+            "radical": "15",
+            "character": "2F0E",
+            "unified": "51AB"
+        },
+        {
+            "radical": "16",
+            "character": "2F0F",
+            "unified": "51E0"
+        },
+        {
+            "radical": "17",
+            "character": "2F10",
+            "unified": "51F5"
+        },
+        {
+            "radical": "18",
+            "character": "2F11",
+            "unified": "5200"
+        },
+        {
+            "radical": "19",
+            "character": "2F12",
+            "unified": "529B"
+        },
+        {
+            "radical": "20",
+            "character": "2F13",
+            "unified": "52F9"
+        },
+        {
+            "radical": "21",
+            "character": "2F14",
+            "unified": "5315"
+        },
+        {
+            "radical": "22",
+            "character": "2F15",
+            "unified": "531A"
+        },
+        {
+            "radical": "23",
+            "character": "2F16",
+            "unified": "5338"
+        },
+        {
+            "radical": "24",
+            "character": "2F17",
+            "unified": "5341"
+        },
+        {
+            "radical": "25",
+            "character": "2F18",
+            "unified": "535C"
+        },
+        {
+            "radical": "26",
+            "character": "2F19",
+            "unified": "5369"
+        },
+        {
+            "radical": "27",
+            "character": "2F1A",
+            "unified": "5382"
+        },
+        {
+            "radical": "28",
+            "character": "2F1B",
+            "unified": "53B6"
+        },
+        {
+            "radical": "29",
+            "character": "2F1C",
+            "unified": "53C8"
+        },
+        {
+            "radical": "30",
+            "character": "2F1D",
+            "unified": "53E3"
+        },
+        {
+            "radical": "31",
+            "character": "2F1E",
+            "unified": "56D7"
+        },
+        {
+            "radical": "32",
+            "character": "2F1F",
+            "unified": "571F"
+        },
+        {
+            "radical": "33",
+            "character": "2F20",
+            "unified": "58EB"
+        },
+        {
+            "radical": "34",
+            "character": "2F21",
+            "unified": "5902"
+        },
+        {
+            "radical": "35",
+            "character": "2F22",
+            "unified": "590A"
+        },
+        {
+            "radical": "36",
+            "character": "2F23",
+            "unified": "5915"
+        },
+        {
+            "radical": "37",
+            "character": "2F24",
+            "unified": "5927"
+        },
+        {
+            "radical": "38",
+            "character": "2F25",
+            "unified": "5973"
+        },
+        {
+            "radical": "39",
+            "character": "2F26",
+            "unified": "5B50"
+        },
+        {
+            "radical": "40",
+            "character": "2F27",
+            "unified": "5B80"
+        },
+        {
+            "radical": "41",
+            "character": "2F28",
+            "unified": "5BF8"
+        },
+        {
+            "radical": "42",
+            "character": "2F29",
+            "unified": "5C0F"
+        },
+        {
+            "radical": "43",
+            "character": "2F2A",
+            "unified": "5C22"
+        },
+        {
+            "radical": "44",
+            "character": "2F2B",
+            "unified": "5C38"
+        },
+        {
+            "radical": "45",
+            "character": "2F2C",
+            "unified": "5C6E"
+        },
+        {
+            "radical": "46",
+            "character": "2F2D",
+            "unified": "5C71"
+        },
+        {
+            "radical": "47",
+            "character": "2F2E",
+            "unified": "5DDB"
+        },
+        {
+            "radical": "48",
+            "character": "2F2F",
+            "unified": "5DE5"
+        },
+        {
+            "radical": "49",
+            "character": "2F30",
+            "unified": "5DF1"
+        },
+        {
+            "radical": "50",
+            "character": "2F31",
+            "unified": "5DFE"
+        },
+        {
+            "radical": "51",
+            "character": "2F32",
+            "unified": "5E72"
+        },
+        {
+            "radical": "52",
+            "character": "2F33",
+            "unified": "5E7A"
+        },
+        {
+            "radical": "53",
+            "character": "2F34",
+            "unified": "5E7F"
+        },
+        {
+            "radical": "54",
+            "character": "2F35",
+            "unified": "5EF4"
+        },
+        {
+            "radical": "55",
+            "character": "2F36",
+            "unified": "5EFE"
+        },
+        {
+            "radical": "56",
+            "character": "2F37",
+            "unified": "5F0B"
+        },
+        {
+            "radical": "57",
+            "character": "2F38",
+            "unified": "5F13"
+        },
+        {
+            "radical": "58",
+            "character": "2F39",
+            "unified": "5F50"
+        },
+        {
+            "radical": "59",
+            "character": "2F3A",
+            "unified": "5F61"
+        },
+        {
+            "radical": "60",
+            "character": "2F3B",
+            "unified": "5F73"
+        },
+        {
+            "radical": "61",
+            "character": "2F3C",
+            "unified": "5FC3"
+        },
+        {
+            "radical": "62",
+            "character": "2F3D",
+            "unified": "6208"
+        },
+        {
+            "radical": "63",
+            "character": "2F3E",
+            "unified": "6236"
+        },
+        {
+            "radical": "64",
+            "character": "2F3F",
+            "unified": "624B"
+        },
+        {
+            "radical": "65",
+            "character": "2F40",
+            "unified": "652F"
+        },
+        {
+            "radical": "66",
+            "character": "2F41",
+            "unified": "6534"
+        },
+        {
+            "radical": "67",
+            "character": "2F42",
+            "unified": "6587"
+        },
+        {
+            "radical": "68",
+            "character": "2F43",
+            "unified": "6597"
+        },
+        {
+            "radical": "69",
+            "character": "2F44",
+            "unified": "65A4"
+        },
+        {
+            "radical": "70",
+            "character": "2F45",
+            "unified": "65B9"
+        },
+        {
+            "radical": "71",
+            "character": "2F46",
+            "unified": "65E0"
+        },
+        {
+            "radical": "72",
+            "character": "2F47",
+            "unified": "65E5"
+        },
+        {
+            "radical": "73",
+            "character": "2F48",
+            "unified": "66F0"
+        },
+        {
+            "radical": "74",
+            "character": "2F49",
+            "unified": "6708"
+        },
+        {
+            "radical": "75",
+            "character": "2F4A",
+            "unified": "6728"
+        },
+        {
+            "radical": "76",
+            "character": "2F4B",
+            "unified": "6B20"
+        },
+        {
+            "radical": "77",
+            "character": "2F4C",
+            "unified": "6B62"
+        },
+        {
+            "radical": "78",
+            "character": "2F4D",
+            "unified": "6B79"
+        },
+        {
+            "radical": "79",
+            "character": "2F4E",
+            "unified": "6BB3"
+        },
+        {
+            "radical": "80",
+            "character": "2F4F",
+            "unified": "6BCB"
+        },
+        {
+            "radical": "81",
+            "character": "2F50",
+            "unified": "6BD4"
+        },
+        {
+            "radical": "82",
+            "character": "2F51",
+            "unified": "6BDB"
+        },
+        {
+            "radical": "83",
+            "character": "2F52",
+            "unified": "6C0F"
+        },
+        {
+            "radical": "84",
+            "character": "2F53",
+            "unified": "6C14"
+        },
+        {
+            "radical": "85",
+            "character": "2F54",
+            "unified": "6C34"
+        },
+        {
+            "radical": "86",
+            "character": "2F55",
+            "unified": "706B"
+        },
+        {
+            "radical": "87",
+            "character": "2F56",
+            "unified": "722A"
+        },
+        {
+            "radical": "88",
+            "character": "2F57",
+            "unified": "7236"
+        },
+        {
+            "radical": "89",
+            "character": "2F58",
+            "unified": "723B"
+        },
+        {
+            "radical": "90",
+            "character": "2F59",
+            "unified": "723F"
+        },
+        {
+            "radical": "90'",
+            "character": "2EA6",
+            "unified": "4E2C"
+        },
+        {
+            "radical": "91",
+            "character": "2F5A",
+            "unified": "7247"
+        },
+        {
+            "radical": "92",
+            "character": "2F5B",
+            "unified": "7259"
+        },
+        {
+            "radical": "93",
+            "character": "2F5C",
+            "unified": "725B"
+        },
+        {
+            "radical": "94",
+            "character": "2F5D",
+            "unified": "72AC"
+        },
+        {
+            "radical": "95",
+            "character": "2F5E",
+            "unified": "7384"
+        },
+        {
+            "radical": "96",
+            "character": "2F5F",
+            "unified": "7389"
+        },
+        {
+            "radical": "97",
+            "character": "2F60",
+            "unified": "74DC"
+        },
+        {
+            "radical": "98",
+            "character": "2F61",
+            "unified": "74E6"
+        },
+        {
+            "radical": "99",
+            "character": "2F62",
+            "unified": "7518"
+        },
+        {
+            "radical": "100",
+            "character": "2F63",
+            "unified": "751F"
+        },
+        {
+            "radical": "101",
+            "character": "2F64",
+            "unified": "7528"
+        },
+        {
+            "radical": "102",
+            "character": "2F65",
+            "unified": "7530"
+        },
+        {
+            "radical": "103",
+            "character": "2F66",
+            "unified": "758B"
+        },
+        {
+            "radical": "104",
+            "character": "2F67",
+            "unified": "7592"
+        },
+        {
+            "radical": "105",
+            "character": "2F68",
+            "unified": "7676"
+        },
+        {
+            "radical": "106",
+            "character": "2F69",
+            "unified": "767D"
+        },
+        {
+            "radical": "107",
+            "character": "2F6A",
+            "unified": "76AE"
+        },
+        {
+            "radical": "108",
+            "character": "2F6B",
+            "unified": "76BF"
+        },
+        {
+            "radical": "109",
+            "character": "2F6C",
+            "unified": "76EE"
+        },
+        {
+            "radical": "110",
+            "character": "2F6D",
+            "unified": "77DB"
+        },
+        {
+            "radical": "111",
+            "character": "2F6E",
+            "unified": "77E2"
+        },
+        {
+            "radical": "112",
+            "character": "2F6F",
+            "unified": "77F3"
+        },
+        {
+            "radical": "113",
+            "character": "2F70",
+            "unified": "793A"
+        },
+        {
+            "radical": "114",
+            "character": "2F71",
+            "unified": "79B8"
+        },
+        {
+            "radical": "115",
+            "character": "2F72",
+            "unified": "79BE"
+        },
+        {
+            "radical": "116",
+            "character": "2F73",
+            "unified": "7A74"
+        },
+        {
+            "radical": "117",
+            "character": "2F74",
+            "unified": "7ACB"
+        },
+        {
+            "radical": "118",
+            "character": "2F75",
+            "unified": "7AF9"
+        },
+        {
+            "radical": "119",
+            "character": "2F76",
+            "unified": "7C73"
+        },
+        {
+            "radical": "120",
+            "character": "2F77",
+            "unified": "7CF8"
+        },
+        {
+            "radical": "120'",
+            "character": "2EB0",
+            "unified": "7E9F"
+        },
+        {
+            "radical": "121",
+            "character": "2F78",
+            "unified": "7F36"
+        },
+        {
+            "radical": "122",
+            "character": "2F79",
+            "unified": "7F51"
+        },
+        {
+            "radical": "123",
+            "character": "2F7A",
+            "unified": "7F8A"
+        },
+        {
+            "radical": "124",
+            "character": "2F7B",
+            "unified": "7FBD"
+        },
+        {
+            "radical": "125",
+            "character": "2F7C",
+            "unified": "8001"
+        },
+        {
+            "radical": "126",
+            "character": "2F7D",
+            "unified": "800C"
+        },
+        {
+            "radical": "127",
+            "character": "2F7E",
+            "unified": "8012"
+        },
+        {
+            "radical": "128",
+            "character": "2F7F",
+            "unified": "8033"
+        },
+        {
+            "radical": "129",
+            "character": "2F80",
+            "unified": "807F"
+        },
+        {
+            "radical": "130",
+            "character": "2F81",
+            "unified": "8089"
+        },
+        {
+            "radical": "131",
+            "character": "2F82",
+            "unified": "81E3"
+        },
+        {
+            "radical": "132",
+            "character": "2F83",
+            "unified": "81EA"
+        },
+        {
+            "radical": "133",
+            "character": "2F84",
+            "unified": "81F3"
+        },
+        {
+            "radical": "134",
+            "character": "2F85",
+            "unified": "81FC"
+        },
+        {
+            "radical": "135",
+            "character": "2F86",
+            "unified": "820C"
+        },
+        {
+            "radical": "136",
+            "character": "2F87",
+            "unified": "821B"
+        },
+        {
+            "radical": "137",
+            "character": "2F88",
+            "unified": "821F"
+        },
+        {
+            "radical": "138",
+            "character": "2F89",
+            "unified": "826E"
+        },
+        {
+            "radical": "139",
+            "character": "2F8A",
+            "unified": "8272"
+        },
+        {
+            "radical": "140",
+            "character": "2F8B",
+            "unified": "8278"
+        },
+        {
+            "radical": "141",
+            "character": "2F8C",
+            "unified": "864D"
+        },
+        {
+            "radical": "142",
+            "character": "2F8D",
+            "unified": "866B"
+        },
+        {
+            "radical": "143",
+            "character": "2F8E",
+            "unified": "8840"
+        },
+        {
+            "radical": "144",
+            "character": "2F8F",
+            "unified": "884C"
+        },
+        {
+            "radical": "145",
+            "character": "2F90",
+            "unified": "8863"
+        },
+        {
+            "radical": "146",
+            "character": "2F91",
+            "unified": "897E"
+        },
+        {
+            "radical": "147",
+            "character": "2F92",
+            "unified": "898B"
+        },
+        {
+            "radical": "147'",
+            "character": "2EC5",
+            "unified": "89C1"
+        },
+        {
+            "radical": "148",
+            "character": "2F93",
+            "unified": "89D2"
+        },
+        {
+            "radical": "149",
+            "character": "2F94",
+            "unified": "8A00"
+        },
+        {
+            "radical": "149'",
+            "character": "2EC8",
+            "unified": "8BA0"
+        },
+        {
+            "radical": "150",
+            "character": "2F95",
+            "unified": "8C37"
+        },
+        {
+            "radical": "151",
+            "character": "2F96",
+            "unified": "8C46"
+        },
+        {
+            "radical": "152",
+            "character": "2F97",
+            "unified": "8C55"
+        },
+        {
+            "radical": "153",
+            "character": "2F98",
+            "unified": "8C78"
+        },
+        {
+            "radical": "154",
+            "character": "2F99",
+            "unified": "8C9D"
+        },
+        {
+            "radical": "154'",
+            "character": "2EC9",
+            "unified": "8D1D"
+        },
+        {
+            "radical": "155",
+            "character": "2F9A",
+            "unified": "8D64"
+        },
+        {
+            "radical": "156",
+            "character": "2F9B",
+            "unified": "8D70"
+        },
+        {
+            "radical": "157",
+            "character": "2F9C",
+            "unified": "8DB3"
+        },
+        {
+            "radical": "158",
+            "character": "2F9D",
+            "unified": "8EAB"
+        },
+        {
+            "radical": "159",
+            "character": "2F9E",
+            "unified": "8ECA"
+        },
+        {
+            "radical": "159'",
+            "character": "2ECB",
+            "unified": "8F66"
+        },
+        {
+            "radical": "160",
+            "character": "2F9F",
+            "unified": "8F9B"
+        },
+        {
+            "radical": "161",
+            "character": "2FA0",
+            "unified": "8FB0"
+        },
+        {
+            "radical": "162",
+            "character": "2FA1",
+            "unified": "8FB5"
+        },
+        {
+            "radical": "162'",
+            "character": "2ECC",
+            "unified": "8FB6"
+        },
+        {
+            "radical": "163",
+            "character": "2FA2",
+            "unified": "9091"
+        },
+        {
+            "radical": "164",
+            "character": "2FA3",
+            "unified": "9149"
+        },
+        {
+            "radical": "165",
+            "character": "2FA4",
+            "unified": "91C6"
+        },
+        {
+            "radical": "166",
+            "character": "2FA5",
+            "unified": "91CC"
+        },
+        {
+            "radical": "167",
+            "character": "2FA6",
+            "unified": "91D1"
+        },
+        {
+            "radical": "167'",
+            "character": "2ED0",
+            "unified": "9485"
+        },
+        {
+            "radical": "168",
+            "character": "2FA7",
+            "unified": "9577"
+        },
+        {
+            "radical": "168'",
+            "character": "2ED3",
+            "unified": "957F"
+        },
+        {
+            "radical": "169",
+            "character": "2FA8",
+            "unified": "9580"
+        },
+        {
+            "radical": "169'",
+            "character": "2ED4",
+            "unified": "95E8"
+        },
+        {
+            "radical": "170",
+            "character": "2FA9",
+            "unified": "961C"
+        },
+        {
+            "radical": "171",
+            "character": "2FAA",
+            "unified": "96B6"
+        },
+        {
+            "radical": "172",
+            "character": "2FAB",
+            "unified": "96B9"
+        },
+        {
+            "radical": "173",
+            "character": "2FAC",
+            "unified": "96E8"
+        },
+        {
+            "radical": "174",
+            "character": "2FAD",
+            "unified": "9751"
+        },
+        {
+            "radical": "175",
+            "character": "2FAE",
+            "unified": "975E"
+        },
+        {
+            "radical": "176",
+            "character": "2FAF",
+            "unified": "9762"
+        },
+        {
+            "radical": "177",
+            "character": "2FB0",
+            "unified": "9769"
+        },
+        {
+            "radical": "178",
+            "character": "2FB1",
+            "unified": "97CB"
+        },
+        {
+            "radical": "178'",
+            "character": "2ED9",
+            "unified": "97E6"
+        },
+        {
+            "radical": "179",
+            "character": "2FB2",
+            "unified": "97ED"
+        },
+        {
+            "radical": "180",
+            "character": "2FB3",
+            "unified": "97F3"
+        },
+        {
+            "radical": "181",
+            "character": "2FB4",
+            "unified": "9801"
+        },
+        {
+            "radical": "181'",
+            "character": "2EDA",
+            "unified": "9875"
+        },
+        {
+            "radical": "182",
+            "character": "2FB5",
+            "unified": "98A8"
+        },
+        {
+            "radical": "182'",
+            "character": "2EDB",
+            "unified": "98CE"
+        },
+        {
+            "radical": "183",
+            "character": "2FB6",
+            "unified": "98DB"
+        },
+        {
+            "radical": "183'",
+            "character": "2EDC",
+            "unified": "98DE"
+        },
+        {
+            "radical": "184",
+            "character": "2FB7",
+            "unified": "98DF"
+        },
+        {
+            "radical": "184'",
+            "character": "2EE0",
+            "unified": "9963"
+        },
+        {
+            "radical": "185",
+            "character": "2FB8",
+            "unified": "9996"
+        },
+        {
+            "radical": "186",
+            "character": "2FB9",
+            "unified": "9999"
+        },
+        {
+            "radical": "187",
+            "character": "2FBA",
+            "unified": "99AC"
+        },
+        {
+            "radical": "187'",
+            "character": "2EE2",
+            "unified": "9A6C"
+        },
+        {
+            "radical": "188",
+            "character": "2FBB",
+            "unified": "9AA8"
+        },
+        {
+            "radical": "189",
+            "character": "2FBC",
+            "unified": "9AD8"
+        },
+        {
+            "radical": "190",
+            "character": "2FBD",
+            "unified": "9ADF"
+        },
+        {
+            "radical": "191",
+            "character": "2FBE",
+            "unified": "9B25"
+        },
+        {
+            "radical": "192",
+            "character": "2FBF",
+            "unified": "9B2F"
+        },
+        {
+            "radical": "193",
+            "character": "2FC0",
+            "unified": "9B32"
+        },
+        {
+            "radical": "194",
+            "character": "2FC1",
+            "unified": "9B3C"
+        },
+        {
+            "radical": "195",
+            "character": "2FC2",
+            "unified": "9B5A"
+        },
+        {
+            "radical": "195'",
+            "character": "2EE5",
+            "unified": "9C7C"
+        },
+        {
+            "radical": "196",
+            "character": "2FC3",
+            "unified": "9CE5"
+        },
+        {
+            "radical": "196'",
+            "character": "2EE6",
+            "unified": "9E1F"
+        },
+        {
+            "radical": "197",
+            "character": "2FC4",
+            "unified": "9E75"
+        },
+        {
+            "radical": "197'",
+            "character": "2EE7",
+            "unified": "5364"
+        },
+        {
+            "radical": "198",
+            "character": "2FC5",
+            "unified": "9E7F"
+        },
+        {
+            "radical": "199",
+            "character": "2FC6",
+            "unified": "9EA5"
+        },
+        {
+            "radical": "199'",
+            "character": "2EE8",
+            "unified": "9EA6"
+        },
+        {
+            "radical": "200",
+            "character": "2FC7",
+            "unified": "9EBB"
+        },
+        {
+            "radical": "201",
+            "character": "2FC8",
+            "unified": "9EC3"
+        },
+        {
+            "radical": "201'",
+            "character": "2EE9",
+            "unified": "9EC4"
+        },
+        {
+            "radical": "202",
+            "character": "2FC9",
+            "unified": "9ECD"
+        },
+        {
+            "radical": "203",
+            "character": "2FCA",
+            "unified": "9ED1"
+        },
+        {
+            "radical": "204",
+            "character": "2FCB",
+            "unified": "9EF9"
+        },
+        {
+            "radical": "205",
+            "character": "2FCC",
+            "unified": "9EFD"
+        },
+        {
+            "radical": "205'",
+            "character": "2EEA",
+            "unified": "9EFE"
+        },
+        {
+            "radical": "206",
+            "character": "2FCD",
+            "unified": "9F0E"
+        },
+        {
+            "radical": "207",
+            "character": "2FCE",
+            "unified": "9F13"
+        },
+        {
+            "radical": "208",
+            "character": "2FCF",
+            "unified": "9F20"
+        },
+        {
+            "radical": "209",
+            "character": "2FD0",
+            "unified": "9F3B"
+        },
+        {
+            "radical": "210",
+            "character": "2FD1",
+            "unified": "9F4A"
+        },
+        {
+            "radical": "210'",
+            "character": "2EEC",
+            "unified": "9F50"
+        },
+        {
+            "radical": "211",
+            "character": "2FD2",
+            "unified": "9F52"
+        },
+        {
+            "radical": "211'",
+            "character": "2EEE",
+            "unified": "9F7F"
+        },
+        {
+            "radical": "212",
+            "character": "2FD3",
+            "unified": "9F8D"
+        },
+        {
+            "radical": "212'",
+            "character": "2EF0",
+            "unified": "9F99"
+        },
+        {
+            "radical": "213",
+            "character": "2FD4",
+            "unified": "9F9C"
+        },
+        {
+            "radical": "213'",
+            "character": "2EF3",
+            "unified": "9F9F"
+        },
+        {
+            "radical": "214",
+            "character": "2FD5",
+            "unified": "9FA0"
+        }
+    ]
+}

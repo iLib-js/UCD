@@ -1,0 +1,5991 @@
+{
+    "PropertyValueAliases": [
+        {
+            "property": "AHex",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "AHex",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "age",
+            "shortName": "1.1",
+            "longName": "V1_1"
+        },
+        {
+            "property": "age",
+            "shortName": "2.0",
+            "longName": "V2_0"
+        },
+        {
+            "property": "age",
+            "shortName": "2.1",
+            "longName": "V2_1"
+        },
+        {
+            "property": "age",
+            "shortName": "3.0",
+            "longName": "V3_0"
+        },
+        {
+            "property": "age",
+            "shortName": "3.1",
+            "longName": "V3_1"
+        },
+        {
+            "property": "age",
+            "shortName": "3.2",
+            "longName": "V3_2"
+        },
+        {
+            "property": "age",
+            "shortName": "4.0",
+            "longName": "V4_0"
+        },
+        {
+            "property": "age",
+            "shortName": "4.1",
+            "longName": "V4_1"
+        },
+        {
+            "property": "age",
+            "shortName": "5.0",
+            "longName": "V5_0"
+        },
+        {
+            "property": "age",
+            "shortName": "5.1",
+            "longName": "V5_1"
+        },
+        {
+            "property": "age",
+            "shortName": "5.2",
+            "longName": "V5_2"
+        },
+        {
+            "property": "age",
+            "shortName": "6.0",
+            "longName": "V6_0"
+        },
+        {
+            "property": "age",
+            "shortName": "6.1",
+            "longName": "V6_1"
+        },
+        {
+            "property": "age",
+            "shortName": "6.2",
+            "longName": "V6_2"
+        },
+        {
+            "property": "age",
+            "shortName": "6.3",
+            "longName": "V6_3"
+        },
+        {
+            "property": "age",
+            "shortName": "7.0",
+            "longName": "V7_0"
+        },
+        {
+            "property": "age",
+            "shortName": "8.0",
+            "longName": "V8_0"
+        },
+        {
+            "property": "age",
+            "shortName": "9.0",
+            "longName": "V9_0"
+        },
+        {
+            "property": "age",
+            "shortName": "10.0",
+            "longName": "V10_0"
+        },
+        {
+            "property": "age",
+            "shortName": "11.0",
+            "longName": "V11_0"
+        },
+        {
+            "property": "age",
+            "shortName": "12.0",
+            "longName": "V12_0"
+        },
+        {
+            "property": "age",
+            "shortName": "12.1",
+            "longName": "V12_1"
+        },
+        {
+            "property": "age",
+            "shortName": "13.0",
+            "longName": "V13_0"
+        },
+        {
+            "property": "age",
+            "shortName": "14.0",
+            "longName": "V14_0"
+        },
+        {
+            "property": "age",
+            "shortName": "NA",
+            "longName": "Unassigned"
+        },
+        {
+            "property": "Alpha",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "Alpha",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "bc",
+            "shortName": "AL",
+            "longName": "Arabic_Letter"
+        },
+        {
+            "property": "bc",
+            "shortName": "AN",
+            "longName": "Arabic_Number"
+        },
+        {
+            "property": "bc",
+            "shortName": "B",
+            "longName": "Paragraph_Separator"
+        },
+        {
+            "property": "bc",
+            "shortName": "BN",
+            "longName": "Boundary_Neutral"
+        },
+        {
+            "property": "bc",
+            "shortName": "CS",
+            "longName": "Common_Separator"
+        },
+        {
+            "property": "bc",
+            "shortName": "EN",
+            "longName": "European_Number"
+        },
+        {
+            "property": "bc",
+            "shortName": "ES",
+            "longName": "European_Separator"
+        },
+        {
+            "property": "bc",
+            "shortName": "ET",
+            "longName": "European_Terminator"
+        },
+        {
+            "property": "bc",
+            "shortName": "FSI",
+            "longName": "First_Strong_Isolate"
+        },
+        {
+            "property": "bc",
+            "shortName": "L",
+            "longName": "Left_To_Right"
+        },
+        {
+            "property": "bc",
+            "shortName": "LRE",
+            "longName": "Left_To_Right_Embedding"
+        },
+        {
+            "property": "bc",
+            "shortName": "LRI",
+            "longName": "Left_To_Right_Isolate"
+        },
+        {
+            "property": "bc",
+            "shortName": "LRO",
+            "longName": "Left_To_Right_Override"
+        },
+        {
+            "property": "bc",
+            "shortName": "NSM",
+            "longName": "Nonspacing_Mark"
+        },
+        {
+            "property": "bc",
+            "shortName": "ON",
+            "longName": "Other_Neutral"
+        },
+        {
+            "property": "bc",
+            "shortName": "PDF",
+            "longName": "Pop_Directional_Format"
+        },
+        {
+            "property": "bc",
+            "shortName": "PDI",
+            "longName": "Pop_Directional_Isolate"
+        },
+        {
+            "property": "bc",
+            "shortName": "R",
+            "longName": "Right_To_Left"
+        },
+        {
+            "property": "bc",
+            "shortName": "RLE",
+            "longName": "Right_To_Left_Embedding"
+        },
+        {
+            "property": "bc",
+            "shortName": "RLI",
+            "longName": "Right_To_Left_Isolate"
+        },
+        {
+            "property": "bc",
+            "shortName": "RLO",
+            "longName": "Right_To_Left_Override"
+        },
+        {
+            "property": "bc",
+            "shortName": "S",
+            "longName": "Segment_Separator"
+        },
+        {
+            "property": "bc",
+            "shortName": "WS",
+            "longName": "White_Space"
+        },
+        {
+            "property": "Bidi_C",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "Bidi_C",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "Bidi_M",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "Bidi_M",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "bpt",
+            "shortName": "c",
+            "longName": "Close"
+        },
+        {
+            "property": "bpt",
+            "shortName": "n",
+            "longName": "None"
+        },
+        {
+            "property": "bpt",
+            "shortName": "o",
+            "longName": "Open"
+        },
+        {
+            "property": "blk",
+            "shortName": "Adlam",
+            "longName": "Adlam"
+        },
+        {
+            "property": "blk",
+            "shortName": "Aegean_Numbers",
+            "longName": "Aegean_Numbers"
+        },
+        {
+            "property": "blk",
+            "shortName": "Ahom",
+            "longName": "Ahom"
+        },
+        {
+            "property": "blk",
+            "shortName": "Alchemical",
+            "longName": "Alchemical_Symbols"
+        },
+        {
+            "property": "blk",
+            "shortName": "Alphabetic_PF",
+            "longName": "Alphabetic_Presentation_Forms"
+        },
+        {
+            "property": "blk",
+            "shortName": "Anatolian_Hieroglyphs",
+            "longName": "Anatolian_Hieroglyphs"
+        },
+        {
+            "property": "blk",
+            "shortName": "Ancient_Greek_Music",
+            "longName": "Ancient_Greek_Musical_Notation"
+        },
+        {
+            "property": "blk",
+            "shortName": "Ancient_Greek_Numbers",
+            "longName": "Ancient_Greek_Numbers"
+        },
+        {
+            "property": "blk",
+            "shortName": "Ancient_Symbols",
+            "longName": "Ancient_Symbols"
+        },
+        {
+            "property": "blk",
+            "shortName": "Arabic",
+            "longName": "Arabic"
+        },
+        {
+            "property": "blk",
+            "shortName": "Arabic_Ext_A",
+            "longName": "Arabic_Extended_A"
+        },
+        {
+            "property": "blk",
+            "shortName": "Arabic_Ext_B",
+            "longName": "Arabic_Extended_B"
+        },
+        {
+            "property": "blk",
+            "shortName": "Arabic_Math",
+            "longName": "Arabic_Mathematical_Alphabetic_Symbols"
+        },
+        {
+            "property": "blk",
+            "shortName": "Arabic_PF_A",
+            "longName": "Arabic_Presentation_Forms_A",
+            "alias": "Arabic_Presentation_Forms-A"
+        },
+        {
+            "property": "blk",
+            "shortName": "Arabic_PF_B",
+            "longName": "Arabic_Presentation_Forms_B"
+        },
+        {
+            "property": "blk",
+            "shortName": "Arabic_Sup",
+            "longName": "Arabic_Supplement"
+        },
+        {
+            "property": "blk",
+            "shortName": "Armenian",
+            "longName": "Armenian"
+        },
+        {
+            "property": "blk",
+            "shortName": "Arrows",
+            "longName": "Arrows"
+        },
+        {
+            "property": "blk",
+            "shortName": "ASCII",
+            "longName": "Basic_Latin"
+        },
+        {
+            "property": "blk",
+            "shortName": "Avestan",
+            "longName": "Avestan"
+        },
+        {
+            "property": "blk",
+            "shortName": "Balinese",
+            "longName": "Balinese"
+        },
+        {
+            "property": "blk",
+            "shortName": "Bamum",
+            "longName": "Bamum"
+        },
+        {
+            "property": "blk",
+            "shortName": "Bamum_Sup",
+            "longName": "Bamum_Supplement"
+        },
+        {
+            "property": "blk",
+            "shortName": "Bassa_Vah",
+            "longName": "Bassa_Vah"
+        },
+        {
+            "property": "blk",
+            "shortName": "Batak",
+            "longName": "Batak"
+        },
+        {
+            "property": "blk",
+            "shortName": "Bengali",
+            "longName": "Bengali"
+        },
+        {
+            "property": "blk",
+            "shortName": "Bhaiksuki",
+            "longName": "Bhaiksuki"
+        },
+        {
+            "property": "blk",
+            "shortName": "Block_Elements",
+            "longName": "Block_Elements"
+        },
+        {
+            "property": "blk",
+            "shortName": "Bopomofo",
+            "longName": "Bopomofo"
+        },
+        {
+            "property": "blk",
+            "shortName": "Bopomofo_Ext",
+            "longName": "Bopomofo_Extended"
+        },
+        {
+            "property": "blk",
+            "shortName": "Box_Drawing",
+            "longName": "Box_Drawing"
+        },
+        {
+            "property": "blk",
+            "shortName": "Brahmi",
+            "longName": "Brahmi"
+        },
+        {
+            "property": "blk",
+            "shortName": "Braille",
+            "longName": "Braille_Patterns"
+        },
+        {
+            "property": "blk",
+            "shortName": "Buginese",
+            "longName": "Buginese"
+        },
+        {
+            "property": "blk",
+            "shortName": "Buhid",
+            "longName": "Buhid"
+        },
+        {
+            "property": "blk",
+            "shortName": "Byzantine_Music",
+            "longName": "Byzantine_Musical_Symbols"
+        },
+        {
+            "property": "blk",
+            "shortName": "Carian",
+            "longName": "Carian"
+        },
+        {
+            "property": "blk",
+            "shortName": "Caucasian_Albanian",
+            "longName": "Caucasian_Albanian"
+        },
+        {
+            "property": "blk",
+            "shortName": "Chakma",
+            "longName": "Chakma"
+        },
+        {
+            "property": "blk",
+            "shortName": "Cham",
+            "longName": "Cham"
+        },
+        {
+            "property": "blk",
+            "shortName": "Cherokee",
+            "longName": "Cherokee"
+        },
+        {
+            "property": "blk",
+            "shortName": "Cherokee_Sup",
+            "longName": "Cherokee_Supplement"
+        },
+        {
+            "property": "blk",
+            "shortName": "Chess_Symbols",
+            "longName": "Chess_Symbols"
+        },
+        {
+            "property": "blk",
+            "shortName": "Chorasmian",
+            "longName": "Chorasmian"
+        },
+        {
+            "property": "blk",
+            "shortName": "CJK",
+            "longName": "CJK_Unified_Ideographs"
+        },
+        {
+            "property": "blk",
+            "shortName": "CJK_Compat",
+            "longName": "CJK_Compatibility"
+        },
+        {
+            "property": "blk",
+            "shortName": "CJK_Compat_Forms",
+            "longName": "CJK_Compatibility_Forms"
+        },
+        {
+            "property": "blk",
+            "shortName": "CJK_Compat_Ideographs",
+            "longName": "CJK_Compatibility_Ideographs"
+        },
+        {
+            "property": "blk",
+            "shortName": "CJK_Compat_Ideographs_Sup",
+            "longName": "CJK_Compatibility_Ideographs_Supplement"
+        },
+        {
+            "property": "blk",
+            "shortName": "CJK_Ext_A",
+            "longName": "CJK_Unified_Ideographs_Extension_A"
+        },
+        {
+            "property": "blk",
+            "shortName": "CJK_Ext_B",
+            "longName": "CJK_Unified_Ideographs_Extension_B"
+        },
+        {
+            "property": "blk",
+            "shortName": "CJK_Ext_C",
+            "longName": "CJK_Unified_Ideographs_Extension_C"
+        },
+        {
+            "property": "blk",
+            "shortName": "CJK_Ext_D",
+            "longName": "CJK_Unified_Ideographs_Extension_D"
+        },
+        {
+            "property": "blk",
+            "shortName": "CJK_Ext_E",
+            "longName": "CJK_Unified_Ideographs_Extension_E"
+        },
+        {
+            "property": "blk",
+            "shortName": "CJK_Ext_F",
+            "longName": "CJK_Unified_Ideographs_Extension_F"
+        },
+        {
+            "property": "blk",
+            "shortName": "CJK_Ext_G",
+            "longName": "CJK_Unified_Ideographs_Extension_G"
+        },
+        {
+            "property": "blk",
+            "shortName": "CJK_Radicals_Sup",
+            "longName": "CJK_Radicals_Supplement"
+        },
+        {
+            "property": "blk",
+            "shortName": "CJK_Strokes",
+            "longName": "CJK_Strokes"
+        },
+        {
+            "property": "blk",
+            "shortName": "CJK_Symbols",
+            "longName": "CJK_Symbols_And_Punctuation"
+        },
+        {
+            "property": "blk",
+            "shortName": "Compat_Jamo",
+            "longName": "Hangul_Compatibility_Jamo"
+        },
+        {
+            "property": "blk",
+            "shortName": "Control_Pictures",
+            "longName": "Control_Pictures"
+        },
+        {
+            "property": "blk",
+            "shortName": "Coptic",
+            "longName": "Coptic"
+        },
+        {
+            "property": "blk",
+            "shortName": "Coptic_Epact_Numbers",
+            "longName": "Coptic_Epact_Numbers"
+        },
+        {
+            "property": "blk",
+            "shortName": "Counting_Rod",
+            "longName": "Counting_Rod_Numerals"
+        },
+        {
+            "property": "blk",
+            "shortName": "Cuneiform",
+            "longName": "Cuneiform"
+        },
+        {
+            "property": "blk",
+            "shortName": "Cuneiform_Numbers",
+            "longName": "Cuneiform_Numbers_And_Punctuation"
+        },
+        {
+            "property": "blk",
+            "shortName": "Currency_Symbols",
+            "longName": "Currency_Symbols"
+        },
+        {
+            "property": "blk",
+            "shortName": "Cypriot_Syllabary",
+            "longName": "Cypriot_Syllabary"
+        },
+        {
+            "property": "blk",
+            "shortName": "Cypro_Minoan",
+            "longName": "Cypro_Minoan"
+        },
+        {
+            "property": "blk",
+            "shortName": "Cyrillic",
+            "longName": "Cyrillic"
+        },
+        {
+            "property": "blk",
+            "shortName": "Cyrillic_Ext_A",
+            "longName": "Cyrillic_Extended_A"
+        },
+        {
+            "property": "blk",
+            "shortName": "Cyrillic_Ext_B",
+            "longName": "Cyrillic_Extended_B"
+        },
+        {
+            "property": "blk",
+            "shortName": "Cyrillic_Ext_C",
+            "longName": "Cyrillic_Extended_C"
+        },
+        {
+            "property": "blk",
+            "shortName": "Cyrillic_Sup",
+            "longName": "Cyrillic_Supplement",
+            "alias": "Cyrillic_Supplementary"
+        },
+        {
+            "property": "blk",
+            "shortName": "Deseret",
+            "longName": "Deseret"
+        },
+        {
+            "property": "blk",
+            "shortName": "Devanagari",
+            "longName": "Devanagari"
+        },
+        {
+            "property": "blk",
+            "shortName": "Devanagari_Ext",
+            "longName": "Devanagari_Extended"
+        },
+        {
+            "property": "blk",
+            "shortName": "Diacriticals",
+            "longName": "Combining_Diacritical_Marks"
+        },
+        {
+            "property": "blk",
+            "shortName": "Diacriticals_Ext",
+            "longName": "Combining_Diacritical_Marks_Extended"
+        },
+        {
+            "property": "blk",
+            "shortName": "Diacriticals_For_Symbols",
+            "longName": "Combining_Diacritical_Marks_For_Symbols",
+            "alias": "Combining_Marks_For_Symbols"
+        },
+        {
+            "property": "blk",
+            "shortName": "Diacriticals_Sup",
+            "longName": "Combining_Diacritical_Marks_Supplement"
+        },
+        {
+            "property": "blk",
+            "shortName": "Dingbats",
+            "longName": "Dingbats"
+        },
+        {
+            "property": "blk",
+            "shortName": "Dives_Akuru",
+            "longName": "Dives_Akuru"
+        },
+        {
+            "property": "blk",
+            "shortName": "Dogra",
+            "longName": "Dogra"
+        },
+        {
+            "property": "blk",
+            "shortName": "Domino",
+            "longName": "Domino_Tiles"
+        },
+        {
+            "property": "blk",
+            "shortName": "Duployan",
+            "longName": "Duployan"
+        },
+        {
+            "property": "blk",
+            "shortName": "Early_Dynastic_Cuneiform",
+            "longName": "Early_Dynastic_Cuneiform"
+        },
+        {
+            "property": "blk",
+            "shortName": "Egyptian_Hieroglyph_Format_Controls",
+            "longName": "Egyptian_Hieroglyph_Format_Controls"
+        },
+        {
+            "property": "blk",
+            "shortName": "Egyptian_Hieroglyphs",
+            "longName": "Egyptian_Hieroglyphs"
+        },
+        {
+            "property": "blk",
+            "shortName": "Elbasan",
+            "longName": "Elbasan"
+        },
+        {
+            "property": "blk",
+            "shortName": "Elymaic",
+            "longName": "Elymaic"
+        },
+        {
+            "property": "blk",
+            "shortName": "Emoticons",
+            "longName": "Emoticons"
+        },
+        {
+            "property": "blk",
+            "shortName": "Enclosed_Alphanum",
+            "longName": "Enclosed_Alphanumerics"
+        },
+        {
+            "property": "blk",
+            "shortName": "Enclosed_Alphanum_Sup",
+            "longName": "Enclosed_Alphanumeric_Supplement"
+        },
+        {
+            "property": "blk",
+            "shortName": "Enclosed_CJK",
+            "longName": "Enclosed_CJK_Letters_And_Months"
+        },
+        {
+            "property": "blk",
+            "shortName": "Enclosed_Ideographic_Sup",
+            "longName": "Enclosed_Ideographic_Supplement"
+        },
+        {
+            "property": "blk",
+            "shortName": "Ethiopic",
+            "longName": "Ethiopic"
+        },
+        {
+            "property": "blk",
+            "shortName": "Ethiopic_Ext",
+            "longName": "Ethiopic_Extended"
+        },
+        {
+            "property": "blk",
+            "shortName": "Ethiopic_Ext_A",
+            "longName": "Ethiopic_Extended_A"
+        },
+        {
+            "property": "blk",
+            "shortName": "Ethiopic_Ext_B",
+            "longName": "Ethiopic_Extended_B"
+        },
+        {
+            "property": "blk",
+            "shortName": "Ethiopic_Sup",
+            "longName": "Ethiopic_Supplement"
+        },
+        {
+            "property": "blk",
+            "shortName": "Geometric_Shapes",
+            "longName": "Geometric_Shapes"
+        },
+        {
+            "property": "blk",
+            "shortName": "Geometric_Shapes_Ext",
+            "longName": "Geometric_Shapes_Extended"
+        },
+        {
+            "property": "blk",
+            "shortName": "Georgian",
+            "longName": "Georgian"
+        },
+        {
+            "property": "blk",
+            "shortName": "Georgian_Ext",
+            "longName": "Georgian_Extended"
+        },
+        {
+            "property": "blk",
+            "shortName": "Georgian_Sup",
+            "longName": "Georgian_Supplement"
+        },
+        {
+            "property": "blk",
+            "shortName": "Glagolitic",
+            "longName": "Glagolitic"
+        },
+        {
+            "property": "blk",
+            "shortName": "Glagolitic_Sup",
+            "longName": "Glagolitic_Supplement"
+        },
+        {
+            "property": "blk",
+            "shortName": "Gothic",
+            "longName": "Gothic"
+        },
+        {
+            "property": "blk",
+            "shortName": "Grantha",
+            "longName": "Grantha"
+        },
+        {
+            "property": "blk",
+            "shortName": "Greek",
+            "longName": "Greek_And_Coptic"
+        },
+        {
+            "property": "blk",
+            "shortName": "Greek_Ext",
+            "longName": "Greek_Extended"
+        },
+        {
+            "property": "blk",
+            "shortName": "Gujarati",
+            "longName": "Gujarati"
+        },
+        {
+            "property": "blk",
+            "shortName": "Gunjala_Gondi",
+            "longName": "Gunjala_Gondi"
+        },
+        {
+            "property": "blk",
+            "shortName": "Gurmukhi",
+            "longName": "Gurmukhi"
+        },
+        {
+            "property": "blk",
+            "shortName": "Half_And_Full_Forms",
+            "longName": "Halfwidth_And_Fullwidth_Forms"
+        },
+        {
+            "property": "blk",
+            "shortName": "Half_Marks",
+            "longName": "Combining_Half_Marks"
+        },
+        {
+            "property": "blk",
+            "shortName": "Hangul",
+            "longName": "Hangul_Syllables"
+        },
+        {
+            "property": "blk",
+            "shortName": "Hanifi_Rohingya",
+            "longName": "Hanifi_Rohingya"
+        },
+        {
+            "property": "blk",
+            "shortName": "Hanunoo",
+            "longName": "Hanunoo"
+        },
+        {
+            "property": "blk",
+            "shortName": "Hatran",
+            "longName": "Hatran"
+        },
+        {
+            "property": "blk",
+            "shortName": "Hebrew",
+            "longName": "Hebrew"
+        },
+        {
+            "property": "blk",
+            "shortName": "High_PU_Surrogates",
+            "longName": "High_Private_Use_Surrogates"
+        },
+        {
+            "property": "blk",
+            "shortName": "High_Surrogates",
+            "longName": "High_Surrogates"
+        },
+        {
+            "property": "blk",
+            "shortName": "Hiragana",
+            "longName": "Hiragana"
+        },
+        {
+            "property": "blk",
+            "shortName": "IDC",
+            "longName": "Ideographic_Description_Characters"
+        },
+        {
+            "property": "blk",
+            "shortName": "Ideographic_Symbols",
+            "longName": "Ideographic_Symbols_And_Punctuation"
+        },
+        {
+            "property": "blk",
+            "shortName": "Imperial_Aramaic",
+            "longName": "Imperial_Aramaic"
+        },
+        {
+            "property": "blk",
+            "shortName": "Indic_Number_Forms",
+            "longName": "Common_Indic_Number_Forms"
+        },
+        {
+            "property": "blk",
+            "shortName": "Indic_Siyaq_Numbers",
+            "longName": "Indic_Siyaq_Numbers"
+        },
+        {
+            "property": "blk",
+            "shortName": "Inscriptional_Pahlavi",
+            "longName": "Inscriptional_Pahlavi"
+        },
+        {
+            "property": "blk",
+            "shortName": "Inscriptional_Parthian",
+            "longName": "Inscriptional_Parthian"
+        },
+        {
+            "property": "blk",
+            "shortName": "IPA_Ext",
+            "longName": "IPA_Extensions"
+        },
+        {
+            "property": "blk",
+            "shortName": "Jamo",
+            "longName": "Hangul_Jamo"
+        },
+        {
+            "property": "blk",
+            "shortName": "Jamo_Ext_A",
+            "longName": "Hangul_Jamo_Extended_A"
+        },
+        {
+            "property": "blk",
+            "shortName": "Jamo_Ext_B",
+            "longName": "Hangul_Jamo_Extended_B"
+        },
+        {
+            "property": "blk",
+            "shortName": "Javanese",
+            "longName": "Javanese"
+        },
+        {
+            "property": "blk",
+            "shortName": "Kaithi",
+            "longName": "Kaithi"
+        },
+        {
+            "property": "blk",
+            "shortName": "Kana_Ext_A",
+            "longName": "Kana_Extended_A"
+        },
+        {
+            "property": "blk",
+            "shortName": "Kana_Ext_B",
+            "longName": "Kana_Extended_B"
+        },
+        {
+            "property": "blk",
+            "shortName": "Kana_Sup",
+            "longName": "Kana_Supplement"
+        },
+        {
+            "property": "blk",
+            "shortName": "Kanbun",
+            "longName": "Kanbun"
+        },
+        {
+            "property": "blk",
+            "shortName": "Kangxi",
+            "longName": "Kangxi_Radicals"
+        },
+        {
+            "property": "blk",
+            "shortName": "Kannada",
+            "longName": "Kannada"
+        },
+        {
+            "property": "blk",
+            "shortName": "Katakana",
+            "longName": "Katakana"
+        },
+        {
+            "property": "blk",
+            "shortName": "Katakana_Ext",
+            "longName": "Katakana_Phonetic_Extensions"
+        },
+        {
+            "property": "blk",
+            "shortName": "Kayah_Li",
+            "longName": "Kayah_Li"
+        },
+        {
+            "property": "blk",
+            "shortName": "Kharoshthi",
+            "longName": "Kharoshthi"
+        },
+        {
+            "property": "blk",
+            "shortName": "Khitan_Small_Script",
+            "longName": "Khitan_Small_Script"
+        },
+        {
+            "property": "blk",
+            "shortName": "Khmer",
+            "longName": "Khmer"
+        },
+        {
+            "property": "blk",
+            "shortName": "Khmer_Symbols",
+            "longName": "Khmer_Symbols"
+        },
+        {
+            "property": "blk",
+            "shortName": "Khojki",
+            "longName": "Khojki"
+        },
+        {
+            "property": "blk",
+            "shortName": "Khudawadi",
+            "longName": "Khudawadi"
+        },
+        {
+            "property": "blk",
+            "shortName": "Lao",
+            "longName": "Lao"
+        },
+        {
+            "property": "blk",
+            "shortName": "Latin_1_Sup",
+            "longName": "Latin_1_Supplement",
+            "alias": "Latin_1"
+        },
+        {
+            "property": "blk",
+            "shortName": "Latin_Ext_A",
+            "longName": "Latin_Extended_A"
+        },
+        {
+            "property": "blk",
+            "shortName": "Latin_Ext_Additional",
+            "longName": "Latin_Extended_Additional"
+        },
+        {
+            "property": "blk",
+            "shortName": "Latin_Ext_B",
+            "longName": "Latin_Extended_B"
+        },
+        {
+            "property": "blk",
+            "shortName": "Latin_Ext_C",
+            "longName": "Latin_Extended_C"
+        },
+        {
+            "property": "blk",
+            "shortName": "Latin_Ext_D",
+            "longName": "Latin_Extended_D"
+        },
+        {
+            "property": "blk",
+            "shortName": "Latin_Ext_E",
+            "longName": "Latin_Extended_E"
+        },
+        {
+            "property": "blk",
+            "shortName": "Latin_Ext_F",
+            "longName": "Latin_Extended_F"
+        },
+        {
+            "property": "blk",
+            "shortName": "Latin_Ext_G",
+            "longName": "Latin_Extended_G"
+        },
+        {
+            "property": "blk",
+            "shortName": "Lepcha",
+            "longName": "Lepcha"
+        },
+        {
+            "property": "blk",
+            "shortName": "Letterlike_Symbols",
+            "longName": "Letterlike_Symbols"
+        },
+        {
+            "property": "blk",
+            "shortName": "Limbu",
+            "longName": "Limbu"
+        },
+        {
+            "property": "blk",
+            "shortName": "Linear_A",
+            "longName": "Linear_A"
+        },
+        {
+            "property": "blk",
+            "shortName": "Linear_B_Ideograms",
+            "longName": "Linear_B_Ideograms"
+        },
+        {
+            "property": "blk",
+            "shortName": "Linear_B_Syllabary",
+            "longName": "Linear_B_Syllabary"
+        },
+        {
+            "property": "blk",
+            "shortName": "Lisu",
+            "longName": "Lisu"
+        },
+        {
+            "property": "blk",
+            "shortName": "Lisu_Sup",
+            "longName": "Lisu_Supplement"
+        },
+        {
+            "property": "blk",
+            "shortName": "Low_Surrogates",
+            "longName": "Low_Surrogates"
+        },
+        {
+            "property": "blk",
+            "shortName": "Lycian",
+            "longName": "Lycian"
+        },
+        {
+            "property": "blk",
+            "shortName": "Lydian",
+            "longName": "Lydian"
+        },
+        {
+            "property": "blk",
+            "shortName": "Mahajani",
+            "longName": "Mahajani"
+        },
+        {
+            "property": "blk",
+            "shortName": "Mahjong",
+            "longName": "Mahjong_Tiles"
+        },
+        {
+            "property": "blk",
+            "shortName": "Makasar",
+            "longName": "Makasar"
+        },
+        {
+            "property": "blk",
+            "shortName": "Malayalam",
+            "longName": "Malayalam"
+        },
+        {
+            "property": "blk",
+            "shortName": "Mandaic",
+            "longName": "Mandaic"
+        },
+        {
+            "property": "blk",
+            "shortName": "Manichaean",
+            "longName": "Manichaean"
+        },
+        {
+            "property": "blk",
+            "shortName": "Marchen",
+            "longName": "Marchen"
+        },
+        {
+            "property": "blk",
+            "shortName": "Masaram_Gondi",
+            "longName": "Masaram_Gondi"
+        },
+        {
+            "property": "blk",
+            "shortName": "Math_Alphanum",
+            "longName": "Mathematical_Alphanumeric_Symbols"
+        },
+        {
+            "property": "blk",
+            "shortName": "Math_Operators",
+            "longName": "Mathematical_Operators"
+        },
+        {
+            "property": "blk",
+            "shortName": "Mayan_Numerals",
+            "longName": "Mayan_Numerals"
+        },
+        {
+            "property": "blk",
+            "shortName": "Medefaidrin",
+            "longName": "Medefaidrin"
+        },
+        {
+            "property": "blk",
+            "shortName": "Meetei_Mayek",
+            "longName": "Meetei_Mayek"
+        },
+        {
+            "property": "blk",
+            "shortName": "Meetei_Mayek_Ext",
+            "longName": "Meetei_Mayek_Extensions"
+        },
+        {
+            "property": "blk",
+            "shortName": "Mende_Kikakui",
+            "longName": "Mende_Kikakui"
+        },
+        {
+            "property": "blk",
+            "shortName": "Meroitic_Cursive",
+            "longName": "Meroitic_Cursive"
+        },
+        {
+            "property": "blk",
+            "shortName": "Meroitic_Hieroglyphs",
+            "longName": "Meroitic_Hieroglyphs"
+        },
+        {
+            "property": "blk",
+            "shortName": "Miao",
+            "longName": "Miao"
+        },
+        {
+            "property": "blk",
+            "shortName": "Misc_Arrows",
+            "longName": "Miscellaneous_Symbols_And_Arrows"
+        },
+        {
+            "property": "blk",
+            "shortName": "Misc_Math_Symbols_A",
+            "longName": "Miscellaneous_Mathematical_Symbols_A"
+        },
+        {
+            "property": "blk",
+            "shortName": "Misc_Math_Symbols_B",
+            "longName": "Miscellaneous_Mathematical_Symbols_B"
+        },
+        {
+            "property": "blk",
+            "shortName": "Misc_Pictographs",
+            "longName": "Miscellaneous_Symbols_And_Pictographs"
+        },
+        {
+            "property": "blk",
+            "shortName": "Misc_Symbols",
+            "longName": "Miscellaneous_Symbols"
+        },
+        {
+            "property": "blk",
+            "shortName": "Misc_Technical",
+            "longName": "Miscellaneous_Technical"
+        },
+        {
+            "property": "blk",
+            "shortName": "Modi",
+            "longName": "Modi"
+        },
+        {
+            "property": "blk",
+            "shortName": "Modifier_Letters",
+            "longName": "Spacing_Modifier_Letters"
+        },
+        {
+            "property": "blk",
+            "shortName": "Modifier_Tone_Letters",
+            "longName": "Modifier_Tone_Letters"
+        },
+        {
+            "property": "blk",
+            "shortName": "Mongolian",
+            "longName": "Mongolian"
+        },
+        {
+            "property": "blk",
+            "shortName": "Mongolian_Sup",
+            "longName": "Mongolian_Supplement"
+        },
+        {
+            "property": "blk",
+            "shortName": "Mro",
+            "longName": "Mro"
+        },
+        {
+            "property": "blk",
+            "shortName": "Multani",
+            "longName": "Multani"
+        },
+        {
+            "property": "blk",
+            "shortName": "Music",
+            "longName": "Musical_Symbols"
+        },
+        {
+            "property": "blk",
+            "shortName": "Myanmar",
+            "longName": "Myanmar"
+        },
+        {
+            "property": "blk",
+            "shortName": "Myanmar_Ext_A",
+            "longName": "Myanmar_Extended_A"
+        },
+        {
+            "property": "blk",
+            "shortName": "Myanmar_Ext_B",
+            "longName": "Myanmar_Extended_B"
+        },
+        {
+            "property": "blk",
+            "shortName": "Nabataean",
+            "longName": "Nabataean"
+        },
+        {
+            "property": "blk",
+            "shortName": "Nandinagari",
+            "longName": "Nandinagari"
+        },
+        {
+            "property": "blk",
+            "shortName": "NB",
+            "longName": "No_Block"
+        },
+        {
+            "property": "blk",
+            "shortName": "New_Tai_Lue",
+            "longName": "New_Tai_Lue"
+        },
+        {
+            "property": "blk",
+            "shortName": "Newa",
+            "longName": "Newa"
+        },
+        {
+            "property": "blk",
+            "shortName": "NKo",
+            "longName": "NKo"
+        },
+        {
+            "property": "blk",
+            "shortName": "Number_Forms",
+            "longName": "Number_Forms"
+        },
+        {
+            "property": "blk",
+            "shortName": "Nushu",
+            "longName": "Nushu"
+        },
+        {
+            "property": "blk",
+            "shortName": "Nyiakeng_Puachue_Hmong",
+            "longName": "Nyiakeng_Puachue_Hmong"
+        },
+        {
+            "property": "blk",
+            "shortName": "OCR",
+            "longName": "Optical_Character_Recognition"
+        },
+        {
+            "property": "blk",
+            "shortName": "Ogham",
+            "longName": "Ogham"
+        },
+        {
+            "property": "blk",
+            "shortName": "Ol_Chiki",
+            "longName": "Ol_Chiki"
+        },
+        {
+            "property": "blk",
+            "shortName": "Old_Hungarian",
+            "longName": "Old_Hungarian"
+        },
+        {
+            "property": "blk",
+            "shortName": "Old_Italic",
+            "longName": "Old_Italic"
+        },
+        {
+            "property": "blk",
+            "shortName": "Old_North_Arabian",
+            "longName": "Old_North_Arabian"
+        },
+        {
+            "property": "blk",
+            "shortName": "Old_Permic",
+            "longName": "Old_Permic"
+        },
+        {
+            "property": "blk",
+            "shortName": "Old_Persian",
+            "longName": "Old_Persian"
+        },
+        {
+            "property": "blk",
+            "shortName": "Old_Sogdian",
+            "longName": "Old_Sogdian"
+        },
+        {
+            "property": "blk",
+            "shortName": "Old_South_Arabian",
+            "longName": "Old_South_Arabian"
+        },
+        {
+            "property": "blk",
+            "shortName": "Old_Turkic",
+            "longName": "Old_Turkic"
+        },
+        {
+            "property": "blk",
+            "shortName": "Old_Uyghur",
+            "longName": "Old_Uyghur"
+        },
+        {
+            "property": "blk",
+            "shortName": "Oriya",
+            "longName": "Oriya"
+        },
+        {
+            "property": "blk",
+            "shortName": "Ornamental_Dingbats",
+            "longName": "Ornamental_Dingbats"
+        },
+        {
+            "property": "blk",
+            "shortName": "Osage",
+            "longName": "Osage"
+        },
+        {
+            "property": "blk",
+            "shortName": "Osmanya",
+            "longName": "Osmanya"
+        },
+        {
+            "property": "blk",
+            "shortName": "Ottoman_Siyaq_Numbers",
+            "longName": "Ottoman_Siyaq_Numbers"
+        },
+        {
+            "property": "blk",
+            "shortName": "Pahawh_Hmong",
+            "longName": "Pahawh_Hmong"
+        },
+        {
+            "property": "blk",
+            "shortName": "Palmyrene",
+            "longName": "Palmyrene"
+        },
+        {
+            "property": "blk",
+            "shortName": "Pau_Cin_Hau",
+            "longName": "Pau_Cin_Hau"
+        },
+        {
+            "property": "blk",
+            "shortName": "Phags_Pa",
+            "longName": "Phags_Pa"
+        },
+        {
+            "property": "blk",
+            "shortName": "Phaistos",
+            "longName": "Phaistos_Disc"
+        },
+        {
+            "property": "blk",
+            "shortName": "Phoenician",
+            "longName": "Phoenician"
+        },
+        {
+            "property": "blk",
+            "shortName": "Phonetic_Ext",
+            "longName": "Phonetic_Extensions"
+        },
+        {
+            "property": "blk",
+            "shortName": "Phonetic_Ext_Sup",
+            "longName": "Phonetic_Extensions_Supplement"
+        },
+        {
+            "property": "blk",
+            "shortName": "Playing_Cards",
+            "longName": "Playing_Cards"
+        },
+        {
+            "property": "blk",
+            "shortName": "Psalter_Pahlavi",
+            "longName": "Psalter_Pahlavi"
+        },
+        {
+            "property": "blk",
+            "shortName": "PUA",
+            "longName": "Private_Use_Area",
+            "alias": "Private_Use"
+        },
+        {
+            "property": "blk",
+            "shortName": "Punctuation",
+            "longName": "General_Punctuation"
+        },
+        {
+            "property": "blk",
+            "shortName": "Rejang",
+            "longName": "Rejang"
+        },
+        {
+            "property": "blk",
+            "shortName": "Rumi",
+            "longName": "Rumi_Numeral_Symbols"
+        },
+        {
+            "property": "blk",
+            "shortName": "Runic",
+            "longName": "Runic"
+        },
+        {
+            "property": "blk",
+            "shortName": "Samaritan",
+            "longName": "Samaritan"
+        },
+        {
+            "property": "blk",
+            "shortName": "Saurashtra",
+            "longName": "Saurashtra"
+        },
+        {
+            "property": "blk",
+            "shortName": "Sharada",
+            "longName": "Sharada"
+        },
+        {
+            "property": "blk",
+            "shortName": "Shavian",
+            "longName": "Shavian"
+        },
+        {
+            "property": "blk",
+            "shortName": "Shorthand_Format_Controls",
+            "longName": "Shorthand_Format_Controls"
+        },
+        {
+            "property": "blk",
+            "shortName": "Siddham",
+            "longName": "Siddham"
+        },
+        {
+            "property": "blk",
+            "shortName": "Sinhala",
+            "longName": "Sinhala"
+        },
+        {
+            "property": "blk",
+            "shortName": "Sinhala_Archaic_Numbers",
+            "longName": "Sinhala_Archaic_Numbers"
+        },
+        {
+            "property": "blk",
+            "shortName": "Small_Forms",
+            "longName": "Small_Form_Variants"
+        },
+        {
+            "property": "blk",
+            "shortName": "Small_Kana_Ext",
+            "longName": "Small_Kana_Extension"
+        },
+        {
+            "property": "blk",
+            "shortName": "Sogdian",
+            "longName": "Sogdian"
+        },
+        {
+            "property": "blk",
+            "shortName": "Sora_Sompeng",
+            "longName": "Sora_Sompeng"
+        },
+        {
+            "property": "blk",
+            "shortName": "Soyombo",
+            "longName": "Soyombo"
+        },
+        {
+            "property": "blk",
+            "shortName": "Specials",
+            "longName": "Specials"
+        },
+        {
+            "property": "blk",
+            "shortName": "Sundanese",
+            "longName": "Sundanese"
+        },
+        {
+            "property": "blk",
+            "shortName": "Sundanese_Sup",
+            "longName": "Sundanese_Supplement"
+        },
+        {
+            "property": "blk",
+            "shortName": "Sup_Arrows_A",
+            "longName": "Supplemental_Arrows_A"
+        },
+        {
+            "property": "blk",
+            "shortName": "Sup_Arrows_B",
+            "longName": "Supplemental_Arrows_B"
+        },
+        {
+            "property": "blk",
+            "shortName": "Sup_Arrows_C",
+            "longName": "Supplemental_Arrows_C"
+        },
+        {
+            "property": "blk",
+            "shortName": "Sup_Math_Operators",
+            "longName": "Supplemental_Mathematical_Operators"
+        },
+        {
+            "property": "blk",
+            "shortName": "Sup_PUA_A",
+            "longName": "Supplementary_Private_Use_Area_A"
+        },
+        {
+            "property": "blk",
+            "shortName": "Sup_PUA_B",
+            "longName": "Supplementary_Private_Use_Area_B"
+        },
+        {
+            "property": "blk",
+            "shortName": "Sup_Punctuation",
+            "longName": "Supplemental_Punctuation"
+        },
+        {
+            "property": "blk",
+            "shortName": "Sup_Symbols_And_Pictographs",
+            "longName": "Supplemental_Symbols_And_Pictographs"
+        },
+        {
+            "property": "blk",
+            "shortName": "Super_And_Sub",
+            "longName": "Superscripts_And_Subscripts"
+        },
+        {
+            "property": "blk",
+            "shortName": "Sutton_SignWriting",
+            "longName": "Sutton_SignWriting"
+        },
+        {
+            "property": "blk",
+            "shortName": "Syloti_Nagri",
+            "longName": "Syloti_Nagri"
+        },
+        {
+            "property": "blk",
+            "shortName": "Symbols_And_Pictographs_Ext_A",
+            "longName": "Symbols_And_Pictographs_Extended_A"
+        },
+        {
+            "property": "blk",
+            "shortName": "Symbols_For_Legacy_Computing",
+            "longName": "Symbols_For_Legacy_Computing"
+        },
+        {
+            "property": "blk",
+            "shortName": "Syriac",
+            "longName": "Syriac"
+        },
+        {
+            "property": "blk",
+            "shortName": "Syriac_Sup",
+            "longName": "Syriac_Supplement"
+        },
+        {
+            "property": "blk",
+            "shortName": "Tagalog",
+            "longName": "Tagalog"
+        },
+        {
+            "property": "blk",
+            "shortName": "Tagbanwa",
+            "longName": "Tagbanwa"
+        },
+        {
+            "property": "blk",
+            "shortName": "Tags",
+            "longName": "Tags"
+        },
+        {
+            "property": "blk",
+            "shortName": "Tai_Le",
+            "longName": "Tai_Le"
+        },
+        {
+            "property": "blk",
+            "shortName": "Tai_Tham",
+            "longName": "Tai_Tham"
+        },
+        {
+            "property": "blk",
+            "shortName": "Tai_Viet",
+            "longName": "Tai_Viet"
+        },
+        {
+            "property": "blk",
+            "shortName": "Tai_Xuan_Jing",
+            "longName": "Tai_Xuan_Jing_Symbols"
+        },
+        {
+            "property": "blk",
+            "shortName": "Takri",
+            "longName": "Takri"
+        },
+        {
+            "property": "blk",
+            "shortName": "Tamil",
+            "longName": "Tamil"
+        },
+        {
+            "property": "blk",
+            "shortName": "Tamil_Sup",
+            "longName": "Tamil_Supplement"
+        },
+        {
+            "property": "blk",
+            "shortName": "Tangsa",
+            "longName": "Tangsa"
+        },
+        {
+            "property": "blk",
+            "shortName": "Tangut",
+            "longName": "Tangut"
+        },
+        {
+            "property": "blk",
+            "shortName": "Tangut_Components",
+            "longName": "Tangut_Components"
+        },
+        {
+            "property": "blk",
+            "shortName": "Tangut_Sup",
+            "longName": "Tangut_Supplement"
+        },
+        {
+            "property": "blk",
+            "shortName": "Telugu",
+            "longName": "Telugu"
+        },
+        {
+            "property": "blk",
+            "shortName": "Thaana",
+            "longName": "Thaana"
+        },
+        {
+            "property": "blk",
+            "shortName": "Thai",
+            "longName": "Thai"
+        },
+        {
+            "property": "blk",
+            "shortName": "Tibetan",
+            "longName": "Tibetan"
+        },
+        {
+            "property": "blk",
+            "shortName": "Tifinagh",
+            "longName": "Tifinagh"
+        },
+        {
+            "property": "blk",
+            "shortName": "Tirhuta",
+            "longName": "Tirhuta"
+        },
+        {
+            "property": "blk",
+            "shortName": "Toto",
+            "longName": "Toto"
+        },
+        {
+            "property": "blk",
+            "shortName": "Transport_And_Map",
+            "longName": "Transport_And_Map_Symbols"
+        },
+        {
+            "property": "blk",
+            "shortName": "UCAS",
+            "longName": "Unified_Canadian_Aboriginal_Syllabics",
+            "alias": "Canadian_Syllabics"
+        },
+        {
+            "property": "blk",
+            "shortName": "UCAS_Ext",
+            "longName": "Unified_Canadian_Aboriginal_Syllabics_Extended"
+        },
+        {
+            "property": "blk",
+            "shortName": "UCAS_Ext_A",
+            "longName": "Unified_Canadian_Aboriginal_Syllabics_Extended_A"
+        },
+        {
+            "property": "blk",
+            "shortName": "Ugaritic",
+            "longName": "Ugaritic"
+        },
+        {
+            "property": "blk",
+            "shortName": "Vai",
+            "longName": "Vai"
+        },
+        {
+            "property": "blk",
+            "shortName": "Vedic_Ext",
+            "longName": "Vedic_Extensions"
+        },
+        {
+            "property": "blk",
+            "shortName": "Vertical_Forms",
+            "longName": "Vertical_Forms"
+        },
+        {
+            "property": "blk",
+            "shortName": "Vithkuqi",
+            "longName": "Vithkuqi"
+        },
+        {
+            "property": "blk",
+            "shortName": "VS",
+            "longName": "Variation_Selectors"
+        },
+        {
+            "property": "blk",
+            "shortName": "VS_Sup",
+            "longName": "Variation_Selectors_Supplement"
+        },
+        {
+            "property": "blk",
+            "shortName": "Wancho",
+            "longName": "Wancho"
+        },
+        {
+            "property": "blk",
+            "shortName": "Warang_Citi",
+            "longName": "Warang_Citi"
+        },
+        {
+            "property": "blk",
+            "shortName": "Yezidi",
+            "longName": "Yezidi"
+        },
+        {
+            "property": "blk",
+            "shortName": "Yi_Radicals",
+            "longName": "Yi_Radicals"
+        },
+        {
+            "property": "blk",
+            "shortName": "Yi_Syllables",
+            "longName": "Yi_Syllables"
+        },
+        {
+            "property": "blk",
+            "shortName": "Yijing",
+            "longName": "Yijing_Hexagram_Symbols"
+        },
+        {
+            "property": "blk",
+            "shortName": "Zanabazar_Square",
+            "longName": "Zanabazar_Square"
+        },
+        {
+            "property": "blk",
+            "shortName": "Znamenny_Music",
+            "longName": "Znamenny_Musical_Notation"
+        },
+        {
+            "property": "ccc",
+            "class": "0",
+            "shortName": "NR",
+            "longName": "Not_Reordered"
+        },
+        {
+            "property": "ccc",
+            "class": "1",
+            "shortName": "OV",
+            "longName": "Overlay"
+        },
+        {
+            "property": "ccc",
+            "class": "6",
+            "shortName": "HANR",
+            "longName": "Han_Reading"
+        },
+        {
+            "property": "ccc",
+            "class": "7",
+            "shortName": "NK",
+            "longName": "Nukta"
+        },
+        {
+            "property": "ccc",
+            "class": "8",
+            "shortName": "KV",
+            "longName": "Kana_Voicing"
+        },
+        {
+            "property": "ccc",
+            "class": "9",
+            "shortName": "VR",
+            "longName": "Virama"
+        },
+        {
+            "property": "ccc",
+            "class": "10",
+            "shortName": "CCC10",
+            "longName": "CCC10"
+        },
+        {
+            "property": "ccc",
+            "class": "11",
+            "shortName": "CCC11",
+            "longName": "CCC11"
+        },
+        {
+            "property": "ccc",
+            "class": "12",
+            "shortName": "CCC12",
+            "longName": "CCC12"
+        },
+        {
+            "property": "ccc",
+            "class": "13",
+            "shortName": "CCC13",
+            "longName": "CCC13"
+        },
+        {
+            "property": "ccc",
+            "class": "14",
+            "shortName": "CCC14",
+            "longName": "CCC14"
+        },
+        {
+            "property": "ccc",
+            "class": "15",
+            "shortName": "CCC15",
+            "longName": "CCC15"
+        },
+        {
+            "property": "ccc",
+            "class": "16",
+            "shortName": "CCC16",
+            "longName": "CCC16"
+        },
+        {
+            "property": "ccc",
+            "class": "17",
+            "shortName": "CCC17",
+            "longName": "CCC17"
+        },
+        {
+            "property": "ccc",
+            "class": "18",
+            "shortName": "CCC18",
+            "longName": "CCC18"
+        },
+        {
+            "property": "ccc",
+            "class": "19",
+            "shortName": "CCC19",
+            "longName": "CCC19"
+        },
+        {
+            "property": "ccc",
+            "class": "20",
+            "shortName": "CCC20",
+            "longName": "CCC20"
+        },
+        {
+            "property": "ccc",
+            "class": "21",
+            "shortName": "CCC21",
+            "longName": "CCC21"
+        },
+        {
+            "property": "ccc",
+            "class": "22",
+            "shortName": "CCC22",
+            "longName": "CCC22"
+        },
+        {
+            "property": "ccc",
+            "class": "23",
+            "shortName": "CCC23",
+            "longName": "CCC23"
+        },
+        {
+            "property": "ccc",
+            "class": "24",
+            "shortName": "CCC24",
+            "longName": "CCC24"
+        },
+        {
+            "property": "ccc",
+            "class": "25",
+            "shortName": "CCC25",
+            "longName": "CCC25"
+        },
+        {
+            "property": "ccc",
+            "class": "26",
+            "shortName": "CCC26",
+            "longName": "CCC26"
+        },
+        {
+            "property": "ccc",
+            "class": "27",
+            "shortName": "CCC27",
+            "longName": "CCC27"
+        },
+        {
+            "property": "ccc",
+            "class": "28",
+            "shortName": "CCC28",
+            "longName": "CCC28"
+        },
+        {
+            "property": "ccc",
+            "class": "29",
+            "shortName": "CCC29",
+            "longName": "CCC29"
+        },
+        {
+            "property": "ccc",
+            "class": "30",
+            "shortName": "CCC30",
+            "longName": "CCC30"
+        },
+        {
+            "property": "ccc",
+            "class": "31",
+            "shortName": "CCC31",
+            "longName": "CCC31"
+        },
+        {
+            "property": "ccc",
+            "class": "32",
+            "shortName": "CCC32",
+            "longName": "CCC32"
+        },
+        {
+            "property": "ccc",
+            "class": "33",
+            "shortName": "CCC33",
+            "longName": "CCC33"
+        },
+        {
+            "property": "ccc",
+            "class": "34",
+            "shortName": "CCC34",
+            "longName": "CCC34"
+        },
+        {
+            "property": "ccc",
+            "class": "35",
+            "shortName": "CCC35",
+            "longName": "CCC35"
+        },
+        {
+            "property": "ccc",
+            "class": "36",
+            "shortName": "CCC36",
+            "longName": "CCC36"
+        },
+        {
+            "property": "ccc",
+            "class": "84",
+            "shortName": "CCC84",
+            "longName": "CCC84"
+        },
+        {
+            "property": "ccc",
+            "class": "91",
+            "shortName": "CCC91",
+            "longName": "CCC91"
+        },
+        {
+            "property": "ccc",
+            "class": "103",
+            "shortName": "CCC103",
+            "longName": "CCC103"
+        },
+        {
+            "property": "ccc",
+            "class": "107",
+            "shortName": "CCC107",
+            "longName": "CCC107"
+        },
+        {
+            "property": "ccc",
+            "class": "118",
+            "shortName": "CCC118",
+            "longName": "CCC118"
+        },
+        {
+            "property": "ccc",
+            "class": "122",
+            "shortName": "CCC122",
+            "longName": "CCC122"
+        },
+        {
+            "property": "ccc",
+            "class": "129",
+            "shortName": "CCC129",
+            "longName": "CCC129"
+        },
+        {
+            "property": "ccc",
+            "class": "130",
+            "shortName": "CCC130",
+            "longName": "CCC130"
+        },
+        {
+            "property": "ccc",
+            "class": "132",
+            "shortName": "CCC132",
+            "longName": "CCC132"
+        },
+        {
+            "property": "ccc",
+            "class": "133",
+            "shortName": "CCC133",
+            "longName": "CCC133"
+        },
+        {
+            "property": "ccc",
+            "class": "200",
+            "shortName": "ATBL",
+            "longName": "Attached_Below_Left"
+        },
+        {
+            "property": "ccc",
+            "class": "202",
+            "shortName": "ATB",
+            "longName": "Attached_Below"
+        },
+        {
+            "property": "ccc",
+            "class": "214",
+            "shortName": "ATA",
+            "longName": "Attached_Above"
+        },
+        {
+            "property": "ccc",
+            "class": "216",
+            "shortName": "ATAR",
+            "longName": "Attached_Above_Right"
+        },
+        {
+            "property": "ccc",
+            "class": "218",
+            "shortName": "BL",
+            "longName": "Below_Left"
+        },
+        {
+            "property": "ccc",
+            "class": "220",
+            "shortName": "B",
+            "longName": "Below"
+        },
+        {
+            "property": "ccc",
+            "class": "222",
+            "shortName": "BR",
+            "longName": "Below_Right"
+        },
+        {
+            "property": "ccc",
+            "class": "224",
+            "shortName": "L",
+            "longName": "Left"
+        },
+        {
+            "property": "ccc",
+            "class": "226",
+            "shortName": "R",
+            "longName": "Right"
+        },
+        {
+            "property": "ccc",
+            "class": "228",
+            "shortName": "AL",
+            "longName": "Above_Left"
+        },
+        {
+            "property": "ccc",
+            "class": "230",
+            "shortName": "A",
+            "longName": "Above"
+        },
+        {
+            "property": "ccc",
+            "class": "232",
+            "shortName": "AR",
+            "longName": "Above_Right"
+        },
+        {
+            "property": "ccc",
+            "class": "233",
+            "shortName": "DB",
+            "longName": "Double_Below"
+        },
+        {
+            "property": "ccc",
+            "class": "234",
+            "shortName": "DA",
+            "longName": "Double_Above"
+        },
+        {
+            "property": "ccc",
+            "class": "240",
+            "shortName": "IS",
+            "longName": "Iota_Subscript"
+        },
+        {
+            "property": "CI",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "CI",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "Cased",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "Cased",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "CWCF",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "CWCF",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "CWCM",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "CWCM",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "CWL",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "CWL",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "CWKCF",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "CWKCF",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "CWT",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "CWT",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "CWU",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "CWU",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "CE",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "CE",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "Dash",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "Dash",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "dt",
+            "shortName": "Can",
+            "longName": "Canonical",
+            "alias": "can"
+        },
+        {
+            "property": "dt",
+            "shortName": "Com",
+            "longName": "Compat",
+            "alias": "com"
+        },
+        {
+            "property": "dt",
+            "shortName": "Enc",
+            "longName": "Circle",
+            "alias": "enc"
+        },
+        {
+            "property": "dt",
+            "shortName": "Fin",
+            "longName": "Final",
+            "alias": "fin"
+        },
+        {
+            "property": "dt",
+            "shortName": "Font",
+            "longName": "Font",
+            "alias": "font"
+        },
+        {
+            "property": "dt",
+            "shortName": "Fra",
+            "longName": "Fraction",
+            "alias": "fra"
+        },
+        {
+            "property": "dt",
+            "shortName": "Init",
+            "longName": "Initial",
+            "alias": "init"
+        },
+        {
+            "property": "dt",
+            "shortName": "Iso",
+            "longName": "Isolated",
+            "alias": "iso"
+        },
+        {
+            "property": "dt",
+            "shortName": "Med",
+            "longName": "Medial",
+            "alias": "med"
+        },
+        {
+            "property": "dt",
+            "shortName": "Nar",
+            "longName": "Narrow",
+            "alias": "nar"
+        },
+        {
+            "property": "dt",
+            "shortName": "Nb",
+            "longName": "Nobreak",
+            "alias": "nb"
+        },
+        {
+            "property": "dt",
+            "shortName": "None",
+            "longName": "None",
+            "alias": "none"
+        },
+        {
+            "property": "dt",
+            "shortName": "Sml",
+            "longName": "Small",
+            "alias": "sml"
+        },
+        {
+            "property": "dt",
+            "shortName": "Sqr",
+            "longName": "Square",
+            "alias": "sqr"
+        },
+        {
+            "property": "dt",
+            "shortName": "Sub",
+            "longName": "Sub",
+            "alias": "sub"
+        },
+        {
+            "property": "dt",
+            "shortName": "Sup",
+            "longName": "Super",
+            "alias": "sup"
+        },
+        {
+            "property": "dt",
+            "shortName": "Vert",
+            "longName": "Vertical",
+            "alias": "vert"
+        },
+        {
+            "property": "dt",
+            "shortName": "Wide",
+            "longName": "Wide",
+            "alias": "wide"
+        },
+        {
+            "property": "DI",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "DI",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "Dep",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "Dep",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "Dia",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "Dia",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "ea",
+            "shortName": "A",
+            "longName": "Ambiguous"
+        },
+        {
+            "property": "ea",
+            "shortName": "F",
+            "longName": "Fullwidth"
+        },
+        {
+            "property": "ea",
+            "shortName": "H",
+            "longName": "Halfwidth"
+        },
+        {
+            "property": "ea",
+            "shortName": "N",
+            "longName": "Neutral"
+        },
+        {
+            "property": "ea",
+            "shortName": "Na",
+            "longName": "Narrow"
+        },
+        {
+            "property": "ea",
+            "shortName": "W",
+            "longName": "Wide"
+        },
+        {
+            "property": "Emoji",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "Emoji",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "EComp",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "EComp",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "EMod",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "EMod",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "EBase",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "EBase",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "EPres",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "EPres",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "XO_NFC",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "XO_NFC",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "XO_NFD",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "XO_NFD",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "XO_NFKC",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "XO_NFKC",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "XO_NFKD",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "XO_NFKD",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "ExtPict",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "ExtPict",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "Ext",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "Ext",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "Comp_Ex",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "Comp_Ex",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "gc",
+            "shortName": "C",
+            "longName": "Other"
+        },
+        {
+            "property": "gc",
+            "shortName": "Cc",
+            "longName": "Control",
+            "alias": "cntrl"
+        },
+        {
+            "property": "gc",
+            "shortName": "Cf",
+            "longName": "Format"
+        },
+        {
+            "property": "gc",
+            "shortName": "Cn",
+            "longName": "Unassigned"
+        },
+        {
+            "property": "gc",
+            "shortName": "Co",
+            "longName": "Private_Use"
+        },
+        {
+            "property": "gc",
+            "shortName": "Cs",
+            "longName": "Surrogate"
+        },
+        {
+            "property": "gc",
+            "shortName": "L",
+            "longName": "Letter"
+        },
+        {
+            "property": "gc",
+            "shortName": "LC",
+            "longName": "Cased_Letter"
+        },
+        {
+            "property": "gc",
+            "shortName": "Ll",
+            "longName": "Lowercase_Letter"
+        },
+        {
+            "property": "gc",
+            "shortName": "Lm",
+            "longName": "Modifier_Letter"
+        },
+        {
+            "property": "gc",
+            "shortName": "Lo",
+            "longName": "Other_Letter"
+        },
+        {
+            "property": "gc",
+            "shortName": "Lt",
+            "longName": "Titlecase_Letter"
+        },
+        {
+            "property": "gc",
+            "shortName": "Lu",
+            "longName": "Uppercase_Letter"
+        },
+        {
+            "property": "gc",
+            "shortName": "M",
+            "longName": "Mark",
+            "alias": "Combining_Mark"
+        },
+        {
+            "property": "gc",
+            "shortName": "Mc",
+            "longName": "Spacing_Mark"
+        },
+        {
+            "property": "gc",
+            "shortName": "Me",
+            "longName": "Enclosing_Mark"
+        },
+        {
+            "property": "gc",
+            "shortName": "Mn",
+            "longName": "Nonspacing_Mark"
+        },
+        {
+            "property": "gc",
+            "shortName": "N",
+            "longName": "Number"
+        },
+        {
+            "property": "gc",
+            "shortName": "Nd",
+            "longName": "Decimal_Number",
+            "alias": "digit"
+        },
+        {
+            "property": "gc",
+            "shortName": "Nl",
+            "longName": "Letter_Number"
+        },
+        {
+            "property": "gc",
+            "shortName": "No",
+            "longName": "Other_Number"
+        },
+        {
+            "property": "gc",
+            "shortName": "P",
+            "longName": "Punctuation",
+            "alias": "punct"
+        },
+        {
+            "property": "gc",
+            "shortName": "Pc",
+            "longName": "Connector_Punctuation"
+        },
+        {
+            "property": "gc",
+            "shortName": "Pd",
+            "longName": "Dash_Punctuation"
+        },
+        {
+            "property": "gc",
+            "shortName": "Pe",
+            "longName": "Close_Punctuation"
+        },
+        {
+            "property": "gc",
+            "shortName": "Pf",
+            "longName": "Final_Punctuation"
+        },
+        {
+            "property": "gc",
+            "shortName": "Pi",
+            "longName": "Initial_Punctuation"
+        },
+        {
+            "property": "gc",
+            "shortName": "Po",
+            "longName": "Other_Punctuation"
+        },
+        {
+            "property": "gc",
+            "shortName": "Ps",
+            "longName": "Open_Punctuation"
+        },
+        {
+            "property": "gc",
+            "shortName": "S",
+            "longName": "Symbol"
+        },
+        {
+            "property": "gc",
+            "shortName": "Sc",
+            "longName": "Currency_Symbol"
+        },
+        {
+            "property": "gc",
+            "shortName": "Sk",
+            "longName": "Modifier_Symbol"
+        },
+        {
+            "property": "gc",
+            "shortName": "Sm",
+            "longName": "Math_Symbol"
+        },
+        {
+            "property": "gc",
+            "shortName": "So",
+            "longName": "Other_Symbol"
+        },
+        {
+            "property": "gc",
+            "shortName": "Z",
+            "longName": "Separator"
+        },
+        {
+            "property": "gc",
+            "shortName": "Zl",
+            "longName": "Line_Separator"
+        },
+        {
+            "property": "gc",
+            "shortName": "Zp",
+            "longName": "Paragraph_Separator"
+        },
+        {
+            "property": "gc",
+            "shortName": "Zs",
+            "longName": "Space_Separator"
+        },
+        {
+            "property": "Gr_Base",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "Gr_Base",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "GCB",
+            "shortName": "CN",
+            "longName": "Control"
+        },
+        {
+            "property": "GCB",
+            "shortName": "CR",
+            "longName": "CR"
+        },
+        {
+            "property": "GCB",
+            "shortName": "EB",
+            "longName": "E_Base"
+        },
+        {
+            "property": "GCB",
+            "shortName": "EBG",
+            "longName": "E_Base_GAZ"
+        },
+        {
+            "property": "GCB",
+            "shortName": "EM",
+            "longName": "E_Modifier"
+        },
+        {
+            "property": "GCB",
+            "shortName": "EX",
+            "longName": "Extend"
+        },
+        {
+            "property": "GCB",
+            "shortName": "GAZ",
+            "longName": "Glue_After_Zwj"
+        },
+        {
+            "property": "GCB",
+            "shortName": "L",
+            "longName": "L"
+        },
+        {
+            "property": "GCB",
+            "shortName": "LF",
+            "longName": "LF"
+        },
+        {
+            "property": "GCB",
+            "shortName": "LV",
+            "longName": "LV"
+        },
+        {
+            "property": "GCB",
+            "shortName": "LVT",
+            "longName": "LVT"
+        },
+        {
+            "property": "GCB",
+            "shortName": "PP",
+            "longName": "Prepend"
+        },
+        {
+            "property": "GCB",
+            "shortName": "RI",
+            "longName": "Regional_Indicator"
+        },
+        {
+            "property": "GCB",
+            "shortName": "SM",
+            "longName": "SpacingMark"
+        },
+        {
+            "property": "GCB",
+            "shortName": "T",
+            "longName": "T"
+        },
+        {
+            "property": "GCB",
+            "shortName": "V",
+            "longName": "V"
+        },
+        {
+            "property": "GCB",
+            "shortName": "XX",
+            "longName": "Other"
+        },
+        {
+            "property": "GCB",
+            "shortName": "ZWJ",
+            "longName": "ZWJ"
+        },
+        {
+            "property": "Gr_Ext",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "Gr_Ext",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "Gr_Link",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "Gr_Link",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "hst",
+            "shortName": "L",
+            "longName": "Leading_Jamo"
+        },
+        {
+            "property": "hst",
+            "shortName": "LV",
+            "longName": "LV_Syllable"
+        },
+        {
+            "property": "hst",
+            "shortName": "LVT",
+            "longName": "LVT_Syllable"
+        },
+        {
+            "property": "hst",
+            "shortName": "NA",
+            "longName": "Not_Applicable"
+        },
+        {
+            "property": "hst",
+            "shortName": "T",
+            "longName": "Trailing_Jamo"
+        },
+        {
+            "property": "hst",
+            "shortName": "V",
+            "longName": "Vowel_Jamo"
+        },
+        {
+            "property": "Hex",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "Hex",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "Hyphen",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "Hyphen",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "IDSB",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "IDSB",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "IDST",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "IDST",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "IDC",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "IDC",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "IDS",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "IDS",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "Ideo",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "Ideo",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "InPC",
+            "shortName": "Bottom",
+            "longName": "Bottom"
+        },
+        {
+            "property": "InPC",
+            "shortName": "Bottom_And_Left",
+            "longName": "Bottom_And_Left"
+        },
+        {
+            "property": "InPC",
+            "shortName": "Bottom_And_Right",
+            "longName": "Bottom_And_Right"
+        },
+        {
+            "property": "InPC",
+            "shortName": "Left",
+            "longName": "Left"
+        },
+        {
+            "property": "InPC",
+            "shortName": "Left_And_Right",
+            "longName": "Left_And_Right"
+        },
+        {
+            "property": "InPC",
+            "shortName": "NA",
+            "longName": "NA"
+        },
+        {
+            "property": "InPC",
+            "shortName": "Overstruck",
+            "longName": "Overstruck"
+        },
+        {
+            "property": "InPC",
+            "shortName": "Right",
+            "longName": "Right"
+        },
+        {
+            "property": "InPC",
+            "shortName": "Top",
+            "longName": "Top"
+        },
+        {
+            "property": "InPC",
+            "shortName": "Top_And_Bottom",
+            "longName": "Top_And_Bottom"
+        },
+        {
+            "property": "InPC",
+            "shortName": "Top_And_Bottom_And_Left",
+            "longName": "Top_And_Bottom_And_Left"
+        },
+        {
+            "property": "InPC",
+            "shortName": "Top_And_Bottom_And_Right",
+            "longName": "Top_And_Bottom_And_Right"
+        },
+        {
+            "property": "InPC",
+            "shortName": "Top_And_Left",
+            "longName": "Top_And_Left"
+        },
+        {
+            "property": "InPC",
+            "shortName": "Top_And_Left_And_Right",
+            "longName": "Top_And_Left_And_Right"
+        },
+        {
+            "property": "InPC",
+            "shortName": "Top_And_Right",
+            "longName": "Top_And_Right"
+        },
+        {
+            "property": "InPC",
+            "shortName": "Visual_Order_Left",
+            "longName": "Visual_Order_Left"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Avagraha",
+            "longName": "Avagraha"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Bindu",
+            "longName": "Bindu"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Brahmi_Joining_Number",
+            "longName": "Brahmi_Joining_Number"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Cantillation_Mark",
+            "longName": "Cantillation_Mark"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Consonant",
+            "longName": "Consonant"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Consonant_Dead",
+            "longName": "Consonant_Dead"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Consonant_Final",
+            "longName": "Consonant_Final"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Consonant_Head_Letter",
+            "longName": "Consonant_Head_Letter"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Consonant_Initial_Postfixed",
+            "longName": "Consonant_Initial_Postfixed"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Consonant_Killer",
+            "longName": "Consonant_Killer"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Consonant_Medial",
+            "longName": "Consonant_Medial"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Consonant_Placeholder",
+            "longName": "Consonant_Placeholder"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Consonant_Preceding_Repha",
+            "longName": "Consonant_Preceding_Repha"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Consonant_Prefixed",
+            "longName": "Consonant_Prefixed"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Consonant_Subjoined",
+            "longName": "Consonant_Subjoined"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Consonant_Succeeding_Repha",
+            "longName": "Consonant_Succeeding_Repha"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Consonant_With_Stacker",
+            "longName": "Consonant_With_Stacker"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Gemination_Mark",
+            "longName": "Gemination_Mark"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Invisible_Stacker",
+            "longName": "Invisible_Stacker"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Joiner",
+            "longName": "Joiner"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Modifying_Letter",
+            "longName": "Modifying_Letter"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Non_Joiner",
+            "longName": "Non_Joiner"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Nukta",
+            "longName": "Nukta"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Number",
+            "longName": "Number"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Number_Joiner",
+            "longName": "Number_Joiner"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Other",
+            "longName": "Other"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Pure_Killer",
+            "longName": "Pure_Killer"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Register_Shifter",
+            "longName": "Register_Shifter"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Syllable_Modifier",
+            "longName": "Syllable_Modifier"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Tone_Letter",
+            "longName": "Tone_Letter"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Tone_Mark",
+            "longName": "Tone_Mark"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Virama",
+            "longName": "Virama"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Visarga",
+            "longName": "Visarga"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Vowel",
+            "longName": "Vowel"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Vowel_Dependent",
+            "longName": "Vowel_Dependent"
+        },
+        {
+            "property": "InSC",
+            "shortName": "Vowel_Independent",
+            "longName": "Vowel_Independent"
+        },
+        {
+            "property": "JSN",
+            "shortName": "A",
+            "longName": "A"
+        },
+        {
+            "property": "JSN",
+            "shortName": "AE",
+            "longName": "AE"
+        },
+        {
+            "property": "JSN",
+            "shortName": "B",
+            "longName": "B"
+        },
+        {
+            "property": "JSN",
+            "shortName": "BB",
+            "longName": "BB"
+        },
+        {
+            "property": "JSN",
+            "shortName": "BS",
+            "longName": "BS"
+        },
+        {
+            "property": "JSN",
+            "shortName": "C",
+            "longName": "C"
+        },
+        {
+            "property": "JSN",
+            "shortName": "D",
+            "longName": "D"
+        },
+        {
+            "property": "JSN",
+            "shortName": "DD",
+            "longName": "DD"
+        },
+        {
+            "property": "JSN",
+            "shortName": "E",
+            "longName": "E"
+        },
+        {
+            "property": "JSN",
+            "shortName": "EO",
+            "longName": "EO"
+        },
+        {
+            "property": "JSN",
+            "shortName": "EU",
+            "longName": "EU"
+        },
+        {
+            "property": "JSN",
+            "shortName": "G",
+            "longName": "G"
+        },
+        {
+            "property": "JSN",
+            "shortName": "GG",
+            "longName": "GG"
+        },
+        {
+            "property": "JSN",
+            "shortName": "GS",
+            "longName": "GS"
+        },
+        {
+            "property": "JSN",
+            "shortName": "H",
+            "longName": "H"
+        },
+        {
+            "property": "JSN",
+            "shortName": "I",
+            "longName": "I"
+        },
+        {
+            "property": "JSN",
+            "shortName": "J",
+            "longName": "J"
+        },
+        {
+            "property": "JSN",
+            "shortName": "JJ",
+            "longName": "JJ"
+        },
+        {
+            "property": "JSN",
+            "shortName": "K",
+            "longName": "K"
+        },
+        {
+            "property": "JSN",
+            "shortName": "L",
+            "longName": "L"
+        },
+        {
+            "property": "JSN",
+            "shortName": "LB",
+            "longName": "LB"
+        },
+        {
+            "property": "JSN",
+            "shortName": "LG",
+            "longName": "LG"
+        },
+        {
+            "property": "JSN",
+            "shortName": "LH",
+            "longName": "LH"
+        },
+        {
+            "property": "JSN",
+            "shortName": "LM",
+            "longName": "LM"
+        },
+        {
+            "property": "JSN",
+            "shortName": "LP",
+            "longName": "LP"
+        },
+        {
+            "property": "JSN",
+            "shortName": "LS",
+            "longName": "LS"
+        },
+        {
+            "property": "JSN",
+            "shortName": "LT",
+            "longName": "LT"
+        },
+        {
+            "property": "JSN",
+            "shortName": "M",
+            "longName": "M"
+        },
+        {
+            "property": "JSN",
+            "shortName": "N",
+            "longName": "N"
+        },
+        {
+            "property": "JSN",
+            "shortName": "NG",
+            "longName": "NG"
+        },
+        {
+            "property": "JSN",
+            "shortName": "NH",
+            "longName": "NH"
+        },
+        {
+            "property": "JSN",
+            "shortName": "NJ",
+            "longName": "NJ"
+        },
+        {
+            "property": "JSN",
+            "shortName": "O",
+            "longName": "O"
+        },
+        {
+            "property": "JSN",
+            "shortName": "OE",
+            "longName": "OE"
+        },
+        {
+            "property": "JSN",
+            "shortName": "P",
+            "longName": "P"
+        },
+        {
+            "property": "JSN",
+            "shortName": "R",
+            "longName": "R"
+        },
+        {
+            "property": "JSN",
+            "shortName": "S",
+            "longName": "S"
+        },
+        {
+            "property": "JSN",
+            "shortName": "SS",
+            "longName": "SS"
+        },
+        {
+            "property": "JSN",
+            "shortName": "T",
+            "longName": "T"
+        },
+        {
+            "property": "JSN",
+            "shortName": "U",
+            "longName": "U"
+        },
+        {
+            "property": "JSN",
+            "shortName": "WA",
+            "longName": "WA"
+        },
+        {
+            "property": "JSN",
+            "shortName": "WAE",
+            "longName": "WAE"
+        },
+        {
+            "property": "JSN",
+            "shortName": "WE",
+            "longName": "WE"
+        },
+        {
+            "property": "JSN",
+            "shortName": "WEO",
+            "longName": "WEO"
+        },
+        {
+            "property": "JSN",
+            "shortName": "WI",
+            "longName": "WI"
+        },
+        {
+            "property": "JSN",
+            "shortName": "YA",
+            "longName": "YA"
+        },
+        {
+            "property": "JSN",
+            "shortName": "YAE",
+            "longName": "YAE"
+        },
+        {
+            "property": "JSN",
+            "shortName": "YE",
+            "longName": "YE"
+        },
+        {
+            "property": "JSN",
+            "shortName": "YEO",
+            "longName": "YEO"
+        },
+        {
+            "property": "JSN",
+            "shortName": "YI",
+            "longName": "YI"
+        },
+        {
+            "property": "JSN",
+            "shortName": "YO",
+            "longName": "YO"
+        },
+        {
+            "property": "JSN",
+            "shortName": "YU",
+            "longName": "YU"
+        },
+        {
+            "property": "Join_C",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "Join_C",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "jg",
+            "shortName": "African_Feh",
+            "longName": "African_Feh"
+        },
+        {
+            "property": "jg",
+            "shortName": "African_Noon",
+            "longName": "African_Noon"
+        },
+        {
+            "property": "jg",
+            "shortName": "African_Qaf",
+            "longName": "African_Qaf"
+        },
+        {
+            "property": "jg",
+            "shortName": "Ain",
+            "longName": "Ain"
+        },
+        {
+            "property": "jg",
+            "shortName": "Alaph",
+            "longName": "Alaph"
+        },
+        {
+            "property": "jg",
+            "shortName": "Alef",
+            "longName": "Alef"
+        },
+        {
+            "property": "jg",
+            "shortName": "Beh",
+            "longName": "Beh"
+        },
+        {
+            "property": "jg",
+            "shortName": "Beth",
+            "longName": "Beth"
+        },
+        {
+            "property": "jg",
+            "shortName": "Burushaski_Yeh_Barree",
+            "longName": "Burushaski_Yeh_Barree"
+        },
+        {
+            "property": "jg",
+            "shortName": "Dal",
+            "longName": "Dal"
+        },
+        {
+            "property": "jg",
+            "shortName": "Dalath_Rish",
+            "longName": "Dalath_Rish"
+        },
+        {
+            "property": "jg",
+            "shortName": "E",
+            "longName": "E"
+        },
+        {
+            "property": "jg",
+            "shortName": "Farsi_Yeh",
+            "longName": "Farsi_Yeh"
+        },
+        {
+            "property": "jg",
+            "shortName": "Fe",
+            "longName": "Fe"
+        },
+        {
+            "property": "jg",
+            "shortName": "Feh",
+            "longName": "Feh"
+        },
+        {
+            "property": "jg",
+            "shortName": "Final_Semkath",
+            "longName": "Final_Semkath"
+        },
+        {
+            "property": "jg",
+            "shortName": "Gaf",
+            "longName": "Gaf"
+        },
+        {
+            "property": "jg",
+            "shortName": "Gamal",
+            "longName": "Gamal"
+        },
+        {
+            "property": "jg",
+            "shortName": "Hah",
+            "longName": "Hah"
+        },
+        {
+            "property": "jg",
+            "shortName": "Hanifi_Rohingya_Kinna_Ya",
+            "longName": "Hanifi_Rohingya_Kinna_Ya"
+        },
+        {
+            "property": "jg",
+            "shortName": "Hanifi_Rohingya_Pa",
+            "longName": "Hanifi_Rohingya_Pa"
+        },
+        {
+            "property": "jg",
+            "shortName": "He",
+            "longName": "He"
+        },
+        {
+            "property": "jg",
+            "shortName": "Heh",
+            "longName": "Heh"
+        },
+        {
+            "property": "jg",
+            "shortName": "Heh_Goal",
+            "longName": "Heh_Goal"
+        },
+        {
+            "property": "jg",
+            "shortName": "Heth",
+            "longName": "Heth"
+        },
+        {
+            "property": "jg",
+            "shortName": "Kaf",
+            "longName": "Kaf"
+        },
+        {
+            "property": "jg",
+            "shortName": "Kaph",
+            "longName": "Kaph"
+        },
+        {
+            "property": "jg",
+            "shortName": "Khaph",
+            "longName": "Khaph"
+        },
+        {
+            "property": "jg",
+            "shortName": "Knotted_Heh",
+            "longName": "Knotted_Heh"
+        },
+        {
+            "property": "jg",
+            "shortName": "Lam",
+            "longName": "Lam"
+        },
+        {
+            "property": "jg",
+            "shortName": "Lamadh",
+            "longName": "Lamadh"
+        },
+        {
+            "property": "jg",
+            "shortName": "Malayalam_Bha",
+            "longName": "Malayalam_Bha"
+        },
+        {
+            "property": "jg",
+            "shortName": "Malayalam_Ja",
+            "longName": "Malayalam_Ja"
+        },
+        {
+            "property": "jg",
+            "shortName": "Malayalam_Lla",
+            "longName": "Malayalam_Lla"
+        },
+        {
+            "property": "jg",
+            "shortName": "Malayalam_Llla",
+            "longName": "Malayalam_Llla"
+        },
+        {
+            "property": "jg",
+            "shortName": "Malayalam_Nga",
+            "longName": "Malayalam_Nga"
+        },
+        {
+            "property": "jg",
+            "shortName": "Malayalam_Nna",
+            "longName": "Malayalam_Nna"
+        },
+        {
+            "property": "jg",
+            "shortName": "Malayalam_Nnna",
+            "longName": "Malayalam_Nnna"
+        },
+        {
+            "property": "jg",
+            "shortName": "Malayalam_Nya",
+            "longName": "Malayalam_Nya"
+        },
+        {
+            "property": "jg",
+            "shortName": "Malayalam_Ra",
+            "longName": "Malayalam_Ra"
+        },
+        {
+            "property": "jg",
+            "shortName": "Malayalam_Ssa",
+            "longName": "Malayalam_Ssa"
+        },
+        {
+            "property": "jg",
+            "shortName": "Malayalam_Tta",
+            "longName": "Malayalam_Tta"
+        },
+        {
+            "property": "jg",
+            "shortName": "Manichaean_Aleph",
+            "longName": "Manichaean_Aleph"
+        },
+        {
+            "property": "jg",
+            "shortName": "Manichaean_Ayin",
+            "longName": "Manichaean_Ayin"
+        },
+        {
+            "property": "jg",
+            "shortName": "Manichaean_Beth",
+            "longName": "Manichaean_Beth"
+        },
+        {
+            "property": "jg",
+            "shortName": "Manichaean_Daleth",
+            "longName": "Manichaean_Daleth"
+        },
+        {
+            "property": "jg",
+            "shortName": "Manichaean_Dhamedh",
+            "longName": "Manichaean_Dhamedh"
+        },
+        {
+            "property": "jg",
+            "shortName": "Manichaean_Five",
+            "longName": "Manichaean_Five"
+        },
+        {
+            "property": "jg",
+            "shortName": "Manichaean_Gimel",
+            "longName": "Manichaean_Gimel"
+        },
+        {
+            "property": "jg",
+            "shortName": "Manichaean_Heth",
+            "longName": "Manichaean_Heth"
+        },
+        {
+            "property": "jg",
+            "shortName": "Manichaean_Hundred",
+            "longName": "Manichaean_Hundred"
+        },
+        {
+            "property": "jg",
+            "shortName": "Manichaean_Kaph",
+            "longName": "Manichaean_Kaph"
+        },
+        {
+            "property": "jg",
+            "shortName": "Manichaean_Lamedh",
+            "longName": "Manichaean_Lamedh"
+        },
+        {
+            "property": "jg",
+            "shortName": "Manichaean_Mem",
+            "longName": "Manichaean_Mem"
+        },
+        {
+            "property": "jg",
+            "shortName": "Manichaean_Nun",
+            "longName": "Manichaean_Nun"
+        },
+        {
+            "property": "jg",
+            "shortName": "Manichaean_One",
+            "longName": "Manichaean_One"
+        },
+        {
+            "property": "jg",
+            "shortName": "Manichaean_Pe",
+            "longName": "Manichaean_Pe"
+        },
+        {
+            "property": "jg",
+            "shortName": "Manichaean_Qoph",
+            "longName": "Manichaean_Qoph"
+        },
+        {
+            "property": "jg",
+            "shortName": "Manichaean_Resh",
+            "longName": "Manichaean_Resh"
+        },
+        {
+            "property": "jg",
+            "shortName": "Manichaean_Sadhe",
+            "longName": "Manichaean_Sadhe"
+        },
+        {
+            "property": "jg",
+            "shortName": "Manichaean_Samekh",
+            "longName": "Manichaean_Samekh"
+        },
+        {
+            "property": "jg",
+            "shortName": "Manichaean_Taw",
+            "longName": "Manichaean_Taw"
+        },
+        {
+            "property": "jg",
+            "shortName": "Manichaean_Ten",
+            "longName": "Manichaean_Ten"
+        },
+        {
+            "property": "jg",
+            "shortName": "Manichaean_Teth",
+            "longName": "Manichaean_Teth"
+        },
+        {
+            "property": "jg",
+            "shortName": "Manichaean_Thamedh",
+            "longName": "Manichaean_Thamedh"
+        },
+        {
+            "property": "jg",
+            "shortName": "Manichaean_Twenty",
+            "longName": "Manichaean_Twenty"
+        },
+        {
+            "property": "jg",
+            "shortName": "Manichaean_Waw",
+            "longName": "Manichaean_Waw"
+        },
+        {
+            "property": "jg",
+            "shortName": "Manichaean_Yodh",
+            "longName": "Manichaean_Yodh"
+        },
+        {
+            "property": "jg",
+            "shortName": "Manichaean_Zayin",
+            "longName": "Manichaean_Zayin"
+        },
+        {
+            "property": "jg",
+            "shortName": "Meem",
+            "longName": "Meem"
+        },
+        {
+            "property": "jg",
+            "shortName": "Mim",
+            "longName": "Mim"
+        },
+        {
+            "property": "jg",
+            "shortName": "No_Joining_Group",
+            "longName": "No_Joining_Group"
+        },
+        {
+            "property": "jg",
+            "shortName": "Noon",
+            "longName": "Noon"
+        },
+        {
+            "property": "jg",
+            "shortName": "Nun",
+            "longName": "Nun"
+        },
+        {
+            "property": "jg",
+            "shortName": "Nya",
+            "longName": "Nya"
+        },
+        {
+            "property": "jg",
+            "shortName": "Pe",
+            "longName": "Pe"
+        },
+        {
+            "property": "jg",
+            "shortName": "Qaf",
+            "longName": "Qaf"
+        },
+        {
+            "property": "jg",
+            "shortName": "Qaph",
+            "longName": "Qaph"
+        },
+        {
+            "property": "jg",
+            "shortName": "Reh",
+            "longName": "Reh"
+        },
+        {
+            "property": "jg",
+            "shortName": "Reversed_Pe",
+            "longName": "Reversed_Pe"
+        },
+        {
+            "property": "jg",
+            "shortName": "Rohingya_Yeh",
+            "longName": "Rohingya_Yeh"
+        },
+        {
+            "property": "jg",
+            "shortName": "Sad",
+            "longName": "Sad"
+        },
+        {
+            "property": "jg",
+            "shortName": "Sadhe",
+            "longName": "Sadhe"
+        },
+        {
+            "property": "jg",
+            "shortName": "Seen",
+            "longName": "Seen"
+        },
+        {
+            "property": "jg",
+            "shortName": "Semkath",
+            "longName": "Semkath"
+        },
+        {
+            "property": "jg",
+            "shortName": "Shin",
+            "longName": "Shin"
+        },
+        {
+            "property": "jg",
+            "shortName": "Straight_Waw",
+            "longName": "Straight_Waw"
+        },
+        {
+            "property": "jg",
+            "shortName": "Swash_Kaf",
+            "longName": "Swash_Kaf"
+        },
+        {
+            "property": "jg",
+            "shortName": "Syriac_Waw",
+            "longName": "Syriac_Waw"
+        },
+        {
+            "property": "jg",
+            "shortName": "Tah",
+            "longName": "Tah"
+        },
+        {
+            "property": "jg",
+            "shortName": "Taw",
+            "longName": "Taw"
+        },
+        {
+            "property": "jg",
+            "shortName": "Teh_Marbuta",
+            "longName": "Teh_Marbuta"
+        },
+        {
+            "property": "jg",
+            "shortName": "Teh_Marbuta_Goal",
+            "longName": "Hamza_On_Heh_Goal"
+        },
+        {
+            "property": "jg",
+            "shortName": "Teth",
+            "longName": "Teth"
+        },
+        {
+            "property": "jg",
+            "shortName": "Thin_Yeh",
+            "longName": "Thin_Yeh"
+        },
+        {
+            "property": "jg",
+            "shortName": "Vertical_Tail",
+            "longName": "Vertical_Tail"
+        },
+        {
+            "property": "jg",
+            "shortName": "Waw",
+            "longName": "Waw"
+        },
+        {
+            "property": "jg",
+            "shortName": "Yeh",
+            "longName": "Yeh"
+        },
+        {
+            "property": "jg",
+            "shortName": "Yeh_Barree",
+            "longName": "Yeh_Barree"
+        },
+        {
+            "property": "jg",
+            "shortName": "Yeh_With_Tail",
+            "longName": "Yeh_With_Tail"
+        },
+        {
+            "property": "jg",
+            "shortName": "Yudh",
+            "longName": "Yudh"
+        },
+        {
+            "property": "jg",
+            "shortName": "Yudh_He",
+            "longName": "Yudh_He"
+        },
+        {
+            "property": "jg",
+            "shortName": "Zain",
+            "longName": "Zain"
+        },
+        {
+            "property": "jg",
+            "shortName": "Zhain",
+            "longName": "Zhain"
+        },
+        {
+            "property": "jt",
+            "shortName": "C",
+            "longName": "Join_Causing"
+        },
+        {
+            "property": "jt",
+            "shortName": "D",
+            "longName": "Dual_Joining"
+        },
+        {
+            "property": "jt",
+            "shortName": "L",
+            "longName": "Left_Joining"
+        },
+        {
+            "property": "jt",
+            "shortName": "R",
+            "longName": "Right_Joining"
+        },
+        {
+            "property": "jt",
+            "shortName": "T",
+            "longName": "Transparent"
+        },
+        {
+            "property": "jt",
+            "shortName": "U",
+            "longName": "Non_Joining"
+        },
+        {
+            "property": "lb",
+            "shortName": "AI",
+            "longName": "Ambiguous"
+        },
+        {
+            "property": "lb",
+            "shortName": "AL",
+            "longName": "Alphabetic"
+        },
+        {
+            "property": "lb",
+            "shortName": "B2",
+            "longName": "Break_Both"
+        },
+        {
+            "property": "lb",
+            "shortName": "BA",
+            "longName": "Break_After"
+        },
+        {
+            "property": "lb",
+            "shortName": "BB",
+            "longName": "Break_Before"
+        },
+        {
+            "property": "lb",
+            "shortName": "BK",
+            "longName": "Mandatory_Break"
+        },
+        {
+            "property": "lb",
+            "shortName": "CB",
+            "longName": "Contingent_Break"
+        },
+        {
+            "property": "lb",
+            "shortName": "CJ",
+            "longName": "Conditional_Japanese_Starter"
+        },
+        {
+            "property": "lb",
+            "shortName": "CL",
+            "longName": "Close_Punctuation"
+        },
+        {
+            "property": "lb",
+            "shortName": "CM",
+            "longName": "Combining_Mark"
+        },
+        {
+            "property": "lb",
+            "shortName": "CP",
+            "longName": "Close_Parenthesis"
+        },
+        {
+            "property": "lb",
+            "shortName": "CR",
+            "longName": "Carriage_Return"
+        },
+        {
+            "property": "lb",
+            "shortName": "EB",
+            "longName": "E_Base"
+        },
+        {
+            "property": "lb",
+            "shortName": "EM",
+            "longName": "E_Modifier"
+        },
+        {
+            "property": "lb",
+            "shortName": "EX",
+            "longName": "Exclamation"
+        },
+        {
+            "property": "lb",
+            "shortName": "GL",
+            "longName": "Glue"
+        },
+        {
+            "property": "lb",
+            "shortName": "H2",
+            "longName": "H2"
+        },
+        {
+            "property": "lb",
+            "shortName": "H3",
+            "longName": "H3"
+        },
+        {
+            "property": "lb",
+            "shortName": "HL",
+            "longName": "Hebrew_Letter"
+        },
+        {
+            "property": "lb",
+            "shortName": "HY",
+            "longName": "Hyphen"
+        },
+        {
+            "property": "lb",
+            "shortName": "ID",
+            "longName": "Ideographic"
+        },
+        {
+            "property": "lb",
+            "shortName": "IN",
+            "longName": "Inseparable",
+            "alias": "Inseperable"
+        },
+        {
+            "property": "lb",
+            "shortName": "IS",
+            "longName": "Infix_Numeric"
+        },
+        {
+            "property": "lb",
+            "shortName": "JL",
+            "longName": "JL"
+        },
+        {
+            "property": "lb",
+            "shortName": "JT",
+            "longName": "JT"
+        },
+        {
+            "property": "lb",
+            "shortName": "JV",
+            "longName": "JV"
+        },
+        {
+            "property": "lb",
+            "shortName": "LF",
+            "longName": "Line_Feed"
+        },
+        {
+            "property": "lb",
+            "shortName": "NL",
+            "longName": "Next_Line"
+        },
+        {
+            "property": "lb",
+            "shortName": "NS",
+            "longName": "Nonstarter"
+        },
+        {
+            "property": "lb",
+            "shortName": "NU",
+            "longName": "Numeric"
+        },
+        {
+            "property": "lb",
+            "shortName": "OP",
+            "longName": "Open_Punctuation"
+        },
+        {
+            "property": "lb",
+            "shortName": "PO",
+            "longName": "Postfix_Numeric"
+        },
+        {
+            "property": "lb",
+            "shortName": "PR",
+            "longName": "Prefix_Numeric"
+        },
+        {
+            "property": "lb",
+            "shortName": "QU",
+            "longName": "Quotation"
+        },
+        {
+            "property": "lb",
+            "shortName": "RI",
+            "longName": "Regional_Indicator"
+        },
+        {
+            "property": "lb",
+            "shortName": "SA",
+            "longName": "Complex_Context"
+        },
+        {
+            "property": "lb",
+            "shortName": "SG",
+            "longName": "Surrogate"
+        },
+        {
+            "property": "lb",
+            "shortName": "SP",
+            "longName": "Space"
+        },
+        {
+            "property": "lb",
+            "shortName": "SY",
+            "longName": "Break_Symbols"
+        },
+        {
+            "property": "lb",
+            "shortName": "WJ",
+            "longName": "Word_Joiner"
+        },
+        {
+            "property": "lb",
+            "shortName": "XX",
+            "longName": "Unknown"
+        },
+        {
+            "property": "lb",
+            "shortName": "ZW",
+            "longName": "ZWSpace"
+        },
+        {
+            "property": "lb",
+            "shortName": "ZWJ",
+            "longName": "ZWJ"
+        },
+        {
+            "property": "LOE",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "LOE",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "Lower",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "Lower",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "Math",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "Math",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "NFC_QC",
+            "shortName": "M",
+            "longName": "Maybe"
+        },
+        {
+            "property": "NFC_QC",
+            "shortName": "N",
+            "longName": "No"
+        },
+        {
+            "property": "NFC_QC",
+            "shortName": "Y",
+            "longName": "Yes"
+        },
+        {
+            "property": "NFD_QC",
+            "shortName": "N",
+            "longName": "No"
+        },
+        {
+            "property": "NFD_QC",
+            "shortName": "Y",
+            "longName": "Yes"
+        },
+        {
+            "property": "NFKC_QC",
+            "shortName": "M",
+            "longName": "Maybe"
+        },
+        {
+            "property": "NFKC_QC",
+            "shortName": "N",
+            "longName": "No"
+        },
+        {
+            "property": "NFKC_QC",
+            "shortName": "Y",
+            "longName": "Yes"
+        },
+        {
+            "property": "NFKD_QC",
+            "shortName": "N",
+            "longName": "No"
+        },
+        {
+            "property": "NFKD_QC",
+            "shortName": "Y",
+            "longName": "Yes"
+        },
+        {
+            "property": "NChar",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "NChar",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "nt",
+            "shortName": "De",
+            "longName": "Decimal"
+        },
+        {
+            "property": "nt",
+            "shortName": "Di",
+            "longName": "Digit"
+        },
+        {
+            "property": "nt",
+            "shortName": "None",
+            "longName": "None"
+        },
+        {
+            "property": "nt",
+            "shortName": "Nu",
+            "longName": "Numeric"
+        },
+        {
+            "property": "OAlpha",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "OAlpha",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "ODI",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "ODI",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "OGr_Ext",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "OGr_Ext",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "OIDC",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "OIDC",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "OIDS",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "OIDS",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "OLower",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "OLower",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "OMath",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "OMath",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "OUpper",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "OUpper",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "Pat_Syn",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "Pat_Syn",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "Pat_WS",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "Pat_WS",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "PCM",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "PCM",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "QMark",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "QMark",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "Radical",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "Radical",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "RI",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "RI",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "sc",
+            "shortName": "Adlm",
+            "longName": "Adlam"
+        },
+        {
+            "property": "sc",
+            "shortName": "Aghb",
+            "longName": "Caucasian_Albanian"
+        },
+        {
+            "property": "sc",
+            "shortName": "Ahom",
+            "longName": "Ahom"
+        },
+        {
+            "property": "sc",
+            "shortName": "Arab",
+            "longName": "Arabic"
+        },
+        {
+            "property": "sc",
+            "shortName": "Armi",
+            "longName": "Imperial_Aramaic"
+        },
+        {
+            "property": "sc",
+            "shortName": "Armn",
+            "longName": "Armenian"
+        },
+        {
+            "property": "sc",
+            "shortName": "Avst",
+            "longName": "Avestan"
+        },
+        {
+            "property": "sc",
+            "shortName": "Bali",
+            "longName": "Balinese"
+        },
+        {
+            "property": "sc",
+            "shortName": "Bamu",
+            "longName": "Bamum"
+        },
+        {
+            "property": "sc",
+            "shortName": "Bass",
+            "longName": "Bassa_Vah"
+        },
+        {
+            "property": "sc",
+            "shortName": "Batk",
+            "longName": "Batak"
+        },
+        {
+            "property": "sc",
+            "shortName": "Beng",
+            "longName": "Bengali"
+        },
+        {
+            "property": "sc",
+            "shortName": "Bhks",
+            "longName": "Bhaiksuki"
+        },
+        {
+            "property": "sc",
+            "shortName": "Bopo",
+            "longName": "Bopomofo"
+        },
+        {
+            "property": "sc",
+            "shortName": "Brah",
+            "longName": "Brahmi"
+        },
+        {
+            "property": "sc",
+            "shortName": "Brai",
+            "longName": "Braille"
+        },
+        {
+            "property": "sc",
+            "shortName": "Bugi",
+            "longName": "Buginese"
+        },
+        {
+            "property": "sc",
+            "shortName": "Buhd",
+            "longName": "Buhid"
+        },
+        {
+            "property": "sc",
+            "shortName": "Cakm",
+            "longName": "Chakma"
+        },
+        {
+            "property": "sc",
+            "shortName": "Cans",
+            "longName": "Canadian_Aboriginal"
+        },
+        {
+            "property": "sc",
+            "shortName": "Cari",
+            "longName": "Carian"
+        },
+        {
+            "property": "sc",
+            "shortName": "Cham",
+            "longName": "Cham"
+        },
+        {
+            "property": "sc",
+            "shortName": "Cher",
+            "longName": "Cherokee"
+        },
+        {
+            "property": "sc",
+            "shortName": "Chrs",
+            "longName": "Chorasmian"
+        },
+        {
+            "property": "sc",
+            "shortName": "Copt",
+            "longName": "Coptic",
+            "alias": "Qaac"
+        },
+        {
+            "property": "sc",
+            "shortName": "Cpmn",
+            "longName": "Cypro_Minoan"
+        },
+        {
+            "property": "sc",
+            "shortName": "Cprt",
+            "longName": "Cypriot"
+        },
+        {
+            "property": "sc",
+            "shortName": "Cyrl",
+            "longName": "Cyrillic"
+        },
+        {
+            "property": "sc",
+            "shortName": "Deva",
+            "longName": "Devanagari"
+        },
+        {
+            "property": "sc",
+            "shortName": "Diak",
+            "longName": "Dives_Akuru"
+        },
+        {
+            "property": "sc",
+            "shortName": "Dogr",
+            "longName": "Dogra"
+        },
+        {
+            "property": "sc",
+            "shortName": "Dsrt",
+            "longName": "Deseret"
+        },
+        {
+            "property": "sc",
+            "shortName": "Dupl",
+            "longName": "Duployan"
+        },
+        {
+            "property": "sc",
+            "shortName": "Egyp",
+            "longName": "Egyptian_Hieroglyphs"
+        },
+        {
+            "property": "sc",
+            "shortName": "Elba",
+            "longName": "Elbasan"
+        },
+        {
+            "property": "sc",
+            "shortName": "Elym",
+            "longName": "Elymaic"
+        },
+        {
+            "property": "sc",
+            "shortName": "Ethi",
+            "longName": "Ethiopic"
+        },
+        {
+            "property": "sc",
+            "shortName": "Geor",
+            "longName": "Georgian"
+        },
+        {
+            "property": "sc",
+            "shortName": "Glag",
+            "longName": "Glagolitic"
+        },
+        {
+            "property": "sc",
+            "shortName": "Gong",
+            "longName": "Gunjala_Gondi"
+        },
+        {
+            "property": "sc",
+            "shortName": "Gonm",
+            "longName": "Masaram_Gondi"
+        },
+        {
+            "property": "sc",
+            "shortName": "Goth",
+            "longName": "Gothic"
+        },
+        {
+            "property": "sc",
+            "shortName": "Gran",
+            "longName": "Grantha"
+        },
+        {
+            "property": "sc",
+            "shortName": "Grek",
+            "longName": "Greek"
+        },
+        {
+            "property": "sc",
+            "shortName": "Gujr",
+            "longName": "Gujarati"
+        },
+        {
+            "property": "sc",
+            "shortName": "Guru",
+            "longName": "Gurmukhi"
+        },
+        {
+            "property": "sc",
+            "shortName": "Hang",
+            "longName": "Hangul"
+        },
+        {
+            "property": "sc",
+            "shortName": "Hani",
+            "longName": "Han"
+        },
+        {
+            "property": "sc",
+            "shortName": "Hano",
+            "longName": "Hanunoo"
+        },
+        {
+            "property": "sc",
+            "shortName": "Hatr",
+            "longName": "Hatran"
+        },
+        {
+            "property": "sc",
+            "shortName": "Hebr",
+            "longName": "Hebrew"
+        },
+        {
+            "property": "sc",
+            "shortName": "Hira",
+            "longName": "Hiragana"
+        },
+        {
+            "property": "sc",
+            "shortName": "Hluw",
+            "longName": "Anatolian_Hieroglyphs"
+        },
+        {
+            "property": "sc",
+            "shortName": "Hmng",
+            "longName": "Pahawh_Hmong"
+        },
+        {
+            "property": "sc",
+            "shortName": "Hmnp",
+            "longName": "Nyiakeng_Puachue_Hmong"
+        },
+        {
+            "property": "sc",
+            "shortName": "Hrkt",
+            "longName": "Katakana_Or_Hiragana"
+        },
+        {
+            "property": "sc",
+            "shortName": "Hung",
+            "longName": "Old_Hungarian"
+        },
+        {
+            "property": "sc",
+            "shortName": "Ital",
+            "longName": "Old_Italic"
+        },
+        {
+            "property": "sc",
+            "shortName": "Java",
+            "longName": "Javanese"
+        },
+        {
+            "property": "sc",
+            "shortName": "Kali",
+            "longName": "Kayah_Li"
+        },
+        {
+            "property": "sc",
+            "shortName": "Kana",
+            "longName": "Katakana"
+        },
+        {
+            "property": "sc",
+            "shortName": "Khar",
+            "longName": "Kharoshthi"
+        },
+        {
+            "property": "sc",
+            "shortName": "Khmr",
+            "longName": "Khmer"
+        },
+        {
+            "property": "sc",
+            "shortName": "Khoj",
+            "longName": "Khojki"
+        },
+        {
+            "property": "sc",
+            "shortName": "Kits",
+            "longName": "Khitan_Small_Script"
+        },
+        {
+            "property": "sc",
+            "shortName": "Knda",
+            "longName": "Kannada"
+        },
+        {
+            "property": "sc",
+            "shortName": "Kthi",
+            "longName": "Kaithi"
+        },
+        {
+            "property": "sc",
+            "shortName": "Lana",
+            "longName": "Tai_Tham"
+        },
+        {
+            "property": "sc",
+            "shortName": "Laoo",
+            "longName": "Lao"
+        },
+        {
+            "property": "sc",
+            "shortName": "Latn",
+            "longName": "Latin"
+        },
+        {
+            "property": "sc",
+            "shortName": "Lepc",
+            "longName": "Lepcha"
+        },
+        {
+            "property": "sc",
+            "shortName": "Limb",
+            "longName": "Limbu"
+        },
+        {
+            "property": "sc",
+            "shortName": "Lina",
+            "longName": "Linear_A"
+        },
+        {
+            "property": "sc",
+            "shortName": "Linb",
+            "longName": "Linear_B"
+        },
+        {
+            "property": "sc",
+            "shortName": "Lisu",
+            "longName": "Lisu"
+        },
+        {
+            "property": "sc",
+            "shortName": "Lyci",
+            "longName": "Lycian"
+        },
+        {
+            "property": "sc",
+            "shortName": "Lydi",
+            "longName": "Lydian"
+        },
+        {
+            "property": "sc",
+            "shortName": "Mahj",
+            "longName": "Mahajani"
+        },
+        {
+            "property": "sc",
+            "shortName": "Maka",
+            "longName": "Makasar"
+        },
+        {
+            "property": "sc",
+            "shortName": "Mand",
+            "longName": "Mandaic"
+        },
+        {
+            "property": "sc",
+            "shortName": "Mani",
+            "longName": "Manichaean"
+        },
+        {
+            "property": "sc",
+            "shortName": "Marc",
+            "longName": "Marchen"
+        },
+        {
+            "property": "sc",
+            "shortName": "Medf",
+            "longName": "Medefaidrin"
+        },
+        {
+            "property": "sc",
+            "shortName": "Mend",
+            "longName": "Mende_Kikakui"
+        },
+        {
+            "property": "sc",
+            "shortName": "Merc",
+            "longName": "Meroitic_Cursive"
+        },
+        {
+            "property": "sc",
+            "shortName": "Mero",
+            "longName": "Meroitic_Hieroglyphs"
+        },
+        {
+            "property": "sc",
+            "shortName": "Mlym",
+            "longName": "Malayalam"
+        },
+        {
+            "property": "sc",
+            "shortName": "Modi",
+            "longName": "Modi"
+        },
+        {
+            "property": "sc",
+            "shortName": "Mong",
+            "longName": "Mongolian"
+        },
+        {
+            "property": "sc",
+            "shortName": "Mroo",
+            "longName": "Mro"
+        },
+        {
+            "property": "sc",
+            "shortName": "Mtei",
+            "longName": "Meetei_Mayek"
+        },
+        {
+            "property": "sc",
+            "shortName": "Mult",
+            "longName": "Multani"
+        },
+        {
+            "property": "sc",
+            "shortName": "Mymr",
+            "longName": "Myanmar"
+        },
+        {
+            "property": "sc",
+            "shortName": "Nand",
+            "longName": "Nandinagari"
+        },
+        {
+            "property": "sc",
+            "shortName": "Narb",
+            "longName": "Old_North_Arabian"
+        },
+        {
+            "property": "sc",
+            "shortName": "Nbat",
+            "longName": "Nabataean"
+        },
+        {
+            "property": "sc",
+            "shortName": "Newa",
+            "longName": "Newa"
+        },
+        {
+            "property": "sc",
+            "shortName": "Nkoo",
+            "longName": "Nko"
+        },
+        {
+            "property": "sc",
+            "shortName": "Nshu",
+            "longName": "Nushu"
+        },
+        {
+            "property": "sc",
+            "shortName": "Ogam",
+            "longName": "Ogham"
+        },
+        {
+            "property": "sc",
+            "shortName": "Olck",
+            "longName": "Ol_Chiki"
+        },
+        {
+            "property": "sc",
+            "shortName": "Orkh",
+            "longName": "Old_Turkic"
+        },
+        {
+            "property": "sc",
+            "shortName": "Orya",
+            "longName": "Oriya"
+        },
+        {
+            "property": "sc",
+            "shortName": "Osge",
+            "longName": "Osage"
+        },
+        {
+            "property": "sc",
+            "shortName": "Osma",
+            "longName": "Osmanya"
+        },
+        {
+            "property": "sc",
+            "shortName": "Ougr",
+            "longName": "Old_Uyghur"
+        },
+        {
+            "property": "sc",
+            "shortName": "Palm",
+            "longName": "Palmyrene"
+        },
+        {
+            "property": "sc",
+            "shortName": "Pauc",
+            "longName": "Pau_Cin_Hau"
+        },
+        {
+            "property": "sc",
+            "shortName": "Perm",
+            "longName": "Old_Permic"
+        },
+        {
+            "property": "sc",
+            "shortName": "Phag",
+            "longName": "Phags_Pa"
+        },
+        {
+            "property": "sc",
+            "shortName": "Phli",
+            "longName": "Inscriptional_Pahlavi"
+        },
+        {
+            "property": "sc",
+            "shortName": "Phlp",
+            "longName": "Psalter_Pahlavi"
+        },
+        {
+            "property": "sc",
+            "shortName": "Phnx",
+            "longName": "Phoenician"
+        },
+        {
+            "property": "sc",
+            "shortName": "Plrd",
+            "longName": "Miao"
+        },
+        {
+            "property": "sc",
+            "shortName": "Prti",
+            "longName": "Inscriptional_Parthian"
+        },
+        {
+            "property": "sc",
+            "shortName": "Rjng",
+            "longName": "Rejang"
+        },
+        {
+            "property": "sc",
+            "shortName": "Rohg",
+            "longName": "Hanifi_Rohingya"
+        },
+        {
+            "property": "sc",
+            "shortName": "Runr",
+            "longName": "Runic"
+        },
+        {
+            "property": "sc",
+            "shortName": "Samr",
+            "longName": "Samaritan"
+        },
+        {
+            "property": "sc",
+            "shortName": "Sarb",
+            "longName": "Old_South_Arabian"
+        },
+        {
+            "property": "sc",
+            "shortName": "Saur",
+            "longName": "Saurashtra"
+        },
+        {
+            "property": "sc",
+            "shortName": "Sgnw",
+            "longName": "SignWriting"
+        },
+        {
+            "property": "sc",
+            "shortName": "Shaw",
+            "longName": "Shavian"
+        },
+        {
+            "property": "sc",
+            "shortName": "Shrd",
+            "longName": "Sharada"
+        },
+        {
+            "property": "sc",
+            "shortName": "Sidd",
+            "longName": "Siddham"
+        },
+        {
+            "property": "sc",
+            "shortName": "Sind",
+            "longName": "Khudawadi"
+        },
+        {
+            "property": "sc",
+            "shortName": "Sinh",
+            "longName": "Sinhala"
+        },
+        {
+            "property": "sc",
+            "shortName": "Sogd",
+            "longName": "Sogdian"
+        },
+        {
+            "property": "sc",
+            "shortName": "Sogo",
+            "longName": "Old_Sogdian"
+        },
+        {
+            "property": "sc",
+            "shortName": "Sora",
+            "longName": "Sora_Sompeng"
+        },
+        {
+            "property": "sc",
+            "shortName": "Soyo",
+            "longName": "Soyombo"
+        },
+        {
+            "property": "sc",
+            "shortName": "Sund",
+            "longName": "Sundanese"
+        },
+        {
+            "property": "sc",
+            "shortName": "Sylo",
+            "longName": "Syloti_Nagri"
+        },
+        {
+            "property": "sc",
+            "shortName": "Syrc",
+            "longName": "Syriac"
+        },
+        {
+            "property": "sc",
+            "shortName": "Tagb",
+            "longName": "Tagbanwa"
+        },
+        {
+            "property": "sc",
+            "shortName": "Takr",
+            "longName": "Takri"
+        },
+        {
+            "property": "sc",
+            "shortName": "Tale",
+            "longName": "Tai_Le"
+        },
+        {
+            "property": "sc",
+            "shortName": "Talu",
+            "longName": "New_Tai_Lue"
+        },
+        {
+            "property": "sc",
+            "shortName": "Taml",
+            "longName": "Tamil"
+        },
+        {
+            "property": "sc",
+            "shortName": "Tang",
+            "longName": "Tangut"
+        },
+        {
+            "property": "sc",
+            "shortName": "Tavt",
+            "longName": "Tai_Viet"
+        },
+        {
+            "property": "sc",
+            "shortName": "Telu",
+            "longName": "Telugu"
+        },
+        {
+            "property": "sc",
+            "shortName": "Tfng",
+            "longName": "Tifinagh"
+        },
+        {
+            "property": "sc",
+            "shortName": "Tglg",
+            "longName": "Tagalog"
+        },
+        {
+            "property": "sc",
+            "shortName": "Thaa",
+            "longName": "Thaana"
+        },
+        {
+            "property": "sc",
+            "shortName": "Thai",
+            "longName": "Thai"
+        },
+        {
+            "property": "sc",
+            "shortName": "Tibt",
+            "longName": "Tibetan"
+        },
+        {
+            "property": "sc",
+            "shortName": "Tirh",
+            "longName": "Tirhuta"
+        },
+        {
+            "property": "sc",
+            "shortName": "Tnsa",
+            "longName": "Tangsa"
+        },
+        {
+            "property": "sc",
+            "shortName": "Toto",
+            "longName": "Toto"
+        },
+        {
+            "property": "sc",
+            "shortName": "Ugar",
+            "longName": "Ugaritic"
+        },
+        {
+            "property": "sc",
+            "shortName": "Vaii",
+            "longName": "Vai"
+        },
+        {
+            "property": "sc",
+            "shortName": "Vith",
+            "longName": "Vithkuqi"
+        },
+        {
+            "property": "sc",
+            "shortName": "Wara",
+            "longName": "Warang_Citi"
+        },
+        {
+            "property": "sc",
+            "shortName": "Wcho",
+            "longName": "Wancho"
+        },
+        {
+            "property": "sc",
+            "shortName": "Xpeo",
+            "longName": "Old_Persian"
+        },
+        {
+            "property": "sc",
+            "shortName": "Xsux",
+            "longName": "Cuneiform"
+        },
+        {
+            "property": "sc",
+            "shortName": "Yezi",
+            "longName": "Yezidi"
+        },
+        {
+            "property": "sc",
+            "shortName": "Yiii",
+            "longName": "Yi"
+        },
+        {
+            "property": "sc",
+            "shortName": "Zanb",
+            "longName": "Zanabazar_Square"
+        },
+        {
+            "property": "sc",
+            "shortName": "Zinh",
+            "longName": "Inherited",
+            "alias": "Qaai"
+        },
+        {
+            "property": "sc",
+            "shortName": "Zyyy",
+            "longName": "Common"
+        },
+        {
+            "property": "sc",
+            "shortName": "Zzzz",
+            "longName": "Unknown"
+        },
+        {
+            "property": "SB",
+            "shortName": "AT",
+            "longName": "ATerm"
+        },
+        {
+            "property": "SB",
+            "shortName": "CL",
+            "longName": "Close"
+        },
+        {
+            "property": "SB",
+            "shortName": "CR",
+            "longName": "CR"
+        },
+        {
+            "property": "SB",
+            "shortName": "EX",
+            "longName": "Extend"
+        },
+        {
+            "property": "SB",
+            "shortName": "FO",
+            "longName": "Format"
+        },
+        {
+            "property": "SB",
+            "shortName": "LE",
+            "longName": "OLetter"
+        },
+        {
+            "property": "SB",
+            "shortName": "LF",
+            "longName": "LF"
+        },
+        {
+            "property": "SB",
+            "shortName": "LO",
+            "longName": "Lower"
+        },
+        {
+            "property": "SB",
+            "shortName": "NU",
+            "longName": "Numeric"
+        },
+        {
+            "property": "SB",
+            "shortName": "SC",
+            "longName": "SContinue"
+        },
+        {
+            "property": "SB",
+            "shortName": "SE",
+            "longName": "Sep"
+        },
+        {
+            "property": "SB",
+            "shortName": "SP",
+            "longName": "Sp"
+        },
+        {
+            "property": "SB",
+            "shortName": "ST",
+            "longName": "STerm"
+        },
+        {
+            "property": "SB",
+            "shortName": "UP",
+            "longName": "Upper"
+        },
+        {
+            "property": "SB",
+            "shortName": "XX",
+            "longName": "Other"
+        },
+        {
+            "property": "STerm",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "STerm",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "SD",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "SD",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "Term",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "Term",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "UIdeo",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "UIdeo",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "Upper",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "Upper",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "VS",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "VS",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "vo",
+            "shortName": "R",
+            "longName": "Rotated"
+        },
+        {
+            "property": "vo",
+            "shortName": "Tr",
+            "longName": "Transformed_Rotated"
+        },
+        {
+            "property": "vo",
+            "shortName": "Tu",
+            "longName": "Transformed_Upright"
+        },
+        {
+            "property": "vo",
+            "shortName": "U",
+            "longName": "Upright"
+        },
+        {
+            "property": "WSpace",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "WSpace",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "WB",
+            "shortName": "CR",
+            "longName": "CR"
+        },
+        {
+            "property": "WB",
+            "shortName": "DQ",
+            "longName": "Double_Quote"
+        },
+        {
+            "property": "WB",
+            "shortName": "EB",
+            "longName": "E_Base"
+        },
+        {
+            "property": "WB",
+            "shortName": "EBG",
+            "longName": "E_Base_GAZ"
+        },
+        {
+            "property": "WB",
+            "shortName": "EM",
+            "longName": "E_Modifier"
+        },
+        {
+            "property": "WB",
+            "shortName": "EX",
+            "longName": "ExtendNumLet"
+        },
+        {
+            "property": "WB",
+            "shortName": "Extend",
+            "longName": "Extend"
+        },
+        {
+            "property": "WB",
+            "shortName": "FO",
+            "longName": "Format"
+        },
+        {
+            "property": "WB",
+            "shortName": "GAZ",
+            "longName": "Glue_After_Zwj"
+        },
+        {
+            "property": "WB",
+            "shortName": "HL",
+            "longName": "Hebrew_Letter"
+        },
+        {
+            "property": "WB",
+            "shortName": "KA",
+            "longName": "Katakana"
+        },
+        {
+            "property": "WB",
+            "shortName": "LE",
+            "longName": "ALetter"
+        },
+        {
+            "property": "WB",
+            "shortName": "LF",
+            "longName": "LF"
+        },
+        {
+            "property": "WB",
+            "shortName": "MB",
+            "longName": "MidNumLet"
+        },
+        {
+            "property": "WB",
+            "shortName": "ML",
+            "longName": "MidLetter"
+        },
+        {
+            "property": "WB",
+            "shortName": "MN",
+            "longName": "MidNum"
+        },
+        {
+            "property": "WB",
+            "shortName": "NL",
+            "longName": "Newline"
+        },
+        {
+            "property": "WB",
+            "shortName": "NU",
+            "longName": "Numeric"
+        },
+        {
+            "property": "WB",
+            "shortName": "RI",
+            "longName": "Regional_Indicator"
+        },
+        {
+            "property": "WB",
+            "shortName": "SQ",
+            "longName": "Single_Quote"
+        },
+        {
+            "property": "WB",
+            "shortName": "WSegSpace",
+            "longName": "WSegSpace"
+        },
+        {
+            "property": "WB",
+            "shortName": "XX",
+            "longName": "Other"
+        },
+        {
+            "property": "WB",
+            "shortName": "ZWJ",
+            "longName": "ZWJ"
+        },
+        {
+            "property": "XIDC",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "XIDC",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "XIDS",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "XIDS",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        }
+    ]
+}

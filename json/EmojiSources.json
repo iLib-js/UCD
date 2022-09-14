@@ -1,0 +1,4981 @@
+{
+    "EmojiSources": [
+        {
+            "codepointSequence": [
+                "0023",
+                "20E3"
+            ],
+            "docomo": "F985",
+            "kddi": "F489",
+            "softbank": "F7B0"
+        },
+        {
+            "codepointSequence": [
+                "0030",
+                "20E3"
+            ],
+            "docomo": "F990",
+            "kddi": "F7C9",
+            "softbank": "F7C5"
+        },
+        {
+            "codepointSequence": [
+                "0031",
+                "20E3"
+            ],
+            "docomo": "F987",
+            "kddi": "F6FB",
+            "softbank": "F7BC"
+        },
+        {
+            "codepointSequence": [
+                "0032",
+                "20E3"
+            ],
+            "docomo": "F988",
+            "kddi": "F6FC",
+            "softbank": "F7BD"
+        },
+        {
+            "codepointSequence": [
+                "0033",
+                "20E3"
+            ],
+            "docomo": "F989",
+            "kddi": "F740",
+            "softbank": "F7BE"
+        },
+        {
+            "codepointSequence": [
+                "0034",
+                "20E3"
+            ],
+            "docomo": "F98A",
+            "kddi": "F741",
+            "softbank": "F7BF"
+        },
+        {
+            "codepointSequence": [
+                "0035",
+                "20E3"
+            ],
+            "docomo": "F98B",
+            "kddi": "F742",
+            "softbank": "F7C0"
+        },
+        {
+            "codepointSequence": [
+                "0036",
+                "20E3"
+            ],
+            "docomo": "F98C",
+            "kddi": "F743",
+            "softbank": "F7C1"
+        },
+        {
+            "codepointSequence": [
+                "0037",
+                "20E3"
+            ],
+            "docomo": "F98D",
+            "kddi": "F744",
+            "softbank": "F7C2"
+        },
+        {
+            "codepointSequence": [
+                "0038",
+                "20E3"
+            ],
+            "docomo": "F98E",
+            "kddi": "F745",
+            "softbank": "F7C3"
+        },
+        {
+            "codepointSequence": [
+                "0039",
+                "20E3"
+            ],
+            "docomo": "F98F",
+            "kddi": "F746",
+            "softbank": "F7C4"
+        },
+        {
+            "codepointSequence": [
+                "00A9"
+            ],
+            "docomo": "F9D6",
+            "kddi": "F774",
+            "softbank": "F7EE"
+        },
+        {
+            "codepointSequence": [
+                "00AE"
+            ],
+            "docomo": "F9DB",
+            "kddi": "F775",
+            "softbank": "F7EF"
+        },
+        {
+            "codepointSequence": [
+                "2002"
+            ],
+            "kddi": "F7AA"
+        },
+        {
+            "codepointSequence": [
+                "2003"
+            ],
+            "kddi": "F7A9"
+        },
+        {
+            "codepointSequence": [
+                "2005"
+            ],
+            "kddi": "F7AB"
+        },
+        {
+            "codepointSequence": [
+                "203C"
+            ],
+            "docomo": "F9A9",
+            "kddi": "F3F1"
+        },
+        {
+            "codepointSequence": [
+                "2049"
+            ],
+            "docomo": "F9A8",
+            "kddi": "F3F0"
+        },
+        {
+            "codepointSequence": [
+                "2122"
+            ],
+            "docomo": "F9D7",
+            "kddi": "F76A",
+            "softbank": "FBD7"
+        },
+        {
+            "codepointSequence": [
+                "2139"
+            ],
+            "kddi": "F74F"
+        },
+        {
+            "codepointSequence": [
+                "2194"
+            ],
+            "docomo": "F9E1",
+            "kddi": "F47E"
+        },
+        {
+            "codepointSequence": [
+                "2195"
+            ],
+            "docomo": "F9E2",
+            "kddi": "F480"
+        },
+        {
+            "codepointSequence": [
+                "2196"
+            ],
+            "docomo": "F8F8",
+            "kddi": "F768",
+            "softbank": "F7D7"
+        },
+        {
+            "codepointSequence": [
+                "2197"
+            ],
+            "docomo": "F8D9",
+            "kddi": "F771",
+            "softbank": "F7D6"
+        },
+        {
+            "codepointSequence": [
+                "2198"
+            ],
+            "docomo": "F8F7",
+            "kddi": "F769",
+            "softbank": "F7D8"
+        },
+        {
+            "codepointSequence": [
+                "2199"
+            ],
+            "docomo": "F949",
+            "kddi": "F772",
+            "softbank": "F7D9"
+        },
+        {
+            "codepointSequence": [
+                "21A9"
+            ],
+            "docomo": "F97E",
+            "kddi": "F779"
+        },
+        {
+            "codepointSequence": [
+                "21AA"
+            ],
+            "kddi": "F778"
+        },
+        {
+            "codepointSequence": [
+                "231A"
+            ],
+            "docomo": "F9C4",
+            "kddi": "F797"
+        },
+        {
+            "codepointSequence": [
+                "231B"
+            ],
+            "kddi": "F798"
+        },
+        {
+            "codepointSequence": [
+                "23E9"
+            ],
+            "kddi": "F74C",
+            "softbank": "F7DC"
+        },
+        {
+            "codepointSequence": [
+                "23EA"
+            ],
+            "kddi": "F74B",
+            "softbank": "F7DD"
+        },
+        {
+            "codepointSequence": [
+                "23EB"
+            ],
+            "kddi": "F761"
+        },
+        {
+            "codepointSequence": [
+                "23EC"
+            ],
+            "kddi": "F760"
+        },
+        {
+            "codepointSequence": [
+                "23F0"
+            ],
+            "docomo": "F95E",
+            "kddi": "F7B1"
+        },
+        {
+            "codepointSequence": [
+                "23F3"
+            ],
+            "docomo": "F9C1",
+            "kddi": "F654"
+        },
+        {
+            "codepointSequence": [
+                "24C2"
+            ],
+            "docomo": "F8BD"
+        },
+        {
+            "codepointSequence": [
+                "25AA"
+            ],
+            "kddi": "F74E"
+        },
+        {
+            "codepointSequence": [
+                "25AB"
+            ],
+            "kddi": "F74D"
+        },
+        {
+            "codepointSequence": [
+                "25B6"
+            ],
+            "kddi": "F74A",
+            "softbank": "F7DA"
+        },
+        {
+            "codepointSequence": [
+                "25C0"
+            ],
+            "kddi": "F749",
+            "softbank": "F7DB"
+        },
+        {
+            "codepointSequence": [
+                "25FB"
+            ],
+            "kddi": "F754"
+        },
+        {
+            "codepointSequence": [
+                "25FC"
+            ],
+            "kddi": "F755"
+        },
+        {
+            "codepointSequence": [
+                "25FD"
+            ],
+            "kddi": "F750"
+        },
+        {
+            "codepointSequence": [
+                "25FE"
+            ],
+            "kddi": "F751"
+        },
+        {
+            "codepointSequence": [
+                "2600"
+            ],
+            "docomo": "F89F",
+            "kddi": "F660",
+            "softbank": "F98B"
+        },
+        {
+            "codepointSequence": [
+                "2601"
+            ],
+            "docomo": "F8A0",
+            "kddi": "F665",
+            "softbank": "F98A"
+        },
+        {
+            "codepointSequence": [
+                "260E"
+            ],
+            "docomo": "F8E8",
+            "kddi": "F7B3",
+            "softbank": "F949"
+        },
+        {
+            "codepointSequence": [
+                "2611"
+            ],
+            "kddi": "F7D9"
+        },
+        {
+            "codepointSequence": [
+                "2614"
+            ],
+            "docomo": "F8A1",
+            "kddi": "F664",
+            "softbank": "F98C"
+        },
+        {
+            "codepointSequence": [
+                "2615"
+            ],
+            "docomo": "F8D1",
+            "kddi": "F7B4",
+            "softbank": "F986"
+        },
+        {
+            "codepointSequence": [
+                "261D"
+            ],
+            "kddi": "F6CF",
+            "softbank": "F94F"
+        },
+        {
+            "codepointSequence": [
+                "263A"
+            ],
+            "kddi": "F6D4",
+            "softbank": "FB54"
+        },
+        {
+            "codepointSequence": [
+                "2648"
+            ],
+            "docomo": "F8A7",
+            "kddi": "F667",
+            "softbank": "F7DF"
+        },
+        {
+            "codepointSequence": [
+                "2649"
+            ],
+            "docomo": "F8A8",
+            "kddi": "F668",
+            "softbank": "F7E0"
+        },
+        {
+            "codepointSequence": [
+                "264A"
+            ],
+            "docomo": "F8A9",
+            "kddi": "F669",
+            "softbank": "F7E1"
+        },
+        {
+            "codepointSequence": [
+                "264B"
+            ],
+            "docomo": "F8AA",
+            "kddi": "F66A",
+            "softbank": "F7E2"
+        },
+        {
+            "codepointSequence": [
+                "264C"
+            ],
+            "docomo": "F8AB",
+            "kddi": "F66B",
+            "softbank": "F7E3"
+        },
+        {
+            "codepointSequence": [
+                "264D"
+            ],
+            "docomo": "F8AC",
+            "kddi": "F66C",
+            "softbank": "F7E4"
+        },
+        {
+            "codepointSequence": [
+                "264E"
+            ],
+            "docomo": "F8AD",
+            "kddi": "F66D",
+            "softbank": "F7E5"
+        },
+        {
+            "codepointSequence": [
+                "264F"
+            ],
+            "docomo": "F8AE",
+            "kddi": "F66E",
+            "softbank": "F7E6"
+        },
+        {
+            "codepointSequence": [
+                "2650"
+            ],
+            "docomo": "F8AF",
+            "kddi": "F66F",
+            "softbank": "F7E7"
+        },
+        {
+            "codepointSequence": [
+                "2651"
+            ],
+            "docomo": "F8B0",
+            "kddi": "F670",
+            "softbank": "F7E8"
+        },
+        {
+            "codepointSequence": [
+                "2652"
+            ],
+            "docomo": "F8B1",
+            "kddi": "F671",
+            "softbank": "F7E9"
+        },
+        {
+            "codepointSequence": [
+                "2653"
+            ],
+            "docomo": "F8B2",
+            "kddi": "F672",
+            "softbank": "F7EA"
+        },
+        {
+            "codepointSequence": [
+                "2660"
+            ],
+            "docomo": "F8EF",
+            "kddi": "F7BE",
+            "softbank": "F7AE"
+        },
+        {
+            "codepointSequence": [
+                "2663"
+            ],
+            "docomo": "F8F1",
+            "kddi": "F7C0",
+            "softbank": "F7AF"
+        },
+        {
+            "codepointSequence": [
+                "2665"
+            ],
+            "docomo": "F8EE",
+            "kddi": "F378",
+            "softbank": "F7AC"
+        },
+        {
+            "codepointSequence": [
+                "2666"
+            ],
+            "docomo": "F8F0",
+            "kddi": "F7BF",
+            "softbank": "F7AD"
+        },
+        {
+            "codepointSequence": [
+                "2668"
+            ],
+            "docomo": "F99C",
+            "kddi": "F695",
+            "softbank": "F763"
+        },
+        {
+            "codepointSequence": [
+                "267B"
+            ],
+            "docomo": "F9DA",
+            "kddi": "F47D"
+        },
+        {
+            "codepointSequence": [
+                "267F"
+            ],
+            "docomo": "F8FC",
+            "kddi": "F657",
+            "softbank": "F7AA"
+        },
+        {
+            "codepointSequence": [
+                "2693"
+            ],
+            "kddi": "F682"
+        },
+        {
+            "codepointSequence": [
+                "26A0"
+            ],
+            "docomo": "F9DC",
+            "kddi": "F659",
+            "softbank": "F7F2"
+        },
+        {
+            "codepointSequence": [
+                "26A1"
+            ],
+            "docomo": "F8A3",
+            "kddi": "F65F",
+            "softbank": "F77D"
+        },
+        {
+            "codepointSequence": [
+                "26AA"
+            ],
+            "kddi": "F756"
+        },
+        {
+            "codepointSequence": [
+                "26AB"
+            ],
+            "kddi": "F757"
+        },
+        {
+            "codepointSequence": [
+                "26BD"
+            ],
+            "docomo": "F8B7",
+            "kddi": "F68F",
+            "softbank": "F958"
+        },
+        {
+            "codepointSequence": [
+                "26BE"
+            ],
+            "docomo": "F8B4",
+            "kddi": "F693",
+            "softbank": "F956"
+        },
+        {
+            "codepointSequence": [
+                "26C4"
+            ],
+            "docomo": "F8A2",
+            "kddi": "F65D",
+            "softbank": "F989"
+        },
+        {
+            "codepointSequence": [
+                "26C5"
+            ],
+            "kddi": "F666"
+        },
+        {
+            "codepointSequence": [
+                "26CE"
+            ],
+            "kddi": "F673",
+            "softbank": "F7EB"
+        },
+        {
+            "codepointSequence": [
+                "26D4"
+            ],
+            "kddi": "F65C"
+        },
+        {
+            "codepointSequence": [
+                "26EA"
+            ],
+            "kddi": "F7EB",
+            "softbank": "F977"
+        },
+        {
+            "codepointSequence": [
+                "26F2"
+            ],
+            "kddi": "F342",
+            "softbank": "F761"
+        },
+        {
+            "codepointSequence": [
+                "26F3"
+            ],
+            "docomo": "F8B5",
+            "kddi": "F7B6",
+            "softbank": "F954"
+        },
+        {
+            "codepointSequence": [
+                "26F5"
+            ],
+            "docomo": "F947",
+            "kddi": "F68D",
+            "softbank": "F95C"
+        },
+        {
+            "codepointSequence": [
+                "26FA"
+            ],
+            "kddi": "F343",
+            "softbank": "F762"
+        },
+        {
+            "codepointSequence": [
+                "26FD"
+            ],
+            "docomo": "F8CC",
+            "kddi": "F78E",
+            "softbank": "F97A"
+        },
+        {
+            "codepointSequence": [
+                "2702"
+            ],
+            "docomo": "F8D6",
+            "kddi": "F6EF",
+            "softbank": "F9B3"
+        },
+        {
+            "codepointSequence": [
+                "2705"
+            ],
+            "kddi": "F77A"
+        },
+        {
+            "codepointSequence": [
+                "2708"
+            ],
+            "docomo": "F8C3",
+            "kddi": "F68C",
+            "softbank": "F95D"
+        },
+        {
+            "codepointSequence": [
+                "2709"
+            ],
+            "docomo": "F977",
+            "kddi": "F6FA"
+        },
+        {
+            "codepointSequence": [
+                "270A"
+            ],
+            "docomo": "F8F4",
+            "kddi": "F488",
+            "softbank": "F950"
+        },
+        {
+            "codepointSequence": [
+                "270B"
+            ],
+            "docomo": "F8F6",
+            "kddi": "F7C4",
+            "softbank": "F952"
+        },
+        {
+            "codepointSequence": [
+                "270C"
+            ],
+            "docomo": "F8F5",
+            "kddi": "F7C3",
+            "softbank": "F951"
+        },
+        {
+            "codepointSequence": [
+                "270F"
+            ],
+            "docomo": "F9BE",
+            "kddi": "F679"
+        },
+        {
+            "codepointSequence": [
+                "2712"
+            ],
+            "docomo": "F952",
+            "kddi": "F7DA"
+        },
+        {
+            "codepointSequence": [
+                "2714"
+            ],
+            "kddi": "F773"
+        },
+        {
+            "codepointSequence": [
+                "2716"
+            ],
+            "kddi": "F76B"
+        },
+        {
+            "codepointSequence": [
+                "2728"
+            ],
+            "docomo": "F99F",
+            "kddi": "F37E",
+            "softbank": "F9CE"
+        },
+        {
+            "codepointSequence": [
+                "2733"
+            ],
+            "kddi": "F75A",
+            "softbank": "F7A6"
+        },
+        {
+            "codepointSequence": [
+                "2734"
+            ],
+            "kddi": "F651",
+            "softbank": "F7A5"
+        },
+        {
+            "codepointSequence": [
+                "2744"
+            ],
+            "kddi": "F662"
+        },
+        {
+            "codepointSequence": [
+                "2747"
+            ],
+            "kddi": "F644"
+        },
+        {
+            "codepointSequence": [
+                "274C"
+            ],
+            "kddi": "F76C",
+            "softbank": "F9D3"
+        },
+        {
+            "codepointSequence": [
+                "274E"
+            ],
+            "kddi": "F76D"
+        },
+        {
+            "codepointSequence": [
+                "2753"
+            ],
+            "kddi": "F65B",
+            "softbank": "F960"
+        },
+        {
+            "codepointSequence": [
+                "2754"
+            ],
+            "softbank": "F9D6"
+        },
+        {
+            "codepointSequence": [
+                "2755"
+            ],
+            "softbank": "F9D7"
+        },
+        {
+            "codepointSequence": [
+                "2757"
+            ],
+            "docomo": "F9A7",
+            "kddi": "F65A",
+            "softbank": "F961"
+        },
+        {
+            "codepointSequence": [
+                "2764"
+            ],
+            "docomo": "F991",
+            "kddi": "F7B2",
+            "softbank": "F962"
+        },
+        {
+            "codepointSequence": [
+                "2795"
+            ],
+            "kddi": "F758"
+        },
+        {
+            "codepointSequence": [
+                "2796"
+            ],
+            "kddi": "F759"
+        },
+        {
+            "codepointSequence": [
+                "2797"
+            ],
+            "kddi": "F770"
+        },
+        {
+            "codepointSequence": [
+                "27A1"
+            ],
+            "kddi": "F76E",
+            "softbank": "F7D4"
+        },
+        {
+            "codepointSequence": [
+                "27B0"
+            ],
+            "docomo": "F9AF",
+            "kddi": "F3F2"
+        },
+        {
+            "codepointSequence": [
+                "2934"
+            ],
+            "docomo": "F99A",
+            "kddi": "F3EE"
+        },
+        {
+            "codepointSequence": [
+                "2935"
+            ],
+            "docomo": "F9A5",
+            "kddi": "F3EF"
+        },
+        {
+            "codepointSequence": [
+                "2B05"
+            ],
+            "kddi": "F76F",
+            "softbank": "F7D5"
+        },
+        {
+            "codepointSequence": [
+                "2B06"
+            ],
+            "kddi": "F75B",
+            "softbank": "F7D2"
+        },
+        {
+            "codepointSequence": [
+                "2B07"
+            ],
+            "kddi": "F75C",
+            "softbank": "F7D3"
+        },
+        {
+            "codepointSequence": [
+                "2B1B"
+            ],
+            "kddi": "F765"
+        },
+        {
+            "codepointSequence": [
+                "2B1C"
+            ],
+            "kddi": "F764"
+        },
+        {
+            "codepointSequence": [
+                "2B50"
+            ],
+            "kddi": "F663",
+            "softbank": "F9CF"
+        },
+        {
+            "codepointSequence": [
+                "2B55"
+            ],
+            "kddi": "F381",
+            "softbank": "F9D2"
+        },
+        {
+            "codepointSequence": [
+                "3030"
+            ],
+            "docomo": "F9AE"
+        },
+        {
+            "codepointSequence": [
+                "303D"
+            ],
+            "softbank": "F76C"
+        },
+        {
+            "codepointSequence": [
+                "3297"
+            ],
+            "kddi": "F36C",
+            "softbank": "F9AD"
+        },
+        {
+            "codepointSequence": [
+                "3299"
+            ],
+            "docomo": "F9D9",
+            "kddi": "F6CA",
+            "softbank": "F9B5"
+        },
+        {
+            "codepointSequence": [
+                "1F004"
+            ],
+            "kddi": "F344",
+            "softbank": "F76D"
+        },
+        {
+            "codepointSequence": [
+                "1F0CF"
+            ],
+            "kddi": "F473"
+        },
+        {
+            "codepointSequence": [
+                "1F170"
+            ],
+            "kddi": "F3E7",
+            "softbank": "FBD2"
+        },
+        {
+            "codepointSequence": [
+                "1F171"
+            ],
+            "kddi": "F3E8",
+            "softbank": "FBD3"
+        },
+        {
+            "codepointSequence": [
+                "1F17E"
+            ],
+            "kddi": "F3E9",
+            "softbank": "FBD5"
+        },
+        {
+            "codepointSequence": [
+                "1F17F"
+            ],
+            "docomo": "F8CD",
+            "kddi": "F67E",
+            "softbank": "F790"
+        },
+        {
+            "codepointSequence": [
+                "1F18E"
+            ],
+            "kddi": "F3EA",
+            "softbank": "FBD4"
+        },
+        {
+            "codepointSequence": [
+                "1F191"
+            ],
+            "docomo": "F980",
+            "kddi": "F7C8"
+        },
+        {
+            "codepointSequence": [
+                "1F192"
+            ],
+            "kddi": "F358",
+            "softbank": "F7B4"
+        },
+        {
+            "codepointSequence": [
+                "1F193"
+            ],
+            "docomo": "F97B",
+            "kddi": "F795"
+        },
+        {
+            "codepointSequence": [
+                "1F194"
+            ],
+            "docomo": "F97C",
+            "kddi": "F35B",
+            "softbank": "F7C9"
+        },
+        {
+            "codepointSequence": [
+                "1F195"
+            ],
+            "docomo": "F982",
+            "kddi": "F7E5",
+            "softbank": "F7B2"
+        },
+        {
+            "codepointSequence": [
+                "1F196"
+            ],
+            "docomo": "F9D4"
+        },
+        {
+            "codepointSequence": [
+                "1F197"
+            ],
+            "docomo": "F9B0",
+            "kddi": "F7CA",
+            "softbank": "F7ED"
+        },
+        {
+            "codepointSequence": [
+                "1F198"
+            ],
+            "kddi": "F6C1"
+        },
+        {
+            "codepointSequence": [
+                "1F199"
+            ],
+            "kddi": "F6E8",
+            "softbank": "F7B3"
+        },
+        {
+            "codepointSequence": [
+                "1F19A"
+            ],
+            "kddi": "F345",
+            "softbank": "F76E"
+        },
+        {
+            "codepointSequence": [
+                "1F1E8",
+                "1F1F3"
+            ],
+            "kddi": "F3D2",
+            "softbank": "FBB3"
+        },
+        {
+            "codepointSequence": [
+                "1F1E9",
+                "1F1EA"
+            ],
+            "kddi": "F3CF",
+            "softbank": "FBAE"
+        },
+        {
+            "codepointSequence": [
+                "1F1EA",
+                "1F1F8"
+            ],
+            "kddi": "F348",
+            "softbank": "FBB1"
+        },
+        {
+            "codepointSequence": [
+                "1F1EB",
+                "1F1F7"
+            ],
+            "kddi": "F3CE",
+            "softbank": "FBAD"
+        },
+        {
+            "codepointSequence": [
+                "1F1EC",
+                "1F1E7"
+            ],
+            "kddi": "F3D1",
+            "softbank": "FBB0"
+        },
+        {
+            "codepointSequence": [
+                "1F1EE",
+                "1F1F9"
+            ],
+            "kddi": "F3D0",
+            "softbank": "FBAF"
+        },
+        {
+            "codepointSequence": [
+                "1F1EF",
+                "1F1F5"
+            ],
+            "kddi": "F6A5",
+            "softbank": "FBAB"
+        },
+        {
+            "codepointSequence": [
+                "1F1F0",
+                "1F1F7"
+            ],
+            "kddi": "F3D3",
+            "softbank": "FBB4"
+        },
+        {
+            "codepointSequence": [
+                "1F1F7",
+                "1F1FA"
+            ],
+            "kddi": "F349",
+            "softbank": "FBB2"
+        },
+        {
+            "codepointSequence": [
+                "1F1FA",
+                "1F1F8"
+            ],
+            "kddi": "F790",
+            "softbank": "FBAC"
+        },
+        {
+            "codepointSequence": [
+                "1F201"
+            ],
+            "softbank": "F7A3"
+        },
+        {
+            "codepointSequence": [
+                "1F202"
+            ],
+            "kddi": "F35A",
+            "softbank": "F7C8"
+        },
+        {
+            "codepointSequence": [
+                "1F21A"
+            ],
+            "softbank": "F7B6"
+        },
+        {
+            "codepointSequence": [
+                "1F22F"
+            ],
+            "kddi": "F35E",
+            "softbank": "F7CC"
+        },
+        {
+            "codepointSequence": [
+                "1F232"
+            ],
+            "docomo": "F9DD"
+        },
+        {
+            "codepointSequence": [
+                "1F233"
+            ],
+            "docomo": "F9DE",
+            "kddi": "F35D",
+            "softbank": "F7CB"
+        },
+        {
+            "codepointSequence": [
+                "1F234"
+            ],
+            "docomo": "F9DF"
+        },
+        {
+            "codepointSequence": [
+                "1F235"
+            ],
+            "docomo": "F9E0",
+            "kddi": "F35C",
+            "softbank": "F7CA"
+        },
+        {
+            "codepointSequence": [
+                "1F236"
+            ],
+            "softbank": "F7B5"
+        },
+        {
+            "codepointSequence": [
+                "1F237"
+            ],
+            "softbank": "F7B7"
+        },
+        {
+            "codepointSequence": [
+                "1F238"
+            ],
+            "softbank": "F7B8"
+        },
+        {
+            "codepointSequence": [
+                "1F239"
+            ],
+            "kddi": "F359",
+            "softbank": "F7C7"
+        },
+        {
+            "codepointSequence": [
+                "1F23A"
+            ],
+            "kddi": "F35F",
+            "softbank": "F7CD"
+        },
+        {
+            "codepointSequence": [
+                "1F250"
+            ],
+            "kddi": "F6D0",
+            "softbank": "F7C6"
+        },
+        {
+            "codepointSequence": [
+                "1F251"
+            ],
+            "kddi": "F7D8"
+        },
+        {
+            "codepointSequence": [
+                "1F300"
+            ],
+            "docomo": "F8A4",
+            "kddi": "F641",
+            "softbank": "FB84"
+        },
+        {
+            "codepointSequence": [
+                "1F301"
+            ],
+            "docomo": "F8A5",
+            "kddi": "F7B5"
+        },
+        {
+            "codepointSequence": [
+                "1F302"
+            ],
+            "docomo": "F8A6",
+            "kddi": "F3BC",
+            "softbank": "FB7C"
+        },
+        {
+            "codepointSequence": [
+                "1F303"
+            ],
+            "docomo": "F957",
+            "kddi": "F3C5",
+            "softbank": "FB8C"
+        },
+        {
+            "codepointSequence": [
+                "1F304"
+            ],
+            "softbank": "F98E"
+        },
+        {
+            "codepointSequence": [
+                "1F305"
+            ],
+            "kddi": "F3C8",
+            "softbank": "FB8A"
+        },
+        {
+            "codepointSequence": [
+                "1F306"
+            ],
+            "kddi": "F34D",
+            "softbank": "F787"
+        },
+        {
+            "codepointSequence": [
+                "1F307"
+            ],
+            "softbank": "FB8B"
+        },
+        {
+            "codepointSequence": [
+                "1F308"
+            ],
+            "kddi": "F3C6",
+            "softbank": "FB8D"
+        },
+        {
+            "codepointSequence": [
+                "1F309"
+            ],
+            "kddi": "F698"
+        },
+        {
+            "codepointSequence": [
+                "1F30A"
+            ],
+            "docomo": "F9E4",
+            "kddi": "F481",
+            "softbank": "FB7E"
+        },
+        {
+            "codepointSequence": [
+                "1F30B"
+            ],
+            "kddi": "F457"
+        },
+        {
+            "codepointSequence": [
+                "1F30C"
+            ],
+            "kddi": "F463"
+        },
+        {
+            "codepointSequence": [
+                "1F30F"
+            ],
+            "kddi": "F7D0"
+        },
+        {
+            "codepointSequence": [
+                "1F311"
+            ],
+            "docomo": "F940",
+            "kddi": "F7C5"
+        },
+        {
+            "codepointSequence": [
+                "1F313"
+            ],
+            "docomo": "F942",
+            "kddi": "F7C7"
+        },
+        {
+            "codepointSequence": [
+                "1F314"
+            ],
+            "docomo": "F941",
+            "kddi": "F7C6"
+        },
+        {
+            "codepointSequence": [
+                "1F315"
+            ],
+            "docomo": "F944"
+        },
+        {
+            "codepointSequence": [
+                "1F319"
+            ],
+            "docomo": "F943",
+            "kddi": "F65E",
+            "softbank": "F98D"
+        },
+        {
+            "codepointSequence": [
+                "1F31B"
+            ],
+            "kddi": "F661"
+        },
+        {
+            "codepointSequence": [
+                "1F31F"
+            ],
+            "softbank": "F9D5"
+        },
+        {
+            "codepointSequence": [
+                "1F320"
+            ],
+            "kddi": "F640"
+        },
+        {
+            "codepointSequence": [
+                "1F330"
+            ],
+            "kddi": "F3F9"
+        },
+        {
+            "codepointSequence": [
+                "1F331"
+            ],
+            "docomo": "F9EB",
+            "kddi": "F482"
+        },
+        {
+            "codepointSequence": [
+                "1F334"
+            ],
+            "kddi": "F6BB",
+            "softbank": "F9A7"
+        },
+        {
+            "codepointSequence": [
+                "1F335"
+            ],
+            "kddi": "F369",
+            "softbank": "F9A8"
+        },
+        {
+            "codepointSequence": [
+                "1F337"
+            ],
+            "docomo": "F9E8",
+            "kddi": "F6BD",
+            "softbank": "F9A4"
+        },
+        {
+            "codepointSequence": [
+                "1F338"
+            ],
+            "docomo": "F9ED",
+            "kddi": "F6A3",
+            "softbank": "F970"
+        },
+        {
+            "codepointSequence": [
+                "1F339"
+            ],
+            "kddi": "F7EA",
+            "softbank": "F972"
+        },
+        {
+            "codepointSequence": [
+                "1F33A"
+            ],
+            "kddi": "F367",
+            "softbank": "F9A3"
+        },
+        {
+            "codepointSequence": [
+                "1F33B"
+            ],
+            "kddi": "F6BC",
+            "softbank": "F9A5"
+        },
+        {
+            "codepointSequence": [
+                "1F33C"
+            ],
+            "kddi": "F44D"
+        },
+        {
+            "codepointSequence": [
+                "1F33D"
+            ],
+            "kddi": "F3F7"
+        },
+        {
+            "codepointSequence": [
+                "1F33E"
+            ],
+            "softbank": "FB85"
+        },
+        {
+            "codepointSequence": [
+                "1F33F"
+            ],
+            "kddi": "F487"
+        },
+        {
+            "codepointSequence": [
+                "1F340"
+            ],
+            "docomo": "F9E6",
+            "kddi": "F6EC",
+            "softbank": "F750"
+        },
+        {
+            "codepointSequence": [
+                "1F341"
+            ],
+            "docomo": "F9EC",
+            "kddi": "F6A7",
+            "softbank": "F758"
+        },
+        {
+            "codepointSequence": [
+                "1F342"
+            ],
+            "kddi": "F340",
+            "softbank": "F759"
+        },
+        {
+            "codepointSequence": [
+                "1F343"
+            ],
+            "softbank": "FB88"
+        },
+        {
+            "codepointSequence": [
+                "1F344"
+            ],
+            "kddi": "F3F8"
+        },
+        {
+            "codepointSequence": [
+                "1F345"
+            ],
+            "kddi": "F38F",
+            "softbank": "F9E9"
+        },
+        {
+            "codepointSequence": [
+                "1F346"
+            ],
+            "kddi": "F390",
+            "softbank": "F9EA"
+        },
+        {
+            "codepointSequence": [
+                "1F347"
+            ],
+            "kddi": "F3F5"
+        },
+        {
+            "codepointSequence": [
+                "1F348"
+            ],
+            "kddi": "F3F3"
+        },
+        {
+            "codepointSequence": [
+                "1F349"
+            ],
+            "kddi": "F6A6",
+            "softbank": "F9E8"
+        },
+        {
+            "codepointSequence": [
+                "1F34A"
+            ],
+            "kddi": "F38E",
+            "softbank": "F9E6"
+        },
+        {
+            "codepointSequence": [
+                "1F34C"
+            ],
+            "docomo": "F9E9",
+            "kddi": "F3F6"
+        },
+        {
+            "codepointSequence": [
+                "1F34D"
+            ],
+            "kddi": "F3F4"
+        },
+        {
+            "codepointSequence": [
+                "1F34E"
+            ],
+            "docomo": "F9EA",
+            "kddi": "F38D",
+            "softbank": "F9E5"
+        },
+        {
+            "codepointSequence": [
+                "1F34F"
+            ],
+            "kddi": "F45E"
+        },
+        {
+            "codepointSequence": [
+                "1F351"
+            ],
+            "kddi": "F3FA"
+        },
+        {
+            "codepointSequence": [
+                "1F352"
+            ],
+            "docomo": "F9E7",
+            "kddi": "F6AB"
+        },
+        {
+            "codepointSequence": [
+                "1F353"
+            ],
+            "kddi": "F6AD",
+            "softbank": "F9E7"
+        },
+        {
+            "codepointSequence": [
+                "1F354"
+            ],
+            "docomo": "F8D4",
+            "kddi": "F6AF",
+            "softbank": "F760"
+        },
+        {
+            "codepointSequence": [
+                "1F355"
+            ],
+            "kddi": "F3FC"
+        },
+        {
+            "codepointSequence": [
+                "1F356"
+            ],
+            "kddi": "F69D"
+        },
+        {
+            "codepointSequence": [
+                "1F357"
+            ],
+            "kddi": "F440"
+        },
+        {
+            "codepointSequence": [
+                "1F358"
+            ],
+            "kddi": "F387",
+            "softbank": "F9DD"
+        },
+        {
+            "codepointSequence": [
+                "1F359"
+            ],
+            "docomo": "F9EE",
+            "kddi": "F6AE",
+            "softbank": "F9E2"
+        },
+        {
+            "codepointSequence": [
+                "1F35A"
+            ],
+            "kddi": "F388",
+            "softbank": "F9DE"
+        },
+        {
+            "codepointSequence": [
+                "1F35B"
+            ],
+            "kddi": "F38A",
+            "softbank": "F9E1"
+        },
+        {
+            "codepointSequence": [
+                "1F35C"
+            ],
+            "docomo": "F9F1",
+            "kddi": "F7D1",
+            "softbank": "F9E0"
+        },
+        {
+            "codepointSequence": [
+                "1F35D"
+            ],
+            "kddi": "F389",
+            "softbank": "F9DF"
+        },
+        {
+            "codepointSequence": [
+                "1F35E"
+            ],
+            "docomo": "F9F2",
+            "kddi": "F383",
+            "softbank": "F9D9"
+        },
+        {
+            "codepointSequence": [
+                "1F35F"
+            ],
+            "kddi": "F385",
+            "softbank": "F9DB"
+        },
+        {
+            "codepointSequence": [
+                "1F360"
+            ],
+            "kddi": "F3FB"
+        },
+        {
+            "codepointSequence": [
+                "1F361"
+            ],
+            "kddi": "F386",
+            "softbank": "F9DC"
+        },
+        {
+            "codepointSequence": [
+                "1F362"
+            ],
+            "kddi": "F38B",
+            "softbank": "F9E3"
+        },
+        {
+            "codepointSequence": [
+                "1F363"
+            ],
+            "kddi": "F38C",
+            "softbank": "F9E4"
+        },
+        {
+            "codepointSequence": [
+                "1F364"
+            ],
+            "kddi": "F474"
+        },
+        {
+            "codepointSequence": [
+                "1F365"
+            ],
+            "kddi": "F6C6"
+        },
+        {
+            "codepointSequence": [
+                "1F366"
+            ],
+            "kddi": "F384",
+            "softbank": "F9DA"
+        },
+        {
+            "codepointSequence": [
+                "1F367"
+            ],
+            "kddi": "F3BE",
+            "softbank": "FB80"
+        },
+        {
+            "codepointSequence": [
+                "1F368"
+            ],
+            "kddi": "F44E"
+        },
+        {
+            "codepointSequence": [
+                "1F369"
+            ],
+            "kddi": "F44F"
+        },
+        {
+            "codepointSequence": [
+                "1F36A"
+            ],
+            "kddi": "F450"
+        },
+        {
+            "codepointSequence": [
+                "1F36B"
+            ],
+            "kddi": "F451"
+        },
+        {
+            "codepointSequence": [
+                "1F36C"
+            ],
+            "kddi": "F452"
+        },
+        {
+            "codepointSequence": [
+                "1F36D"
+            ],
+            "kddi": "F453"
+        },
+        {
+            "codepointSequence": [
+                "1F36E"
+            ],
+            "kddi": "F45A"
+        },
+        {
+            "codepointSequence": [
+                "1F36F"
+            ],
+            "kddi": "F45D"
+        },
+        {
+            "codepointSequence": [
+                "1F370"
+            ],
+            "docomo": "F9EF",
+            "kddi": "F6A9",
+            "softbank": "F987"
+        },
+        {
+            "codepointSequence": [
+                "1F371"
+            ],
+            "kddi": "F391",
+            "softbank": "F9EC"
+        },
+        {
+            "codepointSequence": [
+                "1F372"
+            ],
+            "kddi": "F392",
+            "softbank": "F9ED"
+        },
+        {
+            "codepointSequence": [
+                "1F373"
+            ],
+            "kddi": "F6AA",
+            "softbank": "F788"
+        },
+        {
+            "codepointSequence": [
+                "1F374"
+            ],
+            "docomo": "F8D0",
+            "kddi": "F685",
+            "softbank": "F984"
+        },
+        {
+            "codepointSequence": [
+                "1F375"
+            ],
+            "docomo": "F9C3",
+            "kddi": "F382",
+            "softbank": "F9D8"
+        },
+        {
+            "codepointSequence": [
+                "1F376"
+            ],
+            "docomo": "F9F0",
+            "kddi": "F36A",
+            "softbank": "F9AB"
+        },
+        {
+            "codepointSequence": [
+                "1F377"
+            ],
+            "docomo": "F9FB",
+            "kddi": "F69A"
+        },
+        {
+            "codepointSequence": [
+                "1F378"
+            ],
+            "docomo": "F8D2",
+            "kddi": "F69B",
+            "softbank": "F985"
+        },
+        {
+            "codepointSequence": [
+                "1F379"
+            ],
+            "kddi": "F442"
+        },
+        {
+            "codepointSequence": [
+                "1F37A"
+            ],
+            "docomo": "F8D3",
+            "kddi": "F69C",
+            "softbank": "F988"
+        },
+        {
+            "codepointSequence": [
+                "1F37B"
+            ],
+            "kddi": "F36B",
+            "softbank": "F9AC"
+        },
+        {
+            "codepointSequence": [
+                "1F380"
+            ],
+            "docomo": "F8E5",
+            "kddi": "F7BC",
+            "softbank": "F9B4"
+        },
+        {
+            "codepointSequence": [
+                "1F381"
+            ],
+            "docomo": "F8E6",
+            "kddi": "F6A8",
+            "softbank": "F752"
+        },
+        {
+            "codepointSequence": [
+                "1F382"
+            ],
+            "docomo": "F8E7",
+            "kddi": "F7BD",
+            "softbank": "F9EB"
+        },
+        {
+            "codepointSequence": [
+                "1F383"
+            ],
+            "kddi": "F3C2",
+            "softbank": "FB86"
+        },
+        {
+            "codepointSequence": [
+                "1F384"
+            ],
+            "docomo": "F948",
+            "kddi": "F6A2",
+            "softbank": "F973"
+        },
+        {
+            "codepointSequence": [
+                "1F385"
+            ],
+            "kddi": "F3C4",
+            "softbank": "FB89"
+        },
+        {
+            "codepointSequence": [
+                "1F386"
+            ],
+            "kddi": "F7FC",
+            "softbank": "F757"
+        },
+        {
+            "codepointSequence": [
+                "1F387"
+            ],
+            "kddi": "F3BF",
+            "softbank": "FB81"
+        },
+        {
+            "codepointSequence": [
+                "1F388"
+            ],
+            "kddi": "F36E",
+            "softbank": "F9B0"
+        },
+        {
+            "codepointSequence": [
+                "1F389"
+            ],
+            "kddi": "F36F",
+            "softbank": "F9B2"
+        },
+        {
+            "codepointSequence": [
+                "1F38A"
+            ],
+            "kddi": "F647"
+        },
+        {
+            "codepointSequence": [
+                "1F38B"
+            ],
+            "kddi": "F441"
+        },
+        {
+            "codepointSequence": [
+                "1F38C"
+            ],
+            "kddi": "F34C",
+            "softbank": "F784"
+        },
+        {
+            "codepointSequence": [
+                "1F38D"
+            ],
+            "kddi": "F3B7",
+            "softbank": "FB76"
+        },
+        {
+            "codepointSequence": [
+                "1F38E"
+            ],
+            "kddi": "F3B8",
+            "softbank": "FB78"
+        },
+        {
+            "codepointSequence": [
+                "1F38F"
+            ],
+            "kddi": "F3BB",
+            "softbank": "FB7B"
+        },
+        {
+            "codepointSequence": [
+                "1F390"
+            ],
+            "kddi": "F3C1",
+            "softbank": "FB83"
+        },
+        {
+            "codepointSequence": [
+                "1F391"
+            ],
+            "kddi": "F3C3",
+            "softbank": "FB87"
+        },
+        {
+            "codepointSequence": [
+                "1F392"
+            ],
+            "kddi": "F3BA",
+            "softbank": "FB7A"
+        },
+        {
+            "codepointSequence": [
+                "1F393"
+            ],
+            "kddi": "F3B9",
+            "softbank": "FB79"
+        },
+        {
+            "codepointSequence": [
+                "1F3A0"
+            ],
+            "docomo": "F8DA"
+        },
+        {
+            "codepointSequence": [
+                "1F3A1"
+            ],
+            "kddi": "F645",
+            "softbank": "F764"
+        },
+        {
+            "codepointSequence": [
+                "1F3A2"
+            ],
+            "kddi": "F3B6",
+            "softbank": "FB73"
+        },
+        {
+            "codepointSequence": [
+                "1F3A3"
+            ],
+            "kddi": "F446"
+        },
+        {
+            "codepointSequence": [
+                "1F3A4"
+            ],
+            "docomo": "F8D7",
+            "kddi": "F6DC",
+            "softbank": "F97C"
+        },
+        {
+            "codepointSequence": [
+                "1F3A5"
+            ],
+            "docomo": "F8D8",
+            "kddi": "F6F0",
+            "softbank": "F97D"
+        },
+        {
+            "codepointSequence": [
+                "1F3A6"
+            ],
+            "softbank": "FBA7"
+        },
+        {
+            "codepointSequence": [
+                "1F3A7"
+            ],
+            "docomo": "F8DB",
+            "kddi": "F6E1",
+            "softbank": "F9AA"
+        },
+        {
+            "codepointSequence": [
+                "1F3A8"
+            ],
+            "docomo": "F8DC",
+            "kddi": "F7B9",
+            "softbank": "FBA2"
+        },
+        {
+            "codepointSequence": [
+                "1F3A9"
+            ],
+            "docomo": "F8DD",
+            "kddi": "F3C9",
+            "softbank": "FBA3"
+        },
+        {
+            "codepointSequence": [
+                "1F3AA"
+            ],
+            "docomo": "F8DE",
+            "kddi": "F7BB"
+        },
+        {
+            "codepointSequence": [
+                "1F3AB"
+            ],
+            "docomo": "F8DF",
+            "kddi": "F676",
+            "softbank": "F765"
+        },
+        {
+            "codepointSequence": [
+                "1F3AC"
+            ],
+            "docomo": "F950",
+            "kddi": "F697",
+            "softbank": "F9C4"
+        },
+        {
+            "codepointSequence": [
+                "1F3AD"
+            ],
+            "kddi": "F7BA"
+        },
+        {
+            "codepointSequence": [
+                "1F3AE"
+            ],
+            "docomo": "F8EC",
+            "kddi": "F69F"
+        },
+        {
+            "codepointSequence": [
+                "1F3AF"
+            ],
+            "kddi": "F69E",
+            "softbank": "F770"
+        },
+        {
+            "codepointSequence": [
+                "1F3B0"
+            ],
+            "kddi": "F646",
+            "softbank": "F773"
+        },
+        {
+            "codepointSequence": [
+                "1F3B1"
+            ],
+            "kddi": "F3B1",
+            "softbank": "FB6C"
+        },
+        {
+            "codepointSequence": [
+                "1F3B2"
+            ],
+            "kddi": "F6A1"
+        },
+        {
+            "codepointSequence": [
+                "1F3B3"
+            ],
+            "kddi": "F447"
+        },
+        {
+            "codepointSequence": [
+                "1F3B4"
+            ],
+            "kddi": "F472"
+        },
+        {
+            "codepointSequence": [
+                "1F3B5"
+            ],
+            "docomo": "F99B",
+            "kddi": "F7EE",
+            "softbank": "F97E"
+        },
+        {
+            "codepointSequence": [
+                "1F3B6"
+            ],
+            "docomo": "F9A4",
+            "kddi": "F6DE",
+            "softbank": "F9C6"
+        },
+        {
+            "codepointSequence": [
+                "1F3B7"
+            ],
+            "softbank": "F981"
+        },
+        {
+            "codepointSequence": [
+                "1F3B8"
+            ],
+            "kddi": "F6DF",
+            "softbank": "F982"
+        },
+        {
+            "codepointSequence": [
+                "1F3B9"
+            ],
+            "kddi": "F444"
+        },
+        {
+            "codepointSequence": [
+                "1F3BA"
+            ],
+            "kddi": "F3B0",
+            "softbank": "F983"
+        },
+        {
+            "codepointSequence": [
+                "1F3BB"
+            ],
+            "kddi": "F6E0"
+        },
+        {
+            "codepointSequence": [
+                "1F3BC"
+            ],
+            "kddi": "F3A0"
+        },
+        {
+            "codepointSequence": [
+                "1F3BD"
+            ],
+            "docomo": "F8B3"
+        },
+        {
+            "codepointSequence": [
+                "1F3BE"
+            ],
+            "docomo": "F8B6",
+            "kddi": "F690",
+            "softbank": "F955"
+        },
+        {
+            "codepointSequence": [
+                "1F3BF"
+            ],
+            "docomo": "F8B8",
+            "kddi": "F380",
+            "softbank": "F953"
+        },
+        {
+            "codepointSequence": [
+                "1F3C0"
+            ],
+            "docomo": "F8B9",
+            "kddi": "F7B7",
+            "softbank": "FB6A"
+        },
+        {
+            "codepointSequence": [
+                "1F3C1"
+            ],
+            "docomo": "F8BA",
+            "kddi": "F692",
+            "softbank": "F772"
+        },
+        {
+            "codepointSequence": [
+                "1F3C2"
+            ],
+            "docomo": "F9B7",
+            "kddi": "F691"
+        },
+        {
+            "codepointSequence": [
+                "1F3C3"
+            ],
+            "docomo": "F9D8",
+            "kddi": "F643",
+            "softbank": "F755"
+        },
+        {
+            "codepointSequence": [
+                "1F3C4"
+            ],
+            "kddi": "F445",
+            "softbank": "F957"
+        },
+        {
+            "codepointSequence": [
+                "1F3C6"
+            ],
+            "kddi": "F346",
+            "softbank": "F771"
+        },
+        {
+            "codepointSequence": [
+                "1F3C8"
+            ],
+            "kddi": "F694",
+            "softbank": "FB6B"
+        },
+        {
+            "codepointSequence": [
+                "1F3CA"
+            ],
+            "kddi": "F3B2",
+            "softbank": "FB6D"
+        },
+        {
+            "codepointSequence": [
+                "1F3E0"
+            ],
+            "docomo": "F8C4",
+            "kddi": "F684",
+            "softbank": "F976"
+        },
+        {
+            "codepointSequence": [
+                "1F3E1"
+            ],
+            "kddi": "F7E0"
+        },
+        {
+            "codepointSequence": [
+                "1F3E2"
+            ],
+            "docomo": "F8C5",
+            "kddi": "F686",
+            "softbank": "F978"
+        },
+        {
+            "codepointSequence": [
+                "1F3E3"
+            ],
+            "docomo": "F8C6",
+            "kddi": "F351",
+            "softbank": "F794"
+        },
+        {
+            "codepointSequence": [
+                "1F3E5"
+            ],
+            "docomo": "F8C7",
+            "kddi": "F352",
+            "softbank": "F796"
+        },
+        {
+            "codepointSequence": [
+                "1F3E6"
+            ],
+            "docomo": "F8C8",
+            "kddi": "F683",
+            "softbank": "F78E"
+        },
+        {
+            "codepointSequence": [
+                "1F3E7"
+            ],
+            "docomo": "F8C9",
+            "kddi": "F67B",
+            "softbank": "F795"
+        },
+        {
+            "codepointSequence": [
+                "1F3E8"
+            ],
+            "docomo": "F8CA",
+            "kddi": "F354",
+            "softbank": "F799"
+        },
+        {
+            "codepointSequence": [
+                "1F3E9"
+            ],
+            "kddi": "F3C7",
+            "softbank": "FBA1"
+        },
+        {
+            "codepointSequence": [
+                "1F3EA"
+            ],
+            "docomo": "F8CB",
+            "kddi": "F67C",
+            "softbank": "F797"
+        },
+        {
+            "codepointSequence": [
+                "1F3EB"
+            ],
+            "docomo": "F9E3",
+            "kddi": "F353",
+            "softbank": "F798"
+        },
+        {
+            "codepointSequence": [
+                "1F3EC"
+            ],
+            "kddi": "F3CA",
+            "softbank": "FBA4"
+        },
+        {
+            "codepointSequence": [
+                "1F3ED"
+            ],
+            "kddi": "F3CD",
+            "softbank": "FBA8"
+        },
+        {
+            "codepointSequence": [
+                "1F3EE"
+            ],
+            "kddi": "F696"
+        },
+        {
+            "codepointSequence": [
+                "1F3EF"
+            ],
+            "kddi": "F3CB",
+            "softbank": "FBA5"
+        },
+        {
+            "codepointSequence": [
+                "1F3F0"
+            ],
+            "kddi": "F3CC",
+            "softbank": "FBA6"
+        },
+        {
+            "codepointSequence": [
+                "1F40C"
+            ],
+            "docomo": "F9F3",
+            "kddi": "F483"
+        },
+        {
+            "codepointSequence": [
+                "1F40D"
+            ],
+            "kddi": "F3E3",
+            "softbank": "FBCD"
+        },
+        {
+            "codepointSequence": [
+                "1F40E"
+            ],
+            "softbank": "F774"
+        },
+        {
+            "codepointSequence": [
+                "1F411"
+            ],
+            "softbank": "FBC9"
+        },
+        {
+            "codepointSequence": [
+                "1F412"
+            ],
+            "softbank": "FBC8"
+        },
+        {
+            "codepointSequence": [
+                "1F414"
+            ],
+            "kddi": "F3E4",
+            "softbank": "FBCE"
+        },
+        {
+            "codepointSequence": [
+                "1F417"
+            ],
+            "kddi": "F3E5",
+            "softbank": "FBCF"
+        },
+        {
+            "codepointSequence": [
+                "1F418"
+            ],
+            "kddi": "F3E0",
+            "softbank": "FBC6"
+        },
+        {
+            "codepointSequence": [
+                "1F419"
+            ],
+            "kddi": "F7F7",
+            "softbank": "F74A"
+        },
+        {
+            "codepointSequence": [
+                "1F41A"
+            ],
+            "kddi": "F3C0",
+            "softbank": "FB82"
+        },
+        {
+            "codepointSequence": [
+                "1F41B"
+            ],
+            "kddi": "F3DF",
+            "softbank": "FBC5"
+        },
+        {
+            "codepointSequence": [
+                "1F41C"
+            ],
+            "kddi": "F6B6"
+        },
+        {
+            "codepointSequence": [
+                "1F41D"
+            ],
+            "kddi": "F45B"
+        },
+        {
+            "codepointSequence": [
+                "1F41E"
+            ],
+            "kddi": "F45C"
+        },
+        {
+            "codepointSequence": [
+                "1F41F"
+            ],
+            "docomo": "F9F6",
+            "softbank": "F959"
+        },
+        {
+            "codepointSequence": [
+                "1F420"
+            ],
+            "kddi": "F3DE",
+            "softbank": "FBC2"
+        },
+        {
+            "codepointSequence": [
+                "1F421"
+            ],
+            "kddi": "F6AC"
+        },
+        {
+            "codepointSequence": [
+                "1F422"
+            ],
+            "kddi": "F347"
+        },
+        {
+            "codepointSequence": [
+                "1F423"
+            ],
+            "kddi": "F34E"
+        },
+        {
+            "codepointSequence": [
+                "1F424"
+            ],
+            "docomo": "F9F4",
+            "kddi": "F6B9",
+            "softbank": "FBC3"
+        },
+        {
+            "codepointSequence": [
+                "1F425"
+            ],
+            "kddi": "F47A"
+        },
+        {
+            "codepointSequence": [
+                "1F426"
+            ],
+            "softbank": "FBC1"
+        },
+        {
+            "codepointSequence": [
+                "1F427"
+            ],
+            "docomo": "F9F5",
+            "kddi": "F6B5",
+            "softbank": "F996"
+        },
+        {
+            "codepointSequence": [
+                "1F428"
+            ],
+            "kddi": "F3E1",
+            "softbank": "FBC7"
+        },
+        {
+            "codepointSequence": [
+                "1F429"
+            ],
+            "kddi": "F6B8"
+        },
+        {
+            "codepointSequence": [
+                "1F42B"
+            ],
+            "kddi": "F3E6",
+            "softbank": "FBD0"
+        },
+        {
+            "codepointSequence": [
+                "1F42C"
+            ],
+            "kddi": "F3DC",
+            "softbank": "FBC0"
+        },
+        {
+            "codepointSequence": [
+                "1F42D"
+            ],
+            "kddi": "F7F2",
+            "softbank": "F994"
+        },
+        {
+            "codepointSequence": [
+                "1F42E"
+            ],
+            "kddi": "F3E2",
+            "softbank": "FBCB"
+        },
+        {
+            "codepointSequence": [
+                "1F42F"
+            ],
+            "kddi": "F7F0",
+            "softbank": "F991"
+        },
+        {
+            "codepointSequence": [
+                "1F430"
+            ],
+            "kddi": "F6B0",
+            "softbank": "FBCC"
+        },
+        {
+            "codepointSequence": [
+                "1F431"
+            ],
+            "docomo": "F946",
+            "kddi": "F6B4",
+            "softbank": "F990"
+        },
+        {
+            "codepointSequence": [
+                "1F432"
+            ],
+            "kddi": "F443"
+        },
+        {
+            "codepointSequence": [
+                "1F433"
+            ],
+            "kddi": "F648",
+            "softbank": "F995"
+        },
+        {
+            "codepointSequence": [
+                "1F434"
+            ],
+            "docomo": "F9F9",
+            "kddi": "F6B1",
+            "softbank": "F95A"
+        },
+        {
+            "codepointSequence": [
+                "1F435"
+            ],
+            "kddi": "F6B2",
+            "softbank": "F749"
+        },
+        {
+            "codepointSequence": [
+                "1F436"
+            ],
+            "docomo": "F945",
+            "kddi": "F6BA",
+            "softbank": "F993"
+        },
+        {
+            "codepointSequence": [
+                "1F437"
+            ],
+            "docomo": "F9FA",
+            "kddi": "F6B7",
+            "softbank": "F74B"
+        },
+        {
+            "codepointSequence": [
+                "1F438"
+            ],
+            "kddi": "F6B3",
+            "softbank": "FBD1"
+        },
+        {
+            "codepointSequence": [
+                "1F439"
+            ],
+            "softbank": "FBC4"
+        },
+        {
+            "codepointSequence": [
+                "1F43A"
+            ],
+            "softbank": "FBCA"
+        },
+        {
+            "codepointSequence": [
+                "1F43B"
+            ],
+            "kddi": "F7F1",
+            "softbank": "F992"
+        },
+        {
+            "codepointSequence": [
+                "1F43C"
+            ],
+            "kddi": "F44A"
+        },
+        {
+            "codepointSequence": [
+                "1F43D"
+            ],
+            "kddi": "F44C"
+        },
+        {
+            "codepointSequence": [
+                "1F43E"
+            ],
+            "kddi": "F6C7"
+        },
+        {
+            "codepointSequence": [
+                "1F440"
+            ],
+            "docomo": "F8F2",
+            "kddi": "F7C1",
+            "softbank": "FB59"
+        },
+        {
+            "codepointSequence": [
+                "1F442"
+            ],
+            "docomo": "F8F3",
+            "kddi": "F7C2",
+            "softbank": "FB5B"
+        },
+        {
+            "codepointSequence": [
+                "1F443"
+            ],
+            "kddi": "F3A4",
+            "softbank": "FB5A"
+        },
+        {
+            "codepointSequence": [
+                "1F444"
+            ],
+            "kddi": "F3A5",
+            "softbank": "FB5C"
+        },
+        {
+            "codepointSequence": [
+                "1F445"
+            ],
+            "kddi": "F44B"
+        },
+        {
+            "codepointSequence": [
+                "1F446"
+            ],
+            "kddi": "F360",
+            "softbank": "F7CE"
+        },
+        {
+            "codepointSequence": [
+                "1F447"
+            ],
+            "kddi": "F361",
+            "softbank": "F7CF"
+        },
+        {
+            "codepointSequence": [
+                "1F448"
+            ],
+            "kddi": "F6D8",
+            "softbank": "F7D0"
+        },
+        {
+            "codepointSequence": [
+                "1F449"
+            ],
+            "kddi": "F6D9",
+            "softbank": "F7D1"
+        },
+        {
+            "codepointSequence": [
+                "1F44A"
+            ],
+            "docomo": "F9A2",
+            "kddi": "F6CC",
+            "softbank": "F94D"
+        },
+        {
+            "codepointSequence": [
+                "1F44B"
+            ],
+            "kddi": "F3AA",
+            "softbank": "FB5E"
+        },
+        {
+            "codepointSequence": [
+                "1F44C"
+            ],
+            "kddi": "F3A8",
+            "softbank": "FB60"
+        },
+        {
+            "codepointSequence": [
+                "1F44D"
+            ],
+            "docomo": "F9CC",
+            "kddi": "F6D2",
+            "softbank": "F94E"
+        },
+        {
+            "codepointSequence": [
+                "1F44E"
+            ],
+            "kddi": "F3A9",
+            "softbank": "FB61"
+        },
+        {
+            "codepointSequence": [
+                "1F44F"
+            ],
+            "kddi": "F3A7",
+            "softbank": "FB5F"
+        },
+        {
+            "codepointSequence": [
+                "1F450"
+            ],
+            "softbank": "FB62"
+        },
+        {
+            "codepointSequence": [
+                "1F451"
+            ],
+            "docomo": "F9BF",
+            "kddi": "F7F9",
+            "softbank": "F74E"
+        },
+        {
+            "codepointSequence": [
+                "1F452"
+            ],
+            "kddi": "F371",
+            "softbank": "F9B8"
+        },
+        {
+            "codepointSequence": [
+                "1F453"
+            ],
+            "docomo": "F8FB",
+            "kddi": "F6D7"
+        },
+        {
+            "codepointSequence": [
+                "1F454"
+            ],
+            "kddi": "F366",
+            "softbank": "F9A2"
+        },
+        {
+            "codepointSequence": [
+                "1F455"
+            ],
+            "docomo": "F9B3",
+            "kddi": "F7E6",
+            "softbank": "F946"
+        },
+        {
+            "codepointSequence": [
+                "1F456"
+            ],
+            "docomo": "F9B6",
+            "kddi": "F47B"
+        },
+        {
+            "codepointSequence": [
+                "1F457"
+            ],
+            "kddi": "F46F",
+            "softbank": "F9B9"
+        },
+        {
+            "codepointSequence": [
+                "1F458"
+            ],
+            "kddi": "F376",
+            "softbank": "F9C1"
+        },
+        {
+            "codepointSequence": [
+                "1F459"
+            ],
+            "kddi": "F377",
+            "softbank": "F9C2"
+        },
+        {
+            "codepointSequence": [
+                "1F45A"
+            ],
+            "kddi": "F6E6"
+        },
+        {
+            "codepointSequence": [
+                "1F45B"
+            ],
+            "docomo": "F9B4",
+            "kddi": "F6DD"
+        },
+        {
+            "codepointSequence": [
+                "1F45C"
+            ],
+            "docomo": "F8E3",
+            "kddi": "F674",
+            "softbank": "F9C3"
+        },
+        {
+            "codepointSequence": [
+                "1F45D"
+            ],
+            "docomo": "F951"
+        },
+        {
+            "codepointSequence": [
+                "1F45E"
+            ],
+            "kddi": "F7E7"
+        },
+        {
+            "codepointSequence": [
+                "1F45F"
+            ],
+            "docomo": "F8FA",
+            "kddi": "F3EC",
+            "softbank": "F947"
+        },
+        {
+            "codepointSequence": [
+                "1F460"
+            ],
+            "docomo": "F8D5",
+            "kddi": "F6F3",
+            "softbank": "F77E"
+        },
+        {
+            "codepointSequence": [
+                "1F461"
+            ],
+            "softbank": "F9BA"
+        },
+        {
+            "codepointSequence": [
+                "1F462"
+            ],
+            "kddi": "F372",
+            "softbank": "F9BB"
+        },
+        {
+            "codepointSequence": [
+                "1F463"
+            ],
+            "docomo": "F8F9",
+            "kddi": "F3EB",
+            "softbank": "FBD6"
+        },
+        {
+            "codepointSequence": [
+                "1F464"
+            ],
+            "docomo": "F955"
+        },
+        {
+            "codepointSequence": [
+                "1F466"
+            ],
+            "softbank": "F941"
+        },
+        {
+            "codepointSequence": [
+                "1F467"
+            ],
+            "softbank": "F942"
+        },
+        {
+            "codepointSequence": [
+                "1F468"
+            ],
+            "kddi": "F6D5",
+            "softbank": "F944"
+        },
+        {
+            "codepointSequence": [
+                "1F469"
+            ],
+            "kddi": "F6D3",
+            "softbank": "F945"
+        },
+        {
+            "codepointSequence": [
+                "1F46A"
+            ],
+            "kddi": "F6DA"
+        },
+        {
+            "codepointSequence": [
+                "1F46B"
+            ],
+            "softbank": "FB68"
+        },
+        {
+            "codepointSequence": [
+                "1F46E"
+            ],
+            "kddi": "F350",
+            "softbank": "F793"
+        },
+        {
+            "codepointSequence": [
+                "1F46F"
+            ],
+            "kddi": "F3AF",
+            "softbank": "FB69"
+        },
+        {
+            "codepointSequence": [
+                "1F470"
+            ],
+            "kddi": "F3BD"
+        },
+        {
+            "codepointSequence": [
+                "1F471"
+            ],
+            "kddi": "F3D4",
+            "softbank": "FBB5"
+        },
+        {
+            "codepointSequence": [
+                "1F472"
+            ],
+            "kddi": "F3D5",
+            "softbank": "FBB6"
+        },
+        {
+            "codepointSequence": [
+                "1F473"
+            ],
+            "kddi": "F3D6",
+            "softbank": "FBB7"
+        },
+        {
+            "codepointSequence": [
+                "1F474"
+            ],
+            "kddi": "F3D7",
+            "softbank": "FBB8"
+        },
+        {
+            "codepointSequence": [
+                "1F475"
+            ],
+            "kddi": "F3D8",
+            "softbank": "FBB9"
+        },
+        {
+            "codepointSequence": [
+                "1F476"
+            ],
+            "kddi": "F3D9",
+            "softbank": "FBBA"
+        },
+        {
+            "codepointSequence": [
+                "1F477"
+            ],
+            "kddi": "F3DA",
+            "softbank": "FBBB"
+        },
+        {
+            "codepointSequence": [
+                "1F478"
+            ],
+            "kddi": "F3DB",
+            "softbank": "FBBC"
+        },
+        {
+            "codepointSequence": [
+                "1F479"
+            ],
+            "kddi": "F448"
+        },
+        {
+            "codepointSequence": [
+                "1F47A"
+            ],
+            "kddi": "F449"
+        },
+        {
+            "codepointSequence": [
+                "1F47B"
+            ],
+            "kddi": "F6A4",
+            "softbank": "F75B"
+        },
+        {
+            "codepointSequence": [
+                "1F47C"
+            ],
+            "kddi": "F7EF",
+            "softbank": "F98F"
+        },
+        {
+            "codepointSequence": [
+                "1F47D"
+            ],
+            "kddi": "F6E7",
+            "softbank": "F74C"
+        },
+        {
+            "codepointSequence": [
+                "1F47E"
+            ],
+            "kddi": "F6C5",
+            "softbank": "F76B"
+        },
+        {
+            "codepointSequence": [
+                "1F47F"
+            ],
+            "kddi": "F6C8",
+            "softbank": "F75A"
+        },
+        {
+            "codepointSequence": [
+                "1F480"
+            ],
+            "kddi": "F6D1",
+            "softbank": "F75C"
+        },
+        {
+            "codepointSequence": [
+                "1F481"
+            ],
+            "softbank": "F7F3"
+        },
+        {
+            "codepointSequence": [
+                "1F482"
+            ],
+            "softbank": "FBBE"
+        },
+        {
+            "codepointSequence": [
+                "1F483"
+            ],
+            "kddi": "F3DD",
+            "softbank": "FBBF"
+        },
+        {
+            "codepointSequence": [
+                "1F484"
+            ],
+            "docomo": "F9B5",
+            "kddi": "F6E2",
+            "softbank": "F9BC"
+        },
+        {
+            "codepointSequence": [
+                "1F485"
+            ],
+            "kddi": "F373",
+            "softbank": "F9BD"
+        },
+        {
+            "codepointSequence": [
+                "1F486"
+            ],
+            "kddi": "F6E4",
+            "softbank": "F9BE"
+        },
+        {
+            "codepointSequence": [
+                "1F487"
+            ],
+            "kddi": "F374",
+            "softbank": "F9BF"
+        },
+        {
+            "codepointSequence": [
+                "1F488"
+            ],
+            "kddi": "F375",
+            "softbank": "F9C0"
+        },
+        {
+            "codepointSequence": [
+                "1F489"
+            ],
+            "kddi": "F6E9",
+            "softbank": "F77B"
+        },
+        {
+            "codepointSequence": [
+                "1F48A"
+            ],
+            "kddi": "F36D",
+            "softbank": "F9AF"
+        },
+        {
+            "codepointSequence": [
+                "1F48B"
+            ],
+            "docomo": "F99E",
+            "kddi": "F6C4",
+            "softbank": "F943"
+        },
+        {
+            "codepointSequence": [
+                "1F48C"
+            ],
+            "docomo": "F9BC",
+            "kddi": "F47C"
+        },
+        {
+            "codepointSequence": [
+                "1F48D"
+            ],
+            "docomo": "F9C0",
+            "kddi": "F6ED",
+            "softbank": "F974"
+        },
+        {
+            "codepointSequence": [
+                "1F48E"
+            ],
+            "softbank": "F975"
+        },
+        {
+            "codepointSequence": [
+                "1F48F"
+            ],
+            "kddi": "F7FA",
+            "softbank": "F751"
+        },
+        {
+            "codepointSequence": [
+                "1F490"
+            ],
+            "kddi": "F368",
+            "softbank": "F9A6"
+        },
+        {
+            "codepointSequence": [
+                "1F491"
+            ],
+            "kddi": "F3AE",
+            "softbank": "FB65"
+        },
+        {
+            "codepointSequence": [
+                "1F492"
+            ],
+            "softbank": "FB7D"
+        },
+        {
+            "codepointSequence": [
+                "1F493"
+            ],
+            "docomo": "F992",
+            "kddi": "F479",
+            "softbank": "F9C7"
+        },
+        {
+            "codepointSequence": [
+                "1F494"
+            ],
+            "docomo": "F993",
+            "kddi": "F64F",
+            "softbank": "F963"
+        },
+        {
+            "codepointSequence": [
+                "1F495"
+            ],
+            "docomo": "F994",
+            "kddi": "F650"
+        },
+        {
+            "codepointSequence": [
+                "1F496"
+            ],
+            "kddi": "F379"
+        },
+        {
+            "codepointSequence": [
+                "1F497"
+            ],
+            "softbank": "F9C8"
+        },
+        {
+            "codepointSequence": [
+                "1F498"
+            ],
+            "kddi": "F6C3",
+            "softbank": "F9C9"
+        },
+        {
+            "codepointSequence": [
+                "1F499"
+            ],
+            "kddi": "F37A",
+            "softbank": "F9CA"
+        },
+        {
+            "codepointSequence": [
+                "1F49A"
+            ],
+            "kddi": "F37B",
+            "softbank": "F9CB"
+        },
+        {
+            "codepointSequence": [
+                "1F49B"
+            ],
+            "kddi": "F37C",
+            "softbank": "F9CC"
+        },
+        {
+            "codepointSequence": [
+                "1F49C"
+            ],
+            "kddi": "F37D",
+            "softbank": "F9CD"
+        },
+        {
+            "codepointSequence": [
+                "1F49D"
+            ],
+            "kddi": "F458",
+            "softbank": "FB77"
+        },
+        {
+            "codepointSequence": [
+                "1F49E"
+            ],
+            "kddi": "F7CC"
+        },
+        {
+            "codepointSequence": [
+                "1F49F"
+            ],
+            "softbank": "F7A4"
+        },
+        {
+            "codepointSequence": [
+                "1F4A0"
+            ],
+            "docomo": "F99D"
+        },
+        {
+            "codepointSequence": [
+                "1F4A1"
+            ],
+            "docomo": "F9A0",
+            "kddi": "F64E",
+            "softbank": "F74F"
+        },
+        {
+            "codepointSequence": [
+                "1F4A2"
+            ],
+            "docomo": "F9A1",
+            "kddi": "F6BE",
+            "softbank": "F9D4"
+        },
+        {
+            "codepointSequence": [
+                "1F4A3"
+            ],
+            "docomo": "F9A3",
+            "kddi": "F652",
+            "softbank": "F9B1"
+        },
+        {
+            "codepointSequence": [
+                "1F4A4"
+            ],
+            "docomo": "F9A6",
+            "kddi": "F64D",
+            "softbank": "F77C"
+        },
+        {
+            "codepointSequence": [
+                "1F4A5"
+            ],
+            "docomo": "F9AA",
+            "kddi": "F7CD"
+        },
+        {
+            "codepointSequence": [
+                "1F4A6"
+            ],
+            "docomo": "F9AB",
+            "kddi": "F7CE",
+            "softbank": "F9D1"
+        },
+        {
+            "codepointSequence": [
+                "1F4A7"
+            ],
+            "docomo": "F9AC",
+            "kddi": "F6BF"
+        },
+        {
+            "codepointSequence": [
+                "1F4A8"
+            ],
+            "docomo": "F9AD",
+            "kddi": "F6CD",
+            "softbank": "F9D0"
+        },
+        {
+            "codepointSequence": [
+                "1F4A9"
+            ],
+            "kddi": "F6CE",
+            "softbank": "F99B"
+        },
+        {
+            "codepointSequence": [
+                "1F4AA"
+            ],
+            "kddi": "F6C2",
+            "softbank": "F78D"
+        },
+        {
+            "codepointSequence": [
+                "1F4AB"
+            ],
+            "kddi": "F460"
+        },
+        {
+            "codepointSequence": [
+                "1F4AC"
+            ],
+            "kddi": "F6D6"
+        },
+        {
+            "codepointSequence": [
+                "1F4AE"
+            ],
+            "kddi": "F6C9"
+        },
+        {
+            "codepointSequence": [
+                "1F4AF"
+            ],
+            "kddi": "F6CB"
+        },
+        {
+            "codepointSequence": [
+                "1F4B0"
+            ],
+            "docomo": "F9BA",
+            "kddi": "F6A0",
+            "softbank": "F76F"
+        },
+        {
+            "codepointSequence": [
+                "1F4B1"
+            ],
+            "softbank": "F78A"
+        },
+        {
+            "codepointSequence": [
+                "1F4B2"
+            ],
+            "kddi": "F796"
+        },
+        {
+            "codepointSequence": [
+                "1F4B3"
+            ],
+            "kddi": "F799"
+        },
+        {
+            "codepointSequence": [
+                "1F4B4"
+            ],
+            "docomo": "F97A",
+            "kddi": "F79A"
+        },
+        {
+            "codepointSequence": [
+                "1F4B5"
+            ],
+            "kddi": "F7A2"
+        },
+        {
+            "codepointSequence": [
+                "1F4B8"
+            ],
+            "kddi": "F45F"
+        },
+        {
+            "codepointSequence": [
+                "1F4B9"
+            ],
+            "kddi": "F34F",
+            "softbank": "F78B"
+        },
+        {
+            "codepointSequence": [
+                "1F4BA"
+            ],
+            "docomo": "F956",
+            "softbank": "F75F"
+        },
+        {
+            "codepointSequence": [
+                "1F4BB"
+            ],
+            "docomo": "F9BB",
+            "kddi": "F7E8",
+            "softbank": "F94C"
+        },
+        {
+            "codepointSequence": [
+                "1F4BC"
+            ],
+            "kddi": "F341",
+            "softbank": "F75E"
+        },
+        {
+            "codepointSequence": [
+                "1F4BD"
+            ],
+            "kddi": "F79F",
+            "softbank": "F9B6"
+        },
+        {
+            "codepointSequence": [
+                "1F4BE"
+            ],
+            "kddi": "F77E"
+        },
+        {
+            "codepointSequence": [
+                "1F4BF"
+            ],
+            "docomo": "F8ED",
+            "kddi": "F6E5",
+            "softbank": "F766"
+        },
+        {
+            "codepointSequence": [
+                "1F4C0"
+            ],
+            "softbank": "F767"
+        },
+        {
+            "codepointSequence": [
+                "1F4C1"
+            ],
+            "kddi": "F7AC"
+        },
+        {
+            "codepointSequence": [
+                "1F4C2"
+            ],
+            "kddi": "F7AD"
+        },
+        {
+            "codepointSequence": [
+                "1F4C3"
+            ],
+            "kddi": "F77D"
+        },
+        {
+            "codepointSequence": [
+                "1F4C4"
+            ],
+            "kddi": "F786"
+        },
+        {
+            "codepointSequence": [
+                "1F4C5"
+            ],
+            "kddi": "F780"
+        },
+        {
+            "codepointSequence": [
+                "1F4C6"
+            ],
+            "kddi": "F787"
+        },
+        {
+            "codepointSequence": [
+                "1F4C7"
+            ],
+            "kddi": "F789"
+        },
+        {
+            "codepointSequence": [
+                "1F4C8"
+            ],
+            "kddi": "F792"
+        },
+        {
+            "codepointSequence": [
+                "1F4C9"
+            ],
+            "kddi": "F793"
+        },
+        {
+            "codepointSequence": [
+                "1F4CA"
+            ],
+            "kddi": "F791"
+        },
+        {
+            "codepointSequence": [
+                "1F4CB"
+            ],
+            "kddi": "F781"
+        },
+        {
+            "codepointSequence": [
+                "1F4CC"
+            ],
+            "kddi": "F78A"
+        },
+        {
+            "codepointSequence": [
+                "1F4CD"
+            ],
+            "kddi": "F77C"
+        },
+        {
+            "codepointSequence": [
+                "1F4CE"
+            ],
+            "docomo": "F9D5",
+            "kddi": "F678"
+        },
+        {
+            "codepointSequence": [
+                "1F4CF"
+            ],
+            "kddi": "F78D"
+        },
+        {
+            "codepointSequence": [
+                "1F4D0"
+            ],
+            "kddi": "F67A"
+        },
+        {
+            "codepointSequence": [
+                "1F4D1"
+            ],
+            "kddi": "F7E2"
+        },
+        {
+            "codepointSequence": [
+                "1F4D2"
+            ],
+            "kddi": "F78B"
+        },
+        {
+            "codepointSequence": [
+                "1F4D3"
+            ],
+            "kddi": "F788"
+        },
+        {
+            "codepointSequence": [
+                "1F4D4"
+            ],
+            "kddi": "F675"
+        },
+        {
+            "codepointSequence": [
+                "1F4D5"
+            ],
+            "kddi": "F785"
+        },
+        {
+            "codepointSequence": [
+                "1F4D6"
+            ],
+            "docomo": "F8E4",
+            "kddi": "F677",
+            "softbank": "F789"
+        },
+        {
+            "codepointSequence": [
+                "1F4D7"
+            ],
+            "kddi": "F782"
+        },
+        {
+            "codepointSequence": [
+                "1F4D8"
+            ],
+            "kddi": "F783"
+        },
+        {
+            "codepointSequence": [
+                "1F4D9"
+            ],
+            "kddi": "F784"
+        },
+        {
+            "codepointSequence": [
+                "1F4DA"
+            ],
+            "kddi": "F78C"
+        },
+        {
+            "codepointSequence": [
+                "1F4DB"
+            ],
+            "kddi": "F6F6"
+        },
+        {
+            "codepointSequence": [
+                "1F4DC"
+            ],
+            "kddi": "F77B"
+        },
+        {
+            "codepointSequence": [
+                "1F4DD"
+            ],
+            "docomo": "F8EA",
+            "kddi": "F365",
+            "softbank": "F9A1"
+        },
+        {
+            "codepointSequence": [
+                "1F4DE"
+            ],
+            "kddi": "F6F7"
+        },
+        {
+            "codepointSequence": [
+                "1F4DF"
+            ],
+            "docomo": "F8BB",
+            "kddi": "F7B8"
+        },
+        {
+            "codepointSequence": [
+                "1F4E0"
+            ],
+            "docomo": "F974",
+            "kddi": "F6F9",
+            "softbank": "F94B"
+        },
+        {
+            "codepointSequence": [
+                "1F4E1"
+            ],
+            "kddi": "F681",
+            "softbank": "F78C"
+        },
+        {
+            "codepointSequence": [
+                "1F4E2"
+            ],
+            "softbank": "F783"
+        },
+        {
+            "codepointSequence": [
+                "1F4E3"
+            ],
+            "softbank": "F9B7"
+        },
+        {
+            "codepointSequence": [
+                "1F4E4"
+            ],
+            "kddi": "F7AF"
+        },
+        {
+            "codepointSequence": [
+                "1F4E5"
+            ],
+            "kddi": "F7B0"
+        },
+        {
+            "codepointSequence": [
+                "1F4E6"
+            ],
+            "kddi": "F6F8"
+        },
+        {
+            "codepointSequence": [
+                "1F4E7"
+            ],
+            "kddi": "F475"
+        },
+        {
+            "codepointSequence": [
+                "1F4E8"
+            ],
+            "kddi": "F7AE"
+        },
+        {
+            "codepointSequence": [
+                "1F4E9"
+            ],
+            "docomo": "F973",
+            "kddi": "F466",
+            "softbank": "F743"
+        },
+        {
+            "codepointSequence": [
+                "1F4EA"
+            ],
+            "kddi": "F6F4"
+        },
+        {
+            "codepointSequence": [
+                "1F4EB"
+            ],
+            "kddi": "F7E1",
+            "softbank": "F741"
+        },
+        {
+            "codepointSequence": [
+                "1F4EE"
+            ],
+            "softbank": "F742"
+        },
+        {
+            "codepointSequence": [
+                "1F4F0"
+            ],
+            "kddi": "F7A8"
+        },
+        {
+            "codepointSequence": [
+                "1F4F1"
+            ],
+            "docomo": "F8E9",
+            "kddi": "F7A5",
+            "softbank": "F94A"
+        },
+        {
+            "codepointSequence": [
+                "1F4F2"
+            ],
+            "docomo": "F972",
+            "kddi": "F7DF",
+            "softbank": "F744"
+        },
+        {
+            "codepointSequence": [
+                "1F4F3"
+            ],
+            "kddi": "F363",
+            "softbank": "F7F0"
+        },
+        {
+            "codepointSequence": [
+                "1F4F4"
+            ],
+            "kddi": "F364",
+            "softbank": "F7F1"
+        },
+        {
+            "codepointSequence": [
+                "1F4F6"
+            ],
+            "kddi": "F357",
+            "softbank": "F7AB"
+        },
+        {
+            "codepointSequence": [
+                "1F4F7"
+            ],
+            "docomo": "F8E2",
+            "kddi": "F6EE",
+            "softbank": "F948"
+        },
+        {
+            "codepointSequence": [
+                "1F4F9"
+            ],
+            "kddi": "F79B"
+        },
+        {
+            "codepointSequence": [
+                "1F4FA"
+            ],
+            "docomo": "F8EB",
+            "kddi": "F6DB",
+            "softbank": "F76A"
+        },
+        {
+            "codepointSequence": [
+                "1F4FB"
+            ],
+            "kddi": "F7E9",
+            "softbank": "F768"
+        },
+        {
+            "codepointSequence": [
+                "1F4FC"
+            ],
+            "kddi": "F79D",
+            "softbank": "F769"
+        },
+        {
+            "codepointSequence": [
+                "1F503"
+            ],
+            "kddi": "F7E4"
+        },
+        {
+            "codepointSequence": [
+                "1F50A"
+            ],
+            "kddi": "F6EA",
+            "softbank": "F782"
+        },
+        {
+            "codepointSequence": [
+                "1F50B"
+            ],
+            "kddi": "F7A1"
+        },
+        {
+            "codepointSequence": [
+                "1F50C"
+            ],
+            "kddi": "F7A6"
+        },
+        {
+            "codepointSequence": [
+                "1F50D"
+            ],
+            "docomo": "F981",
+            "kddi": "F6F1",
+            "softbank": "F754"
+        },
+        {
+            "codepointSequence": [
+                "1F50E"
+            ],
+            "kddi": "F7DC"
+        },
+        {
+            "codepointSequence": [
+                "1F50F"
+            ],
+            "kddi": "F7E3"
+        },
+        {
+            "codepointSequence": [
+                "1F510"
+            ],
+            "kddi": "F7D3"
+        },
+        {
+            "codepointSequence": [
+                "1F511"
+            ],
+            "docomo": "F97D",
+            "kddi": "F6F2",
+            "softbank": "F980"
+        },
+        {
+            "codepointSequence": [
+                "1F512"
+            ],
+            "kddi": "F6F5",
+            "softbank": "F785"
+        },
+        {
+            "codepointSequence": [
+                "1F513"
+            ],
+            "softbank": "F786"
+        },
+        {
+            "codepointSequence": [
+                "1F514"
+            ],
+            "docomo": "F9B8",
+            "kddi": "F6EB",
+            "softbank": "F9C5"
+        },
+        {
+            "codepointSequence": [
+                "1F516"
+            ],
+            "kddi": "F7DE"
+        },
+        {
+            "codepointSequence": [
+                "1F517"
+            ],
+            "kddi": "F7A7"
+        },
+        {
+            "codepointSequence": [
+                "1F518"
+            ],
+            "kddi": "F7DB"
+        },
+        {
+            "codepointSequence": [
+                "1F519"
+            ],
+            "kddi": "F7DD"
+        },
+        {
+            "codepointSequence": [
+                "1F51A"
+            ],
+            "docomo": "F95D"
+        },
+        {
+            "codepointSequence": [
+                "1F51B"
+            ],
+            "docomo": "F95C"
+        },
+        {
+            "codepointSequence": [
+                "1F51C"
+            ],
+            "docomo": "F95B"
+        },
+        {
+            "codepointSequence": [
+                "1F51D"
+            ],
+            "softbank": "F7EC"
+        },
+        {
+            "codepointSequence": [
+                "1F51E"
+            ],
+            "kddi": "F356",
+            "softbank": "F7A7"
+        },
+        {
+            "codepointSequence": [
+                "1F51F"
+            ],
+            "kddi": "F747"
+        },
+        {
+            "codepointSequence": [
+                "1F520"
+            ],
+            "kddi": "F7D4"
+        },
+        {
+            "codepointSequence": [
+                "1F521"
+            ],
+            "kddi": "F7D5"
+        },
+        {
+            "codepointSequence": [
+                "1F522"
+            ],
+            "kddi": "F7D6"
+        },
+        {
+            "codepointSequence": [
+                "1F523"
+            ],
+            "kddi": "F7D7"
+        },
+        {
+            "codepointSequence": [
+                "1F524"
+            ],
+            "kddi": "F459"
+        },
+        {
+            "codepointSequence": [
+                "1F525"
+            ],
+            "kddi": "F653",
+            "softbank": "F75D"
+        },
+        {
+            "codepointSequence": [
+                "1F526"
+            ],
+            "kddi": "F7A0"
+        },
+        {
+            "codepointSequence": [
+                "1F527"
+            ],
+            "docomo": "F9BD",
+            "kddi": "F7A4"
+        },
+        {
+            "codepointSequence": [
+                "1F528"
+            ],
+            "kddi": "F7FB",
+            "softbank": "F756"
+        },
+        {
+            "codepointSequence": [
+                "1F529"
+            ],
+            "kddi": "F79E"
+        },
+        {
+            "codepointSequence": [
+                "1F52A"
+            ],
+            "kddi": "F79C"
+        },
+        {
+            "codepointSequence": [
+                "1F52B"
+            ],
+            "kddi": "F6E3",
+            "softbank": "F753"
+        },
+        {
+            "codepointSequence": [
+                "1F52E"
+            ],
+            "kddi": "F362"
+        },
+        {
+            "codepointSequence": [
+                "1F52F"
+            ],
+            "softbank": "F7DE"
+        },
+        {
+            "codepointSequence": [
+                "1F530"
+            ],
+            "kddi": "F658",
+            "softbank": "F7A9"
+        },
+        {
+            "codepointSequence": [
+                "1F531"
+            ],
+            "softbank": "F971"
+        },
+        {
+            "codepointSequence": [
+                "1F532"
+            ],
+            "softbank": "F7BA"
+        },
+        {
+            "codepointSequence": [
+                "1F533"
+            ],
+            "softbank": "F7BB"
+        },
+        {
+            "codepointSequence": [
+                "1F534"
+            ],
+            "kddi": "F766",
+            "softbank": "F7B9"
+        },
+        {
+            "codepointSequence": [
+                "1F535"
+            ],
+            "kddi": "F767"
+        },
+        {
+            "codepointSequence": [
+                "1F536"
+            ],
+            "kddi": "F762"
+        },
+        {
+            "codepointSequence": [
+                "1F537"
+            ],
+            "kddi": "F763"
+        },
+        {
+            "codepointSequence": [
+                "1F538"
+            ],
+            "kddi": "F752"
+        },
+        {
+            "codepointSequence": [
+                "1F539"
+            ],
+            "kddi": "F753"
+        },
+        {
+            "codepointSequence": [
+                "1F53A"
+            ],
+            "kddi": "F776"
+        },
+        {
+            "codepointSequence": [
+                "1F53B"
+            ],
+            "kddi": "F777"
+        },
+        {
+            "codepointSequence": [
+                "1F53C"
+            ],
+            "kddi": "F75F"
+        },
+        {
+            "codepointSequence": [
+                "1F53D"
+            ],
+            "kddi": "F75E"
+        },
+        {
+            "codepointSequence": [
+                "1F550"
+            ],
+            "softbank": "F964"
+        },
+        {
+            "codepointSequence": [
+                "1F551"
+            ],
+            "softbank": "F965"
+        },
+        {
+            "codepointSequence": [
+                "1F552"
+            ],
+            "softbank": "F966"
+        },
+        {
+            "codepointSequence": [
+                "1F553"
+            ],
+            "softbank": "F967"
+        },
+        {
+            "codepointSequence": [
+                "1F554"
+            ],
+            "softbank": "F968"
+        },
+        {
+            "codepointSequence": [
+                "1F555"
+            ],
+            "softbank": "F969"
+        },
+        {
+            "codepointSequence": [
+                "1F556"
+            ],
+            "softbank": "F96A"
+        },
+        {
+            "codepointSequence": [
+                "1F557"
+            ],
+            "softbank": "F96B"
+        },
+        {
+            "codepointSequence": [
+                "1F558"
+            ],
+            "softbank": "F96C"
+        },
+        {
+            "codepointSequence": [
+                "1F559"
+            ],
+            "softbank": "F96D"
+        },
+        {
+            "codepointSequence": [
+                "1F55A"
+            ],
+            "softbank": "F96E"
+        },
+        {
+            "codepointSequence": [
+                "1F55B"
+            ],
+            "softbank": "F96F"
+        },
+        {
+            "codepointSequence": [
+                "1F5FB"
+            ],
+            "docomo": "F9E5",
+            "kddi": "F7ED",
+            "softbank": "F97B"
+        },
+        {
+            "codepointSequence": [
+                "1F5FC"
+            ],
+            "kddi": "F699",
+            "softbank": "FBA9"
+        },
+        {
+            "codepointSequence": [
+                "1F5FD"
+            ],
+            "softbank": "FBBD"
+        },
+        {
+            "codepointSequence": [
+                "1F5FE"
+            ],
+            "kddi": "F78F"
+        },
+        {
+            "codepointSequence": [
+                "1F5FF"
+            ],
+            "kddi": "F470"
+        },
+        {
+            "codepointSequence": [
+                "1F601"
+            ],
+            "docomo": "F9F8",
+            "kddi": "F485",
+            "softbank": "FB44"
+        },
+        {
+            "codepointSequence": [
+                "1F602"
+            ],
+            "kddi": "F468",
+            "softbank": "FB52"
+        },
+        {
+            "codepointSequence": [
+                "1F603"
+            ],
+            "docomo": "F995",
+            "kddi": "F649",
+            "softbank": "F998"
+        },
+        {
+            "codepointSequence": [
+                "1F604"
+            ],
+            "softbank": "FB55"
+        },
+        {
+            "codepointSequence": [
+                "1F605"
+            ],
+            "docomo": "F9C7"
+        },
+        {
+            "codepointSequence": [
+                "1F606"
+            ],
+            "docomo": "F9CF"
+        },
+        {
+            "codepointSequence": [
+                "1F609"
+            ],
+            "docomo": "F9CE",
+            "kddi": "F7F3",
+            "softbank": "FB45"
+        },
+        {
+            "codepointSequence": [
+                "1F60A"
+            ],
+            "kddi": "F3A1",
+            "softbank": "F997"
+        },
+        {
+            "codepointSequence": [
+                "1F60B"
+            ],
+            "docomo": "F9F7"
+        },
+        {
+            "codepointSequence": [
+                "1F60C"
+            ],
+            "docomo": "F9C6",
+            "kddi": "F399",
+            "softbank": "FB4A"
+        },
+        {
+            "codepointSequence": [
+                "1F60D"
+            ],
+            "docomo": "F9CB",
+            "kddi": "F7F4",
+            "softbank": "F746"
+        },
+        {
+            "codepointSequence": [
+                "1F60F"
+            ],
+            "docomo": "F9D1",
+            "kddi": "F393",
+            "softbank": "FB42"
+        },
+        {
+            "codepointSequence": [
+                "1F612"
+            ],
+            "docomo": "F9CA",
+            "kddi": "F39D",
+            "softbank": "FB4E"
+        },
+        {
+            "codepointSequence": [
+                "1F613"
+            ],
+            "docomo": "F9C8",
+            "kddi": "F7F6",
+            "softbank": "F748"
+        },
+        {
+            "codepointSequence": [
+                "1F614"
+            ],
+            "docomo": "F9C5",
+            "kddi": "F394",
+            "softbank": "FB43"
+        },
+        {
+            "codepointSequence": [
+                "1F616"
+            ],
+            "docomo": "F998",
+            "kddi": "F397",
+            "softbank": "FB47"
+        },
+        {
+            "codepointSequence": [
+                "1F618"
+            ],
+            "kddi": "F3A3",
+            "softbank": "FB58"
+        },
+        {
+            "codepointSequence": [
+                "1F61A"
+            ],
+            "kddi": "F3A2",
+            "softbank": "FB57"
+        },
+        {
+            "codepointSequence": [
+                "1F61C"
+            ],
+            "docomo": "F9CD",
+            "kddi": "F6C0",
+            "softbank": "F745"
+        },
+        {
+            "codepointSequence": [
+                "1F61D"
+            ],
+            "softbank": "FB49"
+        },
+        {
+            "codepointSequence": [
+                "1F61E"
+            ],
+            "docomo": "F997",
+            "softbank": "F999"
+        },
+        {
+            "codepointSequence": [
+                "1F620"
+            ],
+            "docomo": "F996",
+            "kddi": "F64A",
+            "softbank": "F99A"
+        },
+        {
+            "codepointSequence": [
+                "1F621"
+            ],
+            "docomo": "F9C9",
+            "kddi": "F461",
+            "softbank": "FB56"
+        },
+        {
+            "codepointSequence": [
+                "1F622"
+            ],
+            "docomo": "F9D3",
+            "kddi": "F46D",
+            "softbank": "FB53"
+        },
+        {
+            "codepointSequence": [
+                "1F623"
+            ],
+            "docomo": "F9D0",
+            "kddi": "F396",
+            "softbank": "FB46"
+        },
+        {
+            "codepointSequence": [
+                "1F624"
+            ],
+            "kddi": "F395"
+        },
+        {
+            "codepointSequence": [
+                "1F625"
+            ],
+            "softbank": "FB41"
+        },
+        {
+            "codepointSequence": [
+                "1F628"
+            ],
+            "kddi": "F39A",
+            "softbank": "FB4B"
+        },
+        {
+            "codepointSequence": [
+                "1F629"
+            ],
+            "kddi": "F46B"
+        },
+        {
+            "codepointSequence": [
+                "1F62A"
+            ],
+            "kddi": "F398",
+            "softbank": "FB48"
+        },
+        {
+            "codepointSequence": [
+                "1F62B"
+            ],
+            "kddi": "F64C"
+        },
+        {
+            "codepointSequence": [
+                "1F62D"
+            ],
+            "docomo": "F9D2",
+            "kddi": "F64B",
+            "softbank": "FB51"
+        },
+        {
+            "codepointSequence": [
+                "1F630"
+            ],
+            "kddi": "F39F",
+            "softbank": "FB4F"
+        },
+        {
+            "codepointSequence": [
+                "1F631"
+            ],
+            "docomo": "F9FC",
+            "kddi": "F7F5",
+            "softbank": "F747"
+        },
+        {
+            "codepointSequence": [
+                "1F632"
+            ],
+            "kddi": "F39E",
+            "softbank": "FB50"
+        },
+        {
+            "codepointSequence": [
+                "1F633"
+            ],
+            "kddi": "F39C",
+            "softbank": "FB4D"
+        },
+        {
+            "codepointSequence": [
+                "1F635"
+            ],
+            "docomo": "F999",
+            "kddi": "F7CB"
+        },
+        {
+            "codepointSequence": [
+                "1F637"
+            ],
+            "kddi": "F39B",
+            "softbank": "FB4C"
+        },
+        {
+            "codepointSequence": [
+                "1F638"
+            ],
+            "kddi": "F484"
+        },
+        {
+            "codepointSequence": [
+                "1F639"
+            ],
+            "kddi": "F467"
+        },
+        {
+            "codepointSequence": [
+                "1F63A"
+            ],
+            "kddi": "F465"
+        },
+        {
+            "codepointSequence": [
+                "1F63B"
+            ],
+            "kddi": "F469"
+        },
+        {
+            "codepointSequence": [
+                "1F63C"
+            ],
+            "kddi": "F46E"
+        },
+        {
+            "codepointSequence": [
+                "1F63D"
+            ],
+            "kddi": "F464"
+        },
+        {
+            "codepointSequence": [
+                "1F63E"
+            ],
+            "kddi": "F462"
+        },
+        {
+            "codepointSequence": [
+                "1F63F"
+            ],
+            "kddi": "F46C"
+        },
+        {
+            "codepointSequence": [
+                "1F640"
+            ],
+            "kddi": "F46A"
+        },
+        {
+            "codepointSequence": [
+                "1F645"
+            ],
+            "kddi": "F3AB",
+            "softbank": "FB63"
+        },
+        {
+            "codepointSequence": [
+                "1F646"
+            ],
+            "kddi": "F3AC",
+            "softbank": "FB64"
+        },
+        {
+            "codepointSequence": [
+                "1F647"
+            ],
+            "kddi": "F3AD",
+            "softbank": "FB66"
+        },
+        {
+            "codepointSequence": [
+                "1F648"
+            ],
+            "kddi": "F454"
+        },
+        {
+            "codepointSequence": [
+                "1F649"
+            ],
+            "kddi": "F456"
+        },
+        {
+            "codepointSequence": [
+                "1F64A"
+            ],
+            "kddi": "F455"
+        },
+        {
+            "codepointSequence": [
+                "1F64B"
+            ],
+            "kddi": "F48A"
+        },
+        {
+            "codepointSequence": [
+                "1F64C"
+            ],
+            "kddi": "F48B",
+            "softbank": "FB67"
+        },
+        {
+            "codepointSequence": [
+                "1F64D"
+            ],
+            "kddi": "F48C"
+        },
+        {
+            "codepointSequence": [
+                "1F64E"
+            ],
+            "kddi": "F48D"
+        },
+        {
+            "codepointSequence": [
+                "1F64F"
+            ],
+            "kddi": "F3A6",
+            "softbank": "FB5D"
+        },
+        {
+            "codepointSequence": [
+                "1F680"
+            ],
+            "kddi": "F7F8",
+            "softbank": "F74D"
+        },
+        {
+            "codepointSequence": [
+                "1F683"
+            ],
+            "docomo": "F8BC",
+            "kddi": "F68E",
+            "softbank": "F95E"
+        },
+        {
+            "codepointSequence": [
+                "1F684"
+            ],
+            "docomo": "F8BE",
+            "softbank": "FB75"
+        },
+        {
+            "codepointSequence": [
+                "1F685"
+            ],
+            "kddi": "F689",
+            "softbank": "F95F"
+        },
+        {
+            "codepointSequence": [
+                "1F687"
+            ],
+            "kddi": "F7EC",
+            "softbank": "FB74"
+        },
+        {
+            "codepointSequence": [
+                "1F689"
+            ],
+            "kddi": "F471",
+            "softbank": "F979"
+        },
+        {
+            "codepointSequence": [
+                "1F68C"
+            ],
+            "docomo": "F8C1",
+            "kddi": "F688",
+            "softbank": "F79A"
+        },
+        {
+            "codepointSequence": [
+                "1F68F"
+            ],
+            "kddi": "F680",
+            "softbank": "F791"
+        },
+        {
+            "codepointSequence": [
+                "1F691"
+            ],
+            "kddi": "F3B4",
+            "softbank": "FB71"
+        },
+        {
+            "codepointSequence": [
+                "1F692"
+            ],
+            "kddi": "F3B3",
+            "softbank": "FB70"
+        },
+        {
+            "codepointSequence": [
+                "1F693"
+            ],
+            "kddi": "F3B5",
+            "softbank": "FB72"
+        },
+        {
+            "codepointSequence": [
+                "1F695"
+            ],
+            "softbank": "F79B"
+        },
+        {
+            "codepointSequence": [
+                "1F697"
+            ],
+            "docomo": "F8BF",
+            "kddi": "F68A",
+            "softbank": "F95B"
+        },
+        {
+            "codepointSequence": [
+                "1F699"
+            ],
+            "docomo": "F8C0",
+            "softbank": "FB6E"
+        },
+        {
+            "codepointSequence": [
+                "1F69A"
+            ],
+            "kddi": "F68B",
+            "softbank": "FB6F"
+        },
+        {
+            "codepointSequence": [
+                "1F6A2"
+            ],
+            "docomo": "F8C2",
+            "kddi": "F355",
+            "softbank": "F7A2"
+        },
+        {
+            "codepointSequence": [
+                "1F6A4"
+            ],
+            "softbank": "F775"
+        },
+        {
+            "codepointSequence": [
+                "1F6A5"
+            ],
+            "docomo": "F8CE",
+            "kddi": "F642",
+            "softbank": "F78F"
+        },
+        {
+            "codepointSequence": [
+                "1F6A7"
+            ],
+            "kddi": "F34A",
+            "softbank": "F777"
+        },
+        {
+            "codepointSequence": [
+                "1F6A8"
+            ],
+            "kddi": "F477"
+        },
+        {
+            "codepointSequence": [
+                "1F6A9"
+            ],
+            "docomo": "F983",
+            "kddi": "F3ED"
+        },
+        {
+            "codepointSequence": [
+                "1F6AA"
+            ],
+            "docomo": "F9B9"
+        },
+        {
+            "codepointSequence": [
+                "1F6AB"
+            ],
+            "kddi": "F75D"
+        },
+        {
+            "codepointSequence": [
+                "1F6AC"
+            ],
+            "docomo": "F8E0",
+            "kddi": "F655",
+            "softbank": "F9AE"
+        },
+        {
+            "codepointSequence": [
+                "1F6AD"
+            ],
+            "docomo": "F8E1",
+            "kddi": "F656",
+            "softbank": "F7A8"
+        },
+        {
+            "codepointSequence": [
+                "1F6B2"
+            ],
+            "docomo": "F9C2",
+            "kddi": "F687",
+            "softbank": "F776"
+        },
+        {
+            "codepointSequence": [
+                "1F6B6"
+            ],
+            "kddi": "F476",
+            "softbank": "F7A1"
+        },
+        {
+            "codepointSequence": [
+                "1F6B9"
+            ],
+            "softbank": "F778"
+        },
+        {
+            "codepointSequence": [
+                "1F6BA"
+            ],
+            "softbank": "F779"
+        },
+        {
+            "codepointSequence": [
+                "1F6BB"
+            ],
+            "docomo": "F8CF",
+            "kddi": "F67D",
+            "softbank": "F792"
+        },
+        {
+            "codepointSequence": [
+                "1F6BC"
+            ],
+            "softbank": "F77A"
+        },
+        {
+            "codepointSequence": [
+                "1F6BD"
+            ],
+            "softbank": "F781"
+        },
+        {
+            "codepointSequence": [
+                "1F6BE"
+            ],
+            "softbank": "F9A9"
+        },
+        {
+            "codepointSequence": [
+                "1F6C0"
+            ],
+            "kddi": "F34B",
+            "softbank": "F780"
+        }
+    ]
+}

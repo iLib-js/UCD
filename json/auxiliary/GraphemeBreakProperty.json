@@ -1,0 +1,9007 @@
+{
+    "GraphemeBreakProperty": [
+        {
+            "range": [
+                "0600",
+                "0605"
+            ],
+            "property": "Prepend"
+        },
+        {
+            "range": [
+                "06DD"
+            ],
+            "property": "Prepend"
+        },
+        {
+            "range": [
+                "070F"
+            ],
+            "property": "Prepend"
+        },
+        {
+            "range": [
+                "0890",
+                "0891"
+            ],
+            "property": "Prepend"
+        },
+        {
+            "range": [
+                "08E2"
+            ],
+            "property": "Prepend"
+        },
+        {
+            "range": [
+                "0D4E"
+            ],
+            "property": "Prepend"
+        },
+        {
+            "range": [
+                "110BD"
+            ],
+            "property": "Prepend"
+        },
+        {
+            "range": [
+                "110CD"
+            ],
+            "property": "Prepend"
+        },
+        {
+            "range": [
+                "111C2",
+                "111C3"
+            ],
+            "property": "Prepend"
+        },
+        {
+            "range": [
+                "1193F"
+            ],
+            "property": "Prepend"
+        },
+        {
+            "range": [
+                "11941"
+            ],
+            "property": "Prepend"
+        },
+        {
+            "range": [
+                "11A3A"
+            ],
+            "property": "Prepend"
+        },
+        {
+            "range": [
+                "11A84",
+                "11A89"
+            ],
+            "property": "Prepend"
+        },
+        {
+            "range": [
+                "11D46"
+            ],
+            "property": "Prepend"
+        },
+        {
+            "range": [
+                "000D"
+            ],
+            "property": "CR"
+        },
+        {
+            "range": [
+                "000A"
+            ],
+            "property": "LF"
+        },
+        {
+            "range": [
+                "0000",
+                "0009"
+            ],
+            "property": "Control"
+        },
+        {
+            "range": [
+                "000B",
+                "000C"
+            ],
+            "property": "Control"
+        },
+        {
+            "range": [
+                "000E",
+                "001F"
+            ],
+            "property": "Control"
+        },
+        {
+            "range": [
+                "007F",
+                "009F"
+            ],
+            "property": "Control"
+        },
+        {
+            "range": [
+                "00AD"
+            ],
+            "property": "Control"
+        },
+        {
+            "range": [
+                "061C"
+            ],
+            "property": "Control"
+        },
+        {
+            "range": [
+                "180E"
+            ],
+            "property": "Control"
+        },
+        {
+            "range": [
+                "200B"
+            ],
+            "property": "Control"
+        },
+        {
+            "range": [
+                "200E",
+                "200F"
+            ],
+            "property": "Control"
+        },
+        {
+            "range": [
+                "2028"
+            ],
+            "property": "Control"
+        },
+        {
+            "range": [
+                "2029"
+            ],
+            "property": "Control"
+        },
+        {
+            "range": [
+                "202A",
+                "202E"
+            ],
+            "property": "Control"
+        },
+        {
+            "range": [
+                "2060",
+                "2064"
+            ],
+            "property": "Control"
+        },
+        {
+            "range": [
+                "2065"
+            ],
+            "property": "Control"
+        },
+        {
+            "range": [
+                "2066",
+                "206F"
+            ],
+            "property": "Control"
+        },
+        {
+            "range": [
+                "FEFF"
+            ],
+            "property": "Control"
+        },
+        {
+            "range": [
+                "FFF0",
+                "FFF8"
+            ],
+            "property": "Control"
+        },
+        {
+            "range": [
+                "FFF9",
+                "FFFB"
+            ],
+            "property": "Control"
+        },
+        {
+            "range": [
+                "13430",
+                "13438"
+            ],
+            "property": "Control"
+        },
+        {
+            "range": [
+                "1BCA0",
+                "1BCA3"
+            ],
+            "property": "Control"
+        },
+        {
+            "range": [
+                "1D173",
+                "1D17A"
+            ],
+            "property": "Control"
+        },
+        {
+            "range": [
+                "E0000"
+            ],
+            "property": "Control"
+        },
+        {
+            "range": [
+                "E0001"
+            ],
+            "property": "Control"
+        },
+        {
+            "range": [
+                "E0002",
+                "E001F"
+            ],
+            "property": "Control"
+        },
+        {
+            "range": [
+                "E0080",
+                "E00FF"
+            ],
+            "property": "Control"
+        },
+        {
+            "range": [
+                "E01F0",
+                "E0FFF"
+            ],
+            "property": "Control"
+        },
+        {
+            "range": [
+                "0300",
+                "036F"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0483",
+                "0487"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0488",
+                "0489"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0591",
+                "05BD"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "05BF"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "05C1",
+                "05C2"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "05C4",
+                "05C5"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "05C7"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0610",
+                "061A"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "064B",
+                "065F"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0670"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "06D6",
+                "06DC"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "06DF",
+                "06E4"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "06E7",
+                "06E8"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "06EA",
+                "06ED"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0711"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0730",
+                "074A"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "07A6",
+                "07B0"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "07EB",
+                "07F3"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "07FD"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0816",
+                "0819"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "081B",
+                "0823"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0825",
+                "0827"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0829",
+                "082D"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0859",
+                "085B"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0898",
+                "089F"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "08CA",
+                "08E1"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "08E3",
+                "0902"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "093A"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "093C"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0941",
+                "0948"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "094D"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0951",
+                "0957"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0962",
+                "0963"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0981"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "09BC"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "09BE"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "09C1",
+                "09C4"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "09CD"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "09D7"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "09E2",
+                "09E3"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "09FE"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0A01",
+                "0A02"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0A3C"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0A41",
+                "0A42"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0A47",
+                "0A48"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0A4B",
+                "0A4D"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0A51"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0A70",
+                "0A71"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0A75"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0A81",
+                "0A82"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0ABC"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0AC1",
+                "0AC5"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0AC7",
+                "0AC8"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0ACD"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0AE2",
+                "0AE3"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0AFA",
+                "0AFF"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0B01"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0B3C"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0B3E"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0B3F"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0B41",
+                "0B44"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0B4D"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0B55",
+                "0B56"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0B57"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0B62",
+                "0B63"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0B82"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0BBE"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0BC0"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0BCD"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0BD7"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0C00"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0C04"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0C3C"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0C3E",
+                "0C40"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0C46",
+                "0C48"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0C4A",
+                "0C4D"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0C55",
+                "0C56"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0C62",
+                "0C63"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0C81"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0CBC"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0CBF"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0CC2"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0CC6"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0CCC",
+                "0CCD"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0CD5",
+                "0CD6"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0CE2",
+                "0CE3"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0D00",
+                "0D01"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0D3B",
+                "0D3C"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0D3E"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0D41",
+                "0D44"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0D4D"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0D57"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0D62",
+                "0D63"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0D81"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0DCA"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0DCF"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0DD2",
+                "0DD4"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0DD6"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0DDF"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0E31"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0E34",
+                "0E3A"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0E47",
+                "0E4E"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0EB1"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0EB4",
+                "0EBC"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0EC8",
+                "0ECD"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0F18",
+                "0F19"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0F35"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0F37"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0F39"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0F71",
+                "0F7E"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0F80",
+                "0F84"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0F86",
+                "0F87"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0F8D",
+                "0F97"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0F99",
+                "0FBC"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "0FC6"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "102D",
+                "1030"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1032",
+                "1037"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1039",
+                "103A"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "103D",
+                "103E"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1058",
+                "1059"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "105E",
+                "1060"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1071",
+                "1074"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1082"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1085",
+                "1086"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "108D"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "109D"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "135D",
+                "135F"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1712",
+                "1714"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1732",
+                "1733"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1752",
+                "1753"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1772",
+                "1773"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "17B4",
+                "17B5"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "17B7",
+                "17BD"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "17C6"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "17C9",
+                "17D3"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "17DD"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "180B",
+                "180D"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "180F"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1885",
+                "1886"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "18A9"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1920",
+                "1922"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1927",
+                "1928"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1932"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1939",
+                "193B"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1A17",
+                "1A18"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1A1B"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1A56"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1A58",
+                "1A5E"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1A60"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1A62"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1A65",
+                "1A6C"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1A73",
+                "1A7C"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1A7F"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1AB0",
+                "1ABD"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1ABE"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1ABF",
+                "1ACE"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1B00",
+                "1B03"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1B34"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1B35"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1B36",
+                "1B3A"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1B3C"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1B42"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1B6B",
+                "1B73"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1B80",
+                "1B81"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1BA2",
+                "1BA5"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1BA8",
+                "1BA9"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1BAB",
+                "1BAD"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1BE6"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1BE8",
+                "1BE9"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1BED"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1BEF",
+                "1BF1"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1C2C",
+                "1C33"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1C36",
+                "1C37"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1CD0",
+                "1CD2"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1CD4",
+                "1CE0"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1CE2",
+                "1CE8"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1CED"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1CF4"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1CF8",
+                "1CF9"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1DC0",
+                "1DFF"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "200C"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "20D0",
+                "20DC"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "20DD",
+                "20E0"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "20E1"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "20E2",
+                "20E4"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "20E5",
+                "20F0"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "2CEF",
+                "2CF1"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "2D7F"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "2DE0",
+                "2DFF"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "302A",
+                "302D"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "302E",
+                "302F"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "3099",
+                "309A"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "A66F"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "A670",
+                "A672"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "A674",
+                "A67D"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "A69E",
+                "A69F"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "A6F0",
+                "A6F1"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "A802"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "A806"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "A80B"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "A825",
+                "A826"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "A82C"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "A8C4",
+                "A8C5"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "A8E0",
+                "A8F1"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "A8FF"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "A926",
+                "A92D"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "A947",
+                "A951"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "A980",
+                "A982"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "A9B3"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "A9B6",
+                "A9B9"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "A9BC",
+                "A9BD"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "A9E5"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "AA29",
+                "AA2E"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "AA31",
+                "AA32"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "AA35",
+                "AA36"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "AA43"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "AA4C"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "AA7C"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "AAB0"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "AAB2",
+                "AAB4"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "AAB7",
+                "AAB8"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "AABE",
+                "AABF"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "AAC1"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "AAEC",
+                "AAED"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "AAF6"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "ABE5"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "ABE8"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "ABED"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "FB1E"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "FE00",
+                "FE0F"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "FE20",
+                "FE2F"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "FF9E",
+                "FF9F"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "101FD"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "102E0"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "10376",
+                "1037A"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "10A01",
+                "10A03"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "10A05",
+                "10A06"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "10A0C",
+                "10A0F"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "10A38",
+                "10A3A"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "10A3F"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "10AE5",
+                "10AE6"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "10D24",
+                "10D27"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "10EAB",
+                "10EAC"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "10F46",
+                "10F50"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "10F82",
+                "10F85"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11001"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11038",
+                "11046"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11070"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11073",
+                "11074"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1107F",
+                "11081"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "110B3",
+                "110B6"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "110B9",
+                "110BA"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "110C2"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11100",
+                "11102"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11127",
+                "1112B"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1112D",
+                "11134"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11173"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11180",
+                "11181"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "111B6",
+                "111BE"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "111C9",
+                "111CC"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "111CF"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1122F",
+                "11231"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11234"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11236",
+                "11237"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1123E"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "112DF"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "112E3",
+                "112EA"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11300",
+                "11301"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1133B",
+                "1133C"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1133E"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11340"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11357"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11366",
+                "1136C"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11370",
+                "11374"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11438",
+                "1143F"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11442",
+                "11444"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11446"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1145E"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "114B0"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "114B3",
+                "114B8"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "114BA"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "114BD"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "114BF",
+                "114C0"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "114C2",
+                "114C3"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "115AF"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "115B2",
+                "115B5"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "115BC",
+                "115BD"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "115BF",
+                "115C0"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "115DC",
+                "115DD"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11633",
+                "1163A"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1163D"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1163F",
+                "11640"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "116AB"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "116AD"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "116B0",
+                "116B5"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "116B7"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1171D",
+                "1171F"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11722",
+                "11725"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11727",
+                "1172B"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1182F",
+                "11837"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11839",
+                "1183A"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11930"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1193B",
+                "1193C"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1193E"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11943"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "119D4",
+                "119D7"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "119DA",
+                "119DB"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "119E0"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11A01",
+                "11A0A"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11A33",
+                "11A38"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11A3B",
+                "11A3E"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11A47"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11A51",
+                "11A56"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11A59",
+                "11A5B"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11A8A",
+                "11A96"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11A98",
+                "11A99"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11C30",
+                "11C36"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11C38",
+                "11C3D"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11C3F"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11C92",
+                "11CA7"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11CAA",
+                "11CB0"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11CB2",
+                "11CB3"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11CB5",
+                "11CB6"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11D31",
+                "11D36"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11D3A"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11D3C",
+                "11D3D"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11D3F",
+                "11D45"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11D47"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11D90",
+                "11D91"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11D95"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11D97"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11EF3",
+                "11EF4"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "16AF0",
+                "16AF4"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "16B30",
+                "16B36"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "16F4F"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "16F8F",
+                "16F92"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "16FE4"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1BC9D",
+                "1BC9E"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1CF00",
+                "1CF2D"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1CF30",
+                "1CF46"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1D165"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1D167",
+                "1D169"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1D16E",
+                "1D172"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1D17B",
+                "1D182"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1D185",
+                "1D18B"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1D1AA",
+                "1D1AD"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1D242",
+                "1D244"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1DA00",
+                "1DA36"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1DA3B",
+                "1DA6C"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1DA75"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1DA84"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1DA9B",
+                "1DA9F"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1DAA1",
+                "1DAAF"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1E000",
+                "1E006"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1E008",
+                "1E018"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1E01B",
+                "1E021"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1E023",
+                "1E024"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1E026",
+                "1E02A"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1E130",
+                "1E136"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1E2AE"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1E2EC",
+                "1E2EF"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1E8D0",
+                "1E8D6"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1E944",
+                "1E94A"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1F3FB",
+                "1F3FF"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "E0020",
+                "E007F"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "E0100",
+                "E01EF"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1F1E6",
+                "1F1FF"
+            ],
+            "property": "Regional_Indicator"
+        },
+        {
+            "range": [
+                "0903"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "093B"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "093E",
+                "0940"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0949",
+                "094C"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "094E",
+                "094F"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0982",
+                "0983"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "09BF",
+                "09C0"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "09C7",
+                "09C8"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "09CB",
+                "09CC"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0A03"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0A3E",
+                "0A40"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0A83"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0ABE",
+                "0AC0"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0AC9"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0ACB",
+                "0ACC"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0B02",
+                "0B03"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0B40"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0B47",
+                "0B48"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0B4B",
+                "0B4C"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0BBF"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0BC1",
+                "0BC2"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0BC6",
+                "0BC8"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0BCA",
+                "0BCC"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0C01",
+                "0C03"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0C41",
+                "0C44"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0C82",
+                "0C83"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0CBE"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0CC0",
+                "0CC1"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0CC3",
+                "0CC4"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0CC7",
+                "0CC8"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0CCA",
+                "0CCB"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0D02",
+                "0D03"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0D3F",
+                "0D40"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0D46",
+                "0D48"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0D4A",
+                "0D4C"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0D82",
+                "0D83"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0DD0",
+                "0DD1"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0DD8",
+                "0DDE"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0DF2",
+                "0DF3"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0E33"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0EB3"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0F3E",
+                "0F3F"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "0F7F"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1031"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "103B",
+                "103C"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1056",
+                "1057"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1084"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1715"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1734"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "17B6"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "17BE",
+                "17C5"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "17C7",
+                "17C8"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1923",
+                "1926"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1929",
+                "192B"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1930",
+                "1931"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1933",
+                "1938"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1A19",
+                "1A1A"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1A55"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1A57"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1A6D",
+                "1A72"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1B04"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1B3B"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1B3D",
+                "1B41"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1B43",
+                "1B44"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1B82"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1BA1"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1BA6",
+                "1BA7"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1BAA"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1BE7"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1BEA",
+                "1BEC"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1BEE"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1BF2",
+                "1BF3"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1C24",
+                "1C2B"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1C34",
+                "1C35"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1CE1"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1CF7"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "A823",
+                "A824"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "A827"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "A880",
+                "A881"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "A8B4",
+                "A8C3"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "A952",
+                "A953"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "A983"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "A9B4",
+                "A9B5"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "A9BA",
+                "A9BB"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "A9BE",
+                "A9C0"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "AA2F",
+                "AA30"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "AA33",
+                "AA34"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "AA4D"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "AAEB"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "AAEE",
+                "AAEF"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "AAF5"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "ABE3",
+                "ABE4"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "ABE6",
+                "ABE7"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "ABE9",
+                "ABEA"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "ABEC"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11000"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11002"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11082"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "110B0",
+                "110B2"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "110B7",
+                "110B8"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1112C"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11145",
+                "11146"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11182"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "111B3",
+                "111B5"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "111BF",
+                "111C0"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "111CE"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1122C",
+                "1122E"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11232",
+                "11233"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11235"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "112E0",
+                "112E2"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11302",
+                "11303"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1133F"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11341",
+                "11344"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11347",
+                "11348"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1134B",
+                "1134D"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11362",
+                "11363"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11435",
+                "11437"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11440",
+                "11441"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11445"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "114B1",
+                "114B2"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "114B9"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "114BB",
+                "114BC"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "114BE"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "114C1"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "115B0",
+                "115B1"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "115B8",
+                "115BB"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "115BE"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11630",
+                "11632"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1163B",
+                "1163C"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1163E"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "116AC"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "116AE",
+                "116AF"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "116B6"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11726"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1182C",
+                "1182E"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11838"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11931",
+                "11935"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11937",
+                "11938"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1193D"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11940"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11942"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "119D1",
+                "119D3"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "119DC",
+                "119DF"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "119E4"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11A39"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11A57",
+                "11A58"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11A97"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11C2F"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11C3E"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11CA9"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11CB1"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11CB4"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11D8A",
+                "11D8E"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11D93",
+                "11D94"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11D96"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11EF5",
+                "11EF6"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "16F51",
+                "16F87"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "16FF0",
+                "16FF1"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1D166"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1D16D"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "1100",
+                "115F"
+            ],
+            "property": "L"
+        },
+        {
+            "range": [
+                "A960",
+                "A97C"
+            ],
+            "property": "L"
+        },
+        {
+            "range": [
+                "1160",
+                "11A7"
+            ],
+            "property": "V"
+        },
+        {
+            "range": [
+                "D7B0",
+                "D7C6"
+            ],
+            "property": "V"
+        },
+        {
+            "range": [
+                "11A8",
+                "11FF"
+            ],
+            "property": "T"
+        },
+        {
+            "range": [
+                "D7CB",
+                "D7FB"
+            ],
+            "property": "T"
+        },
+        {
+            "range": [
+                "AC00"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AC1C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AC38"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AC54"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AC70"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AC8C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "ACA8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "ACC4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "ACE0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "ACFC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AD18"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AD34"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AD50"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AD6C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AD88"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "ADA4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "ADC0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "ADDC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "ADF8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AE14"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AE30"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AE4C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AE68"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AE84"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AEA0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AEBC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AED8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AEF4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AF10"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AF2C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AF48"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AF64"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AF80"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AF9C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AFB8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AFD4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AFF0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B00C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B028"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B044"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B060"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B07C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B098"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B0B4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B0D0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B0EC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B108"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B124"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B140"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B15C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B178"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B194"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B1B0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B1CC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B1E8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B204"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B220"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B23C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B258"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B274"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B290"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B2AC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B2C8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B2E4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B300"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B31C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B338"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B354"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B370"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B38C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B3A8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B3C4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B3E0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B3FC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B418"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B434"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B450"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B46C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B488"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B4A4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B4C0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B4DC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B4F8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B514"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B530"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B54C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B568"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B584"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B5A0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B5BC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B5D8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B5F4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B610"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B62C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B648"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B664"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B680"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B69C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B6B8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B6D4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B6F0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B70C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B728"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B744"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B760"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B77C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B798"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B7B4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B7D0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B7EC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B808"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B824"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B840"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B85C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B878"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B894"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B8B0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B8CC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B8E8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B904"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B920"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B93C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B958"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B974"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B990"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B9AC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B9C8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "B9E4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BA00"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BA1C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BA38"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BA54"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BA70"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BA8C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BAA8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BAC4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BAE0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BAFC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BB18"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BB34"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BB50"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BB6C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BB88"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BBA4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BBC0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BBDC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BBF8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BC14"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BC30"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BC4C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BC68"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BC84"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BCA0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BCBC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BCD8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BCF4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BD10"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BD2C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BD48"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BD64"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BD80"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BD9C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BDB8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BDD4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BDF0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BE0C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BE28"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BE44"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BE60"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BE7C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BE98"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BEB4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BED0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BEEC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BF08"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BF24"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BF40"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BF5C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BF78"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BF94"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BFB0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BFCC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "BFE8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C004"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C020"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C03C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C058"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C074"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C090"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C0AC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C0C8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C0E4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C100"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C11C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C138"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C154"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C170"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C18C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C1A8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C1C4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C1E0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C1FC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C218"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C234"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C250"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C26C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C288"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C2A4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C2C0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C2DC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C2F8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C314"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C330"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C34C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C368"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C384"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C3A0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C3BC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C3D8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C3F4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C410"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C42C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C448"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C464"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C480"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C49C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C4B8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C4D4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C4F0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C50C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C528"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C544"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C560"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C57C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C598"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C5B4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C5D0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C5EC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C608"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C624"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C640"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C65C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C678"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C694"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C6B0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C6CC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C6E8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C704"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C720"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C73C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C758"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C774"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C790"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C7AC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C7C8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C7E4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C800"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C81C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C838"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C854"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C870"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C88C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C8A8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C8C4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C8E0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C8FC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C918"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C934"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C950"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C96C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C988"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C9A4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C9C0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C9DC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "C9F8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CA14"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CA30"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CA4C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CA68"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CA84"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CAA0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CABC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CAD8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CAF4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CB10"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CB2C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CB48"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CB64"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CB80"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CB9C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CBB8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CBD4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CBF0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CC0C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CC28"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CC44"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CC60"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CC7C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CC98"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CCB4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CCD0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CCEC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CD08"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CD24"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CD40"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CD5C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CD78"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CD94"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CDB0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CDCC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CDE8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CE04"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CE20"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CE3C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CE58"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CE74"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CE90"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CEAC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CEC8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CEE4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CF00"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CF1C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CF38"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CF54"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CF70"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CF8C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CFA8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CFC4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CFE0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "CFFC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D018"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D034"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D050"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D06C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D088"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D0A4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D0C0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D0DC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D0F8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D114"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D130"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D14C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D168"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D184"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D1A0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D1BC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D1D8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D1F4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D210"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D22C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D248"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D264"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D280"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D29C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D2B8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D2D4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D2F0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D30C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D328"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D344"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D360"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D37C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D398"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D3B4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D3D0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D3EC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D408"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D424"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D440"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D45C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D478"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D494"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D4B0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D4CC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D4E8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D504"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D520"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D53C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D558"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D574"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D590"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D5AC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D5C8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D5E4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D600"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D61C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D638"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D654"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D670"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D68C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D6A8"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D6C4"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D6E0"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D6FC"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D718"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D734"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D750"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D76C"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "D788"
+            ],
+            "property": "LV"
+        },
+        {
+            "range": [
+                "AC01",
+                "AC1B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AC1D",
+                "AC37"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AC39",
+                "AC53"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AC55",
+                "AC6F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AC71",
+                "AC8B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AC8D",
+                "ACA7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "ACA9",
+                "ACC3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "ACC5",
+                "ACDF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "ACE1",
+                "ACFB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "ACFD",
+                "AD17"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AD19",
+                "AD33"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AD35",
+                "AD4F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AD51",
+                "AD6B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AD6D",
+                "AD87"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AD89",
+                "ADA3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "ADA5",
+                "ADBF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "ADC1",
+                "ADDB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "ADDD",
+                "ADF7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "ADF9",
+                "AE13"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AE15",
+                "AE2F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AE31",
+                "AE4B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AE4D",
+                "AE67"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AE69",
+                "AE83"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AE85",
+                "AE9F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AEA1",
+                "AEBB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AEBD",
+                "AED7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AED9",
+                "AEF3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AEF5",
+                "AF0F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AF11",
+                "AF2B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AF2D",
+                "AF47"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AF49",
+                "AF63"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AF65",
+                "AF7F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AF81",
+                "AF9B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AF9D",
+                "AFB7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AFB9",
+                "AFD3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AFD5",
+                "AFEF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "AFF1",
+                "B00B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B00D",
+                "B027"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B029",
+                "B043"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B045",
+                "B05F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B061",
+                "B07B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B07D",
+                "B097"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B099",
+                "B0B3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B0B5",
+                "B0CF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B0D1",
+                "B0EB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B0ED",
+                "B107"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B109",
+                "B123"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B125",
+                "B13F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B141",
+                "B15B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B15D",
+                "B177"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B179",
+                "B193"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B195",
+                "B1AF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B1B1",
+                "B1CB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B1CD",
+                "B1E7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B1E9",
+                "B203"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B205",
+                "B21F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B221",
+                "B23B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B23D",
+                "B257"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B259",
+                "B273"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B275",
+                "B28F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B291",
+                "B2AB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B2AD",
+                "B2C7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B2C9",
+                "B2E3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B2E5",
+                "B2FF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B301",
+                "B31B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B31D",
+                "B337"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B339",
+                "B353"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B355",
+                "B36F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B371",
+                "B38B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B38D",
+                "B3A7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B3A9",
+                "B3C3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B3C5",
+                "B3DF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B3E1",
+                "B3FB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B3FD",
+                "B417"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B419",
+                "B433"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B435",
+                "B44F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B451",
+                "B46B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B46D",
+                "B487"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B489",
+                "B4A3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B4A5",
+                "B4BF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B4C1",
+                "B4DB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B4DD",
+                "B4F7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B4F9",
+                "B513"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B515",
+                "B52F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B531",
+                "B54B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B54D",
+                "B567"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B569",
+                "B583"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B585",
+                "B59F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B5A1",
+                "B5BB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B5BD",
+                "B5D7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B5D9",
+                "B5F3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B5F5",
+                "B60F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B611",
+                "B62B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B62D",
+                "B647"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B649",
+                "B663"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B665",
+                "B67F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B681",
+                "B69B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B69D",
+                "B6B7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B6B9",
+                "B6D3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B6D5",
+                "B6EF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B6F1",
+                "B70B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B70D",
+                "B727"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B729",
+                "B743"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B745",
+                "B75F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B761",
+                "B77B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B77D",
+                "B797"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B799",
+                "B7B3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B7B5",
+                "B7CF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B7D1",
+                "B7EB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B7ED",
+                "B807"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B809",
+                "B823"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B825",
+                "B83F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B841",
+                "B85B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B85D",
+                "B877"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B879",
+                "B893"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B895",
+                "B8AF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B8B1",
+                "B8CB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B8CD",
+                "B8E7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B8E9",
+                "B903"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B905",
+                "B91F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B921",
+                "B93B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B93D",
+                "B957"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B959",
+                "B973"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B975",
+                "B98F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B991",
+                "B9AB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B9AD",
+                "B9C7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B9C9",
+                "B9E3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "B9E5",
+                "B9FF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BA01",
+                "BA1B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BA1D",
+                "BA37"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BA39",
+                "BA53"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BA55",
+                "BA6F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BA71",
+                "BA8B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BA8D",
+                "BAA7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BAA9",
+                "BAC3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BAC5",
+                "BADF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BAE1",
+                "BAFB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BAFD",
+                "BB17"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BB19",
+                "BB33"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BB35",
+                "BB4F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BB51",
+                "BB6B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BB6D",
+                "BB87"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BB89",
+                "BBA3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BBA5",
+                "BBBF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BBC1",
+                "BBDB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BBDD",
+                "BBF7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BBF9",
+                "BC13"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BC15",
+                "BC2F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BC31",
+                "BC4B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BC4D",
+                "BC67"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BC69",
+                "BC83"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BC85",
+                "BC9F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BCA1",
+                "BCBB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BCBD",
+                "BCD7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BCD9",
+                "BCF3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BCF5",
+                "BD0F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BD11",
+                "BD2B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BD2D",
+                "BD47"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BD49",
+                "BD63"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BD65",
+                "BD7F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BD81",
+                "BD9B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BD9D",
+                "BDB7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BDB9",
+                "BDD3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BDD5",
+                "BDEF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BDF1",
+                "BE0B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BE0D",
+                "BE27"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BE29",
+                "BE43"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BE45",
+                "BE5F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BE61",
+                "BE7B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BE7D",
+                "BE97"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BE99",
+                "BEB3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BEB5",
+                "BECF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BED1",
+                "BEEB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BEED",
+                "BF07"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BF09",
+                "BF23"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BF25",
+                "BF3F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BF41",
+                "BF5B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BF5D",
+                "BF77"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BF79",
+                "BF93"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BF95",
+                "BFAF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BFB1",
+                "BFCB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BFCD",
+                "BFE7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "BFE9",
+                "C003"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C005",
+                "C01F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C021",
+                "C03B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C03D",
+                "C057"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C059",
+                "C073"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C075",
+                "C08F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C091",
+                "C0AB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C0AD",
+                "C0C7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C0C9",
+                "C0E3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C0E5",
+                "C0FF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C101",
+                "C11B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C11D",
+                "C137"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C139",
+                "C153"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C155",
+                "C16F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C171",
+                "C18B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C18D",
+                "C1A7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C1A9",
+                "C1C3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C1C5",
+                "C1DF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C1E1",
+                "C1FB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C1FD",
+                "C217"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C219",
+                "C233"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C235",
+                "C24F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C251",
+                "C26B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C26D",
+                "C287"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C289",
+                "C2A3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C2A5",
+                "C2BF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C2C1",
+                "C2DB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C2DD",
+                "C2F7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C2F9",
+                "C313"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C315",
+                "C32F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C331",
+                "C34B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C34D",
+                "C367"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C369",
+                "C383"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C385",
+                "C39F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C3A1",
+                "C3BB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C3BD",
+                "C3D7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C3D9",
+                "C3F3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C3F5",
+                "C40F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C411",
+                "C42B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C42D",
+                "C447"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C449",
+                "C463"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C465",
+                "C47F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C481",
+                "C49B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C49D",
+                "C4B7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C4B9",
+                "C4D3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C4D5",
+                "C4EF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C4F1",
+                "C50B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C50D",
+                "C527"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C529",
+                "C543"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C545",
+                "C55F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C561",
+                "C57B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C57D",
+                "C597"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C599",
+                "C5B3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C5B5",
+                "C5CF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C5D1",
+                "C5EB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C5ED",
+                "C607"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C609",
+                "C623"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C625",
+                "C63F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C641",
+                "C65B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C65D",
+                "C677"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C679",
+                "C693"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C695",
+                "C6AF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C6B1",
+                "C6CB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C6CD",
+                "C6E7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C6E9",
+                "C703"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C705",
+                "C71F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C721",
+                "C73B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C73D",
+                "C757"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C759",
+                "C773"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C775",
+                "C78F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C791",
+                "C7AB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C7AD",
+                "C7C7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C7C9",
+                "C7E3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C7E5",
+                "C7FF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C801",
+                "C81B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C81D",
+                "C837"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C839",
+                "C853"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C855",
+                "C86F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C871",
+                "C88B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C88D",
+                "C8A7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C8A9",
+                "C8C3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C8C5",
+                "C8DF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C8E1",
+                "C8FB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C8FD",
+                "C917"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C919",
+                "C933"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C935",
+                "C94F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C951",
+                "C96B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C96D",
+                "C987"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C989",
+                "C9A3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C9A5",
+                "C9BF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C9C1",
+                "C9DB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C9DD",
+                "C9F7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "C9F9",
+                "CA13"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CA15",
+                "CA2F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CA31",
+                "CA4B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CA4D",
+                "CA67"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CA69",
+                "CA83"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CA85",
+                "CA9F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CAA1",
+                "CABB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CABD",
+                "CAD7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CAD9",
+                "CAF3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CAF5",
+                "CB0F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CB11",
+                "CB2B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CB2D",
+                "CB47"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CB49",
+                "CB63"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CB65",
+                "CB7F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CB81",
+                "CB9B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CB9D",
+                "CBB7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CBB9",
+                "CBD3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CBD5",
+                "CBEF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CBF1",
+                "CC0B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CC0D",
+                "CC27"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CC29",
+                "CC43"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CC45",
+                "CC5F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CC61",
+                "CC7B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CC7D",
+                "CC97"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CC99",
+                "CCB3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CCB5",
+                "CCCF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CCD1",
+                "CCEB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CCED",
+                "CD07"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CD09",
+                "CD23"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CD25",
+                "CD3F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CD41",
+                "CD5B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CD5D",
+                "CD77"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CD79",
+                "CD93"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CD95",
+                "CDAF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CDB1",
+                "CDCB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CDCD",
+                "CDE7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CDE9",
+                "CE03"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CE05",
+                "CE1F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CE21",
+                "CE3B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CE3D",
+                "CE57"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CE59",
+                "CE73"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CE75",
+                "CE8F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CE91",
+                "CEAB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CEAD",
+                "CEC7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CEC9",
+                "CEE3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CEE5",
+                "CEFF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CF01",
+                "CF1B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CF1D",
+                "CF37"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CF39",
+                "CF53"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CF55",
+                "CF6F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CF71",
+                "CF8B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CF8D",
+                "CFA7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CFA9",
+                "CFC3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CFC5",
+                "CFDF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CFE1",
+                "CFFB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "CFFD",
+                "D017"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D019",
+                "D033"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D035",
+                "D04F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D051",
+                "D06B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D06D",
+                "D087"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D089",
+                "D0A3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D0A5",
+                "D0BF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D0C1",
+                "D0DB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D0DD",
+                "D0F7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D0F9",
+                "D113"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D115",
+                "D12F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D131",
+                "D14B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D14D",
+                "D167"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D169",
+                "D183"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D185",
+                "D19F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D1A1",
+                "D1BB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D1BD",
+                "D1D7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D1D9",
+                "D1F3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D1F5",
+                "D20F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D211",
+                "D22B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D22D",
+                "D247"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D249",
+                "D263"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D265",
+                "D27F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D281",
+                "D29B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D29D",
+                "D2B7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D2B9",
+                "D2D3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D2D5",
+                "D2EF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D2F1",
+                "D30B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D30D",
+                "D327"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D329",
+                "D343"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D345",
+                "D35F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D361",
+                "D37B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D37D",
+                "D397"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D399",
+                "D3B3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D3B5",
+                "D3CF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D3D1",
+                "D3EB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D3ED",
+                "D407"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D409",
+                "D423"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D425",
+                "D43F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D441",
+                "D45B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D45D",
+                "D477"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D479",
+                "D493"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D495",
+                "D4AF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D4B1",
+                "D4CB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D4CD",
+                "D4E7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D4E9",
+                "D503"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D505",
+                "D51F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D521",
+                "D53B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D53D",
+                "D557"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D559",
+                "D573"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D575",
+                "D58F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D591",
+                "D5AB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D5AD",
+                "D5C7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D5C9",
+                "D5E3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D5E5",
+                "D5FF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D601",
+                "D61B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D61D",
+                "D637"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D639",
+                "D653"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D655",
+                "D66F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D671",
+                "D68B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D68D",
+                "D6A7"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D6A9",
+                "D6C3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D6C5",
+                "D6DF"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D6E1",
+                "D6FB"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D6FD",
+                "D717"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D719",
+                "D733"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D735",
+                "D74F"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D751",
+                "D76B"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D76D",
+                "D787"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "D789",
+                "D7A3"
+            ],
+            "property": "LVT"
+        },
+        {
+            "range": [
+                "200D"
+            ],
+            "property": "ZWJ"
+        }
+    ]
+}

@@ -1,0 +1,1984 @@
+{
+    "NushuSources": [
+        {
+            "codepoint": "U+1B170",
+            "kSrc_NushuDuben": "36.01",
+            "kReading": "i5"
+        },
+        {
+            "codepoint": "U+1B171",
+            "kSrc_NushuDuben": "36.02",
+            "kReading": "na33"
+        },
+        {
+            "codepoint": "U+1B172",
+            "kSrc_NushuDuben": "36.03",
+            "kReading": "tsha5"
+        },
+        {
+            "codepoint": "U+1B173",
+            "kSrc_NushuDuben": "36.04",
+            "kReading": "ie21"
+        },
+        {
+            "codepoint": "U+1B174",
+            "kSrc_NushuDuben": "36.05",
+            "kReading": "poe5"
+        },
+        {
+            "codepoint": "U+1B175",
+            "kSrc_NushuDuben": "36.06",
+            "kReading": "swe33"
+        },
+        {
+            "codepoint": "U+1B176",
+            "kSrc_NushuDuben": "36.07",
+            "kReading": "phiu44"
+        },
+        {
+            "codepoint": "U+1B177",
+            "kSrc_NushuDuben": "36.08",
+            "kReading": "u5"
+        },
+        {
+            "codepoint": "U+1B178",
+            "kSrc_NushuDuben": "36.09",
+            "kReading": "cya35"
+        },
+        {
+            "codepoint": "U+1B179",
+            "kSrc_NushuDuben": "36.10",
+            "kReading": "tie42"
+        },
+        {
+            "codepoint": "U+1B17A",
+            "kSrc_NushuDuben": "36.11",
+            "kReading": "njie33"
+        },
+        {
+            "codepoint": "U+1B17B",
+            "kSrc_NushuDuben": "36.12",
+            "kReading": "toe33"
+        },
+        {
+            "codepoint": "U+1B17C",
+            "kSrc_NushuDuben": "36.13",
+            "kReading": "tchye5"
+        },
+        {
+            "codepoint": "U+1B17D",
+            "kSrc_NushuDuben": "36.14",
+            "kReading": "fwe13"
+        },
+        {
+            "codepoint": "U+1B17E",
+            "kSrc_NushuDuben": "36.15",
+            "kReading": "liu44"
+        },
+        {
+            "codepoint": "U+1B17F",
+            "kSrc_NushuDuben": "36.16",
+            "kReading": "siu35"
+        },
+        {
+            "codepoint": "U+1B180",
+            "kSrc_NushuDuben": "37.01",
+            "kReading": "thu35"
+        },
+        {
+            "codepoint": "U+1B181",
+            "kSrc_NushuDuben": "37.02",
+            "kReading": "njyu13"
+        },
+        {
+            "codepoint": "U+1B182",
+            "kSrc_NushuDuben": "37.03",
+            "kReading": "vai42"
+        },
+        {
+            "codepoint": "U+1B183",
+            "kSrc_NushuDuben": "37.04",
+            "kReading": "kai44"
+        },
+        {
+            "codepoint": "U+1B184",
+            "kSrc_NushuDuben": "37.05",
+            "kReading": "khau21"
+        },
+        {
+            "codepoint": "U+1B185",
+            "kSrc_NushuDuben": "37.06",
+            "kReading": "kou21"
+        },
+        {
+            "codepoint": "U+1B186",
+            "kSrc_NushuDuben": "37.07",
+            "kReading": "tciou35"
+        },
+        {
+            "codepoint": "U+1B187",
+            "kSrc_NushuDuben": "37.08",
+            "kReading": "liang35"
+        },
+        {
+            "codepoint": "U+1B188",
+            "kSrc_NushuDuben": "37.09",
+            "kReading": "ciang13"
+        },
+        {
+            "codepoint": "U+1B189",
+            "kSrc_NushuDuben": "37.10",
+            "kReading": "tsheng44"
+        },
+        {
+            "codepoint": "U+1B18A",
+            "kSrc_NushuDuben": "37.11",
+            "kReading": "song44"
+        },
+        {
+            "codepoint": "U+1B18B",
+            "kSrc_NushuDuben": "37.12",
+            "kReading": "ma5"
+        },
+        {
+            "codepoint": "U+1B18C",
+            "kSrc_NushuDuben": "37.14",
+            "kReading": "fa44"
+        },
+        {
+            "codepoint": "U+1B18D",
+            "kSrc_NushuDuben": "37.13",
+            "kReading": "la44"
+        },
+        {
+            "codepoint": "U+1B18E",
+            "kSrc_NushuDuben": "37.16",
+            "kReading": "thoe21"
+        },
+        {
+            "codepoint": "U+1B18F",
+            "kSrc_NushuDuben": "37.17",
+            "kReading": "tsoe42"
+        },
+        {
+            "codepoint": "U+1B190",
+            "kSrc_NushuDuben": "37.18",
+            "kReading": "fwe44"
+        },
+        {
+            "codepoint": "U+1B191",
+            "kSrc_NushuDuben": "37.19",
+            "kReading": "tswe35"
+        },
+        {
+            "codepoint": "U+1B192",
+            "kSrc_NushuDuben": "37.20",
+            "kReading": "ti13"
+        },
+        {
+            "codepoint": "U+1B193",
+            "kSrc_NushuDuben": "38.01",
+            "kReading": "ci21"
+        },
+        {
+            "codepoint": "U+1B194",
+            "kSrc_NushuDuben": "38.02",
+            "kReading": "fu44"
+        },
+        {
+            "codepoint": "U+1B195",
+            "kSrc_NushuDuben": "38.03",
+            "kReading": "fu35"
+        },
+        {
+            "codepoint": "U+1B196",
+            "kSrc_NushuDuben": "38.04",
+            "kReading": "fu13"
+        },
+        {
+            "codepoint": "U+1B197",
+            "kSrc_NushuDuben": "38.05",
+            "kReading": "tcyu35"
+        },
+        {
+            "codepoint": "U+1B198",
+            "kSrc_NushuDuben": "38.06",
+            "kReading": "tcyu21"
+        },
+        {
+            "codepoint": "U+1B199",
+            "kSrc_NushuDuben": "38.07",
+            "kReading": "fai44"
+        },
+        {
+            "codepoint": "U+1B19A",
+            "kSrc_NushuDuben": "38.08",
+            "kReading": "hau35"
+        },
+        {
+            "codepoint": "U+1B19B",
+            "kSrc_NushuDuben": "38.09",
+            "kReading": "lou35"
+        },
+        {
+            "codepoint": "U+1B19C",
+            "kSrc_NushuDuben": "38.10",
+            "kReading": "liou33"
+        },
+        {
+            "codepoint": "U+1B19D",
+            "kSrc_NushuDuben": "38.11",
+            "kReading": "tciou44"
+        },
+        {
+            "codepoint": "U+1B19E",
+            "kSrc_NushuDuben": "38.12",
+            "kReading": "ciou35"
+        },
+        {
+            "codepoint": "U+1B19F",
+            "kSrc_NushuDuben": "38.13",
+            "kReading": "tchyn21"
+        },
+        {
+            "codepoint": "U+1B1A0",
+            "kSrc_NushuDuben": "38.14",
+            "kReading": "fang44"
+        },
+        {
+            "codepoint": "U+1B1A1",
+            "kSrc_NushuDuben": "38.15",
+            "kReading": "vang42"
+        },
+        {
+            "codepoint": "U+1B1A2",
+            "kSrc_NushuDuben": "38.16",
+            "kReading": "sang33"
+        },
+        {
+            "codepoint": "U+1B1A3",
+            "kSrc_NushuDuben": "38.17",
+            "kReading": "khang21"
+        },
+        {
+            "codepoint": "U+1B1A4",
+            "kSrc_NushuDuben": "39.01",
+            "kReading": "theng44"
+        },
+        {
+            "codepoint": "U+1B1A5",
+            "kSrc_NushuDuben": "38.18",
+            "kReading": "neng44"
+        },
+        {
+            "codepoint": "U+1B1A6",
+            "kSrc_NushuDuben": "39.02",
+            "kReading": "piong13"
+        },
+        {
+            "codepoint": "U+1B1A7",
+            "kSrc_NushuDuben": "39.03",
+            "kReading": "iong42"
+        },
+        {
+            "codepoint": "U+1B1A8",
+            "kSrc_NushuDuben": "39.04",
+            "kReading": "va33"
+        },
+        {
+            "codepoint": "U+1B1A9",
+            "kSrc_NushuDuben": "37.15",
+            "kReading": "khua44"
+        },
+        {
+            "codepoint": "U+1B1AA",
+            "kSrc_NushuDuben": "39.05",
+            "kReading": "tchya33"
+        },
+        {
+            "codepoint": "U+1B1AB",
+            "kSrc_NushuDuben": "39.07",
+            "kReading": "nie33"
+        },
+        {
+            "codepoint": "U+1B1AC",
+            "kSrc_NushuDuben": "39.08",
+            "kReading": "lie21"
+        },
+        {
+            "codepoint": "U+1B1AD",
+            "kSrc_NushuDuben": "39.09",
+            "kReading": "tcie44"
+        },
+        {
+            "codepoint": "U+1B1AE",
+            "kSrc_NushuDuben": "39.10",
+            "kReading": "tchie44"
+        },
+        {
+            "codepoint": "U+1B1AF",
+            "kSrc_NushuDuben": "39.11",
+            "kReading": "njie44"
+        },
+        {
+            "codepoint": "U+1B1B0",
+            "kSrc_NushuDuben": "39.12",
+            "kReading": "njie42"
+        },
+        {
+            "codepoint": "U+1B1B1",
+            "kSrc_NushuDuben": "39.13",
+            "kReading": "ie44"
+        },
+        {
+            "codepoint": "U+1B1B2",
+            "kSrc_NushuDuben": "39.14",
+            "kReading": "ie33"
+        },
+        {
+            "codepoint": "U+1B1B3",
+            "kSrc_NushuDuben": "39.15",
+            "kReading": "mwe13"
+        },
+        {
+            "codepoint": "U+1B1B4",
+            "kSrc_NushuDuben": "40.01",
+            "kReading": "vwe33"
+        },
+        {
+            "codepoint": "U+1B1B5",
+            "kSrc_NushuDuben": "39.16",
+            "kReading": "vwe5"
+        },
+        {
+            "codepoint": "U+1B1B6",
+            "kSrc_NushuDuben": "39.17",
+            "kReading": "twe33"
+        },
+        {
+            "codepoint": "U+1B1B7",
+            "kSrc_NushuDuben": "40.02",
+            "kReading": "tswe44"
+        },
+        {
+            "codepoint": "U+1B1B8",
+            "kSrc_NushuDuben": "40.03",
+            "kReading": "swe42"
+        },
+        {
+            "codepoint": "U+1B1B9",
+            "kSrc_NushuDuben": "40.04",
+            "kReading": "swe13"
+        },
+        {
+            "codepoint": "U+1B1BA",
+            "kSrc_NushuDuben": "40.05",
+            "kReading": "tci35"
+        },
+        {
+            "codepoint": "U+1B1BB",
+            "kSrc_NushuDuben": "40.06",
+            "kReading": "ci35"
+        },
+        {
+            "codepoint": "U+1B1BC",
+            "kSrc_NushuDuben": "40.07",
+            "kReading": "i5"
+        },
+        {
+            "codepoint": "U+1B1BD",
+            "kSrc_NushuDuben": "40.08",
+            "kReading": "liu44"
+        },
+        {
+            "codepoint": "U+1B1BE",
+            "kSrc_NushuDuben": "40.09",
+            "kReading": "njiu33"
+        },
+        {
+            "codepoint": "U+1B1BF",
+            "kSrc_NushuDuben": "40.10",
+            "kReading": "ciu35"
+        },
+        {
+            "codepoint": "U+1B1C0",
+            "kSrc_NushuDuben": "40.11",
+            "kReading": "mu13"
+        },
+        {
+            "codepoint": "U+1B1C1",
+            "kSrc_NushuDuben": "40.12",
+            "kReading": "yu44"
+        },
+        {
+            "codepoint": "U+1B1C2",
+            "kSrc_NushuDuben": "40.13",
+            "kReading": "tchy21"
+        },
+        {
+            "codepoint": "U+1B1C3",
+            "kSrc_NushuDuben": "40.14",
+            "kReading": "njy33"
+        },
+        {
+            "codepoint": "U+1B1C4",
+            "kSrc_NushuDuben": "40.15",
+            "kReading": "y42"
+        },
+        {
+            "codepoint": "U+1B1C5",
+            "kSrc_NushuDuben": "40.16",
+            "kReading": "pai35"
+        },
+        {
+            "codepoint": "U+1B1C6",
+            "kSrc_NushuDuben": "40.20",
+            "kReading": "pai35"
+        },
+        {
+            "codepoint": "U+1B1C7",
+            "kSrc_NushuDuben": "40.18",
+            "kReading": "lai42"
+        },
+        {
+            "codepoint": "U+1B1C8",
+            "kSrc_NushuDuben": "40.17",
+            "kReading": "ai42"
+        },
+        {
+            "codepoint": "U+1B1C9",
+            "kSrc_NushuDuben": "40.19",
+            "kReading": "hau35"
+        },
+        {
+            "codepoint": "U+1B1CA",
+            "kSrc_NushuDuben": "41.01",
+            "kReading": "tou42"
+        },
+        {
+            "codepoint": "U+1B1CB",
+            "kSrc_NushuDuben": "41.02",
+            "kReading": "liou42"
+        },
+        {
+            "codepoint": "U+1B1CC",
+            "kSrc_NushuDuben": "41.03",
+            "kReading": "iou13"
+        },
+        {
+            "codepoint": "U+1B1CD",
+            "kSrc_NushuDuben": "41.05",
+            "kReading": "tsew35"
+        },
+        {
+            "codepoint": "U+1B1CE",
+            "kSrc_NushuDuben": "41.04",
+            "kReading": "tsew21"
+        },
+        {
+            "codepoint": "U+1B1CF",
+            "kSrc_NushuDuben": "41.06",
+            "kReading": "suow44"
+        },
+        {
+            "codepoint": "U+1B1D0",
+            "kSrc_NushuDuben": "41.08",
+            "kReading": "huow42"
+        },
+        {
+            "codepoint": "U+1B1D1",
+            "kSrc_NushuDuben": "41.07",
+            "kReading": "huow35"
+        },
+        {
+            "codepoint": "U+1B1D2",
+            "kSrc_NushuDuben": "43.21",
+            "kReading": "nguw33"
+        },
+        {
+            "codepoint": "U+1B1D3",
+            "kSrc_NushuDuben": "41.09",
+            "kReading": "mang42"
+        },
+        {
+            "codepoint": "U+1B1D4",
+            "kSrc_NushuDuben": "41.12",
+            "kReading": "thang44"
+        },
+        {
+            "codepoint": "U+1B1D5",
+            "kSrc_NushuDuben": "41.10",
+            "kReading": "kang44"
+        },
+        {
+            "codepoint": "U+1B1D6",
+            "kSrc_NushuDuben": "41.11",
+            "kReading": "liang33"
+        },
+        {
+            "codepoint": "U+1B1D7",
+            "kSrc_NushuDuben": "41.13",
+            "kReading": "tciang35"
+        },
+        {
+            "codepoint": "U+1B1D8",
+            "kSrc_NushuDuben": "41.14",
+            "kReading": "njiang42"
+        },
+        {
+            "codepoint": "U+1B1D9",
+            "kSrc_NushuDuben": "41.16",
+            "kReading": "peng44"
+        },
+        {
+            "codepoint": "U+1B1DA",
+            "kSrc_NushuDuben": "41.15",
+            "kReading": "seng44"
+        },
+        {
+            "codepoint": "U+1B1DB",
+            "kSrc_NushuDuben": "41.18",
+            "kReading": "piong42"
+        },
+        {
+            "codepoint": "U+1B1DC",
+            "kSrc_NushuDuben": "41.17",
+            "kReading": "tshiong21"
+        },
+        {
+            "codepoint": "U+1B1DD",
+            "kSrc_NushuDuben": "41.19",
+            "kReading": "tcing21"
+        },
+        {
+            "codepoint": "U+1B1DE",
+            "kSrc_NushuDuben": "41.20",
+            "kReading": "pa5"
+        },
+        {
+            "codepoint": "U+1B1DF",
+            "kSrc_NushuDuben": "42.01",
+            "kReading": "la33"
+        },
+        {
+            "codepoint": "U+1B1E0",
+            "kSrc_NushuDuben": "42.14",
+            "kReading": "sie35"
+        },
+        {
+            "codepoint": "U+1B1E1",
+            "kSrc_NushuDuben": "42.02",
+            "kReading": "tcie35"
+        },
+        {
+            "codepoint": "U+1B1E2",
+            "kSrc_NushuDuben": "42.03",
+            "kReading": "ie21"
+        },
+        {
+            "codepoint": "U+1B1E3",
+            "kSrc_NushuDuben": "42.04",
+            "kReading": "poe21"
+        },
+        {
+            "codepoint": "U+1B1E4",
+            "kSrc_NushuDuben": "42.06",
+            "kReading": "loe42"
+        },
+        {
+            "codepoint": "U+1B1E5",
+            "kSrc_NushuDuben": "42.07",
+            "kReading": "tsoe13"
+        },
+        {
+            "codepoint": "U+1B1E6",
+            "kSrc_NushuDuben": "42.08",
+            "kReading": "soe5"
+        },
+        {
+            "codepoint": "U+1B1E7",
+            "kSrc_NushuDuben": "42.09",
+            "kReading": "koe44"
+        },
+        {
+            "codepoint": "U+1B1E8",
+            "kSrc_NushuDuben": "42.10",
+            "kReading": "khuoe21"
+        },
+        {
+            "codepoint": "U+1B1E9",
+            "kSrc_NushuDuben": "42.11",
+            "kReading": "ye21"
+        },
+        {
+            "codepoint": "U+1B1EA",
+            "kSrc_NushuDuben": "42.12",
+            "kReading": "pwe33"
+        },
+        {
+            "codepoint": "U+1B1EB",
+            "kSrc_NushuDuben": "42.13",
+            "kReading": "pwe5"
+        },
+        {
+            "codepoint": "U+1B1EC",
+            "kSrc_NushuDuben": "42.15",
+            "kReading": "tchi21"
+        },
+        {
+            "codepoint": "U+1B1ED",
+            "kSrc_NushuDuben": "42.16",
+            "kReading": "tsiu33"
+        },
+        {
+            "codepoint": "U+1B1EE",
+            "kSrc_NushuDuben": "42.17",
+            "kReading": "fu42"
+        },
+        {
+            "codepoint": "U+1B1EF",
+            "kSrc_NushuDuben": "43.01",
+            "kReading": "vu42"
+        },
+        {
+            "codepoint": "U+1B1F0",
+            "kSrc_NushuDuben": "42.18",
+            "kReading": "khu35"
+        },
+        {
+            "codepoint": "U+1B1F1",
+            "kSrc_NushuDuben": "42.19",
+            "kReading": "hu5"
+        },
+        {
+            "codepoint": "U+1B1F2",
+            "kSrc_NushuDuben": "43.02",
+            "kReading": "pw13"
+        },
+        {
+            "codepoint": "U+1B1F3",
+            "kSrc_NushuDuben": "43.03",
+            "kReading": "fw42"
+        },
+        {
+            "codepoint": "U+1B1F4",
+            "kSrc_NushuDuben": "43.07",
+            "kReading": "sw5"
+        },
+        {
+            "codepoint": "U+1B1F5",
+            "kSrc_NushuDuben": "43.04",
+            "kReading": "kw5"
+        },
+        {
+            "codepoint": "U+1B1F6",
+            "kSrc_NushuDuben": "43.05",
+            "kReading": "hw44"
+        },
+        {
+            "codepoint": "U+1B1F7",
+            "kSrc_NushuDuben": "43.06",
+            "kReading": "mai42"
+        },
+        {
+            "codepoint": "U+1B1F8",
+            "kSrc_NushuDuben": "43.08",
+            "kReading": "thai44"
+        },
+        {
+            "codepoint": "U+1B1F9",
+            "kSrc_NushuDuben": "43.09",
+            "kReading": "sai44"
+        },
+        {
+            "codepoint": "U+1B1FA",
+            "kSrc_NushuDuben": "43.10",
+            "kReading": "sai44"
+        },
+        {
+            "codepoint": "U+1B1FB",
+            "kSrc_NushuDuben": "43.11",
+            "kReading": "thau35"
+        },
+        {
+            "codepoint": "U+1B1FC",
+            "kSrc_NushuDuben": "43.12",
+            "kReading": "lau21"
+        },
+        {
+            "codepoint": "U+1B1FD",
+            "kSrc_NushuDuben": "43.13",
+            "kReading": "lau21"
+        },
+        {
+            "codepoint": "U+1B1FE",
+            "kSrc_NushuDuben": "42.05",
+            "kReading": "nw33"
+        },
+        {
+            "codepoint": "U+1B1FF",
+            "kSrc_NushuDuben": "43.14",
+            "kReading": "kou33"
+        },
+        {
+            "codepoint": "U+1B200",
+            "kSrc_NushuDuben": "43.15",
+            "kReading": "ciou44"
+        },
+        {
+            "codepoint": "U+1B201",
+            "kSrc_NushuDuben": "43.17",
+            "kReading": "lew44"
+        },
+        {
+            "codepoint": "U+1B202",
+            "kSrc_NushuDuben": "43.16",
+            "kReading": "sew35"
+        },
+        {
+            "codepoint": "U+1B203",
+            "kSrc_NushuDuben": "43.18",
+            "kReading": "thuow21"
+        },
+        {
+            "codepoint": "U+1B204",
+            "kSrc_NushuDuben": "43.19",
+            "kReading": "uow33"
+        },
+        {
+            "codepoint": "U+1B205",
+            "kSrc_NushuDuben": "43.20",
+            "kReading": "kuw5"
+        },
+        {
+            "codepoint": "U+1B206",
+            "kSrc_NushuDuben": "44.01",
+            "kReading": "tcyn42"
+        },
+        {
+            "codepoint": "U+1B207",
+            "kSrc_NushuDuben": "44.02",
+            "kReading": "yn35"
+        },
+        {
+            "codepoint": "U+1B208",
+            "kSrc_NushuDuben": "44.03",
+            "kReading": "vang33"
+        },
+        {
+            "codepoint": "U+1B209",
+            "kSrc_NushuDuben": "44.04",
+            "kReading": "tsang44"
+        },
+        {
+            "codepoint": "U+1B20A",
+            "kSrc_NushuDuben": "44.05",
+            "kReading": "sang44"
+        },
+        {
+            "codepoint": "U+1B20B",
+            "kSrc_NushuDuben": "44.07",
+            "kReading": "khang35"
+        },
+        {
+            "codepoint": "U+1B20C",
+            "kSrc_NushuDuben": "44.06",
+            "kReading": "tciang44"
+        },
+        {
+            "codepoint": "U+1B20D",
+            "kSrc_NushuDuben": "44.08",
+            "kReading": "iang13"
+        },
+        {
+            "codepoint": "U+1B20E",
+            "kSrc_NushuDuben": "44.09",
+            "kReading": "teng42"
+        },
+        {
+            "codepoint": "U+1B20F",
+            "kSrc_NushuDuben": "44.10",
+            "kReading": "neng33"
+        },
+        {
+            "codepoint": "U+1B210",
+            "kSrc_NushuDuben": "44.11",
+            "kReading": "piong33"
+        },
+        {
+            "codepoint": "U+1B211",
+            "kSrc_NushuDuben": "44.12",
+            "kReading": "miong33"
+        },
+        {
+            "codepoint": "U+1B212",
+            "kSrc_NushuDuben": "44.13",
+            "kReading": "ciong42"
+        },
+        {
+            "codepoint": "U+1B213",
+            "kSrc_NushuDuben": "44.14",
+            "kReading": "ciong21"
+        },
+        {
+            "codepoint": "U+1B214",
+            "kSrc_NushuDuben": "44.15",
+            "kReading": "njing42"
+        },
+        {
+            "codepoint": "U+1B215",
+            "kSrc_NushuDuben": "44.16",
+            "kReading": "ng13"
+        },
+        {
+            "codepoint": "U+1B216",
+            "kSrc_NushuDuben": "44.17",
+            "kReading": "tsa35"
+        },
+        {
+            "codepoint": "U+1B217",
+            "kSrc_NushuDuben": "44.18",
+            "kReading": "sa21"
+        },
+        {
+            "codepoint": "U+1B218",
+            "kSrc_NushuDuben": "44.19",
+            "kReading": "kua44"
+        },
+        {
+            "codepoint": "U+1B219",
+            "kSrc_NushuDuben": "44.20",
+            "kReading": "kua35"
+        },
+        {
+            "codepoint": "U+1B21A",
+            "kSrc_NushuDuben": "39.06",
+            "kReading": "cya5"
+        },
+        {
+            "codepoint": "U+1B21B",
+            "kSrc_NushuDuben": "45.01",
+            "kReading": "cie44"
+        },
+        {
+            "codepoint": "U+1B21C",
+            "kSrc_NushuDuben": "45.02",
+            "kReading": "phoe35"
+        },
+        {
+            "codepoint": "U+1B21D",
+            "kSrc_NushuDuben": "45.03",
+            "kReading": "foe42"
+        },
+        {
+            "codepoint": "U+1B21E",
+            "kSrc_NushuDuben": "45.04",
+            "kReading": "loe35"
+        },
+        {
+            "codepoint": "U+1B21F",
+            "kSrc_NushuDuben": "45.13",
+            "kReading": "tshoe44"
+        },
+        {
+            "codepoint": "U+1B220",
+            "kSrc_NushuDuben": "45.05",
+            "kReading": "tshoe21"
+        },
+        {
+            "codepoint": "U+1B221",
+            "kSrc_NushuDuben": "45.06",
+            "kReading": "oe44"
+        },
+        {
+            "codepoint": "U+1B222",
+            "kSrc_NushuDuben": "46.14",
+            "kReading": "tchye35"
+        },
+        {
+            "codepoint": "U+1B223",
+            "kSrc_NushuDuben": "45.07",
+            "kReading": "fwe44"
+        },
+        {
+            "codepoint": "U+1B224",
+            "kSrc_NushuDuben": "45.08",
+            "kReading": "tswe33"
+        },
+        {
+            "codepoint": "U+1B225",
+            "kSrc_NushuDuben": "44.21",
+            "kReading": "ni33"
+        },
+        {
+            "codepoint": "U+1B226",
+            "kSrc_NushuDuben": "45.09",
+            "kReading": "tshi5"
+        },
+        {
+            "codepoint": "U+1B227",
+            "kSrc_NushuDuben": "45.10",
+            "kReading": "tshi5"
+        },
+        {
+            "codepoint": "U+1B228",
+            "kSrc_NushuDuben": "45.11",
+            "kReading": "si44"
+        },
+        {
+            "codepoint": "U+1B229",
+            "kSrc_NushuDuben": "45.12",
+            "kReading": "fu33"
+        },
+        {
+            "codepoint": "U+1B22A",
+            "kSrc_NushuDuben": "46.05",
+            "kReading": "ang21"
+        },
+        {
+            "codepoint": "U+1B22B",
+            "kSrc_NushuDuben": "45.16",
+            "kReading": "tchyu21"
+        },
+        {
+            "codepoint": "U+1B22C",
+            "kSrc_NushuDuben": "45.15",
+            "kReading": "cyu44"
+        },
+        {
+            "codepoint": "U+1B22D",
+            "kSrc_NushuDuben": "45.17",
+            "kReading": "phw21"
+        },
+        {
+            "codepoint": "U+1B22E",
+            "kSrc_NushuDuben": "45.18",
+            "kReading": "fai42"
+        },
+        {
+            "codepoint": "U+1B22F",
+            "kSrc_NushuDuben": "45.19",
+            "kReading": "tsai13"
+        },
+        {
+            "codepoint": "U+1B230",
+            "kSrc_NushuDuben": "45.20",
+            "kReading": "lou42"
+        },
+        {
+            "codepoint": "U+1B231",
+            "kSrc_NushuDuben": "45.23",
+            "kReading": "tsou5"
+        },
+        {
+            "codepoint": "U+1B232",
+            "kSrc_NushuDuben": "45.21",
+            "kReading": "piou44"
+        },
+        {
+            "codepoint": "U+1B233",
+            "kSrc_NushuDuben": "45.22",
+            "kReading": "miou13"
+        },
+        {
+            "codepoint": "U+1B234",
+            "kSrc_NushuDuben": "45.24",
+            "kReading": "tchiou21"
+        },
+        {
+            "codepoint": "U+1B235",
+            "kSrc_NushuDuben": "45.25",
+            "kReading": "njiou33"
+        },
+        {
+            "codepoint": "U+1B236",
+            "kSrc_NushuDuben": "45.26",
+            "kReading": "iou13"
+        },
+        {
+            "codepoint": "U+1B237",
+            "kSrc_NushuDuben": "46.01",
+            "kReading": "nuow42"
+        },
+        {
+            "codepoint": "U+1B238",
+            "kSrc_NushuDuben": "45.28",
+            "kReading": "kuow44"
+        },
+        {
+            "codepoint": "U+1B239",
+            "kSrc_NushuDuben": "45.27",
+            "kReading": "huow21"
+        },
+        {
+            "codepoint": "U+1B23A",
+            "kSrc_NushuDuben": "46.03",
+            "kReading": "pang44"
+        },
+        {
+            "codepoint": "U+1B23B",
+            "kSrc_NushuDuben": "45.14",
+            "kReading": "ngu13"
+        },
+        {
+            "codepoint": "U+1B23C",
+            "kSrc_NushuDuben": "46.08",
+            "kReading": "tsiang44"
+        },
+        {
+            "codepoint": "U+1B23D",
+            "kSrc_NushuDuben": "46.07",
+            "kReading": "tsiang42"
+        },
+        {
+            "codepoint": "U+1B23E",
+            "kSrc_NushuDuben": "46.02",
+            "kReading": "ciang42"
+        },
+        {
+            "codepoint": "U+1B23F",
+            "kSrc_NushuDuben": "46.09",
+            "kReading": "iang42"
+        },
+        {
+            "codepoint": "U+1B240",
+            "kSrc_NushuDuben": "46.12",
+            "kReading": "liong42"
+        },
+        {
+            "codepoint": "U+1B241",
+            "kSrc_NushuDuben": "46.10",
+            "kReading": "tshiong35"
+        },
+        {
+            "codepoint": "U+1B242",
+            "kSrc_NushuDuben": "46.11",
+            "kReading": "ciong44"
+        },
+        {
+            "codepoint": "U+1B243",
+            "kSrc_NushuDuben": "46.13",
+            "kReading": "cing35"
+        },
+        {
+            "codepoint": "U+1B244",
+            "kSrc_NushuDuben": "46.15",
+            "kReading": "la13"
+        },
+        {
+            "codepoint": "U+1B245",
+            "kSrc_NushuDuben": "46.16",
+            "kReading": "cya42"
+        },
+        {
+            "codepoint": "U+1B246",
+            "kSrc_NushuDuben": "46.17",
+            "kReading": "poe42"
+        },
+        {
+            "codepoint": "U+1B247",
+            "kSrc_NushuDuben": "46.19",
+            "kReading": "thoe44"
+        },
+        {
+            "codepoint": "U+1B248",
+            "kSrc_NushuDuben": "46.18",
+            "kReading": "noe33"
+        },
+        {
+            "codepoint": "U+1B249",
+            "kSrc_NushuDuben": "49.16",
+            "kReading": "tshoe44"
+        },
+        {
+            "codepoint": "U+1B24A",
+            "kSrc_NushuDuben": "46.20",
+            "kReading": "kue44"
+        },
+        {
+            "codepoint": "U+1B24B",
+            "kSrc_NushuDuben": "48.14",
+            "kReading": "tsiou33"
+        },
+        {
+            "codepoint": "U+1B24C",
+            "kSrc_NushuDuben": "46.22",
+            "kReading": "kue21"
+        },
+        {
+            "codepoint": "U+1B24D",
+            "kSrc_NushuDuben": "47.01",
+            "kReading": "ye42"
+        },
+        {
+            "codepoint": "U+1B24E",
+            "kSrc_NushuDuben": "47.02",
+            "kReading": "pwe35"
+        },
+        {
+            "codepoint": "U+1B24F",
+            "kSrc_NushuDuben": "47.03",
+            "kReading": "vwe35"
+        },
+        {
+            "codepoint": "U+1B250",
+            "kSrc_NushuDuben": "47.05",
+            "kReading": "thi5"
+        },
+        {
+            "codepoint": "U+1B251",
+            "kSrc_NushuDuben": "47.07",
+            "kReading": "tsi42"
+        },
+        {
+            "codepoint": "U+1B252",
+            "kSrc_NushuDuben": "47.06",
+            "kReading": "tsi42"
+        },
+        {
+            "codepoint": "U+1B253",
+            "kSrc_NushuDuben": "47.08",
+            "kReading": "tci21"
+        },
+        {
+            "codepoint": "U+1B254",
+            "kSrc_NushuDuben": "47.09",
+            "kReading": "tci21"
+        },
+        {
+            "codepoint": "U+1B255",
+            "kSrc_NushuDuben": "47.10",
+            "kReading": "tshiu21"
+        },
+        {
+            "codepoint": "U+1B256",
+            "kSrc_NushuDuben": "47.11",
+            "kReading": "pu33"
+        },
+        {
+            "codepoint": "U+1B257",
+            "kSrc_NushuDuben": "47.13",
+            "kReading": "tsu42"
+        },
+        {
+            "codepoint": "U+1B258",
+            "kSrc_NushuDuben": "47.14",
+            "kReading": "ku21"
+        },
+        {
+            "codepoint": "U+1B259",
+            "kSrc_NushuDuben": "48.01",
+            "kReading": "tcyu44"
+        },
+        {
+            "codepoint": "U+1B25A",
+            "kSrc_NushuDuben": "48.02",
+            "kReading": "njyu33"
+        },
+        {
+            "codepoint": "U+1B25B",
+            "kSrc_NushuDuben": "48.03",
+            "kReading": "tchy35"
+        },
+        {
+            "codepoint": "U+1B25C",
+            "kSrc_NushuDuben": "48.04",
+            "kReading": "pw5"
+        },
+        {
+            "codepoint": "U+1B25D",
+            "kSrc_NushuDuben": "48.05",
+            "kReading": "hw35"
+        },
+        {
+            "codepoint": "U+1B25E",
+            "kSrc_NushuDuben": "48.06",
+            "kReading": "phai35"
+        },
+        {
+            "codepoint": "U+1B25F",
+            "kSrc_NushuDuben": "48.07",
+            "kReading": "mai33"
+        },
+        {
+            "codepoint": "U+1B260",
+            "kSrc_NushuDuben": "48.08",
+            "kReading": "lai35"
+        },
+        {
+            "codepoint": "U+1B261",
+            "kSrc_NushuDuben": "48.09",
+            "kReading": "sai21"
+        },
+        {
+            "codepoint": "U+1B262",
+            "kSrc_NushuDuben": "48.10",
+            "kReading": "hai42"
+        },
+        {
+            "codepoint": "U+1B263",
+            "kSrc_NushuDuben": "48.12",
+            "kReading": "mau33"
+        },
+        {
+            "codepoint": "U+1B264",
+            "kSrc_NushuDuben": "48.11",
+            "kReading": "tshau35"
+        },
+        {
+            "codepoint": "U+1B265",
+            "kSrc_NushuDuben": "51.03",
+            "kReading": "hau33"
+        },
+        {
+            "codepoint": "U+1B266",
+            "kSrc_NushuDuben": "48.13",
+            "kReading": "kou5"
+        },
+        {
+            "codepoint": "U+1B267",
+            "kSrc_NushuDuben": "51.05",
+            "kReading": "ou44"
+        },
+        {
+            "codepoint": "U+1B268",
+            "kSrc_NushuDuben": "46.21",
+            "kReading": "kue35"
+        },
+        {
+            "codepoint": "U+1B269",
+            "kSrc_NushuDuben": "48.15",
+            "kReading": "tshiou44"
+        },
+        {
+            "codepoint": "U+1B26A",
+            "kSrc_NushuDuben": "48.16",
+            "kReading": "siou44"
+        },
+        {
+            "codepoint": "U+1B26B",
+            "kSrc_NushuDuben": "48.17",
+            "kReading": "tciou5"
+        },
+        {
+            "codepoint": "U+1B26C",
+            "kSrc_NushuDuben": "48.19",
+            "kReading": "ciou13"
+        },
+        {
+            "codepoint": "U+1B26D",
+            "kSrc_NushuDuben": "48.20",
+            "kReading": "thuow44"
+        },
+        {
+            "codepoint": "U+1B26E",
+            "kSrc_NushuDuben": "48.21",
+            "kReading": "fang13"
+        },
+        {
+            "codepoint": "U+1B26F",
+            "kSrc_NushuDuben": "48.22",
+            "kReading": "vang5"
+        },
+        {
+            "codepoint": "U+1B270",
+            "kSrc_NushuDuben": "49.01",
+            "kReading": "lang44"
+        },
+        {
+            "codepoint": "U+1B271",
+            "kSrc_NushuDuben": "49.02",
+            "kReading": "tshang44"
+        },
+        {
+            "codepoint": "U+1B272",
+            "kSrc_NushuDuben": "49.04",
+            "kReading": "khang44"
+        },
+        {
+            "codepoint": "U+1B273",
+            "kSrc_NushuDuben": "49.03",
+            "kReading": "khang5"
+        },
+        {
+            "codepoint": "U+1B274",
+            "kSrc_NushuDuben": "49.05",
+            "kReading": "liang42"
+        },
+        {
+            "codepoint": "U+1B275",
+            "kSrc_NushuDuben": "46.06",
+            "kReading": "siang44"
+        },
+        {
+            "codepoint": "U+1B276",
+            "kSrc_NushuDuben": "49.06",
+            "kReading": "ciang44"
+        },
+        {
+            "codepoint": "U+1B277",
+            "kSrc_NushuDuben": "51.17",
+            "kReading": "ciang35"
+        },
+        {
+            "codepoint": "U+1B278",
+            "kSrc_NushuDuben": "49.07",
+            "kReading": "neng35"
+        },
+        {
+            "codepoint": "U+1B279",
+            "kSrc_NushuDuben": "49.08",
+            "kReading": "leng42"
+        },
+        {
+            "codepoint": "U+1B27A",
+            "kSrc_NushuDuben": "49.09",
+            "kReading": "nong42"
+        },
+        {
+            "codepoint": "U+1B27B",
+            "kSrc_NushuDuben": "49.10",
+            "kReading": "long35"
+        },
+        {
+            "codepoint": "U+1B27C",
+            "kSrc_NushuDuben": "49.11",
+            "kReading": "liong13"
+        },
+        {
+            "codepoint": "U+1B27D",
+            "kSrc_NushuDuben": "49.12",
+            "kReading": "tsiong13"
+        },
+        {
+            "codepoint": "U+1B27E",
+            "kSrc_NushuDuben": "49.14",
+            "kReading": "siong44"
+        },
+        {
+            "codepoint": "U+1B27F",
+            "kSrc_NushuDuben": "49.15",
+            "kReading": "tcing44"
+        },
+        {
+            "codepoint": "U+1B280",
+            "kSrc_NushuDuben": "49.17",
+            "kReading": "tcing44"
+        },
+        {
+            "codepoint": "U+1B281",
+            "kSrc_NushuDuben": "49.18",
+            "kReading": "cing42"
+        },
+        {
+            "codepoint": "U+1B282",
+            "kSrc_NushuDuben": "49.19",
+            "kReading": "ing21"
+        },
+        {
+            "codepoint": "U+1B283",
+            "kSrc_NushuDuben": "49.20",
+            "kReading": "ng44"
+        },
+        {
+            "codepoint": "U+1B284",
+            "kSrc_NushuDuben": "49.21",
+            "kReading": "va42"
+        },
+        {
+            "codepoint": "U+1B285",
+            "kSrc_NushuDuben": "49.22",
+            "kReading": "sa35"
+        },
+        {
+            "codepoint": "U+1B286",
+            "kSrc_NushuDuben": "50.01",
+            "kReading": "lie42"
+        },
+        {
+            "codepoint": "U+1B287",
+            "kSrc_NushuDuben": "50.02",
+            "kReading": "tshie21"
+        },
+        {
+            "codepoint": "U+1B288",
+            "kSrc_NushuDuben": "50.03",
+            "kReading": "sie5"
+        },
+        {
+            "codepoint": "U+1B289",
+            "kSrc_NushuDuben": "50.04",
+            "kReading": "ie13"
+        },
+        {
+            "codepoint": "U+1B28A",
+            "kSrc_NushuDuben": "50.05",
+            "kReading": "moe13"
+        },
+        {
+            "codepoint": "U+1B28B",
+            "kSrc_NushuDuben": "50.06",
+            "kReading": "loe21"
+        },
+        {
+            "codepoint": "U+1B28C",
+            "kSrc_NushuDuben": "50.07",
+            "kReading": "tchye44"
+        },
+        {
+            "codepoint": "U+1B28D",
+            "kSrc_NushuDuben": "47.04",
+            "kReading": "cye44"
+        },
+        {
+            "codepoint": "U+1B28E",
+            "kSrc_NushuDuben": "50.08",
+            "kReading": "pi33"
+        },
+        {
+            "codepoint": "U+1B28F",
+            "kSrc_NushuDuben": "50.09",
+            "kReading": "ti44"
+        },
+        {
+            "codepoint": "U+1B290",
+            "kSrc_NushuDuben": "50.10",
+            "kReading": "tci5"
+        },
+        {
+            "codepoint": "U+1B291",
+            "kSrc_NushuDuben": "50.20",
+            "kReading": "tsiu44"
+        },
+        {
+            "codepoint": "U+1B292",
+            "kSrc_NushuDuben": "47.12",
+            "kReading": "pu5"
+        },
+        {
+            "codepoint": "U+1B293",
+            "kSrc_NushuDuben": "50.11",
+            "kReading": "fu21"
+        },
+        {
+            "codepoint": "U+1B294",
+            "kSrc_NushuDuben": "50.12",
+            "kReading": "thu35"
+        },
+        {
+            "codepoint": "U+1B295",
+            "kSrc_NushuDuben": "50.13",
+            "kReading": "hu42"
+        },
+        {
+            "codepoint": "U+1B296",
+            "kSrc_NushuDuben": "50.14",
+            "kReading": "tcy13"
+        },
+        {
+            "codepoint": "U+1B297",
+            "kSrc_NushuDuben": "50.15",
+            "kReading": "cy5"
+        },
+        {
+            "codepoint": "U+1B298",
+            "kSrc_NushuDuben": "50.16",
+            "kReading": "pw42"
+        },
+        {
+            "codepoint": "U+1B299",
+            "kSrc_NushuDuben": "50.17",
+            "kReading": "khw5"
+        },
+        {
+            "codepoint": "U+1B29A",
+            "kSrc_NushuDuben": "50.18",
+            "kReading": "lai44"
+        },
+        {
+            "codepoint": "U+1B29B",
+            "kSrc_NushuDuben": "50.19",
+            "kReading": "sai44"
+        },
+        {
+            "codepoint": "U+1B29C",
+            "kSrc_NushuDuben": "51.02",
+            "kReading": "sau35"
+        },
+        {
+            "codepoint": "U+1B29D",
+            "kSrc_NushuDuben": "51.01",
+            "kReading": "tsou42"
+        },
+        {
+            "codepoint": "U+1B29E",
+            "kSrc_NushuDuben": "51.04",
+            "kReading": "ngou42"
+        },
+        {
+            "codepoint": "U+1B29F",
+            "kSrc_NushuDuben": "51.06",
+            "kReading": "tsiou33"
+        },
+        {
+            "codepoint": "U+1B2A0",
+            "kSrc_NushuDuben": "51.08",
+            "kReading": "njiou13"
+        },
+        {
+            "codepoint": "U+1B2A1",
+            "kSrc_NushuDuben": "51.07",
+            "kReading": "ciou5"
+        },
+        {
+            "codepoint": "U+1B2A2",
+            "kSrc_NushuDuben": "48.18",
+            "kReading": "iou42"
+        },
+        {
+            "codepoint": "U+1B2A3",
+            "kSrc_NushuDuben": "51.09",
+            "kReading": "yn44"
+        },
+        {
+            "codepoint": "U+1B2A4",
+            "kSrc_NushuDuben": "51.10",
+            "kReading": "tang42"
+        },
+        {
+            "codepoint": "U+1B2A5",
+            "kSrc_NushuDuben": "46.04",
+            "kReading": "lang42"
+        },
+        {
+            "codepoint": "U+1B2A6",
+            "kSrc_NushuDuben": "51.14",
+            "kReading": "kang35"
+        },
+        {
+            "codepoint": "U+1B2A7",
+            "kSrc_NushuDuben": "51.11",
+            "kReading": "hang44"
+        },
+        {
+            "codepoint": "U+1B2A8",
+            "kSrc_NushuDuben": "51.12",
+            "kReading": "hang42"
+        },
+        {
+            "codepoint": "U+1B2A9",
+            "kSrc_NushuDuben": "51.13",
+            "kReading": "siang35"
+        },
+        {
+            "codepoint": "U+1B2AA",
+            "kSrc_NushuDuben": "51.15",
+            "kReading": "tciang13"
+        },
+        {
+            "codepoint": "U+1B2AB",
+            "kSrc_NushuDuben": "51.16",
+            "kReading": "iang44"
+        },
+        {
+            "codepoint": "U+1B2AC",
+            "kSrc_NushuDuben": "51.18",
+            "kReading": "meng42"
+        },
+        {
+            "codepoint": "U+1B2AD",
+            "kSrc_NushuDuben": "49.13",
+            "kReading": "tsiong42"
+        },
+        {
+            "codepoint": "U+1B2AE",
+            "kSrc_NushuDuben": "51.19",
+            "kReading": "siong21"
+        },
+        {
+            "codepoint": "U+1B2AF",
+            "kSrc_NushuDuben": "52.01",
+            "kReading": "tchiong44"
+        },
+        {
+            "codepoint": "U+1B2B0",
+            "kSrc_NushuDuben": "52.02",
+            "kReading": "pa33"
+        },
+        {
+            "codepoint": "U+1B2B1",
+            "kSrc_NushuDuben": "53.15",
+            "kReading": "tshie5"
+        },
+        {
+            "codepoint": "U+1B2B2",
+            "kSrc_NushuDuben": "52.03",
+            "kReading": "sie5"
+        },
+        {
+            "codepoint": "U+1B2B3",
+            "kSrc_NushuDuben": "52.04",
+            "kReading": "tsoe44"
+        },
+        {
+            "codepoint": "U+1B2B4",
+            "kSrc_NushuDuben": "52.05",
+            "kReading": "koe35"
+        },
+        {
+            "codepoint": "U+1B2B5",
+            "kSrc_NushuDuben": "52.06",
+            "kReading": "tcye44"
+        },
+        {
+            "codepoint": "U+1B2B6",
+            "kSrc_NushuDuben": "52.07",
+            "kReading": "tcye42"
+        },
+        {
+            "codepoint": "U+1B2B7",
+            "kSrc_NushuDuben": "52.08",
+            "kReading": "pwe35"
+        },
+        {
+            "codepoint": "U+1B2B8",
+            "kSrc_NushuDuben": "52.09",
+            "kReading": "swe44"
+        },
+        {
+            "codepoint": "U+1B2B9",
+            "kSrc_NushuDuben": "52.10",
+            "kReading": "ti42"
+        },
+        {
+            "codepoint": "U+1B2BA",
+            "kSrc_NushuDuben": "52.11",
+            "kReading": "i42"
+        },
+        {
+            "codepoint": "U+1B2BB",
+            "kSrc_NushuDuben": "53.01",
+            "kReading": "tciu42"
+        },
+        {
+            "codepoint": "U+1B2BC",
+            "kSrc_NushuDuben": "53.02",
+            "kReading": "ciu44"
+        },
+        {
+            "codepoint": "U+1B2BD",
+            "kSrc_NushuDuben": "52.12",
+            "kReading": "tsu35"
+        },
+        {
+            "codepoint": "U+1B2BE",
+            "kSrc_NushuDuben": "52.13",
+            "kReading": "tshu35"
+        },
+        {
+            "codepoint": "U+1B2BF",
+            "kSrc_NushuDuben": "52.14",
+            "kReading": "ku44"
+        },
+        {
+            "codepoint": "U+1B2C0",
+            "kSrc_NushuDuben": "52.15",
+            "kReading": "lw5"
+        },
+        {
+            "codepoint": "U+1B2C1",
+            "kSrc_NushuDuben": "52.16",
+            "kReading": "mai42"
+        },
+        {
+            "codepoint": "U+1B2C2",
+            "kSrc_NushuDuben": "52.17",
+            "kReading": "kau44"
+        },
+        {
+            "codepoint": "U+1B2C3",
+            "kSrc_NushuDuben": "52.18",
+            "kReading": "thou21"
+        },
+        {
+            "codepoint": "U+1B2C4",
+            "kSrc_NushuDuben": "53.08",
+            "kReading": "hou33"
+        },
+        {
+            "codepoint": "U+1B2C5",
+            "kSrc_NushuDuben": "53.05",
+            "kReading": "pang42"
+        },
+        {
+            "codepoint": "U+1B2C6",
+            "kSrc_NushuDuben": "53.09",
+            "kReading": "fang44"
+        },
+        {
+            "codepoint": "U+1B2C7",
+            "kSrc_NushuDuben": "53.06",
+            "kReading": "tang13"
+        },
+        {
+            "codepoint": "U+1B2C8",
+            "kSrc_NushuDuben": "53.03",
+            "kReading": "lang33"
+        },
+        {
+            "codepoint": "U+1B2C9",
+            "kSrc_NushuDuben": "53.04",
+            "kReading": "meng33"
+        },
+        {
+            "codepoint": "U+1B2CA",
+            "kSrc_NushuDuben": "53.07",
+            "kReading": "teng42"
+        },
+        {
+            "codepoint": "U+1B2CB",
+            "kSrc_NushuDuben": "53.10",
+            "kReading": "tseng42"
+        },
+        {
+            "codepoint": "U+1B2CC",
+            "kSrc_NushuDuben": "53.11",
+            "kReading": "cing13"
+        },
+        {
+            "codepoint": "U+1B2CD",
+            "kSrc_NushuDuben": "53.12",
+            "kReading": "ing42"
+        },
+        {
+            "codepoint": "U+1B2CE",
+            "kSrc_NushuDuben": "53.13",
+            "kReading": "tsa33"
+        },
+        {
+            "codepoint": "U+1B2CF",
+            "kSrc_NushuDuben": "53.16",
+            "kReading": "tsie21"
+        },
+        {
+            "codepoint": "U+1B2D0",
+            "kSrc_NushuDuben": "54.01",
+            "kReading": "cie21"
+        },
+        {
+            "codepoint": "U+1B2D1",
+            "kSrc_NushuDuben": "53.14",
+            "kReading": "moe42"
+        },
+        {
+            "codepoint": "U+1B2D2",
+            "kSrc_NushuDuben": "54.03",
+            "kReading": "li35"
+        },
+        {
+            "codepoint": "U+1B2D3",
+            "kSrc_NushuDuben": "54.10",
+            "kReading": "tsi5"
+        },
+        {
+            "codepoint": "U+1B2D4",
+            "kSrc_NushuDuben": "54.02",
+            "kReading": "tci44"
+        },
+        {
+            "codepoint": "U+1B2D5",
+            "kSrc_NushuDuben": "54.04",
+            "kReading": "i35"
+        },
+        {
+            "codepoint": "U+1B2D6",
+            "kSrc_NushuDuben": "54.05",
+            "kReading": "mu33"
+        },
+        {
+            "codepoint": "U+1B2D7",
+            "kSrc_NushuDuben": "54.07",
+            "kReading": "lu21"
+        },
+        {
+            "codepoint": "U+1B2D8",
+            "kSrc_NushuDuben": "54.08",
+            "kReading": "hu42"
+        },
+        {
+            "codepoint": "U+1B2D9",
+            "kSrc_NushuDuben": "54.12",
+            "kReading": "cyu33"
+        },
+        {
+            "codepoint": "U+1B2DA",
+            "kSrc_NushuDuben": "54.11",
+            "kReading": "hw5"
+        },
+        {
+            "codepoint": "U+1B2DB",
+            "kSrc_NushuDuben": "54.09",
+            "kReading": "tau13"
+        },
+        {
+            "codepoint": "U+1B2DC",
+            "kSrc_NushuDuben": "54.13",
+            "kReading": "siou21"
+        },
+        {
+            "codepoint": "U+1B2DD",
+            "kSrc_NushuDuben": "54.15",
+            "kReading": "lew33"
+        },
+        {
+            "codepoint": "U+1B2DE",
+            "kSrc_NushuDuben": "54.14",
+            "kReading": "tshew5"
+        },
+        {
+            "codepoint": "U+1B2DF",
+            "kSrc_NushuDuben": "54.16",
+            "kReading": "yn13"
+        },
+        {
+            "codepoint": "U+1B2E0",
+            "kSrc_NushuDuben": "54.17",
+            "kReading": "tong13"
+        },
+        {
+            "codepoint": "U+1B2E1",
+            "kSrc_NushuDuben": "54.18",
+            "kReading": "ie35"
+        },
+        {
+            "codepoint": "U+1B2E2",
+            "kSrc_NushuDuben": "54.19",
+            "kReading": "voe5"
+        },
+        {
+            "codepoint": "U+1B2E3",
+            "kSrc_NushuDuben": "55.01",
+            "kReading": "tswe21"
+        },
+        {
+            "codepoint": "U+1B2E4",
+            "kSrc_NushuDuben": "55.02",
+            "kReading": "i21"
+        },
+        {
+            "codepoint": "U+1B2E5",
+            "kSrc_NushuDuben": "55.03",
+            "kReading": "tu33"
+        },
+        {
+            "codepoint": "U+1B2E6",
+            "kSrc_NushuDuben": "54.06",
+            "kReading": "lu35"
+        },
+        {
+            "codepoint": "U+1B2E7",
+            "kSrc_NushuDuben": "55.04",
+            "kReading": "lou33"
+        },
+        {
+            "codepoint": "U+1B2E8",
+            "kSrc_NushuDuben": "55.10",
+            "kReading": "tsou42"
+        },
+        {
+            "codepoint": "U+1B2E9",
+            "kSrc_NushuDuben": "55.05",
+            "kReading": "tsuow44"
+        },
+        {
+            "codepoint": "U+1B2EA",
+            "kSrc_NushuDuben": "55.06",
+            "kReading": "mang13"
+        },
+        {
+            "codepoint": "U+1B2EB",
+            "kSrc_NushuDuben": "55.09",
+            "kReading": "tciang33"
+        },
+        {
+            "codepoint": "U+1B2EC",
+            "kSrc_NushuDuben": "55.07",
+            "kReading": "tchiang21"
+        },
+        {
+            "codepoint": "U+1B2ED",
+            "kSrc_NushuDuben": "55.08",
+            "kReading": "tciong44"
+        },
+        {
+            "codepoint": "U+1B2EE",
+            "kSrc_NushuDuben": "55.11",
+            "kReading": "tsie33"
+        },
+        {
+            "codepoint": "U+1B2EF",
+            "kSrc_NushuDuben": "55.12",
+            "kReading": "moe33"
+        },
+        {
+            "codepoint": "U+1B2F0",
+            "kSrc_NushuDuben": "55.14",
+            "kReading": "ku44"
+        },
+        {
+            "codepoint": "U+1B2F1",
+            "kSrc_NushuDuben": "55.15",
+            "kReading": "cyu35"
+        },
+        {
+            "codepoint": "U+1B2F2",
+            "kSrc_NushuDuben": "55.13",
+            "kReading": "pw21"
+        },
+        {
+            "codepoint": "U+1B2F3",
+            "kSrc_NushuDuben": "55.16",
+            "kReading": "tsiang42"
+        },
+        {
+            "codepoint": "U+1B2F4",
+            "kSrc_NushuDuben": "55.17",
+            "kReading": "tshai44"
+        },
+        {
+            "codepoint": "U+1B2F5",
+            "kSrc_NushuDuben": "55.18",
+            "kReading": "nguow13"
+        },
+        {
+            "codepoint": "U+1B2F6",
+            "kSrc_NushuDuben": "55.19",
+            "kReading": "nong44"
+        },
+        {
+            "codepoint": "U+1B2F7",
+            "kSrc_NushuDuben": "56.01",
+            "kReading": "fu5"
+        },
+        {
+            "codepoint": "U+1B2F8",
+            "kSrc_NushuDuben": "56.02",
+            "kReading": "ku5"
+        },
+        {
+            "codepoint": "U+1B2F9",
+            "kSrc_NushuDuben": "56.03",
+            "kReading": "fang33"
+        },
+        {
+            "codepoint": "U+1B2FA",
+            "kSrc_NushuDuben": "56.04",
+            "kReading": "tcye21"
+        },
+        {
+            "codepoint": "U+1B2FB",
+            "kSrc_NushuDuben": "56.05",
+            "kReading": "fi21"
+        }
+    ]
+}

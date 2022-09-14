@@ -1,0 +1,5839 @@
+{
+    "DerivedDecompositionType": [
+        {
+            "range": [
+                "00C0",
+                "00C5"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "00C7",
+                "00CF"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "00D1",
+                "00D6"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "00D9",
+                "00DD"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "00E0",
+                "00E5"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "00E7",
+                "00EF"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "00F1",
+                "00F6"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "00F9",
+                "00FD"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "00FF",
+                "010F"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0112",
+                "0125"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0128",
+                "0130"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0134",
+                "0137"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0139",
+                "013E"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0143",
+                "0148"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "014C",
+                "0151"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0154",
+                "0165"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0168",
+                "017E"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "01A0",
+                "01A1"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "01AF",
+                "01B0"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "01CD",
+                "01DC"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "01DE",
+                "01E3"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "01E6",
+                "01F0"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "01F4",
+                "01F5"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "01F8",
+                "021B"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "021E",
+                "021F"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0226",
+                "0233"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0340",
+                "0341"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0343",
+                "0344"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0374"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "037E"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0385"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0386"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0387"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0388",
+                "038A"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "038C"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "038E",
+                "0390"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "03AA",
+                "03B0"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "03CA",
+                "03CE"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "03D3",
+                "03D4"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0400",
+                "0401"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0403"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0407"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "040C",
+                "040E"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0419"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0439"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0450",
+                "0451"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0453"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0457"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "045C",
+                "045E"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0476",
+                "0477"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "04C1",
+                "04C2"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "04D0",
+                "04D3"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "04D6",
+                "04D7"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "04DA",
+                "04DF"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "04E2",
+                "04E7"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "04EA",
+                "04F5"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "04F8",
+                "04F9"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0622",
+                "0626"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "06C0"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "06C2"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "06D3"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0929"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0931"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0934"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0958",
+                "095F"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "09CB",
+                "09CC"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "09DC",
+                "09DD"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "09DF"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0A33"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0A36"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0A59",
+                "0A5B"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0A5E"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0B48"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0B4B",
+                "0B4C"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0B5C",
+                "0B5D"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0B94"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0BCA",
+                "0BCC"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0C48"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0CC0"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0CC7",
+                "0CC8"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0CCA",
+                "0CCB"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0D4A",
+                "0D4C"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0DDA"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0DDC",
+                "0DDE"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0F43"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0F4D"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0F52"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0F57"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0F5C"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0F69"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0F73"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0F75",
+                "0F76"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0F78"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0F81"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0F93"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0F9D"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0FA2"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0FA7"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0FAC"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "0FB9"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1026"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1B06"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1B08"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1B0A"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1B0C"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1B0E"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1B12"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1B3B"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1B3D"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1B40",
+                "1B41"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1B43"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1E00",
+                "1E99"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1E9B"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1EA0",
+                "1EF9"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1F00",
+                "1F15"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1F18",
+                "1F1D"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1F20",
+                "1F45"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1F48",
+                "1F4D"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1F50",
+                "1F57"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1F59"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1F5B"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1F5D"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1F5F",
+                "1F7D"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1F80",
+                "1FB4"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1FB6",
+                "1FBC"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1FBE"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1FC1"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1FC2",
+                "1FC4"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1FC6",
+                "1FCC"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1FCD",
+                "1FCF"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1FD0",
+                "1FD3"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1FD6",
+                "1FDB"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1FDD",
+                "1FDF"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1FE0",
+                "1FEC"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1FED",
+                "1FEF"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1FF2",
+                "1FF4"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1FF6",
+                "1FFC"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1FFD"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "2000",
+                "2001"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "2126"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "212A",
+                "212B"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "219A",
+                "219B"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "21AE"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "21CD"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "21CE",
+                "21CF"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "2204"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "2209"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "220C"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "2224"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "2226"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "2241"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "2244"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "2247"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "2249"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "2260"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "2262"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "226D",
+                "2271"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "2274",
+                "2275"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "2278",
+                "2279"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "2280",
+                "2281"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "2284",
+                "2285"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "2288",
+                "2289"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "22AC",
+                "22AF"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "22E0",
+                "22E3"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "22EA",
+                "22ED"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "2329"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "232A"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "2ADC"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "304C"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "304E"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "3050"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "3052"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "3054"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "3056"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "3058"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "305A"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "305C"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "305E"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "3060"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "3062"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "3065"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "3067"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "3069"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "3070",
+                "3071"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "3073",
+                "3074"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "3076",
+                "3077"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "3079",
+                "307A"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "307C",
+                "307D"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "3094"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "309E"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "30AC"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "30AE"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "30B0"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "30B2"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "30B4"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "30B6"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "30B8"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "30BA"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "30BC"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "30BE"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "30C0"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "30C2"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "30C5"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "30C7"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "30C9"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "30D0",
+                "30D1"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "30D3",
+                "30D4"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "30D6",
+                "30D7"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "30D9",
+                "30DA"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "30DC",
+                "30DD"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "30F4"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "30F7",
+                "30FA"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "30FE"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "AC00",
+                "D7A3"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "F900",
+                "FA0D"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "FA10"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "FA12"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "FA15",
+                "FA1E"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "FA20"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "FA22"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "FA25",
+                "FA26"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "FA2A",
+                "FA6D"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "FA70",
+                "FAD9"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "FB1D"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "FB1F"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "FB2A",
+                "FB36"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "FB38",
+                "FB3C"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "FB3E"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "FB40",
+                "FB41"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "FB43",
+                "FB44"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "FB46",
+                "FB4E"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1109A"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1109C"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "110AB"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1112E",
+                "1112F"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1134B",
+                "1134C"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "114BB",
+                "114BC"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "114BE"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "115BA",
+                "115BB"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "11938"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1D15E",
+                "1D164"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1D1BB",
+                "1D1C0"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "2F800",
+                "2FA1D"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "00A8"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "00AF"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "00B4"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "00B5"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "00B8"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "0132",
+                "0133"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "013F",
+                "0140"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "0149"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "017F"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "01C4",
+                "01CC"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "01F1",
+                "01F3"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "02D8",
+                "02DD"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "037A"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "0384"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "03D0",
+                "03D2"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "03D5",
+                "03D6"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "03F0",
+                "03F2"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "03F4",
+                "03F5"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "03F9"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "0587"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "0675",
+                "0678"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "0E33"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "0EB3"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "0EDC",
+                "0EDD"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "0F77"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "0F79"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "1E9A"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "1FBD"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "1FBF",
+                "1FC0"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "1FFE"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "2002",
+                "2006"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "2008",
+                "200A"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "2017"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "2024",
+                "2026"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "2033",
+                "2034"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "2036",
+                "2037"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "203C"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "203E"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "2047",
+                "2049"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "2057"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "205F"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "20A8"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "2100",
+                "2101"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "2103"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "2105",
+                "2106"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "2107"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "2109"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "2116"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "2121"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "2135",
+                "2138"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "213B"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "2160",
+                "217F"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "222C",
+                "222D"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "222F",
+                "2230"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "2474",
+                "249B"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "249C",
+                "24B5"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "2A0C"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "2A74",
+                "2A76"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "2E9F"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "2EF3"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "2F00",
+                "2FD5"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "3036"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "3038",
+                "303A"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "309B",
+                "309C"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "3131",
+                "318E"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "3200",
+                "321E"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "3220",
+                "3229"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "322A",
+                "3243"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "32C0",
+                "32CB"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "3358",
+                "3370"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "33E0",
+                "33FE"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "FB00",
+                "FB06"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "FB13",
+                "FB17"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "FB4F"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "FE49",
+                "FE4C"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "FE4D",
+                "FE4F"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "1F100",
+                "1F10A"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "1F110",
+                "1F12A"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "1F240",
+                "1F248"
+            ],
+            "type": "Compat"
+        },
+        {
+            "range": [
+                "2102"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "210A",
+                "2113"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "2115"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "2119",
+                "211D"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "2124"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "2128"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "212C",
+                "212D"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "212F",
+                "2131"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "2133",
+                "2134"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "2139"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "213C",
+                "213F"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "2140"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "2145",
+                "2149"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "FB20",
+                "FB28"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "FB29"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D400",
+                "1D454"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D456",
+                "1D49C"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D49E",
+                "1D49F"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D4A2"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D4A5",
+                "1D4A6"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D4A9",
+                "1D4AC"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D4AE",
+                "1D4B9"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D4BB"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D4BD",
+                "1D4C3"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D4C5",
+                "1D505"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D507",
+                "1D50A"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D50D",
+                "1D514"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D516",
+                "1D51C"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D51E",
+                "1D539"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D53B",
+                "1D53E"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D540",
+                "1D544"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D546"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D54A",
+                "1D550"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D552",
+                "1D6A5"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D6A8",
+                "1D6C0"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D6C1"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D6C2",
+                "1D6DA"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D6DB"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D6DC",
+                "1D6FA"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D6FB"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D6FC",
+                "1D714"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D715"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D716",
+                "1D734"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D735"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D736",
+                "1D74E"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D74F"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D750",
+                "1D76E"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D76F"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D770",
+                "1D788"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D789"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D78A",
+                "1D7A8"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D7A9"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D7AA",
+                "1D7C2"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D7C3"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D7C4",
+                "1D7CB"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1D7CE",
+                "1D7FF"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE00",
+                "1EE03"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE05",
+                "1EE1F"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE21",
+                "1EE22"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE24"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE27"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE29",
+                "1EE32"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE34",
+                "1EE37"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE39"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE3B"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE42"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE47"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE49"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE4B"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE4D",
+                "1EE4F"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE51",
+                "1EE52"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE54"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE57"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE59"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE5B"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE5D"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE5F"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE61",
+                "1EE62"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE64"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE67",
+                "1EE6A"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE6C",
+                "1EE72"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE74",
+                "1EE77"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE79",
+                "1EE7C"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE7E"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE80",
+                "1EE89"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EE8B",
+                "1EE9B"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EEA1",
+                "1EEA3"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EEA5",
+                "1EEA9"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1EEAB",
+                "1EEBB"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1FBF0",
+                "1FBF9"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "00A0"
+            ],
+            "type": "Nobreak"
+        },
+        {
+            "range": [
+                "0F0C"
+            ],
+            "type": "Nobreak"
+        },
+        {
+            "range": [
+                "2007"
+            ],
+            "type": "Nobreak"
+        },
+        {
+            "range": [
+                "2011"
+            ],
+            "type": "Nobreak"
+        },
+        {
+            "range": [
+                "202F"
+            ],
+            "type": "Nobreak"
+        },
+        {
+            "range": [
+                "FB54"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FB58"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FB5C"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FB60"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FB64"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FB68"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FB6C"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FB70"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FB74"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FB78"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FB7C"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FB80"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FB90"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FB94"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FB98"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FB9C"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FBA2"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FBA8"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FBAC"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FBD5"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FBE6"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FBE8"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FBF8"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FBFB"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FBFE"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FC97",
+                "FCDE"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FD2D",
+                "FD33"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FD50"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FD52",
+                "FD57"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FD59"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FD5C",
+                "FD5D"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FD60",
+                "FD61"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FD63"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FD65"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FD68"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FD6B"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FD6D"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FD70"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FD72",
+                "FD73"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FD77"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FD7D"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FD83"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FD86"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FD88",
+                "FD8A"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FD8C",
+                "FD8F"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FD92",
+                "FD95"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FD98"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FD9D"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FDB4",
+                "FDB5"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FDB8"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FDBA"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FDC3",
+                "FDC5"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FE8B"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FE91"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FE97"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FE9B"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FE9F"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FEA3"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FEA7"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FEB3"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FEB7"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FEBB"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FEBF"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FEC3"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FEC7"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FECB"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FECF"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FED3"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FED7"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FEDB"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FEDF"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FEE3"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FEE7"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FEEB"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FEF3"
+            ],
+            "type": "Initial"
+        },
+        {
+            "range": [
+                "FB55"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FB59"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FB5D"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FB61"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FB65"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FB69"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FB6D"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FB71"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FB75"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FB79"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FB7D"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FB81"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FB91"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FB95"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FB99"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FB9D"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FBA3"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FBA9"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FBAD"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FBD6"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FBE7"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FBE9"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FBFF"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FCDF",
+                "FCF4"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FD34",
+                "FD3B"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FE71"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FE77"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FE79"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FE7B"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FE7D"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FE7F"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FE8C"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FE92"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FE98"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FE9C"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FEA0"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FEA4"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FEA8"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FEB4"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FEB8"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FEBC"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FEC0"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FEC4"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FEC8"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FECC"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FED0"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FED4"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FED8"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FEDC"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FEE0"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FEE4"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FEE8"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FEEC"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FEF4"
+            ],
+            "type": "Medial"
+        },
+        {
+            "range": [
+                "FB51"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FB53"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FB57"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FB5B"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FB5F"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FB63"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FB67"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FB6B"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FB6F"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FB73"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FB77"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FB7B"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FB7F"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FB83"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FB85"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FB87"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FB89"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FB8B"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FB8D"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FB8F"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FB93"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FB97"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FB9B"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FB9F"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FBA1"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FBA5"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FBA7"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FBAB"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FBAF"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FBB1"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FBD4"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FBD8"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FBDA"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FBDC"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FBDF"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FBE1"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FBE3"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FBE5"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FBEB"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FBED"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FBEF"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FBF1"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FBF3"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FBF5"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FBF7"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FBFA"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FBFD"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FC64",
+                "FC96"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FD11",
+                "FD2C"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FD3C"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FD51"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FD58"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FD5A",
+                "FD5B"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FD5E",
+                "FD5F"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FD62"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FD64"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FD66",
+                "FD67"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FD69",
+                "FD6A"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FD6C"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FD6E",
+                "FD6F"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FD71"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FD74",
+                "FD76"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FD78",
+                "FD7C"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FD7E",
+                "FD82"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FD84",
+                "FD85"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FD87"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FD8B"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FD96",
+                "FD97"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FD99",
+                "FD9C"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FD9E",
+                "FDB3"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FDB6",
+                "FDB7"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FDB9"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FDBB",
+                "FDC2"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FDC6",
+                "FDC7"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FE82"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FE84"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FE86"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FE88"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FE8A"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FE8E"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FE90"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FE94"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FE96"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FE9A"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FE9E"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FEA2"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FEA6"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FEAA"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FEAC"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FEAE"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FEB0"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FEB2"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FEB6"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FEBA"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FEBE"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FEC2"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FEC6"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FECA"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FECE"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FED2"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FED6"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FEDA"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FEDE"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FEE2"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FEE6"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FEEA"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FEEE"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FEF0"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FEF2"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FEF6"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FEF8"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FEFA"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FEFC"
+            ],
+            "type": "Final"
+        },
+        {
+            "range": [
+                "FB50"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FB52"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FB56"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FB5A"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FB5E"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FB62"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FB66"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FB6A"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FB6E"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FB72"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FB76"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FB7A"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FB7E"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FB82"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FB84"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FB86"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FB88"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FB8A"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FB8C"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FB8E"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FB92"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FB96"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FB9A"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FB9E"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FBA0"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FBA4"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FBA6"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FBAA"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FBAE"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FBB0"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FBD3"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FBD7"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FBD9"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FBDB"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FBDD",
+                "FBDE"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FBE0"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FBE2"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FBE4"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FBEA"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FBEC"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FBEE"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FBF0"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FBF2"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FBF4"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FBF6"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FBF9"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FBFC"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FC00",
+                "FC63"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FCF5",
+                "FD10"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FD3D"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FDF0",
+                "FDFB"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FDFC"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FE70"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FE72"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FE74"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FE76"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FE78"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FE7A"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FE7C"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FE7E"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FE80",
+                "FE81"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FE83"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FE85"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FE87"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FE89"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FE8D"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FE8F"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FE93"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FE95"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FE99"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FE9D"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FEA1"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FEA5"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FEA9"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FEAB"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FEAD"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FEAF"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FEB1"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FEB5"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FEB9"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FEBD"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FEC1"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FEC5"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FEC9"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FECD"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FED1"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FED5"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FED9"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FEDD"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FEE1"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FEE5"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FEE9"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FEED"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FEEF"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FEF1"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FEF5"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FEF7"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FEF9"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "FEFB"
+            ],
+            "type": "Isolated"
+        },
+        {
+            "range": [
+                "2460",
+                "2473"
+            ],
+            "type": "Circle"
+        },
+        {
+            "range": [
+                "24B6",
+                "24E9"
+            ],
+            "type": "Circle"
+        },
+        {
+            "range": [
+                "24EA"
+            ],
+            "type": "Circle"
+        },
+        {
+            "range": [
+                "3244",
+                "3247"
+            ],
+            "type": "Circle"
+        },
+        {
+            "range": [
+                "3251",
+                "325F"
+            ],
+            "type": "Circle"
+        },
+        {
+            "range": [
+                "3260",
+                "327E"
+            ],
+            "type": "Circle"
+        },
+        {
+            "range": [
+                "3280",
+                "3289"
+            ],
+            "type": "Circle"
+        },
+        {
+            "range": [
+                "328A",
+                "32B0"
+            ],
+            "type": "Circle"
+        },
+        {
+            "range": [
+                "32B1",
+                "32BF"
+            ],
+            "type": "Circle"
+        },
+        {
+            "range": [
+                "32D0",
+                "32FE"
+            ],
+            "type": "Circle"
+        },
+        {
+            "range": [
+                "1F12B",
+                "1F12E"
+            ],
+            "type": "Circle"
+        },
+        {
+            "range": [
+                "1F250",
+                "1F251"
+            ],
+            "type": "Circle"
+        },
+        {
+            "range": [
+                "00AA"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "00B2",
+                "00B3"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "00B9"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "00BA"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "02B0",
+                "02B8"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "02E0",
+                "02E4"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "10FC"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "1D2C",
+                "1D2E"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "1D30",
+                "1D3A"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "1D3C",
+                "1D4D"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "1D4F",
+                "1D61"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "1D78"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "1D9B",
+                "1DBF"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "2070"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "2071"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "2074",
+                "2079"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "207A",
+                "207C"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "207D"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "207E"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "207F"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "2120"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "2122"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "2C7D"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "2D6F"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "3192",
+                "3195"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "3196",
+                "319F"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "A69C",
+                "A69D"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "A770"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "A7F2",
+                "A7F4"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "A7F8",
+                "A7F9"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "AB5C",
+                "AB5F"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "AB69"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "10781",
+                "10785"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "10787",
+                "107B0"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "107B2",
+                "107BA"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "1F16A",
+                "1F16C"
+            ],
+            "type": "Super"
+        },
+        {
+            "range": [
+                "1D62",
+                "1D6A"
+            ],
+            "type": "Sub"
+        },
+        {
+            "range": [
+                "2080",
+                "2089"
+            ],
+            "type": "Sub"
+        },
+        {
+            "range": [
+                "208A",
+                "208C"
+            ],
+            "type": "Sub"
+        },
+        {
+            "range": [
+                "208D"
+            ],
+            "type": "Sub"
+        },
+        {
+            "range": [
+                "208E"
+            ],
+            "type": "Sub"
+        },
+        {
+            "range": [
+                "2090",
+                "209C"
+            ],
+            "type": "Sub"
+        },
+        {
+            "range": [
+                "2C7C"
+            ],
+            "type": "Sub"
+        },
+        {
+            "range": [
+                "309F"
+            ],
+            "type": "Vertical"
+        },
+        {
+            "range": [
+                "30FF"
+            ],
+            "type": "Vertical"
+        },
+        {
+            "range": [
+                "FE10",
+                "FE16"
+            ],
+            "type": "Vertical"
+        },
+        {
+            "range": [
+                "FE17"
+            ],
+            "type": "Vertical"
+        },
+        {
+            "range": [
+                "FE18"
+            ],
+            "type": "Vertical"
+        },
+        {
+            "range": [
+                "FE19"
+            ],
+            "type": "Vertical"
+        },
+        {
+            "range": [
+                "FE30"
+            ],
+            "type": "Vertical"
+        },
+        {
+            "range": [
+                "FE31",
+                "FE32"
+            ],
+            "type": "Vertical"
+        },
+        {
+            "range": [
+                "FE33",
+                "FE34"
+            ],
+            "type": "Vertical"
+        },
+        {
+            "range": [
+                "FE35"
+            ],
+            "type": "Vertical"
+        },
+        {
+            "range": [
+                "FE36"
+            ],
+            "type": "Vertical"
+        },
+        {
+            "range": [
+                "FE37"
+            ],
+            "type": "Vertical"
+        },
+        {
+            "range": [
+                "FE38"
+            ],
+            "type": "Vertical"
+        },
+        {
+            "range": [
+                "FE39"
+            ],
+            "type": "Vertical"
+        },
+        {
+            "range": [
+                "FE3A"
+            ],
+            "type": "Vertical"
+        },
+        {
+            "range": [
+                "FE3B"
+            ],
+            "type": "Vertical"
+        },
+        {
+            "range": [
+                "FE3C"
+            ],
+            "type": "Vertical"
+        },
+        {
+            "range": [
+                "FE3D"
+            ],
+            "type": "Vertical"
+        },
+        {
+            "range": [
+                "FE3E"
+            ],
+            "type": "Vertical"
+        },
+        {
+            "range": [
+                "FE3F"
+            ],
+            "type": "Vertical"
+        },
+        {
+            "range": [
+                "FE40"
+            ],
+            "type": "Vertical"
+        },
+        {
+            "range": [
+                "FE41"
+            ],
+            "type": "Vertical"
+        },
+        {
+            "range": [
+                "FE42"
+            ],
+            "type": "Vertical"
+        },
+        {
+            "range": [
+                "FE43"
+            ],
+            "type": "Vertical"
+        },
+        {
+            "range": [
+                "FE44"
+            ],
+            "type": "Vertical"
+        },
+        {
+            "range": [
+                "FE47"
+            ],
+            "type": "Vertical"
+        },
+        {
+            "range": [
+                "FE48"
+            ],
+            "type": "Vertical"
+        },
+        {
+            "range": [
+                "3000"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF01",
+                "FF03"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF04"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF05",
+                "FF07"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF08"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF09"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF0A"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF0B"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF0C"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF0D"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF0E",
+                "FF0F"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF10",
+                "FF19"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF1A",
+                "FF1B"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF1C",
+                "FF1E"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF1F",
+                "FF20"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF21",
+                "FF3A"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF3B"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF3C"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF3D"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF3E"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF3F"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF40"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF41",
+                "FF5A"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF5B"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF5C"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF5D"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF5E"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF5F"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF60"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FFE0",
+                "FFE1"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FFE2"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FFE3"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FFE4"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FFE5",
+                "FFE6"
+            ],
+            "type": "Wide"
+        },
+        {
+            "range": [
+                "FF61"
+            ],
+            "type": "Narrow"
+        },
+        {
+            "range": [
+                "FF62"
+            ],
+            "type": "Narrow"
+        },
+        {
+            "range": [
+                "FF63"
+            ],
+            "type": "Narrow"
+        },
+        {
+            "range": [
+                "FF64",
+                "FF65"
+            ],
+            "type": "Narrow"
+        },
+        {
+            "range": [
+                "FF66",
+                "FF6F"
+            ],
+            "type": "Narrow"
+        },
+        {
+            "range": [
+                "FF70"
+            ],
+            "type": "Narrow"
+        },
+        {
+            "range": [
+                "FF71",
+                "FF9D"
+            ],
+            "type": "Narrow"
+        },
+        {
+            "range": [
+                "FF9E",
+                "FF9F"
+            ],
+            "type": "Narrow"
+        },
+        {
+            "range": [
+                "FFA0",
+                "FFBE"
+            ],
+            "type": "Narrow"
+        },
+        {
+            "range": [
+                "FFC2",
+                "FFC7"
+            ],
+            "type": "Narrow"
+        },
+        {
+            "range": [
+                "FFCA",
+                "FFCF"
+            ],
+            "type": "Narrow"
+        },
+        {
+            "range": [
+                "FFD2",
+                "FFD7"
+            ],
+            "type": "Narrow"
+        },
+        {
+            "range": [
+                "FFDA",
+                "FFDC"
+            ],
+            "type": "Narrow"
+        },
+        {
+            "range": [
+                "FFE8"
+            ],
+            "type": "Narrow"
+        },
+        {
+            "range": [
+                "FFE9",
+                "FFEC"
+            ],
+            "type": "Narrow"
+        },
+        {
+            "range": [
+                "FFED",
+                "FFEE"
+            ],
+            "type": "Narrow"
+        },
+        {
+            "range": [
+                "FE50",
+                "FE52"
+            ],
+            "type": "Small"
+        },
+        {
+            "range": [
+                "FE54",
+                "FE57"
+            ],
+            "type": "Small"
+        },
+        {
+            "range": [
+                "FE58"
+            ],
+            "type": "Small"
+        },
+        {
+            "range": [
+                "FE59"
+            ],
+            "type": "Small"
+        },
+        {
+            "range": [
+                "FE5A"
+            ],
+            "type": "Small"
+        },
+        {
+            "range": [
+                "FE5B"
+            ],
+            "type": "Small"
+        },
+        {
+            "range": [
+                "FE5C"
+            ],
+            "type": "Small"
+        },
+        {
+            "range": [
+                "FE5D"
+            ],
+            "type": "Small"
+        },
+        {
+            "range": [
+                "FE5E"
+            ],
+            "type": "Small"
+        },
+        {
+            "range": [
+                "FE5F",
+                "FE61"
+            ],
+            "type": "Small"
+        },
+        {
+            "range": [
+                "FE62"
+            ],
+            "type": "Small"
+        },
+        {
+            "range": [
+                "FE63"
+            ],
+            "type": "Small"
+        },
+        {
+            "range": [
+                "FE64",
+                "FE66"
+            ],
+            "type": "Small"
+        },
+        {
+            "range": [
+                "FE68"
+            ],
+            "type": "Small"
+        },
+        {
+            "range": [
+                "FE69"
+            ],
+            "type": "Small"
+        },
+        {
+            "range": [
+                "FE6A",
+                "FE6B"
+            ],
+            "type": "Small"
+        },
+        {
+            "range": [
+                "3250"
+            ],
+            "type": "Square"
+        },
+        {
+            "range": [
+                "32CC",
+                "32CF"
+            ],
+            "type": "Square"
+        },
+        {
+            "range": [
+                "32FF",
+                "3357"
+            ],
+            "type": "Square"
+        },
+        {
+            "range": [
+                "3371",
+                "33DF"
+            ],
+            "type": "Square"
+        },
+        {
+            "range": [
+                "33FF"
+            ],
+            "type": "Square"
+        },
+        {
+            "range": [
+                "1F130",
+                "1F14F"
+            ],
+            "type": "Square"
+        },
+        {
+            "range": [
+                "1F190"
+            ],
+            "type": "Square"
+        },
+        {
+            "range": [
+                "1F200",
+                "1F202"
+            ],
+            "type": "Square"
+        },
+        {
+            "range": [
+                "1F210",
+                "1F23B"
+            ],
+            "type": "Square"
+        },
+        {
+            "range": [
+                "00BC",
+                "00BE"
+            ],
+            "type": "Fraction"
+        },
+        {
+            "range": [
+                "2150",
+                "215F"
+            ],
+            "type": "Fraction"
+        },
+        {
+            "range": [
+                "2189"
+            ],
+            "type": "Fraction"
+        }
+    ]
+}

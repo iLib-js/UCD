@@ -1,0 +1,2055 @@
+{
+    "EquivalentUnifiedIdeograph": [
+        {
+            "range": [
+                "2E81"
+            ],
+            "unified": "5382"
+        },
+        {
+            "range": [
+                "2E82"
+            ],
+            "unified": "4E5B"
+        },
+        {
+            "range": [
+                "2E83"
+            ],
+            "unified": "4E5A"
+        },
+        {
+            "range": [
+                "2E84"
+            ],
+            "unified": "4E59"
+        },
+        {
+            "range": [
+                "2E85"
+            ],
+            "unified": "4EBB"
+        },
+        {
+            "range": [
+                "2E86"
+            ],
+            "unified": "5182"
+        },
+        {
+            "range": [
+                "2E87"
+            ],
+            "unified": "20628"
+        },
+        {
+            "range": [
+                "2E88"
+            ],
+            "unified": "5200"
+        },
+        {
+            "range": [
+                "2E89"
+            ],
+            "unified": "5202"
+        },
+        {
+            "range": [
+                "2E8A"
+            ],
+            "unified": "535C"
+        },
+        {
+            "range": [
+                "2E8B"
+            ],
+            "unified": "353E"
+        },
+        {
+            "range": [
+                "2E8C",
+                "2E8D"
+            ],
+            "unified": "5C0F"
+        },
+        {
+            "range": [
+                "2E8E"
+            ],
+            "unified": "5140"
+        },
+        {
+            "range": [
+                "2E8F"
+            ],
+            "unified": "5C23"
+        },
+        {
+            "range": [
+                "2E90"
+            ],
+            "unified": "5C22"
+        },
+        {
+            "range": [
+                "2E91"
+            ],
+            "unified": "21BC2"
+        },
+        {
+            "range": [
+                "2E92"
+            ],
+            "unified": "5DF3"
+        },
+        {
+            "range": [
+                "2E93"
+            ],
+            "unified": "5E7A"
+        },
+        {
+            "range": [
+                "2E94"
+            ],
+            "unified": "5F51"
+        },
+        {
+            "range": [
+                "2E95"
+            ],
+            "unified": "5F50"
+        },
+        {
+            "range": [
+                "2E96"
+            ],
+            "unified": "5FC4"
+        },
+        {
+            "range": [
+                "2E97"
+            ],
+            "unified": "5FC3"
+        },
+        {
+            "range": [
+                "2E98"
+            ],
+            "unified": "624C"
+        },
+        {
+            "range": [
+                "2E99"
+            ],
+            "unified": "6535"
+        },
+        {
+            "range": [
+                "2E9B"
+            ],
+            "unified": "65E1"
+        },
+        {
+            "range": [
+                "2E9C"
+            ],
+            "unified": "65E5"
+        },
+        {
+            "range": [
+                "2E9D"
+            ],
+            "unified": "6708"
+        },
+        {
+            "range": [
+                "2E9E"
+            ],
+            "unified": "6B7A"
+        },
+        {
+            "range": [
+                "2E9F"
+            ],
+            "unified": "6BCD"
+        },
+        {
+            "range": [
+                "2EA0"
+            ],
+            "unified": "6C11"
+        },
+        {
+            "range": [
+                "2EA1"
+            ],
+            "unified": "6C35"
+        },
+        {
+            "range": [
+                "2EA2"
+            ],
+            "unified": "6C3A"
+        },
+        {
+            "range": [
+                "2EA3"
+            ],
+            "unified": "706C"
+        },
+        {
+            "range": [
+                "2EA4",
+                "2EA5"
+            ],
+            "unified": "722B"
+        },
+        {
+            "range": [
+                "2EA6"
+            ],
+            "unified": "4E2C"
+        },
+        {
+            "range": [
+                "2EA7"
+            ],
+            "unified": "725B"
+        },
+        {
+            "range": [
+                "2EA8"
+            ],
+            "unified": "72AD"
+        },
+        {
+            "range": [
+                "2EA9"
+            ],
+            "unified": "738B"
+        },
+        {
+            "range": [
+                "2EAA"
+            ],
+            "unified": "24D14"
+        },
+        {
+            "range": [
+                "2EAB"
+            ],
+            "unified": "76EE"
+        },
+        {
+            "range": [
+                "2EAC"
+            ],
+            "unified": "793A"
+        },
+        {
+            "range": [
+                "2EAD"
+            ],
+            "unified": "793B"
+        },
+        {
+            "range": [
+                "2EAE"
+            ],
+            "unified": "25AD7"
+        },
+        {
+            "range": [
+                "2EAF"
+            ],
+            "unified": "7CF9"
+        },
+        {
+            "range": [
+                "2EB0"
+            ],
+            "unified": "7E9F"
+        },
+        {
+            "range": [
+                "2EB1"
+            ],
+            "unified": "7F53"
+        },
+        {
+            "range": [
+                "2EB2"
+            ],
+            "unified": "7F52"
+        },
+        {
+            "range": [
+                "2EB3"
+            ],
+            "unified": "34C1"
+        },
+        {
+            "range": [
+                "2EB4"
+            ],
+            "unified": "5197"
+        },
+        {
+            "range": [
+                "2EB5"
+            ],
+            "unified": "2626B"
+        },
+        {
+            "range": [
+                "2EB6"
+            ],
+            "unified": "7F8A"
+        },
+        {
+            "range": [
+                "2EB7"
+            ],
+            "unified": "2634C"
+        },
+        {
+            "range": [
+                "2EB8"
+            ],
+            "unified": "2634B"
+        },
+        {
+            "range": [
+                "2EB9"
+            ],
+            "unified": "8002"
+        },
+        {
+            "range": [
+                "2EBA"
+            ],
+            "unified": "8080"
+        },
+        {
+            "range": [
+                "2EBB"
+            ],
+            "unified": "807F"
+        },
+        {
+            "range": [
+                "2EBC"
+            ],
+            "unified": "8089"
+        },
+        {
+            "range": [
+                "2EBD"
+            ],
+            "unified": "26951"
+        },
+        {
+            "range": [
+                "2EBE",
+                "2EC0"
+            ],
+            "unified": "8279"
+        },
+        {
+            "range": [
+                "2EC1"
+            ],
+            "unified": "864E"
+        },
+        {
+            "range": [
+                "2EC2"
+            ],
+            "unified": "8864"
+        },
+        {
+            "range": [
+                "2EC3"
+            ],
+            "unified": "8980"
+        },
+        {
+            "range": [
+                "2EC4"
+            ],
+            "unified": "897F"
+        },
+        {
+            "range": [
+                "2EC5"
+            ],
+            "unified": "89C1"
+        },
+        {
+            "range": [
+                "2EC6"
+            ],
+            "unified": "89D2"
+        },
+        {
+            "range": [
+                "2EC7"
+            ],
+            "unified": "278B2"
+        },
+        {
+            "range": [
+                "2EC8"
+            ],
+            "unified": "8BA0"
+        },
+        {
+            "range": [
+                "2EC9"
+            ],
+            "unified": "8D1D"
+        },
+        {
+            "range": [
+                "2ECA"
+            ],
+            "unified": "27FB7"
+        },
+        {
+            "range": [
+                "2ECB"
+            ],
+            "unified": "8F66"
+        },
+        {
+            "range": [
+                "2ECC",
+                "2ECE"
+            ],
+            "unified": "8FB6"
+        },
+        {
+            "range": [
+                "2ECF"
+            ],
+            "unified": "9091"
+        },
+        {
+            "range": [
+                "2ED0"
+            ],
+            "unified": "9485"
+        },
+        {
+            "range": [
+                "2ED1"
+            ],
+            "unified": "9577"
+        },
+        {
+            "range": [
+                "2ED2"
+            ],
+            "unified": "9578"
+        },
+        {
+            "range": [
+                "2ED3"
+            ],
+            "unified": "957F"
+        },
+        {
+            "range": [
+                "2ED4"
+            ],
+            "unified": "95E8"
+        },
+        {
+            "range": [
+                "2ED5"
+            ],
+            "unified": "28E0F"
+        },
+        {
+            "range": [
+                "2ED6"
+            ],
+            "unified": "961D"
+        },
+        {
+            "range": [
+                "2ED7"
+            ],
+            "unified": "96E8"
+        },
+        {
+            "range": [
+                "2ED8"
+            ],
+            "unified": "9752"
+        },
+        {
+            "range": [
+                "2ED9"
+            ],
+            "unified": "97E6"
+        },
+        {
+            "range": [
+                "2EDA"
+            ],
+            "unified": "9875"
+        },
+        {
+            "range": [
+                "2EDB"
+            ],
+            "unified": "98CE"
+        },
+        {
+            "range": [
+                "2EDC"
+            ],
+            "unified": "98DE"
+        },
+        {
+            "range": [
+                "2EDD"
+            ],
+            "unified": "98DF"
+        },
+        {
+            "range": [
+                "2EDE"
+            ],
+            "unified": "2967F"
+        },
+        {
+            "range": [
+                "2EDF"
+            ],
+            "unified": "98E0"
+        },
+        {
+            "range": [
+                "2EE0"
+            ],
+            "unified": "9963"
+        },
+        {
+            "range": [
+                "2EE1"
+            ],
+            "unified": "29810"
+        },
+        {
+            "range": [
+                "2EE2"
+            ],
+            "unified": "9A6C"
+        },
+        {
+            "range": [
+                "2EE3"
+            ],
+            "unified": "9AA8"
+        },
+        {
+            "range": [
+                "2EE4"
+            ],
+            "unified": "9B3C"
+        },
+        {
+            "range": [
+                "2EE5"
+            ],
+            "unified": "9C7C"
+        },
+        {
+            "range": [
+                "2EE6"
+            ],
+            "unified": "9E1F"
+        },
+        {
+            "range": [
+                "2EE7"
+            ],
+            "unified": "5364"
+        },
+        {
+            "range": [
+                "2EE8"
+            ],
+            "unified": "9EA6"
+        },
+        {
+            "range": [
+                "2EE9"
+            ],
+            "unified": "9EC4"
+        },
+        {
+            "range": [
+                "2EEA"
+            ],
+            "unified": "9EFE"
+        },
+        {
+            "range": [
+                "2EEB"
+            ],
+            "unified": "6589"
+        },
+        {
+            "range": [
+                "2EEC"
+            ],
+            "unified": "9F50"
+        },
+        {
+            "range": [
+                "2EED"
+            ],
+            "unified": "6B6F"
+        },
+        {
+            "range": [
+                "2EEE"
+            ],
+            "unified": "9F7F"
+        },
+        {
+            "range": [
+                "2EEF"
+            ],
+            "unified": "7ADC"
+        },
+        {
+            "range": [
+                "2EF0"
+            ],
+            "unified": "9F99"
+        },
+        {
+            "range": [
+                "2EF1"
+            ],
+            "unified": "9F9C"
+        },
+        {
+            "range": [
+                "2EF2"
+            ],
+            "unified": "4E80"
+        },
+        {
+            "range": [
+                "2EF3"
+            ],
+            "unified": "9F9F"
+        },
+        {
+            "range": [
+                "2F00"
+            ],
+            "unified": "4E00"
+        },
+        {
+            "range": [
+                "2F01"
+            ],
+            "unified": "4E28"
+        },
+        {
+            "range": [
+                "2F02"
+            ],
+            "unified": "4E36"
+        },
+        {
+            "range": [
+                "2F03"
+            ],
+            "unified": "4E3F"
+        },
+        {
+            "range": [
+                "2F04"
+            ],
+            "unified": "4E59"
+        },
+        {
+            "range": [
+                "2F05"
+            ],
+            "unified": "4E85"
+        },
+        {
+            "range": [
+                "2F06"
+            ],
+            "unified": "4E8C"
+        },
+        {
+            "range": [
+                "2F07"
+            ],
+            "unified": "4EA0"
+        },
+        {
+            "range": [
+                "2F08"
+            ],
+            "unified": "4EBA"
+        },
+        {
+            "range": [
+                "2F09"
+            ],
+            "unified": "513F"
+        },
+        {
+            "range": [
+                "2F0A"
+            ],
+            "unified": "5165"
+        },
+        {
+            "range": [
+                "2F0B"
+            ],
+            "unified": "516B"
+        },
+        {
+            "range": [
+                "2F0C"
+            ],
+            "unified": "5182"
+        },
+        {
+            "range": [
+                "2F0D"
+            ],
+            "unified": "5196"
+        },
+        {
+            "range": [
+                "2F0E"
+            ],
+            "unified": "51AB"
+        },
+        {
+            "range": [
+                "2F0F"
+            ],
+            "unified": "51E0"
+        },
+        {
+            "range": [
+                "2F10"
+            ],
+            "unified": "51F5"
+        },
+        {
+            "range": [
+                "2F11"
+            ],
+            "unified": "5200"
+        },
+        {
+            "range": [
+                "2F12"
+            ],
+            "unified": "529B"
+        },
+        {
+            "range": [
+                "2F13"
+            ],
+            "unified": "52F9"
+        },
+        {
+            "range": [
+                "2F14"
+            ],
+            "unified": "5315"
+        },
+        {
+            "range": [
+                "2F15"
+            ],
+            "unified": "531A"
+        },
+        {
+            "range": [
+                "2F16"
+            ],
+            "unified": "5338"
+        },
+        {
+            "range": [
+                "2F17"
+            ],
+            "unified": "5341"
+        },
+        {
+            "range": [
+                "2F18"
+            ],
+            "unified": "535C"
+        },
+        {
+            "range": [
+                "2F19"
+            ],
+            "unified": "5369"
+        },
+        {
+            "range": [
+                "2F1A"
+            ],
+            "unified": "5382"
+        },
+        {
+            "range": [
+                "2F1B"
+            ],
+            "unified": "53B6"
+        },
+        {
+            "range": [
+                "2F1C"
+            ],
+            "unified": "53C8"
+        },
+        {
+            "range": [
+                "2F1D"
+            ],
+            "unified": "53E3"
+        },
+        {
+            "range": [
+                "2F1E"
+            ],
+            "unified": "56D7"
+        },
+        {
+            "range": [
+                "2F1F"
+            ],
+            "unified": "571F"
+        },
+        {
+            "range": [
+                "2F20"
+            ],
+            "unified": "58EB"
+        },
+        {
+            "range": [
+                "2F21"
+            ],
+            "unified": "5902"
+        },
+        {
+            "range": [
+                "2F22"
+            ],
+            "unified": "590A"
+        },
+        {
+            "range": [
+                "2F23"
+            ],
+            "unified": "5915"
+        },
+        {
+            "range": [
+                "2F24"
+            ],
+            "unified": "5927"
+        },
+        {
+            "range": [
+                "2F25"
+            ],
+            "unified": "5973"
+        },
+        {
+            "range": [
+                "2F26"
+            ],
+            "unified": "5B50"
+        },
+        {
+            "range": [
+                "2F27"
+            ],
+            "unified": "5B80"
+        },
+        {
+            "range": [
+                "2F28"
+            ],
+            "unified": "5BF8"
+        },
+        {
+            "range": [
+                "2F29"
+            ],
+            "unified": "5C0F"
+        },
+        {
+            "range": [
+                "2F2A"
+            ],
+            "unified": "5C22"
+        },
+        {
+            "range": [
+                "2F2B"
+            ],
+            "unified": "5C38"
+        },
+        {
+            "range": [
+                "2F2C"
+            ],
+            "unified": "5C6E"
+        },
+        {
+            "range": [
+                "2F2D"
+            ],
+            "unified": "5C71"
+        },
+        {
+            "range": [
+                "2F2E"
+            ],
+            "unified": "5DDB"
+        },
+        {
+            "range": [
+                "2F2F"
+            ],
+            "unified": "5DE5"
+        },
+        {
+            "range": [
+                "2F30"
+            ],
+            "unified": "5DF1"
+        },
+        {
+            "range": [
+                "2F31"
+            ],
+            "unified": "5DFE"
+        },
+        {
+            "range": [
+                "2F32"
+            ],
+            "unified": "5E72"
+        },
+        {
+            "range": [
+                "2F33"
+            ],
+            "unified": "5E7A"
+        },
+        {
+            "range": [
+                "2F34"
+            ],
+            "unified": "5E7F"
+        },
+        {
+            "range": [
+                "2F35"
+            ],
+            "unified": "5EF4"
+        },
+        {
+            "range": [
+                "2F36"
+            ],
+            "unified": "5EFE"
+        },
+        {
+            "range": [
+                "2F37"
+            ],
+            "unified": "5F0B"
+        },
+        {
+            "range": [
+                "2F38"
+            ],
+            "unified": "5F13"
+        },
+        {
+            "range": [
+                "2F39"
+            ],
+            "unified": "5F50"
+        },
+        {
+            "range": [
+                "2F3A"
+            ],
+            "unified": "5F61"
+        },
+        {
+            "range": [
+                "2F3B"
+            ],
+            "unified": "5F73"
+        },
+        {
+            "range": [
+                "2F3C"
+            ],
+            "unified": "5FC3"
+        },
+        {
+            "range": [
+                "2F3D"
+            ],
+            "unified": "6208"
+        },
+        {
+            "range": [
+                "2F3E"
+            ],
+            "unified": "6236"
+        },
+        {
+            "range": [
+                "2F3F"
+            ],
+            "unified": "624B"
+        },
+        {
+            "range": [
+                "2F40"
+            ],
+            "unified": "652F"
+        },
+        {
+            "range": [
+                "2F41"
+            ],
+            "unified": "6534"
+        },
+        {
+            "range": [
+                "2F42"
+            ],
+            "unified": "6587"
+        },
+        {
+            "range": [
+                "2F43"
+            ],
+            "unified": "6597"
+        },
+        {
+            "range": [
+                "2F44"
+            ],
+            "unified": "65A4"
+        },
+        {
+            "range": [
+                "2F45"
+            ],
+            "unified": "65B9"
+        },
+        {
+            "range": [
+                "2F46"
+            ],
+            "unified": "65E0"
+        },
+        {
+            "range": [
+                "2F47"
+            ],
+            "unified": "65E5"
+        },
+        {
+            "range": [
+                "2F48"
+            ],
+            "unified": "66F0"
+        },
+        {
+            "range": [
+                "2F49"
+            ],
+            "unified": "6708"
+        },
+        {
+            "range": [
+                "2F4A"
+            ],
+            "unified": "6728"
+        },
+        {
+            "range": [
+                "2F4B"
+            ],
+            "unified": "6B20"
+        },
+        {
+            "range": [
+                "2F4C"
+            ],
+            "unified": "6B62"
+        },
+        {
+            "range": [
+                "2F4D"
+            ],
+            "unified": "6B79"
+        },
+        {
+            "range": [
+                "2F4E"
+            ],
+            "unified": "6BB3"
+        },
+        {
+            "range": [
+                "2F4F"
+            ],
+            "unified": "6BCB"
+        },
+        {
+            "range": [
+                "2F50"
+            ],
+            "unified": "6BD4"
+        },
+        {
+            "range": [
+                "2F51"
+            ],
+            "unified": "6BDB"
+        },
+        {
+            "range": [
+                "2F52"
+            ],
+            "unified": "6C0F"
+        },
+        {
+            "range": [
+                "2F53"
+            ],
+            "unified": "6C14"
+        },
+        {
+            "range": [
+                "2F54"
+            ],
+            "unified": "6C34"
+        },
+        {
+            "range": [
+                "2F55"
+            ],
+            "unified": "706B"
+        },
+        {
+            "range": [
+                "2F56"
+            ],
+            "unified": "722A"
+        },
+        {
+            "range": [
+                "2F57"
+            ],
+            "unified": "7236"
+        },
+        {
+            "range": [
+                "2F58"
+            ],
+            "unified": "723B"
+        },
+        {
+            "range": [
+                "2F59"
+            ],
+            "unified": "723F"
+        },
+        {
+            "range": [
+                "2F5A"
+            ],
+            "unified": "7247"
+        },
+        {
+            "range": [
+                "2F5B"
+            ],
+            "unified": "7259"
+        },
+        {
+            "range": [
+                "2F5C"
+            ],
+            "unified": "725B"
+        },
+        {
+            "range": [
+                "2F5D"
+            ],
+            "unified": "72AC"
+        },
+        {
+            "range": [
+                "2F5E"
+            ],
+            "unified": "7384"
+        },
+        {
+            "range": [
+                "2F5F"
+            ],
+            "unified": "7389"
+        },
+        {
+            "range": [
+                "2F60"
+            ],
+            "unified": "74DC"
+        },
+        {
+            "range": [
+                "2F61"
+            ],
+            "unified": "74E6"
+        },
+        {
+            "range": [
+                "2F62"
+            ],
+            "unified": "7518"
+        },
+        {
+            "range": [
+                "2F63"
+            ],
+            "unified": "751F"
+        },
+        {
+            "range": [
+                "2F64"
+            ],
+            "unified": "7528"
+        },
+        {
+            "range": [
+                "2F65"
+            ],
+            "unified": "7530"
+        },
+        {
+            "range": [
+                "2F66"
+            ],
+            "unified": "758B"
+        },
+        {
+            "range": [
+                "2F67"
+            ],
+            "unified": "7592"
+        },
+        {
+            "range": [
+                "2F68"
+            ],
+            "unified": "7676"
+        },
+        {
+            "range": [
+                "2F69"
+            ],
+            "unified": "767D"
+        },
+        {
+            "range": [
+                "2F6A"
+            ],
+            "unified": "76AE"
+        },
+        {
+            "range": [
+                "2F6B"
+            ],
+            "unified": "76BF"
+        },
+        {
+            "range": [
+                "2F6C"
+            ],
+            "unified": "76EE"
+        },
+        {
+            "range": [
+                "2F6D"
+            ],
+            "unified": "77DB"
+        },
+        {
+            "range": [
+                "2F6E"
+            ],
+            "unified": "77E2"
+        },
+        {
+            "range": [
+                "2F6F"
+            ],
+            "unified": "77F3"
+        },
+        {
+            "range": [
+                "2F70"
+            ],
+            "unified": "793A"
+        },
+        {
+            "range": [
+                "2F71"
+            ],
+            "unified": "79B8"
+        },
+        {
+            "range": [
+                "2F72"
+            ],
+            "unified": "79BE"
+        },
+        {
+            "range": [
+                "2F73"
+            ],
+            "unified": "7A74"
+        },
+        {
+            "range": [
+                "2F74"
+            ],
+            "unified": "7ACB"
+        },
+        {
+            "range": [
+                "2F75"
+            ],
+            "unified": "7AF9"
+        },
+        {
+            "range": [
+                "2F76"
+            ],
+            "unified": "7C73"
+        },
+        {
+            "range": [
+                "2F77"
+            ],
+            "unified": "7CF8"
+        },
+        {
+            "range": [
+                "2F78"
+            ],
+            "unified": "7F36"
+        },
+        {
+            "range": [
+                "2F79"
+            ],
+            "unified": "7F51"
+        },
+        {
+            "range": [
+                "2F7A"
+            ],
+            "unified": "7F8A"
+        },
+        {
+            "range": [
+                "2F7B"
+            ],
+            "unified": "7FBD"
+        },
+        {
+            "range": [
+                "2F7C"
+            ],
+            "unified": "8001"
+        },
+        {
+            "range": [
+                "2F7D"
+            ],
+            "unified": "800C"
+        },
+        {
+            "range": [
+                "2F7E"
+            ],
+            "unified": "8012"
+        },
+        {
+            "range": [
+                "2F7F"
+            ],
+            "unified": "8033"
+        },
+        {
+            "range": [
+                "2F80"
+            ],
+            "unified": "807F"
+        },
+        {
+            "range": [
+                "2F81"
+            ],
+            "unified": "8089"
+        },
+        {
+            "range": [
+                "2F82"
+            ],
+            "unified": "81E3"
+        },
+        {
+            "range": [
+                "2F83"
+            ],
+            "unified": "81EA"
+        },
+        {
+            "range": [
+                "2F84"
+            ],
+            "unified": "81F3"
+        },
+        {
+            "range": [
+                "2F85"
+            ],
+            "unified": "81FC"
+        },
+        {
+            "range": [
+                "2F86"
+            ],
+            "unified": "820C"
+        },
+        {
+            "range": [
+                "2F87"
+            ],
+            "unified": "821B"
+        },
+        {
+            "range": [
+                "2F88"
+            ],
+            "unified": "821F"
+        },
+        {
+            "range": [
+                "2F89"
+            ],
+            "unified": "826E"
+        },
+        {
+            "range": [
+                "2F8A"
+            ],
+            "unified": "8272"
+        },
+        {
+            "range": [
+                "2F8B"
+            ],
+            "unified": "8278"
+        },
+        {
+            "range": [
+                "2F8C"
+            ],
+            "unified": "864D"
+        },
+        {
+            "range": [
+                "2F8D"
+            ],
+            "unified": "866B"
+        },
+        {
+            "range": [
+                "2F8E"
+            ],
+            "unified": "8840"
+        },
+        {
+            "range": [
+                "2F8F"
+            ],
+            "unified": "884C"
+        },
+        {
+            "range": [
+                "2F90"
+            ],
+            "unified": "8863"
+        },
+        {
+            "range": [
+                "2F91"
+            ],
+            "unified": "897E"
+        },
+        {
+            "range": [
+                "2F92"
+            ],
+            "unified": "898B"
+        },
+        {
+            "range": [
+                "2F93"
+            ],
+            "unified": "89D2"
+        },
+        {
+            "range": [
+                "2F94"
+            ],
+            "unified": "8A00"
+        },
+        {
+            "range": [
+                "2F95"
+            ],
+            "unified": "8C37"
+        },
+        {
+            "range": [
+                "2F96"
+            ],
+            "unified": "8C46"
+        },
+        {
+            "range": [
+                "2F97"
+            ],
+            "unified": "8C55"
+        },
+        {
+            "range": [
+                "2F98"
+            ],
+            "unified": "8C78"
+        },
+        {
+            "range": [
+                "2F99"
+            ],
+            "unified": "8C9D"
+        },
+        {
+            "range": [
+                "2F9A"
+            ],
+            "unified": "8D64"
+        },
+        {
+            "range": [
+                "2F9B"
+            ],
+            "unified": "8D70"
+        },
+        {
+            "range": [
+                "2F9C"
+            ],
+            "unified": "8DB3"
+        },
+        {
+            "range": [
+                "2F9D"
+            ],
+            "unified": "8EAB"
+        },
+        {
+            "range": [
+                "2F9E"
+            ],
+            "unified": "8ECA"
+        },
+        {
+            "range": [
+                "2F9F"
+            ],
+            "unified": "8F9B"
+        },
+        {
+            "range": [
+                "2FA0"
+            ],
+            "unified": "8FB0"
+        },
+        {
+            "range": [
+                "2FA1"
+            ],
+            "unified": "8FB5"
+        },
+        {
+            "range": [
+                "2FA2"
+            ],
+            "unified": "9091"
+        },
+        {
+            "range": [
+                "2FA3"
+            ],
+            "unified": "9149"
+        },
+        {
+            "range": [
+                "2FA4"
+            ],
+            "unified": "91C6"
+        },
+        {
+            "range": [
+                "2FA5"
+            ],
+            "unified": "91CC"
+        },
+        {
+            "range": [
+                "2FA6"
+            ],
+            "unified": "91D1"
+        },
+        {
+            "range": [
+                "2FA7"
+            ],
+            "unified": "9577"
+        },
+        {
+            "range": [
+                "2FA8"
+            ],
+            "unified": "9580"
+        },
+        {
+            "range": [
+                "2FA9"
+            ],
+            "unified": "961C"
+        },
+        {
+            "range": [
+                "2FAA"
+            ],
+            "unified": "96B6"
+        },
+        {
+            "range": [
+                "2FAB"
+            ],
+            "unified": "96B9"
+        },
+        {
+            "range": [
+                "2FAC"
+            ],
+            "unified": "96E8"
+        },
+        {
+            "range": [
+                "2FAD"
+            ],
+            "unified": "9751"
+        },
+        {
+            "range": [
+                "2FAE"
+            ],
+            "unified": "975E"
+        },
+        {
+            "range": [
+                "2FAF"
+            ],
+            "unified": "9762"
+        },
+        {
+            "range": [
+                "2FB0"
+            ],
+            "unified": "9769"
+        },
+        {
+            "range": [
+                "2FB1"
+            ],
+            "unified": "97CB"
+        },
+        {
+            "range": [
+                "2FB2"
+            ],
+            "unified": "97ED"
+        },
+        {
+            "range": [
+                "2FB3"
+            ],
+            "unified": "97F3"
+        },
+        {
+            "range": [
+                "2FB4"
+            ],
+            "unified": "9801"
+        },
+        {
+            "range": [
+                "2FB5"
+            ],
+            "unified": "98A8"
+        },
+        {
+            "range": [
+                "2FB6"
+            ],
+            "unified": "98DB"
+        },
+        {
+            "range": [
+                "2FB7"
+            ],
+            "unified": "98DF"
+        },
+        {
+            "range": [
+                "2FB8"
+            ],
+            "unified": "9996"
+        },
+        {
+            "range": [
+                "2FB9"
+            ],
+            "unified": "9999"
+        },
+        {
+            "range": [
+                "2FBA"
+            ],
+            "unified": "99AC"
+        },
+        {
+            "range": [
+                "2FBB"
+            ],
+            "unified": "9AA8"
+        },
+        {
+            "range": [
+                "2FBC"
+            ],
+            "unified": "9AD8"
+        },
+        {
+            "range": [
+                "2FBD"
+            ],
+            "unified": "9ADF"
+        },
+        {
+            "range": [
+                "2FBE"
+            ],
+            "unified": "9B25"
+        },
+        {
+            "range": [
+                "2FBF"
+            ],
+            "unified": "9B2F"
+        },
+        {
+            "range": [
+                "2FC0"
+            ],
+            "unified": "9B32"
+        },
+        {
+            "range": [
+                "2FC1"
+            ],
+            "unified": "9B3C"
+        },
+        {
+            "range": [
+                "2FC2"
+            ],
+            "unified": "9B5A"
+        },
+        {
+            "range": [
+                "2FC3"
+            ],
+            "unified": "9CE5"
+        },
+        {
+            "range": [
+                "2FC4"
+            ],
+            "unified": "9E75"
+        },
+        {
+            "range": [
+                "2FC5"
+            ],
+            "unified": "9E7F"
+        },
+        {
+            "range": [
+                "2FC6"
+            ],
+            "unified": "9EA5"
+        },
+        {
+            "range": [
+                "2FC7"
+            ],
+            "unified": "9EBB"
+        },
+        {
+            "range": [
+                "2FC8"
+            ],
+            "unified": "9EC3"
+        },
+        {
+            "range": [
+                "2FC9"
+            ],
+            "unified": "9ECD"
+        },
+        {
+            "range": [
+                "2FCA"
+            ],
+            "unified": "9ED1"
+        },
+        {
+            "range": [
+                "2FCB"
+            ],
+            "unified": "9EF9"
+        },
+        {
+            "range": [
+                "2FCC"
+            ],
+            "unified": "9EFD"
+        },
+        {
+            "range": [
+                "2FCD"
+            ],
+            "unified": "9F0E"
+        },
+        {
+            "range": [
+                "2FCE"
+            ],
+            "unified": "9F13"
+        },
+        {
+            "range": [
+                "2FCF"
+            ],
+            "unified": "9F20"
+        },
+        {
+            "range": [
+                "2FD0"
+            ],
+            "unified": "9F3B"
+        },
+        {
+            "range": [
+                "2FD1"
+            ],
+            "unified": "9F4A"
+        },
+        {
+            "range": [
+                "2FD2"
+            ],
+            "unified": "9F52"
+        },
+        {
+            "range": [
+                "2FD3"
+            ],
+            "unified": "9F8D"
+        },
+        {
+            "range": [
+                "2FD4"
+            ],
+            "unified": "9F9C"
+        },
+        {
+            "range": [
+                "2FD5"
+            ],
+            "unified": "9FA0"
+        },
+        {
+            "range": [
+                "31C6"
+            ],
+            "unified": "200CC"
+        },
+        {
+            "range": [
+                "31CF"
+            ],
+            "unified": "4E40"
+        },
+        {
+            "range": [
+                "31D0"
+            ],
+            "unified": "4E00"
+        },
+        {
+            "range": [
+                "31D1"
+            ],
+            "unified": "4E28"
+        },
+        {
+            "range": [
+                "31D2",
+                "31D3"
+            ],
+            "unified": "4E3F"
+        },
+        {
+            "range": [
+                "31D4"
+            ],
+            "unified": "4E36"
+        },
+        {
+            "range": [
+                "31D5"
+            ],
+            "unified": "200CD"
+        },
+        {
+            "range": [
+                "31D6"
+            ],
+            "unified": "4E5B"
+        },
+        {
+            "range": [
+                "31D7"
+            ],
+            "unified": "200CA"
+        },
+        {
+            "range": [
+                "31D8"
+            ],
+            "unified": "200CE"
+        },
+        {
+            "range": [
+                "31D9"
+            ],
+            "unified": "2010C"
+        },
+        {
+            "range": [
+                "31DA"
+            ],
+            "unified": "4E85"
+        },
+        {
+            "range": [
+                "31DB"
+            ],
+            "unified": "21FE8"
+        },
+        {
+            "range": [
+                "31DC"
+            ],
+            "unified": "200CB"
+        },
+        {
+            "range": [
+                "31DD"
+            ],
+            "unified": "4E40"
+        },
+        {
+            "range": [
+                "31DE"
+            ],
+            "unified": "200D1"
+        },
+        {
+            "range": [
+                "31DF"
+            ],
+            "unified": "4E5A"
+        },
+        {
+            "range": [
+                "31E0"
+            ],
+            "unified": "4E59"
+        },
+        {
+            "range": [
+                "31E1"
+            ],
+            "unified": "2010E"
+        }
+    ]
+}

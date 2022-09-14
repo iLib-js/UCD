@@ -1,0 +1,8022 @@
+{
+    "emoji-data": [
+        {
+            "range": [
+                "0023"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "002A"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "0030",
+                "0039"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "00A9"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "00AE"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "203C"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2049"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2122"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2139"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2194",
+                "2199"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "21A9",
+                "21AA"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "231A",
+                "231B"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2328"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "23CF"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "23E9",
+                "23EC"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "23ED",
+                "23EE"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "23EF"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "23F0"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "23F1",
+                "23F2"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "23F3"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "23F8",
+                "23FA"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "24C2"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "25AA",
+                "25AB"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "25B6"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "25C0"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "25FB",
+                "25FE"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2600",
+                "2601"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2602",
+                "2603"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2604"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "260E"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2611"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2614",
+                "2615"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2618"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "261D"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2620"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2622",
+                "2623"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2626"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "262A"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "262E"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "262F"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2638",
+                "2639"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "263A"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2640"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2642"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2648",
+                "2653"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "265F"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2660"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2663"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2665",
+                "2666"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2668"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "267B"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "267E"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "267F"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2692"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2693"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2694"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2695"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2696",
+                "2697"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2699"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "269B",
+                "269C"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "26A0",
+                "26A1"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "26A7"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "26AA",
+                "26AB"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "26B0",
+                "26B1"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "26BD",
+                "26BE"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "26C4",
+                "26C5"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "26C8"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "26CE"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "26CF"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "26D1"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "26D3"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "26D4"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "26E9"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "26EA"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "26F0",
+                "26F1"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "26F2",
+                "26F3"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "26F4"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "26F5"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "26F7",
+                "26F9"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "26FA"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "26FD"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2702"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2705"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2708",
+                "270C"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "270D"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "270F"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2712"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2714"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2716"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "271D"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2721"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2728"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2733",
+                "2734"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2744"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2747"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "274C"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "274E"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2753",
+                "2755"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2757"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2763"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2764"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2795",
+                "2797"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "27A1"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "27B0"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "27BF"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2934",
+                "2935"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2B05",
+                "2B07"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2B1B",
+                "2B1C"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2B50"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "2B55"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "3030"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "303D"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "3297"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "3299"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F004"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F0CF"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F170",
+                "1F171"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F17E",
+                "1F17F"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F18E"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F191",
+                "1F19A"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F1E6",
+                "1F1FF"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F201",
+                "1F202"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F21A"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F22F"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F232",
+                "1F23A"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F250",
+                "1F251"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F300",
+                "1F30C"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F30D",
+                "1F30E"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F30F"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F310"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F311"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F312"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F313",
+                "1F315"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F316",
+                "1F318"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F319"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F31A"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F31B"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F31C"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F31D",
+                "1F31E"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F31F",
+                "1F320"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F321"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F324",
+                "1F32C"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F32D",
+                "1F32F"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F330",
+                "1F331"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F332",
+                "1F333"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F334",
+                "1F335"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F336"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F337",
+                "1F34A"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F34B"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F34C",
+                "1F34F"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F350"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F351",
+                "1F37B"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F37C"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F37D"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F37E",
+                "1F37F"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F380",
+                "1F393"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F396",
+                "1F397"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F399",
+                "1F39B"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F39E",
+                "1F39F"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F3A0",
+                "1F3C4"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F3C5"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F3C6"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F3C7"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F3C8"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F3C9"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F3CA"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F3CB",
+                "1F3CE"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F3CF",
+                "1F3D3"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F3D4",
+                "1F3DF"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F3E0",
+                "1F3E3"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F3E4"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F3E5",
+                "1F3F0"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F3F3"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F3F4"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F3F5"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F3F7"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F3F8",
+                "1F407"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F408"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F409",
+                "1F40B"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F40C",
+                "1F40E"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F40F",
+                "1F410"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F411",
+                "1F412"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F413"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F414"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F415"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F416"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F417",
+                "1F429"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F42A"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F42B",
+                "1F43E"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F43F"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F440"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F441"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F442",
+                "1F464"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F465"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F466",
+                "1F46B"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F46C",
+                "1F46D"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F46E",
+                "1F4AC"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F4AD"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F4AE",
+                "1F4B5"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F4B6",
+                "1F4B7"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F4B8",
+                "1F4EB"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F4EC",
+                "1F4ED"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F4EE"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F4EF"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F4F0",
+                "1F4F4"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F4F5"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F4F6",
+                "1F4F7"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F4F8"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F4F9",
+                "1F4FC"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F4FD"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F4FF",
+                "1F502"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F503"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F504",
+                "1F507"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F508"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F509"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F50A",
+                "1F514"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F515"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F516",
+                "1F52B"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F52C",
+                "1F52D"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F52E",
+                "1F53D"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F549",
+                "1F54A"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F54B",
+                "1F54E"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F550",
+                "1F55B"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F55C",
+                "1F567"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F56F",
+                "1F570"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F573",
+                "1F579"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F57A"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F587"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F58A",
+                "1F58D"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F590"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F595",
+                "1F596"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F5A4"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F5A5"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F5A8"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F5B1",
+                "1F5B2"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F5BC"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F5C2",
+                "1F5C4"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F5D1",
+                "1F5D3"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F5DC",
+                "1F5DE"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F5E1"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F5E3"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F5E8"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F5EF"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F5F3"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F5FA"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F5FB",
+                "1F5FF"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F600"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F601",
+                "1F606"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F607",
+                "1F608"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F609",
+                "1F60D"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F60E"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F60F"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F610"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F611"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F612",
+                "1F614"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F615"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F616"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F617"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F618"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F619"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F61A"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F61B"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F61C",
+                "1F61E"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F61F"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F620",
+                "1F625"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F626",
+                "1F627"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F628",
+                "1F62B"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F62C"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F62D"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F62E",
+                "1F62F"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F630",
+                "1F633"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F634"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F635"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F636"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F637",
+                "1F640"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F641",
+                "1F644"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F645",
+                "1F64F"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F680"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F681",
+                "1F682"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F683",
+                "1F685"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F686"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F687"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F688"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F689"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F68A",
+                "1F68B"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F68C"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F68D"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F68E"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F68F"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F690"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F691",
+                "1F693"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F694"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F695"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F696"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F697"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F698"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F699",
+                "1F69A"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F69B",
+                "1F6A1"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6A2"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6A3"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6A4",
+                "1F6A5"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6A6"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6A7",
+                "1F6AD"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6AE",
+                "1F6B1"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6B2"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6B3",
+                "1F6B5"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6B6"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6B7",
+                "1F6B8"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6B9",
+                "1F6BE"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6BF"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6C0"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6C1",
+                "1F6C5"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6CB"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6CC"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6CD",
+                "1F6CF"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6D0"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6D1",
+                "1F6D2"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6D5"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6D6",
+                "1F6D7"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6DD",
+                "1F6DF"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6E0",
+                "1F6E5"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6E9"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6EB",
+                "1F6EC"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6F0"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6F3"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6F4",
+                "1F6F6"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6F7",
+                "1F6F8"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6F9"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6FA"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F6FB",
+                "1F6FC"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F7E0",
+                "1F7EB"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F7F0"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F90C"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F90D",
+                "1F90F"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F910",
+                "1F918"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F919",
+                "1F91E"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F91F"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F920",
+                "1F927"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F928",
+                "1F92F"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F930"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F931",
+                "1F932"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F933",
+                "1F93A"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F93C",
+                "1F93E"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F93F"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F940",
+                "1F945"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F947",
+                "1F94B"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F94C"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F94D",
+                "1F94F"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F950",
+                "1F95E"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F95F",
+                "1F96B"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F96C",
+                "1F970"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F971"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F972"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F973",
+                "1F976"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F977",
+                "1F978"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F979"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F97A"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F97B"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F97C",
+                "1F97F"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F980",
+                "1F984"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F985",
+                "1F991"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F992",
+                "1F997"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F998",
+                "1F9A2"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F9A3",
+                "1F9A4"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F9A5",
+                "1F9AA"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F9AB",
+                "1F9AD"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F9AE",
+                "1F9AF"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F9B0",
+                "1F9B9"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F9BA",
+                "1F9BF"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F9C0"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F9C1",
+                "1F9C2"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F9C3",
+                "1F9CA"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F9CB"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F9CC"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F9CD",
+                "1F9CF"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F9D0",
+                "1F9E6"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1F9E7",
+                "1F9FF"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1FA70",
+                "1FA73"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1FA74"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1FA78",
+                "1FA7A"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1FA7B",
+                "1FA7C"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1FA80",
+                "1FA82"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1FA83",
+                "1FA86"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1FA90",
+                "1FA95"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1FA96",
+                "1FAA8"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1FAA9",
+                "1FAAC"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1FAB0",
+                "1FAB6"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1FAB7",
+                "1FABA"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1FAC0",
+                "1FAC2"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1FAC3",
+                "1FAC5"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1FAD0",
+                "1FAD6"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1FAD7",
+                "1FAD9"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1FAE0",
+                "1FAE7"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1FAF0",
+                "1FAF6"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "231A",
+                "231B"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "23E9",
+                "23EC"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "23F0"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "23F3"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "25FD",
+                "25FE"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "2614",
+                "2615"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "2648",
+                "2653"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "267F"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "2693"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "26A1"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "26AA",
+                "26AB"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "26BD",
+                "26BE"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "26C4",
+                "26C5"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "26CE"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "26D4"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "26EA"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "26F2",
+                "26F3"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "26F5"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "26FA"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "26FD"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "2705"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "270A",
+                "270B"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "2728"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "274C"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "274E"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "2753",
+                "2755"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "2757"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "2795",
+                "2797"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "27B0"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "27BF"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "2B1B",
+                "2B1C"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "2B50"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "2B55"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F004"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F0CF"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F18E"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F191",
+                "1F19A"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F1E6",
+                "1F1FF"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F201"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F21A"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F22F"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F232",
+                "1F236"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F238",
+                "1F23A"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F250",
+                "1F251"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F300",
+                "1F30C"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F30D",
+                "1F30E"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F30F"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F310"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F311"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F312"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F313",
+                "1F315"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F316",
+                "1F318"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F319"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F31A"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F31B"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F31C"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F31D",
+                "1F31E"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F31F",
+                "1F320"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F32D",
+                "1F32F"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F330",
+                "1F331"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F332",
+                "1F333"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F334",
+                "1F335"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F337",
+                "1F34A"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F34B"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F34C",
+                "1F34F"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F350"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F351",
+                "1F37B"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F37C"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F37E",
+                "1F37F"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F380",
+                "1F393"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F3A0",
+                "1F3C4"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F3C5"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F3C6"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F3C7"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F3C8"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F3C9"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F3CA"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F3CF",
+                "1F3D3"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F3E0",
+                "1F3E3"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F3E4"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F3E5",
+                "1F3F0"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F3F4"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F3F8",
+                "1F407"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F408"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F409",
+                "1F40B"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F40C",
+                "1F40E"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F40F",
+                "1F410"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F411",
+                "1F412"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F413"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F414"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F415"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F416"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F417",
+                "1F429"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F42A"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F42B",
+                "1F43E"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F440"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F442",
+                "1F464"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F465"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F466",
+                "1F46B"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F46C",
+                "1F46D"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F46E",
+                "1F4AC"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F4AD"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F4AE",
+                "1F4B5"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F4B6",
+                "1F4B7"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F4B8",
+                "1F4EB"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F4EC",
+                "1F4ED"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F4EE"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F4EF"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F4F0",
+                "1F4F4"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F4F5"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F4F6",
+                "1F4F7"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F4F8"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F4F9",
+                "1F4FC"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F4FF",
+                "1F502"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F503"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F504",
+                "1F507"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F508"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F509"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F50A",
+                "1F514"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F515"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F516",
+                "1F52B"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F52C",
+                "1F52D"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F52E",
+                "1F53D"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F54B",
+                "1F54E"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F550",
+                "1F55B"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F55C",
+                "1F567"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F57A"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F595",
+                "1F596"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F5A4"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F5FB",
+                "1F5FF"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F600"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F601",
+                "1F606"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F607",
+                "1F608"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F609",
+                "1F60D"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F60E"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F60F"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F610"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F611"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F612",
+                "1F614"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F615"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F616"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F617"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F618"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F619"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F61A"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F61B"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F61C",
+                "1F61E"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F61F"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F620",
+                "1F625"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F626",
+                "1F627"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F628",
+                "1F62B"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F62C"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F62D"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F62E",
+                "1F62F"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F630",
+                "1F633"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F634"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F635"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F636"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F637",
+                "1F640"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F641",
+                "1F644"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F645",
+                "1F64F"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F680"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F681",
+                "1F682"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F683",
+                "1F685"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F686"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F687"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F688"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F689"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F68A",
+                "1F68B"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F68C"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F68D"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F68E"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F68F"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F690"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F691",
+                "1F693"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F694"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F695"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F696"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F697"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F698"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F699",
+                "1F69A"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F69B",
+                "1F6A1"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F6A2"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F6A3"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F6A4",
+                "1F6A5"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F6A6"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F6A7",
+                "1F6AD"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F6AE",
+                "1F6B1"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F6B2"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F6B3",
+                "1F6B5"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F6B6"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F6B7",
+                "1F6B8"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F6B9",
+                "1F6BE"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F6BF"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F6C0"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F6C1",
+                "1F6C5"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F6CC"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F6D0"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F6D1",
+                "1F6D2"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F6D5"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F6D6",
+                "1F6D7"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F6DD",
+                "1F6DF"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F6EB",
+                "1F6EC"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F6F4",
+                "1F6F6"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F6F7",
+                "1F6F8"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F6F9"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F6FA"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F6FB",
+                "1F6FC"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F7E0",
+                "1F7EB"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F7F0"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F90C"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F90D",
+                "1F90F"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F910",
+                "1F918"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F919",
+                "1F91E"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F91F"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F920",
+                "1F927"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F928",
+                "1F92F"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F930"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F931",
+                "1F932"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F933",
+                "1F93A"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F93C",
+                "1F93E"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F93F"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F940",
+                "1F945"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F947",
+                "1F94B"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F94C"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F94D",
+                "1F94F"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F950",
+                "1F95E"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F95F",
+                "1F96B"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F96C",
+                "1F970"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F971"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F972"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F973",
+                "1F976"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F977",
+                "1F978"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F979"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F97A"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F97B"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F97C",
+                "1F97F"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F980",
+                "1F984"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F985",
+                "1F991"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F992",
+                "1F997"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F998",
+                "1F9A2"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F9A3",
+                "1F9A4"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F9A5",
+                "1F9AA"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F9AB",
+                "1F9AD"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F9AE",
+                "1F9AF"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F9B0",
+                "1F9B9"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F9BA",
+                "1F9BF"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F9C0"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F9C1",
+                "1F9C2"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F9C3",
+                "1F9CA"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F9CB"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F9CC"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F9CD",
+                "1F9CF"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F9D0",
+                "1F9E6"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F9E7",
+                "1F9FF"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1FA70",
+                "1FA73"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1FA74"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1FA78",
+                "1FA7A"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1FA7B",
+                "1FA7C"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1FA80",
+                "1FA82"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1FA83",
+                "1FA86"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1FA90",
+                "1FA95"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1FA96",
+                "1FAA8"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1FAA9",
+                "1FAAC"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1FAB0",
+                "1FAB6"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1FAB7",
+                "1FABA"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1FAC0",
+                "1FAC2"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1FAC3",
+                "1FAC5"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1FAD0",
+                "1FAD6"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1FAD7",
+                "1FAD9"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1FAE0",
+                "1FAE7"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1FAF0",
+                "1FAF6"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1F3FB",
+                "1F3FF"
+            ],
+            "property": "Emoji_Modifier"
+        },
+        {
+            "range": [
+                "261D"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "26F9"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "270A",
+                "270C"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "270D"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F385"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F3C2",
+                "1F3C4"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F3C7"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F3CA"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F3CB",
+                "1F3CC"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F442",
+                "1F443"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F446",
+                "1F450"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F466",
+                "1F46B"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F46C",
+                "1F46D"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F46E",
+                "1F478"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F47C"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F481",
+                "1F483"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F485",
+                "1F487"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F48F"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F491"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F4AA"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F574",
+                "1F575"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F57A"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F590"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F595",
+                "1F596"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F645",
+                "1F647"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F64B",
+                "1F64F"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F6A3"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F6B4",
+                "1F6B5"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F6B6"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F6C0"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F6CC"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F90C"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F90F"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F918"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F919",
+                "1F91E"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F91F"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F926"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F930"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F931",
+                "1F932"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F933",
+                "1F939"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F93C",
+                "1F93E"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F977"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F9B5",
+                "1F9B6"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F9B8",
+                "1F9B9"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F9BB"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F9CD",
+                "1F9CF"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1F9D1",
+                "1F9DD"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1FAC3",
+                "1FAC5"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "1FAF0",
+                "1FAF6"
+            ],
+            "property": "Emoji_Modifier_Base"
+        },
+        {
+            "range": [
+                "0023"
+            ],
+            "property": "Emoji_Component"
+        },
+        {
+            "range": [
+                "002A"
+            ],
+            "property": "Emoji_Component"
+        },
+        {
+            "range": [
+                "0030",
+                "0039"
+            ],
+            "property": "Emoji_Component"
+        },
+        {
+            "range": [
+                "200D"
+            ],
+            "property": "Emoji_Component"
+        },
+        {
+            "range": [
+                "20E3"
+            ],
+            "property": "Emoji_Component"
+        },
+        {
+            "range": [
+                "FE0F"
+            ],
+            "property": "Emoji_Component"
+        },
+        {
+            "range": [
+                "1F1E6",
+                "1F1FF"
+            ],
+            "property": "Emoji_Component"
+        },
+        {
+            "range": [
+                "1F3FB",
+                "1F3FF"
+            ],
+            "property": "Emoji_Component"
+        },
+        {
+            "range": [
+                "1F9B0",
+                "1F9B3"
+            ],
+            "property": "Emoji_Component"
+        },
+        {
+            "range": [
+                "E0020",
+                "E007F"
+            ],
+            "property": "Emoji_Component"
+        },
+        {
+            "range": [
+                "00A9"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "00AE"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "203C"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2049"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2122"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2139"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2194",
+                "2199"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "21A9",
+                "21AA"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "231A",
+                "231B"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2328"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2388"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "23CF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "23E9",
+                "23EC"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "23ED",
+                "23EE"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "23EF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "23F0"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "23F1",
+                "23F2"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "23F3"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "23F8",
+                "23FA"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "24C2"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "25AA",
+                "25AB"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "25B6"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "25C0"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "25FB",
+                "25FE"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2600",
+                "2601"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2602",
+                "2603"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2604"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2605"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2607",
+                "260D"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "260E"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "260F",
+                "2610"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2611"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2612"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2614",
+                "2615"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2616",
+                "2617"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2618"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2619",
+                "261C"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "261D"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "261E",
+                "261F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2620"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2621"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2622",
+                "2623"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2624",
+                "2625"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2626"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2627",
+                "2629"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "262A"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "262B",
+                "262D"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "262E"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "262F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2630",
+                "2637"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2638",
+                "2639"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "263A"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "263B",
+                "263F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2640"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2641"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2642"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2643",
+                "2647"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2648",
+                "2653"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2654",
+                "265E"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "265F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2660"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2661",
+                "2662"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2663"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2664"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2665",
+                "2666"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2667"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2668"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2669",
+                "267A"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "267B"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "267C",
+                "267D"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "267E"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "267F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2680",
+                "2685"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2690",
+                "2691"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2692"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2693"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2694"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2695"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2696",
+                "2697"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2698"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2699"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "269A"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "269B",
+                "269C"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "269D",
+                "269F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26A0",
+                "26A1"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26A2",
+                "26A6"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26A7"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26A8",
+                "26A9"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26AA",
+                "26AB"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26AC",
+                "26AF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26B0",
+                "26B1"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26B2",
+                "26BC"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26BD",
+                "26BE"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26BF",
+                "26C3"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26C4",
+                "26C5"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26C6",
+                "26C7"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26C8"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26C9",
+                "26CD"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26CE"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26CF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26D0"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26D1"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26D2"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26D3"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26D4"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26D5",
+                "26E8"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26E9"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26EA"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26EB",
+                "26EF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26F0",
+                "26F1"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26F2",
+                "26F3"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26F4"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26F5"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26F6"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26F7",
+                "26F9"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26FA"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26FB",
+                "26FC"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26FD"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "26FE",
+                "2701"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2702"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2703",
+                "2704"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2705"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2708",
+                "270C"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "270D"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "270E"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "270F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2710",
+                "2711"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2712"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2714"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2716"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "271D"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2721"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2728"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2733",
+                "2734"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2744"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2747"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "274C"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "274E"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2753",
+                "2755"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2757"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2763"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2764"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2765",
+                "2767"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2795",
+                "2797"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "27A1"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "27B0"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "27BF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2934",
+                "2935"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2B05",
+                "2B07"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2B1B",
+                "2B1C"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2B50"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "2B55"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "3030"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "303D"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "3297"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "3299"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F000",
+                "1F003"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F004"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F005",
+                "1F0CE"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F0CF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F0D0",
+                "1F0FF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F10D",
+                "1F10F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F12F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F16C",
+                "1F16F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F170",
+                "1F171"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F17E",
+                "1F17F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F18E"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F191",
+                "1F19A"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F1AD",
+                "1F1E5"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F201",
+                "1F202"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F203",
+                "1F20F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F21A"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F22F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F232",
+                "1F23A"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F23C",
+                "1F23F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F249",
+                "1F24F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F250",
+                "1F251"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F252",
+                "1F2FF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F300",
+                "1F30C"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F30D",
+                "1F30E"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F30F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F310"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F311"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F312"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F313",
+                "1F315"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F316",
+                "1F318"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F319"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F31A"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F31B"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F31C"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F31D",
+                "1F31E"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F31F",
+                "1F320"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F321"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F322",
+                "1F323"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F324",
+                "1F32C"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F32D",
+                "1F32F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F330",
+                "1F331"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F332",
+                "1F333"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F334",
+                "1F335"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F336"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F337",
+                "1F34A"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F34B"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F34C",
+                "1F34F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F350"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F351",
+                "1F37B"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F37C"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F37D"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F37E",
+                "1F37F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F380",
+                "1F393"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F394",
+                "1F395"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F396",
+                "1F397"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F398"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F399",
+                "1F39B"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F39C",
+                "1F39D"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F39E",
+                "1F39F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F3A0",
+                "1F3C4"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F3C5"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F3C6"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F3C7"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F3C8"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F3C9"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F3CA"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F3CB",
+                "1F3CE"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F3CF",
+                "1F3D3"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F3D4",
+                "1F3DF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F3E0",
+                "1F3E3"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F3E4"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F3E5",
+                "1F3F0"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F3F1",
+                "1F3F2"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F3F3"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F3F4"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F3F5"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F3F6"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F3F7"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F3F8",
+                "1F3FA"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F400",
+                "1F407"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F408"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F409",
+                "1F40B"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F40C",
+                "1F40E"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F40F",
+                "1F410"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F411",
+                "1F412"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F413"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F414"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F415"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F416"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F417",
+                "1F429"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F42A"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F42B",
+                "1F43E"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F43F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F440"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F441"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F442",
+                "1F464"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F465"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F466",
+                "1F46B"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F46C",
+                "1F46D"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F46E",
+                "1F4AC"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F4AD"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F4AE",
+                "1F4B5"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F4B6",
+                "1F4B7"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F4B8",
+                "1F4EB"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F4EC",
+                "1F4ED"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F4EE"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F4EF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F4F0",
+                "1F4F4"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F4F5"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F4F6",
+                "1F4F7"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F4F8"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F4F9",
+                "1F4FC"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F4FD"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F4FE"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F4FF",
+                "1F502"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F503"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F504",
+                "1F507"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F508"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F509"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F50A",
+                "1F514"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F515"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F516",
+                "1F52B"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F52C",
+                "1F52D"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F52E",
+                "1F53D"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F546",
+                "1F548"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F549",
+                "1F54A"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F54B",
+                "1F54E"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F54F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F550",
+                "1F55B"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F55C",
+                "1F567"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F568",
+                "1F56E"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F56F",
+                "1F570"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F571",
+                "1F572"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F573",
+                "1F579"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F57A"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F57B",
+                "1F586"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F587"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F588",
+                "1F589"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F58A",
+                "1F58D"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F58E",
+                "1F58F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F590"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F591",
+                "1F594"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F595",
+                "1F596"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F597",
+                "1F5A3"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F5A4"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F5A5"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F5A6",
+                "1F5A7"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F5A8"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F5A9",
+                "1F5B0"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F5B1",
+                "1F5B2"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F5B3",
+                "1F5BB"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F5BC"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F5BD",
+                "1F5C1"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F5C2",
+                "1F5C4"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F5C5",
+                "1F5D0"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F5D1",
+                "1F5D3"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F5D4",
+                "1F5DB"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F5DC",
+                "1F5DE"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F5DF",
+                "1F5E0"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F5E1"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F5E2"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F5E3"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F5E4",
+                "1F5E7"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F5E8"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F5E9",
+                "1F5EE"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F5EF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F5F0",
+                "1F5F2"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F5F3"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F5F4",
+                "1F5F9"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F5FA"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F5FB",
+                "1F5FF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F600"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F601",
+                "1F606"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F607",
+                "1F608"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F609",
+                "1F60D"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F60E"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F60F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F610"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F611"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F612",
+                "1F614"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F615"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F616"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F617"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F618"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F619"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F61A"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F61B"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F61C",
+                "1F61E"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F61F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F620",
+                "1F625"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F626",
+                "1F627"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F628",
+                "1F62B"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F62C"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F62D"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F62E",
+                "1F62F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F630",
+                "1F633"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F634"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F635"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F636"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F637",
+                "1F640"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F641",
+                "1F644"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F645",
+                "1F64F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F680"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F681",
+                "1F682"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F683",
+                "1F685"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F686"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F687"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F688"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F689"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F68A",
+                "1F68B"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F68C"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F68D"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F68E"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F68F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F690"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F691",
+                "1F693"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F694"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F695"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F696"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F697"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F698"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F699",
+                "1F69A"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F69B",
+                "1F6A1"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6A2"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6A3"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6A4",
+                "1F6A5"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6A6"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6A7",
+                "1F6AD"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6AE",
+                "1F6B1"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6B2"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6B3",
+                "1F6B5"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6B6"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6B7",
+                "1F6B8"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6B9",
+                "1F6BE"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6BF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6C0"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6C1",
+                "1F6C5"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6C6",
+                "1F6CA"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6CB"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6CC"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6CD",
+                "1F6CF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6D0"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6D1",
+                "1F6D2"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6D3",
+                "1F6D4"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6D5"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6D6",
+                "1F6D7"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6D8",
+                "1F6DC"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6DD",
+                "1F6DF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6E0",
+                "1F6E5"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6E6",
+                "1F6E8"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6E9"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6EA"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6EB",
+                "1F6EC"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6ED",
+                "1F6EF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6F0"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6F1",
+                "1F6F2"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6F3"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6F4",
+                "1F6F6"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6F7",
+                "1F6F8"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6F9"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6FA"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6FB",
+                "1F6FC"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6FD",
+                "1F6FF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F774",
+                "1F77F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F7D5",
+                "1F7DF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F7E0",
+                "1F7EB"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F7EC",
+                "1F7EF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F7F0"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F7F1",
+                "1F7FF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F80C",
+                "1F80F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F848",
+                "1F84F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F85A",
+                "1F85F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F888",
+                "1F88F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F8AE",
+                "1F8FF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F90C"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F90D",
+                "1F90F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F910",
+                "1F918"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F919",
+                "1F91E"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F91F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F920",
+                "1F927"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F928",
+                "1F92F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F930"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F931",
+                "1F932"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F933",
+                "1F93A"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F93C",
+                "1F93E"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F93F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F940",
+                "1F945"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F947",
+                "1F94B"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F94C"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F94D",
+                "1F94F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F950",
+                "1F95E"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F95F",
+                "1F96B"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F96C",
+                "1F970"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F971"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F972"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F973",
+                "1F976"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F977",
+                "1F978"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F979"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F97A"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F97B"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F97C",
+                "1F97F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F980",
+                "1F984"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F985",
+                "1F991"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F992",
+                "1F997"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F998",
+                "1F9A2"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F9A3",
+                "1F9A4"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F9A5",
+                "1F9AA"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F9AB",
+                "1F9AD"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F9AE",
+                "1F9AF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F9B0",
+                "1F9B9"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F9BA",
+                "1F9BF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F9C0"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F9C1",
+                "1F9C2"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F9C3",
+                "1F9CA"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F9CB"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F9CC"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F9CD",
+                "1F9CF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F9D0",
+                "1F9E6"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F9E7",
+                "1F9FF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FA00",
+                "1FA6F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FA70",
+                "1FA73"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FA74"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FA75",
+                "1FA77"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FA78",
+                "1FA7A"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FA7B",
+                "1FA7C"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FA7D",
+                "1FA7F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FA80",
+                "1FA82"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FA83",
+                "1FA86"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FA87",
+                "1FA8F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FA90",
+                "1FA95"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FA96",
+                "1FAA8"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FAA9",
+                "1FAAC"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FAAD",
+                "1FAAF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FAB0",
+                "1FAB6"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FAB7",
+                "1FABA"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FABB",
+                "1FABF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FAC0",
+                "1FAC2"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FAC3",
+                "1FAC5"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FAC6",
+                "1FACF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FAD0",
+                "1FAD6"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FAD7",
+                "1FAD9"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FADA",
+                "1FADF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FAE0",
+                "1FAE7"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FAE8",
+                "1FAEF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FAF0",
+                "1FAF6"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FAF7",
+                "1FAFF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FC00",
+                "1FFFD"
+            ],
+            "property": "Extended_Pictographic"
+        }
+    ]
+}
