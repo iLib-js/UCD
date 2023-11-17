@@ -141,6 +141,11 @@
         },
         {
             "property": "age",
+            "shortName": "15.1",
+            "longName": "V15_1"
+        },
+        {
+            "property": "age",
             "shortName": "NA",
             "longName": "Unassigned"
         },
@@ -606,6 +611,11 @@
             "property": "blk",
             "shortName": "CJK_Ext_H",
             "longName": "CJK_Unified_Ideographs_Extension_H"
+        },
+        {
+            "property": "blk",
+            "shortName": "CJK_Ext_I",
+            "longName": "CJK_Unified_Ideographs_Extension_I"
         },
         {
             "property": "blk",
@@ -3211,6 +3221,48 @@
             "value2long": "True"
         },
         {
+            "property": "IDSU",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "IDSU",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "ID_Compat_Math_Continue",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "ID_Compat_Math_Continue",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "ID_Compat_Math_Start",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "ID_Compat_Math_Start",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
             "property": "IDC",
             "value1short": "N",
             "value1long": "No",
@@ -3251,6 +3303,26 @@
             "value1long": "Yes",
             "value2short": "T",
             "value2long": "True"
+        },
+        {
+            "property": "InCB",
+            "shortName": "Consonant",
+            "longName": "Consonant"
+        },
+        {
+            "property": "InCB",
+            "shortName": "Extend",
+            "longName": "Extend"
+        },
+        {
+            "property": "InCB",
+            "shortName": "Linker",
+            "longName": "Linker"
+        },
+        {
+            "property": "InCB",
+            "shortName": "None",
+            "longName": "None"
         },
         {
             "property": "InPC",
@@ -4343,8 +4415,23 @@
         },
         {
             "property": "lb",
+            "shortName": "AK",
+            "longName": "Aksara"
+        },
+        {
+            "property": "lb",
             "shortName": "AL",
             "longName": "Alphabetic"
+        },
+        {
+            "property": "lb",
+            "shortName": "AP",
+            "longName": "Aksara_Prebase"
+        },
+        {
+            "property": "lb",
+            "shortName": "AS",
+            "longName": "Aksara_Start"
         },
         {
             "property": "lb",
@@ -4531,6 +4618,16 @@
             "property": "lb",
             "shortName": "SY",
             "longName": "Break_Symbols"
+        },
+        {
+            "property": "lb",
+            "shortName": "VF",
+            "longName": "Virama_Final"
+        },
+        {
+            "property": "lb",
+            "shortName": "VI",
+            "longName": "Virama"
         },
         {
             "property": "lb",

@@ -2126,7 +2126,7 @@
         {
             "range": [
                 "2FF0",
-                "2FFB"
+                "2FFF"
             ],
             "script": "Common"
         },
@@ -2384,6 +2384,12 @@
             "range": [
                 "31C0",
                 "31E3"
+            ],
+            "script": "Common"
+        },
+        {
+            "range": [
+                "31EF"
             ],
             "script": "Common"
         },
@@ -9175,6 +9181,13 @@
             "range": [
                 "2CEB0",
                 "2EBE0"
+            ],
+            "script": "Han"
+        },
+        {
+            "range": [
+                "2EBF0",
+                "2EE5D"
             ],
             "script": "Han"
         },

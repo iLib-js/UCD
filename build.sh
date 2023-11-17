@@ -1,8 +1,6 @@
-UCD_VERSION=$1
-
 if [ ! -d "UCD" ]
 then
-    . ./download.sh ${UCD_VERSION}
+    . ./download.sh ${npm_package_version}
 fi
 
 mkdir -p json

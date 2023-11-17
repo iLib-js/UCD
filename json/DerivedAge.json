@@ -11590,6 +11590,26 @@
                 "323AF"
             ],
             "unicodeVersion": "15.0"
+        },
+        {
+            "range": [
+                "2FFC",
+                "2FFF"
+            ],
+            "unicodeVersion": "15.1"
+        },
+        {
+            "range": [
+                "31EF"
+            ],
+            "unicodeVersion": "15.1"
+        },
+        {
+            "range": [
+                "2EBF0",
+                "2EE5D"
+            ],
+            "unicodeVersion": "15.1"
         }
     ]
 }

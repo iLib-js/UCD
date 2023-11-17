@@ -9138,7 +9138,7 @@
         {
             "range": [
                 "2FF0",
-                "2FFB"
+                "2FFF"
             ],
             "width": "W"
         },
@@ -9509,6 +9509,12 @@
             "range": [
                 "31C0",
                 "31E3"
+            ],
+            "width": "W"
+        },
+        {
+            "range": [
+                "31EF"
             ],
             "width": "W"
         },
@@ -16988,6 +16994,20 @@
         {
             "range": [
                 "2EBE1",
+                "2EBEF"
+            ],
+            "width": "W"
+        },
+        {
+            "range": [
+                "2EBF0",
+                "2EE5D"
+            ],
+            "width": "W"
+        },
+        {
+            "range": [
+                "2EE5E",
                 "2F7FF"
             ],
             "width": "W"

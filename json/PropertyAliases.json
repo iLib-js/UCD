@@ -17,6 +17,14 @@
             "longName": "Numeric_Value"
         },
         {
+            "shortName": "bmg",
+            "longName": "Bidi_Mirroring_Glyph"
+        },
+        {
+            "shortName": "bpb",
+            "longName": "Bidi_Paired_Bracket"
+        },
+        {
             "shortName": "cf",
             "longName": "Case_Folding"
         },
@@ -29,6 +37,10 @@
             "longName": "Decomposition_Mapping"
         },
         {
+            "shortName": "EqUIdeo",
+            "longName": "Equivalent_Unified_Ideograph"
+        },
+        {
             "shortName": "FC_NFKC",
             "longName": "FC_NFKC_Closure"
         },
@@ -39,6 +51,10 @@
         {
             "shortName": "NFKC_CF",
             "longName": "NFKC_Casefold"
+        },
+        {
+            "shortName": "NFKC_SCF",
+            "longName": "NFKC_Simple_Casefold"
         },
         {
             "shortName": "scf",
@@ -64,14 +80,6 @@
         {
             "shortName": "uc",
             "longName": "Uppercase_Mapping"
-        },
-        {
-            "shortName": "bmg",
-            "longName": "Bidi_Mirroring_Glyph"
-        },
-        {
-            "shortName": "bpb",
-            "longName": "Bidi_Paired_Bracket"
         },
         {
             "shortName": "cjkIICore",
@@ -126,10 +134,6 @@
             "longName": "kRSUnicode",
             "alternate": "Unicode_Radical_Stroke",
             "alternateShort": "URS"
-        },
-        {
-            "shortName": "EqUIdeo",
-            "longName": "Equivalent_Unified_Ideograph"
         },
         {
             "shortName": "isc",
@@ -198,6 +202,10 @@
         {
             "shortName": "hst",
             "longName": "Hangul_Syllable_Type"
+        },
+        {
+            "shortName": "InCB",
+            "longName": "Indic_Conjunct_Break"
         },
         {
             "shortName": "InPC",
@@ -372,6 +380,14 @@
             "longName": "Hyphen"
         },
         {
+            "shortName": "ID_Compat_Math_Continue",
+            "longName": "ID_Compat_Math_Continue"
+        },
+        {
+            "shortName": "ID_Compat_Math_Start",
+            "longName": "ID_Compat_Math_Start"
+        },
+        {
             "shortName": "IDC",
             "longName": "ID_Continue"
         },
@@ -390,6 +406,10 @@
         {
             "shortName": "IDST",
             "longName": "IDS_Trinary_Operator"
+        },
+        {
+            "shortName": "IDSU",
+            "longName": "IDS_Unary_Operator"
         },
         {
             "shortName": "Join_C",

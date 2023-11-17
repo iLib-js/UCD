@@ -1910,7 +1910,7 @@
         },
         {
             "codepoint": "U+456D",
-            "kSemanticVariant": "U+8541<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+8541<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+4573",
@@ -1983,11 +1983,11 @@
         },
         {
             "codepoint": "U+45E6",
-            "kSemanticVariant": "U+45EC<sSoengmou2003:T"
+            "kSemanticVariant": "U+45EC<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+45EC",
-            "kSemanticVariant": "U+45E6<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+45E6<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+45FB",
@@ -2360,7 +2360,7 @@
         },
         {
             "codepoint": "U+480A",
-            "kSemanticVariant": "U+5255<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+5255<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+481F",
@@ -2477,7 +2477,7 @@
         },
         {
             "codepoint": "U+489C",
-            "kSemanticVariant": "U+6B78<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+6B78<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+48A8",
@@ -3154,7 +3154,7 @@
         },
         {
             "codepoint": "U+4C1E",
-            "kSemanticVariant": "U+716E<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+716E<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+4C2B",
@@ -3444,7 +3444,7 @@
         },
         {
             "codepoint": "U+4CD8",
-            "kSemanticVariant": "U+9D5D<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+9D5D<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+4CDA",
@@ -3536,7 +3536,7 @@
         },
         {
             "codepoint": "U+4D19",
-            "kTraditionalVariant": "U+9DFF U+9E0A"
+            "kTraditionalVariant": "U+9E0A"
         },
         {
             "codepoint": "U+4D1A",
@@ -3584,7 +3584,7 @@
         },
         {
             "codepoint": "U+4D38",
-            "kSemanticVariant": "U+9EA9<sSoengmou2003:TZ",
+            "kSemanticVariant": "U+9EA9<kSMSZD2003Index:TZ",
             "kSimplifiedVariant": "U+312D7"
         },
         {
@@ -3816,7 +3816,7 @@
         },
         {
             "codepoint": "U+4E3A",
-            "kTraditionalVariant": "U+70BA"
+            "kTraditionalVariant": "U+70BA U+7232"
         },
         {
             "codepoint": "U+4E3C",
@@ -3990,7 +3990,7 @@
         },
         {
             "codepoint": "U+4EA7",
-            "kTraditionalVariant": "U+7522"
+            "kTraditionalVariant": "U+7522 U+7523"
         },
         {
             "codepoint": "U+4EA9",
@@ -4134,7 +4134,7 @@
         {
             "codepoint": "U+4F17",
             "kSimplifiedVariant": "U+4F17",
-            "kTraditionalVariant": "U+4F17 U+773E"
+            "kTraditionalVariant": "U+4F17 U+773E U+8846"
         },
         {
             "codepoint": "U+4F18",
@@ -4579,7 +4579,7 @@
         },
         {
             "codepoint": "U+5075",
-            "kSemanticVariant": "U+9049<sSoengmou2003:T",
+            "kSemanticVariant": "U+9049<kSMSZD2003Index:T",
             "kSimplifiedVariant": "U+4FA6"
         },
         {
@@ -5116,6 +5116,10 @@
             "kTraditionalVariant": "U+8FB2"
         },
         {
+            "codepoint": "U+51A3",
+            "kSpecializedSemanticVariant": "U+6700<kSMSZD2003Index U+805A<kSMSZD2003Index"
+        },
+        {
             "codepoint": "U+51A4",
             "kSemanticVariant": "U+5BC3<kLau,kMatthews,kMeyerWempe"
         },
@@ -5296,7 +5300,7 @@
         },
         {
             "codepoint": "U+51EB",
-            "kTraditionalVariant": "U+9CE7"
+            "kTraditionalVariant": "U+9CE7 U+9CEC"
         },
         {
             "codepoint": "U+51ED",
@@ -5447,7 +5451,7 @@
         {
             "codepoint": "U+522B",
             "kSimplifiedVariant": "U+522B",
-            "kTraditionalVariant": "U+5225 U+522B"
+            "kTraditionalVariant": "U+5225 U+522B U+5F46"
         },
         {
             "codepoint": "U+522C",
@@ -5556,7 +5560,7 @@
         },
         {
             "codepoint": "U+5255",
-            "kSemanticVariant": "U+480A<sSoengmou2003:T"
+            "kSemanticVariant": "U+480A<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+5257",
@@ -6061,7 +6065,7 @@
         },
         {
             "codepoint": "U+5364",
-            "kTraditionalVariant": "U+9E75"
+            "kTraditionalVariant": "U+6EF7 U+9E75"
         },
         {
             "codepoint": "U+5367",
@@ -6087,6 +6091,11 @@
         {
             "codepoint": "U+536D",
             "kSemanticVariant": "U+536C<kMatthews"
+        },
+        {
+            "codepoint": "U+536F",
+            "kSemanticVariant": "U+623C<kCihaiT:T,kHanYu:T",
+            "kSpecializedSemanticVariant": "U+5918<kHanYu:T"
         },
         {
             "codepoint": "U+5371",
@@ -6171,7 +6180,7 @@
         },
         {
             "codepoint": "U+5395",
-            "kTraditionalVariant": "U+5EC1"
+            "kTraditionalVariant": "U+53A0 U+5EC1"
         },
         {
             "codepoint": "U+5396",
@@ -6189,7 +6198,8 @@
         },
         {
             "codepoint": "U+53A0",
-            "kSemanticVariant": "U+5EC1<kLau,kMatthews,kMeyerWempe"
+            "kSemanticVariant": "U+5EC1<kLau,kMatthews,kMeyerWempe",
+            "kSimplifiedVariant": "U+5395"
         },
         {
             "codepoint": "U+53A2",
@@ -6371,7 +6381,7 @@
             "kSemanticVariant": "U+5B50<kLau",
             "kSimplifiedVariant": "U+53EA",
             "kSpecializedSemanticVariant": "U+7947",
-            "kTraditionalVariant": "U+53EA U+6220 U+96BB"
+            "kTraditionalVariant": "U+53EA U+6220 U+8879 U+96BB"
         },
         {
             "codepoint": "U+53EB",
@@ -6456,7 +6466,7 @@
         {
             "codepoint": "U+5411",
             "kSimplifiedVariant": "U+5411",
-            "kTraditionalVariant": "U+5411 U+66CF"
+            "kTraditionalVariant": "U+5411 U+56AE U+66CF"
         },
         {
             "codepoint": "U+5412",
@@ -6515,7 +6525,7 @@
         },
         {
             "codepoint": "U+542F",
-            "kTraditionalVariant": "U+555F"
+            "kTraditionalVariant": "U+5553 U+555F"
         },
         {
             "codepoint": "U+5432",
@@ -6926,6 +6936,7 @@
         {
             "codepoint": "U+5553",
             "kSemanticVariant": "U+555F<kLau,kMatthews,kMeyerWempe",
+            "kSimplifiedVariant": "U+542F",
             "kSpoofingVariant": "U+555F"
         },
         {
@@ -7287,7 +7298,7 @@
         },
         {
             "codepoint": "U+5641",
-            "kSimplifiedVariant": "U+2BAC7"
+            "kSimplifiedVariant": "U+6076 U+2BAC7"
         },
         {
             "codepoint": "U+5642",
@@ -7467,6 +7478,10 @@
             "kSimplifiedVariant": "U+2BAFE"
         },
         {
+            "codepoint": "U+56AE",
+            "kSimplifiedVariant": "U+5411"
+        },
+        {
             "codepoint": "U+56B1",
             "kSimplifiedVariant": "U+301E3"
         },
@@ -7534,7 +7549,7 @@
         },
         {
             "codepoint": "U+56C8",
-            "kSemanticVariant": "U+8B9B<sSoengmou2003:T",
+            "kSemanticVariant": "U+8B9B<kSMSZD2003Index:T",
             "kSimplifiedVariant": "U+5453"
         },
         {
@@ -7544,6 +7559,10 @@
         {
             "codepoint": "U+56CB",
             "kSimplifiedVariant": "U+30244"
+        },
+        {
+            "codepoint": "U+56CC",
+            "kSimplifiedVariant": "U+82CF"
         },
         {
             "codepoint": "U+56D0",
@@ -7589,7 +7608,7 @@
         },
         {
             "codepoint": "U+56E2",
-            "kTraditionalVariant": "U+5718"
+            "kTraditionalVariant": "U+5718 U+7CF0"
         },
         {
             "codepoint": "U+56E4",
@@ -7773,7 +7792,7 @@
             "codepoint": "U+575B",
             "kSemanticVariant": "U+58C7<kMatthews",
             "kSimplifiedVariant": "U+575B",
-            "kTraditionalVariant": "U+575B U+58C7 U+7F48"
+            "kTraditionalVariant": "U+575B U+58C7 U+7F48 U+7F4E"
         },
         {
             "codepoint": "U+575C",
@@ -7781,7 +7800,7 @@
         },
         {
             "codepoint": "U+575D",
-            "kTraditionalVariant": "U+58E9"
+            "kTraditionalVariant": "U+57BB U+58E9"
         },
         {
             "codepoint": "U+575E",
@@ -7889,7 +7908,8 @@
         },
         {
             "codepoint": "U+57BB",
-            "kSemanticVariant": "U+58E9<kMatthews,kMeyerWempe"
+            "kSemanticVariant": "U+58E9<kMatthews,kMeyerWempe",
+            "kSimplifiedVariant": "U+575D"
         },
         {
             "codepoint": "U+57C7",
@@ -8145,6 +8165,7 @@
         },
         {
             "codepoint": "U+587C",
+            "kSemanticVariant": "U+78DA<kSMSZD2003Index:TZ",
             "kSimplifiedVariant": "U+2BB5E"
         },
         {
@@ -8181,7 +8202,7 @@
         },
         {
             "codepoint": "U+5899",
-            "kTraditionalVariant": "U+7246"
+            "kTraditionalVariant": "U+58BB U+7246"
         },
         {
             "codepoint": "U+589C",
@@ -8239,7 +8260,8 @@
         },
         {
             "codepoint": "U+58BB",
-            "kSemanticVariant": "U+5EE7<kLau,kMatthews U+7246<kLau,kMatthews,kMeyerWempe"
+            "kSemanticVariant": "U+5EE7<kLau,kMatthews U+7246<kLau,kMatthews,kMeyerWempe",
+            "kSimplifiedVariant": "U+5899"
         },
         {
             "codepoint": "U+58BE",
@@ -8378,7 +8400,7 @@
             "kSemanticVariant": "U+3C7F<kMatthews U+6BBB<kFenn",
             "kSimplifiedVariant": "U+58F3",
             "kSpecializedSemanticVariant": "U+6BBC<kFenn",
-            "kTraditionalVariant": "U+58F3 U+6BBC"
+            "kTraditionalVariant": "U+58F3 U+6BBB U+6BBC"
         },
         {
             "codepoint": "U+58F6",
@@ -8443,6 +8465,14 @@
         {
             "codepoint": "U+5916",
             "kSpecializedSemanticVariant": "U+8200<kFenn"
+        },
+        {
+            "codepoint": "U+5917",
+            "kSpecializedSemanticVariant": "U+5918<kHanYu:T"
+        },
+        {
+            "codepoint": "U+5918",
+            "kSpecializedSemanticVariant": "U+5917<kHanYu:TZ U+536F<kHanYu:TZ"
         },
         {
             "codepoint": "U+591F",
@@ -8540,7 +8570,7 @@
         },
         {
             "codepoint": "U+5956",
-            "kTraditionalVariant": "U+734E"
+            "kTraditionalVariant": "U+596C U+734E"
         },
         {
             "codepoint": "U+595E",
@@ -8574,7 +8604,7 @@
         },
         {
             "codepoint": "U+596C",
-            "kSimplifiedVariant": "U+5968",
+            "kSimplifiedVariant": "U+5956 U+5968",
             "kZVariant": "U+5968 U+734E"
         },
         {
@@ -8650,7 +8680,7 @@
         },
         {
             "codepoint": "U+59AB",
-            "kTraditionalVariant": "U+5AAF"
+            "kTraditionalVariant": "U+5AAF U+5B00"
         },
         {
             "codepoint": "U+59AC",
@@ -8983,6 +9013,7 @@
         },
         {
             "codepoint": "U+5B00",
+            "kSimplifiedVariant": "U+59AB",
             "kZVariant": "U+5AAF"
         },
         {
@@ -9943,6 +9974,7 @@
         },
         {
             "codepoint": "U+5DA9",
+            "kSemanticVariant": "U+65F3<kSMSZD2003Index:TZ",
             "kSimplifiedVariant": "U+3039E"
         },
         {
@@ -10085,7 +10117,7 @@
         },
         {
             "codepoint": "U+5E06",
-            "kSemanticVariant": "U+3836<kMatthews U+98BF<sSoengmou2003:T",
+            "kSemanticVariant": "U+3836<kMatthews U+98BF<kSMSZD2003Index:T",
             "kSpecializedSemanticVariant": "U+62DA<kFenn"
         },
         {
@@ -10443,7 +10475,7 @@
         },
         {
             "codepoint": "U+5ED4",
-            "kSemanticVariant": "U+6A13<sSoengmou2003:TZ",
+            "kSemanticVariant": "U+6A13<kSMSZD2003Index:TZ",
             "kSimplifiedVariant": "U+2BDF9"
         },
         {
@@ -10577,7 +10609,7 @@
         },
         {
             "codepoint": "U+5F0A",
-            "kSemanticVariant": "U+21681<kFenn"
+            "kSemanticVariant": "U+21681<kFenn,kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+5F0B",
@@ -10614,7 +10646,7 @@
         },
         {
             "codepoint": "U+5F25",
-            "kTraditionalVariant": "U+5F4C"
+            "kTraditionalVariant": "U+5F4C U+7030"
         },
         {
             "codepoint": "U+5F26",
@@ -10664,6 +10696,10 @@
             "kSimplifiedVariant": "U+2BE29"
         },
         {
+            "codepoint": "U+5F46",
+            "kSimplifiedVariant": "U+522B"
+        },
+        {
             "codepoint": "U+5F48",
             "kSimplifiedVariant": "U+5F39"
         },
@@ -10706,7 +10742,7 @@
         },
         {
             "codepoint": "U+5F55",
-            "kTraditionalVariant": "U+9304"
+            "kTraditionalVariant": "U+9304 U+9332"
         },
         {
             "codepoint": "U+5F59",
@@ -11040,7 +11076,7 @@
         },
         {
             "codepoint": "U+6076",
-            "kTraditionalVariant": "U+60E1"
+            "kTraditionalVariant": "U+5641 U+60E1"
         },
         {
             "codepoint": "U+6078",
@@ -11130,7 +11166,7 @@
         },
         {
             "codepoint": "U+60AB",
-            "kTraditionalVariant": "U+6128"
+            "kTraditionalVariant": "U+6128 U+6164"
         },
         {
             "codepoint": "U+60AC",
@@ -11392,6 +11428,10 @@
         {
             "codepoint": "U+6163",
             "kSimplifiedVariant": "U+60EF"
+        },
+        {
+            "codepoint": "U+6164",
+            "kSimplifiedVariant": "U+60AB"
         },
         {
             "codepoint": "U+616A",
@@ -11825,6 +11865,10 @@
         {
             "codepoint": "U+6239",
             "kSemanticVariant": "U+5384<kMatthews"
+        },
+        {
+            "codepoint": "U+623C",
+            "kSemanticVariant": "U+536F<kCihaiT:TZ,kHanYu:TZ"
         },
         {
             "codepoint": "U+6241",
@@ -12620,7 +12664,7 @@
         {
             "codepoint": "U+6446",
             "kSimplifiedVariant": "U+6446",
-            "kTraditionalVariant": "U+6446 U+64FA"
+            "kTraditionalVariant": "U+6446 U+64FA U+896C"
         },
         {
             "codepoint": "U+6447",
@@ -13467,6 +13511,10 @@
             "kSemanticVariant": "U+5354<kMatthews"
         },
         {
+            "codepoint": "U+65F3",
+            "kSemanticVariant": "U+5DA9<kSMSZD2003Index:T"
+        },
+        {
             "codepoint": "U+65F6",
             "kSemanticVariant": "U+6642<kFenn U+65F9<kFenn",
             "kSimplifiedVariant": "U+65F6",
@@ -13791,6 +13839,10 @@
         {
             "codepoint": "U+66FC",
             "kSemanticVariant": "U+3B05<kMatthews"
+        },
+        {
+            "codepoint": "U+6700",
+            "kSpecializedSemanticVariant": "U+51A3<kSMSZD2003Index"
         },
         {
             "codepoint": "U+6701",
@@ -14806,7 +14858,7 @@
         },
         {
             "codepoint": "U+6A13",
-            "kSemanticVariant": "U+5ED4<sSoengmou2003:T",
+            "kSemanticVariant": "U+5ED4<kSMSZD2003Index:T",
             "kSimplifiedVariant": "U+697C"
         },
         {
@@ -15432,7 +15484,7 @@
         },
         {
             "codepoint": "U+6B78",
-            "kSemanticVariant": "U+489C<sSoengmou2003:T U+5F52<kMatthews",
+            "kSemanticVariant": "U+489C<kSMSZD2003Index:T U+5F52<kMatthews",
             "kSimplifiedVariant": "U+5F52"
         },
         {
@@ -15555,6 +15607,7 @@
         {
             "codepoint": "U+6BBB",
             "kSemanticVariant": "U+58F3<kFenn",
+            "kSimplifiedVariant": "U+58F3",
             "kSpecializedSemanticVariant": "U+6BBC<kFenn"
         },
         {
@@ -15866,7 +15919,7 @@
         },
         {
             "codepoint": "U+6CA9",
-            "kTraditionalVariant": "U+6E88"
+            "kTraditionalVariant": "U+6E88 U+6F59"
         },
         {
             "codepoint": "U+6CAA",
@@ -16201,7 +16254,8 @@
         },
         {
             "codepoint": "U+6DC0",
-            "kTraditionalVariant": "U+6FB1"
+            "kSimplifiedVariant": "U+6DC0",
+            "kTraditionalVariant": "U+6DC0 U+6FB1"
         },
         {
             "codepoint": "U+6DC6",
@@ -16369,7 +16423,7 @@
         },
         {
             "codepoint": "U+6E4C",
-            "kSemanticVariant": "U+9910<sSoengmou2003:TZ",
+            "kSemanticVariant": "U+9910<kSMSZD2003Index:TZ",
             "kSpoofingVariant": "U+98E1"
         },
         {
@@ -16623,7 +16677,7 @@
         },
         {
             "codepoint": "U+6EF7",
-            "kSimplifiedVariant": "U+306EE"
+            "kSimplifiedVariant": "U+5364 U+306EE"
         },
         {
             "codepoint": "U+6EF8",
@@ -16696,10 +16750,6 @@
         {
             "codepoint": "U+6F23",
             "kSimplifiedVariant": "U+6D9F"
-        },
-        {
-            "codepoint": "U+6F24",
-            "kTraditionalVariant": "U+7060"
         },
         {
             "codepoint": "U+6F2B",
@@ -16785,6 +16835,7 @@
         },
         {
             "codepoint": "U+6F59",
+            "kSimplifiedVariant": "U+6CA9",
             "kZVariant": "U+6E88"
         },
         {
@@ -17224,7 +17275,7 @@
         },
         {
             "codepoint": "U+7030",
-            "kSimplifiedVariant": "U+3CFD"
+            "kSimplifiedVariant": "U+3CFD U+5F25"
         },
         {
             "codepoint": "U+7032",
@@ -17302,7 +17353,7 @@
         },
         {
             "codepoint": "U+7060",
-            "kSimplifiedVariant": "U+6F24 U+30710"
+            "kSimplifiedVariant": "U+30710"
         },
         {
             "codepoint": "U+7061",
@@ -17538,7 +17589,7 @@
         },
         {
             "codepoint": "U+710A",
-            "kSemanticVariant": "U+91EC<sSoengmou2003:T"
+            "kSemanticVariant": "U+91EC<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+7115",
@@ -17629,7 +17680,7 @@
         },
         {
             "codepoint": "U+716E",
-            "kSemanticVariant": "U+7151<kFenn U+4C1E<sSoengmou2003:T"
+            "kSemanticVariant": "U+7151<kFenn U+4C1E<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+7171",
@@ -17761,7 +17812,7 @@
         },
         {
             "codepoint": "U+71D5",
-            "kSpecializedSemanticVariant": "U+9DF0<sSoengmou2003:T"
+            "kSpecializedSemanticVariant": "U+9DF0<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+71D6",
@@ -17900,7 +17951,8 @@
         },
         {
             "codepoint": "U+7232",
-            "kSemanticVariant": "U+70BA<kHKGlyph"
+            "kSemanticVariant": "U+70BA<kHKGlyph",
+            "kSimplifiedVariant": "U+4E3A"
         },
         {
             "codepoint": "U+7237",
@@ -18334,6 +18386,7 @@
         },
         {
             "codepoint": "U+7372",
+            "kSemanticVariant": "U+2B26C",
             "kSimplifiedVariant": "U+83B7"
         },
         {
@@ -18776,11 +18829,11 @@
         },
         {
             "codepoint": "U+74F7",
-            "kSemanticVariant": "U+7506<sSoengmou2003:T U+78C1<kMatthews"
+            "kSemanticVariant": "U+7506<kSMSZD2003Index:T U+78C1<kMatthews"
         },
         {
             "codepoint": "U+7506",
-            "kSemanticVariant": "U+74F7<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+74F7<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+750A",
@@ -18813,6 +18866,10 @@
         },
         {
             "codepoint": "U+7522",
+            "kSimplifiedVariant": "U+4EA7"
+        },
+        {
+            "codepoint": "U+7523",
             "kSimplifiedVariant": "U+4EA7"
         },
         {
@@ -18894,7 +18951,7 @@
         },
         {
             "codepoint": "U+755D",
-            "kSemanticVariant": "U+7546<kFenn U+24C48<sSoengmou2003:T",
+            "kSemanticVariant": "U+7546<kFenn U+24C48<kSMSZD2003Index:T",
             "kSimplifiedVariant": "U+4EA9"
         },
         {
@@ -19169,7 +19226,7 @@
         {
             "codepoint": "U+7618",
             "kSimplifiedVariant": "U+7618",
-            "kTraditionalVariant": "U+7618 U+763A"
+            "kTraditionalVariant": "U+7618 U+763A U+763B"
         },
         {
             "codepoint": "U+761E",
@@ -19219,7 +19276,8 @@
         },
         {
             "codepoint": "U+763B",
-            "kSemanticVariant": "U+763A<kMatthews"
+            "kSemanticVariant": "U+763A<kMatthews",
+            "kSimplifiedVariant": "U+7618"
         },
         {
             "codepoint": "U+763E",
@@ -19373,6 +19431,10 @@
             "kSemanticVariant": "U+8C8E<kMatthews U+8C8C<kFenn"
         },
         {
+            "codepoint": "U+7684",
+            "kSemanticVariant": "U+65F3<kSMSZD2003Index:T"
+        },
+        {
             "codepoint": "U+768B",
             "kSemanticVariant": "U+81EF<kMatthews U+777E<kMatthews"
         },
@@ -19517,7 +19579,7 @@
         },
         {
             "codepoint": "U+76DE",
-            "kSemanticVariant": "U+9186<sSoengmou2003:T",
+            "kSemanticVariant": "U+9186<kSMSZD2003Index:T",
             "kSimplifiedVariant": "U+76CF"
         },
         {
@@ -20144,7 +20206,7 @@
         },
         {
             "codepoint": "U+78DA",
-            "kSemanticVariant": "U+750E<kLau,kMatthews,kMeyerWempe",
+            "kSemanticVariant": "U+587C<kSMSZD2003Index:T U+750E<kLau,kMatthews,kMeyerWempe",
             "kSimplifiedVariant": "U+7816"
         },
         {
@@ -20891,7 +20953,7 @@
         },
         {
             "codepoint": "U+7AD6",
-            "kTraditionalVariant": "U+8C4E"
+            "kTraditionalVariant": "U+7AEA U+8C4E"
         },
         {
             "codepoint": "U+7ADA",
@@ -20915,7 +20977,8 @@
         },
         {
             "codepoint": "U+7AEA",
-            "kSemanticVariant": "U+8C4E<kLau,kMatthews"
+            "kSemanticVariant": "U+8C4E<kLau,kMatthews",
+            "kSimplifiedVariant": "U+7AD6"
         },
         {
             "codepoint": "U+7AF1",
@@ -21055,7 +21118,7 @@
         },
         {
             "codepoint": "U+7B7E",
-            "kTraditionalVariant": "U+7C3D"
+            "kTraditionalVariant": "U+7C3D U+7C64"
         },
         {
             "codepoint": "U+7B80",
@@ -21281,6 +21344,10 @@
             "kSpoofingVariant": "U+25C83"
         },
         {
+            "codepoint": "U+7C0B",
+            "kSemanticVariant": "U+23A95<kSMSZD2003Index:T U+23A98<kSMSZD2003Index:T"
+        },
+        {
             "codepoint": "U+7C0C",
             "kSemanticVariant": "U+96DD<kCowles"
         },
@@ -21432,6 +21499,10 @@
             "kSimplifiedVariant": "U+2E18F"
         },
         {
+            "codepoint": "U+7C64",
+            "kSimplifiedVariant": "U+7B7E"
+        },
+        {
             "codepoint": "U+7C65",
             "kSemanticVariant": "U+9FA0"
         },
@@ -21568,7 +21639,7 @@
         },
         {
             "codepoint": "U+7CCD",
-            "kSemanticVariant": "U+9908<sSoengmou2003:T"
+            "kSemanticVariant": "U+9908<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+7CD3",
@@ -21630,7 +21701,7 @@
         {
             "codepoint": "U+7CF0",
             "kSemanticVariant": "U+429C<kFenn",
-            "kSimplifiedVariant": "U+30AB6"
+            "kSimplifiedVariant": "U+56E2 U+30AB6"
         },
         {
             "codepoint": "U+7CF2",
@@ -22049,6 +22120,7 @@
         },
         {
             "codepoint": "U+7D76",
+            "kSimplifiedVariant": "U+7EDD",
             "kZVariant": "U+7D55"
         },
         {
@@ -22125,7 +22197,8 @@
         },
         {
             "codepoint": "U+7D89",
-            "kSemanticVariant": "U+7E61<kHKGlyph,kLau,kMatthews,kMeyerWempe"
+            "kSemanticVariant": "U+7E61<kHKGlyph,kLau,kMatthews,kMeyerWempe",
+            "kSimplifiedVariant": "U+7EE3"
         },
         {
             "codepoint": "U+7D8A",
@@ -22216,7 +22289,8 @@
         },
         {
             "codepoint": "U+7DAB",
-            "kSemanticVariant": "U+7DDA<kHKGlyph,kLau,kMatthews,kMeyerWempe"
+            "kSemanticVariant": "U+7DDA<kHKGlyph,kLau,kMatthews,kMeyerWempe",
+            "kSimplifiedVariant": "U+7EBF"
         },
         {
             "codepoint": "U+7DAC",
@@ -22244,7 +22318,8 @@
         },
         {
             "codepoint": "U+7DB3",
-            "kSemanticVariant": "U+7E43<kLau,kMatthews"
+            "kSemanticVariant": "U+7E43<kLau,kMatthews",
+            "kSimplifiedVariant": "U+7EF7"
         },
         {
             "codepoint": "U+7DB4",
@@ -22350,6 +22425,10 @@
             "kSimplifiedVariant": "U+30B25"
         },
         {
+            "codepoint": "U+7DD1",
+            "kSimplifiedVariant": "U+7EFF"
+        },
+        {
             "codepoint": "U+7DD2",
             "kSimplifiedVariant": "U+7EEA",
             "kZVariant": "U+7DD6"
@@ -22453,7 +22532,7 @@
         },
         {
             "codepoint": "U+7DEB",
-            "kSemanticVariant": "U+7E3D<sSoengmou2003:TZ",
+            "kSemanticVariant": "U+7E3D<kSMSZD2003Index:TZ",
             "kSimplifiedVariant": "U+30B30"
         },
         {
@@ -22514,12 +22593,16 @@
             "kSimplifiedVariant": "U+81F4 U+30B2B"
         },
         {
+            "codepoint": "U+7DFC",
+            "kSimplifiedVariant": "U+7F0A"
+        },
+        {
             "codepoint": "U+7E01",
             "kSemanticVariant": "U+7DE3<kMatthews"
         },
         {
             "codepoint": "U+7E02",
-            "kSemanticVariant": "U+7E3D<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+7E3D<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+7E06",
@@ -22669,7 +22752,7 @@
         },
         {
             "codepoint": "U+7E34",
-            "kSimplifiedVariant": "U+30B2E"
+            "kSimplifiedVariant": "U+7EA4 U+30B2E"
         },
         {
             "codepoint": "U+7E35",
@@ -22701,7 +22784,7 @@
         },
         {
             "codepoint": "U+7E3D",
-            "kSemanticVariant": "U+6403<kFenn U+22C3E U+6460<kFenn U+7DEB<sSoengmou2003 U+7E02<sSoengmou2003",
+            "kSemanticVariant": "U+6403<kFenn U+22C3E U+6460<kFenn U+7DEB<kSMSZD2003Index U+7E02<kSMSZD2003Index",
             "kSimplifiedVariant": "U+603B"
         },
         {
@@ -23027,7 +23110,7 @@
         },
         {
             "codepoint": "U+7EA4",
-            "kTraditionalVariant": "U+7E96"
+            "kTraditionalVariant": "U+7E34 U+7E96"
         },
         {
             "codepoint": "U+7EA5",
@@ -23135,7 +23218,7 @@
         },
         {
             "codepoint": "U+7EBF",
-            "kTraditionalVariant": "U+7DDA"
+            "kTraditionalVariant": "U+7DAB U+7DDA"
         },
         {
             "codepoint": "U+7EC0",
@@ -23255,7 +23338,7 @@
         },
         {
             "codepoint": "U+7EDD",
-            "kTraditionalVariant": "U+7D55"
+            "kTraditionalVariant": "U+7D55 U+7D76"
         },
         {
             "codepoint": "U+7EDE",
@@ -23279,7 +23362,7 @@
         },
         {
             "codepoint": "U+7EE3",
-            "kTraditionalVariant": "U+7E61"
+            "kTraditionalVariant": "U+7D89 U+7E61"
         },
         {
             "codepoint": "U+7EE4",
@@ -23359,7 +23442,7 @@
         },
         {
             "codepoint": "U+7EF7",
-            "kTraditionalVariant": "U+7E43"
+            "kTraditionalVariant": "U+7DB3 U+7E43"
         },
         {
             "codepoint": "U+7EF8",
@@ -23391,7 +23474,7 @@
         },
         {
             "codepoint": "U+7EFF",
-            "kTraditionalVariant": "U+7DA0"
+            "kTraditionalVariant": "U+7DA0 U+7DD1"
         },
         {
             "codepoint": "U+7F00",
@@ -23435,7 +23518,7 @@
         },
         {
             "codepoint": "U+7F0A",
-            "kTraditionalVariant": "U+7E15"
+            "kTraditionalVariant": "U+7DFC U+7E15"
         },
         {
             "codepoint": "U+7F0B",
@@ -23671,6 +23754,10 @@
             "kSimplifiedVariant": "U+7F42"
         },
         {
+            "codepoint": "U+7F4E",
+            "kSimplifiedVariant": "U+575B"
+        },
+        {
             "codepoint": "U+7F4F",
             "kSimplifiedVariant": "U+2C64E"
         },
@@ -23763,7 +23850,7 @@
         },
         {
             "codepoint": "U+7F87",
-            "kSemanticVariant": "U+8989<sSoengmou2003:T"
+            "kSemanticVariant": "U+8989<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+7F88",
@@ -23902,7 +23989,7 @@
         },
         {
             "codepoint": "U+7FFB",
-            "kSemanticVariant": "U+98DC<sSoengmou2003:T"
+            "kSemanticVariant": "U+98DC<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+7FFC",
@@ -24043,6 +24130,10 @@
             "kSimplifiedVariant": "U+5723"
         },
         {
+            "codepoint": "U+805A",
+            "kSpecializedSemanticVariant": "U+51A3<kSMSZD2003Index"
+        },
+        {
             "codepoint": "U+805D",
             "kSemanticVariant": "U+9998<kMatthews,kMeyerWempe"
         },
@@ -24135,7 +24226,7 @@
         },
         {
             "codepoint": "U+808E",
-            "kSemanticVariant": "U+80AF<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+80AF<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+8090",
@@ -24189,7 +24280,7 @@
         },
         {
             "codepoint": "U+80AF",
-            "kSemanticVariant": "U+808E<sSoengmou2003:T"
+            "kSemanticVariant": "U+808E<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+80B1",
@@ -24439,7 +24530,7 @@
         },
         {
             "codepoint": "U+813A",
-            "kSemanticVariant": "U+81B5<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+81B5<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+813C",
@@ -24514,7 +24605,7 @@
         },
         {
             "codepoint": "U+8178",
-            "kSemanticVariant": "U+8193<sSoengmou2003:T",
+            "kSemanticVariant": "U+8193<kSMSZD2003Index:T",
             "kSimplifiedVariant": "U+80A0"
         },
         {
@@ -24524,7 +24615,7 @@
         {
             "codepoint": "U+817C",
             "kSimplifiedVariant": "U+817C",
-            "kTraditionalVariant": "U+817C U+9766"
+            "kTraditionalVariant": "U+817C"
         },
         {
             "codepoint": "U+817D",
@@ -24561,7 +24652,7 @@
         },
         {
             "codepoint": "U+8193",
-            "kSemanticVariant": "U+8178<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+8178<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+8195",
@@ -24569,7 +24660,7 @@
         },
         {
             "codepoint": "U+8198",
-            "kSemanticVariant": "U+81D5<sSoengmou2003:T"
+            "kSemanticVariant": "U+81D5<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+819A",
@@ -24613,7 +24704,7 @@
         },
         {
             "codepoint": "U+81B5",
-            "kSemanticVariant": "U+813A<sSoengmou2003:T"
+            "kSemanticVariant": "U+813A<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+81B6",
@@ -24675,7 +24766,7 @@
         },
         {
             "codepoint": "U+81D5",
-            "kSemanticVariant": "U+8198<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+8198<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+81D7",
@@ -24700,7 +24791,7 @@
         },
         {
             "codepoint": "U+81DD",
-            "kSemanticVariant": "U+88F8<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+88F8<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+81DE",
@@ -24756,7 +24847,7 @@
         },
         {
             "codepoint": "U+81FF",
-            "kSemanticVariant": "U+9364<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+9364<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+8200",
@@ -24766,11 +24857,11 @@
         },
         {
             "codepoint": "U+8203",
-            "kSemanticVariant": "U+8204<sSoengmou2003:T"
+            "kSemanticVariant": "U+8204<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+8204",
-            "kSemanticVariant": "U+8203<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+8203<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+8206",
@@ -24979,11 +25070,11 @@
         },
         {
             "codepoint": "U+82B1",
-            "kSemanticVariant": "U+82B2<sSoengmou2003:T U+8624<kLau"
+            "kSemanticVariant": "U+82B2<kSMSZD2003Index:T U+8624<kLau"
         },
         {
             "codepoint": "U+82B2",
-            "kSemanticVariant": "U+82B1<sSoengmou2003:TZ",
+            "kSemanticVariant": "U+82B1<kSMSZD2003Index:TZ",
             "kSpoofingVariant": "U+30C28"
         },
         {
@@ -25027,7 +25118,7 @@
         {
             "codepoint": "U+82CF",
             "kSimplifiedVariant": "U+82CF",
-            "kTraditionalVariant": "U+82CF U+8607"
+            "kTraditionalVariant": "U+56CC U+82CF U+8607"
         },
         {
             "codepoint": "U+82D5",
@@ -25106,7 +25197,7 @@
         },
         {
             "codepoint": "U+831C",
-            "kSemanticVariant": "U+84A8<sSoengmou2003:T"
+            "kSemanticVariant": "U+84A8<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+8320",
@@ -25246,7 +25337,7 @@
         },
         {
             "codepoint": "U+836F",
-            "kTraditionalVariant": "U+85E5"
+            "kTraditionalVariant": "U+846F U+85E5"
         },
         {
             "codepoint": "U+8373",
@@ -25333,7 +25424,7 @@
         },
         {
             "codepoint": "U+83BC",
-            "kTraditionalVariant": "U+84F4"
+            "kTraditionalVariant": "U+8493 U+84F4"
         },
         {
             "codepoint": "U+83BF",
@@ -25447,7 +25538,7 @@
         },
         {
             "codepoint": "U+8431",
-            "kSemanticVariant": "U+8432<kMatthews U+857F<sSoengmou2003:T U+8610<sSoengmou2003:T"
+            "kSemanticVariant": "U+8432<kMatthews U+857F<kSMSZD2003Index:T U+8610<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+8432",
@@ -25463,7 +25554,7 @@
         },
         {
             "codepoint": "U+843C",
-            "kSemanticVariant": "U+855A<sSoengmou2003:T"
+            "kSemanticVariant": "U+855A<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+8441",
@@ -25510,7 +25601,8 @@
         },
         {
             "codepoint": "U+846F",
-            "kSemanticVariant": "U+85E5<kLau,kMatthews,kMeyerWempe"
+            "kSemanticVariant": "U+85E5<kLau,kMatthews,kMeyerWempe",
+            "kSimplifiedVariant": "U+836F"
         },
         {
             "codepoint": "U+8471",
@@ -25557,7 +25649,8 @@
         },
         {
             "codepoint": "U+8493",
-            "kSemanticVariant": "U+84F4<kMatthews"
+            "kSemanticVariant": "U+84F4<kMatthews",
+            "kSimplifiedVariant": "U+83BC"
         },
         {
             "codepoint": "U+8494",
@@ -25575,7 +25668,7 @@
         },
         {
             "codepoint": "U+84A8",
-            "kSemanticVariant": "U+831C<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+831C<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+84AD",
@@ -25761,15 +25854,16 @@
         },
         {
             "codepoint": "U+853E",
-            "kSemanticVariant": "U+85DC<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+85DC<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+853F",
+            "kSimplifiedVariant": "U+2B1ED",
             "kZVariant": "U+848D"
         },
         {
             "codepoint": "U+8541",
-            "kSemanticVariant": "U+456D<sSoengmou2003:T",
+            "kSemanticVariant": "U+456D<kSMSZD2003Index:T",
             "kSimplifiedVariant": "U+8368"
         },
         {
@@ -25786,7 +25880,7 @@
         },
         {
             "codepoint": "U+854A",
-            "kSemanticVariant": "U+854B<kMatthews U+8602<sSoengmou2003:T"
+            "kSemanticVariant": "U+854B<kMatthews U+8602<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+854B",
@@ -25823,7 +25917,7 @@
         },
         {
             "codepoint": "U+855A",
-            "kSemanticVariant": "U+843C<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+843C<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+855D",
@@ -25881,7 +25975,7 @@
         },
         {
             "codepoint": "U+8574",
-            "kTraditionalVariant": "U+860A"
+            "kTraditionalVariant": "U+85F4 U+860A"
         },
         {
             "codepoint": "U+8577",
@@ -25893,7 +25987,7 @@
         },
         {
             "codepoint": "U+857F",
-            "kSemanticVariant": "U+8431<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+8431<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+8580",
@@ -26035,7 +26129,7 @@
         },
         {
             "codepoint": "U+85DC",
-            "kSemanticVariant": "U+853E<sSoengmou2003:T"
+            "kSemanticVariant": "U+853E<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+85DD",
@@ -26080,6 +26174,10 @@
             "kSimplifiedVariant": "U+30C39"
         },
         {
+            "codepoint": "U+85F4",
+            "kSimplifiedVariant": "U+8574"
+        },
+        {
             "codepoint": "U+85F6",
             "kSimplifiedVariant": "U+82C8"
         },
@@ -26106,7 +26204,7 @@
         },
         {
             "codepoint": "U+8602",
-            "kSemanticVariant": "U+854A<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+854A<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+8604",
@@ -26135,7 +26233,7 @@
         },
         {
             "codepoint": "U+8610",
-            "kSemanticVariant": "U+8431<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+8431<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+8611",
@@ -26385,7 +26483,7 @@
         },
         {
             "codepoint": "U+86A1",
-            "kSemanticVariant": "U+9F22<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+9F22<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+86A4",
@@ -26628,7 +26726,7 @@
         },
         {
             "codepoint": "U+8761",
-            "kSemanticVariant": "U+8815<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+8815<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+8765",
@@ -26922,7 +27020,7 @@
         },
         {
             "codepoint": "U+8815",
-            "kSemanticVariant": "U+8761<sSoengmou2003:T"
+            "kSemanticVariant": "U+8761<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+8819",
@@ -27003,7 +27101,8 @@
         },
         {
             "codepoint": "U+8846",
-            "kSemanticVariant": "U+773E<kLau,kMatthews U+2C454<kFennIndex"
+            "kSemanticVariant": "U+773E<kLau,kMatthews U+2C454<kFennIndex",
+            "kSimplifiedVariant": "U+4F17"
         },
         {
             "codepoint": "U+8847",
@@ -27077,6 +27176,10 @@
             "kSemanticVariant": "U+889E<kMatthews",
             "kSimplifiedVariant": "U+886E",
             "kTraditionalVariant": "U+886E U+889E"
+        },
+        {
+            "codepoint": "U+8879",
+            "kSimplifiedVariant": "U+53EA"
         },
         {
             "codepoint": "U+887D",
@@ -27178,6 +27281,7 @@
         {
             "codepoint": "U+88CF",
             "kSemanticVariant": "U+88E1<kHKGlyph,kLau,kMatthews",
+            "kSimplifiedVariant": "U+91CC",
             "kSpecializedSemanticVariant": "U+88E1<kMeyerWempe"
         },
         {
@@ -27229,7 +27333,7 @@
         },
         {
             "codepoint": "U+88F8",
-            "kSemanticVariant": "U+81DD<sSoengmou2003:T U+8EB6<kLau,kMatthews"
+            "kSemanticVariant": "U+81DD<kSMSZD2003Index:T U+8EB6<kLau,kMatthews"
         },
         {
             "codepoint": "U+88FD",
@@ -27314,7 +27418,7 @@
         },
         {
             "codepoint": "U+8936",
-            "kSemanticVariant": "U+8975<sSoengmou2003:T"
+            "kSemanticVariant": "U+8975<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+8938",
@@ -27353,12 +27457,12 @@
         },
         {
             "codepoint": "U+8947",
-            "kSemanticVariant": "U+8949<sSoengmou2003:T",
+            "kSemanticVariant": "U+8949<kSMSZD2003Index:T",
             "kSimplifiedVariant": "U+88E5"
         },
         {
             "codepoint": "U+8949",
-            "kSemanticVariant": "U+8947<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+8947<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+894C",
@@ -27434,7 +27538,7 @@
         },
         {
             "codepoint": "U+896C",
-            "kSimplifiedVariant": "U+4653"
+            "kSimplifiedVariant": "U+4653 U+6446"
         },
         {
             "codepoint": "U+896D",
@@ -27467,7 +27571,7 @@
         },
         {
             "codepoint": "U+8975",
-            "kSemanticVariant": "U+8936<sSoengmou2003:TZ",
+            "kSemanticVariant": "U+8936<kSMSZD2003Index:TZ",
             "kSimplifiedVariant": "U+2B307"
         },
         {
@@ -27493,7 +27597,7 @@
         },
         {
             "codepoint": "U+8989",
-            "kSemanticVariant": "U+7F87<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+7F87<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+898A",
@@ -27873,7 +27977,7 @@
         },
         {
             "codepoint": "U+8A15",
-            "kSemanticVariant": "U+8D78<sSoengmou2003:T",
+            "kSemanticVariant": "U+8D78<kSMSZD2003Index:T",
             "kSimplifiedVariant": "U+8BAA"
         },
         {
@@ -28397,6 +28501,7 @@
         },
         {
             "codepoint": "U+8AAC",
+            "kSimplifiedVariant": "U+8BF4",
             "kZVariant": "U+8AAA"
         },
         {
@@ -28780,6 +28885,7 @@
         },
         {
             "codepoint": "U+8B21",
+            "kSimplifiedVariant": "U+8C23",
             "kZVariant": "U+8B20"
         },
         {
@@ -29143,7 +29249,7 @@
         },
         {
             "codepoint": "U+8B9B",
-            "kSemanticVariant": "U+56C8<sSoengmou2003:TZ",
+            "kSemanticVariant": "U+56C8<kSMSZD2003Index:TZ",
             "kSimplifiedVariant": "U+30D56"
         },
         {
@@ -29500,7 +29606,7 @@
         },
         {
             "codepoint": "U+8BF4",
-            "kTraditionalVariant": "U+8AAA"
+            "kTraditionalVariant": "U+8AAA U+8AAC"
         },
         {
             "codepoint": "U+8BF5",
@@ -29688,7 +29794,7 @@
         },
         {
             "codepoint": "U+8C23",
-            "kTraditionalVariant": "U+8B20"
+            "kTraditionalVariant": "U+8B20 U+8B21"
         },
         {
             "codepoint": "U+8C24",
@@ -30177,7 +30283,8 @@
         },
         {
             "codepoint": "U+8CEB",
-            "kSemanticVariant": "U+9F4E<kMatthews"
+            "kSemanticVariant": "U+9F4E<kMatthews",
+            "kSimplifiedVariant": "U+8D4D"
         },
         {
             "codepoint": "U+8CEC",
@@ -30212,7 +30319,7 @@
         },
         {
             "codepoint": "U+8CF7",
-            "kSemanticVariant": "U+9F4E<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+9F4E<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+8CF8",
@@ -30342,7 +30449,8 @@
         },
         {
             "codepoint": "U+8D1C",
-            "kSemanticVariant": "U+8CCD<kFenn U+8D13<kFenn"
+            "kSemanticVariant": "U+8CCD<kFenn U+8D13<kFenn",
+            "kSimplifiedVariant": "U+8D43 U+30DED"
         },
         {
             "codepoint": "U+8D1D",
@@ -30498,7 +30606,7 @@
         },
         {
             "codepoint": "U+8D43",
-            "kTraditionalVariant": "U+8D13"
+            "kTraditionalVariant": "U+8D13 U+8D1C"
         },
         {
             "codepoint": "U+8D44",
@@ -30538,7 +30646,7 @@
         },
         {
             "codepoint": "U+8D4D",
-            "kTraditionalVariant": "U+9F4E"
+            "kTraditionalVariant": "U+8CEB U+9F4E"
         },
         {
             "codepoint": "U+8D4E",
@@ -30653,7 +30761,7 @@
         },
         {
             "codepoint": "U+8D78",
-            "kSemanticVariant": "U+8A15<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+8A15<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+8D7F",
@@ -30684,7 +30792,7 @@
         },
         {
             "codepoint": "U+8D91",
-            "kSemanticVariant": "U+8DA6<sSoengmou:T"
+            "kSemanticVariant": "U+8DA6<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+8D92",
@@ -30701,7 +30809,7 @@
         },
         {
             "codepoint": "U+8DA6",
-            "kSemanticVariant": "U+8D91<sSoengmou:TZ"
+            "kSemanticVariant": "U+8D91<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+8DA8",
@@ -31238,7 +31346,7 @@
         },
         {
             "codepoint": "U+8EDB",
-            "kSemanticVariant": "U+8EF6<sSoengmou2003:T",
+            "kSemanticVariant": "U+8EF6<kSMSZD2003Index:T",
             "kSimplifiedVariant": "U+8F6D"
         },
         {
@@ -31313,7 +31421,7 @@
         },
         {
             "codepoint": "U+8EF6",
-            "kSemanticVariant": "U+8EDB<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+8EDB<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+8EF7",
@@ -31567,6 +31675,10 @@
         {
             "codepoint": "U+8F3B",
             "kSimplifiedVariant": "U+8F90"
+        },
+        {
+            "codepoint": "U+8F3C",
+            "kSimplifiedVariant": "U+8F92"
         },
         {
             "codepoint": "U+8F3E",
@@ -31897,7 +32009,7 @@
         },
         {
             "codepoint": "U+8F92",
-            "kTraditionalVariant": "U+8F40"
+            "kTraditionalVariant": "U+8F3C U+8F40"
         },
         {
             "codepoint": "U+8F93",
@@ -32233,11 +32345,11 @@
         },
         {
             "codepoint": "U+9041",
-            "kSemanticVariant": "U+906F<sSoengmou2003:T"
+            "kSemanticVariant": "U+906F<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+9049",
-            "kSemanticVariant": "U+5075<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+5075<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+904B",
@@ -32280,7 +32392,7 @@
         },
         {
             "codepoint": "U+905F",
-            "kSemanticVariant": "U+9072<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+9072<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+9060",
@@ -32305,7 +32417,7 @@
         },
         {
             "codepoint": "U+906F",
-            "kSemanticVariant": "U+9041<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+9041<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+9070",
@@ -32317,7 +32429,7 @@
         },
         {
             "codepoint": "U+9072",
-            "kSemanticVariant": "U+905F<sSoengmou2003:T",
+            "kSemanticVariant": "U+905F<kSMSZD2003Index:T",
             "kSimplifiedVariant": "U+8FDF"
         },
         {
@@ -32604,7 +32716,7 @@
         },
         {
             "codepoint": "U+9154",
-            "kSemanticVariant": "U+9189<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+9189<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+9156",
@@ -32612,7 +32724,7 @@
         },
         {
             "codepoint": "U+915D",
-            "kTraditionalVariant": "U+919E"
+            "kTraditionalVariant": "U+9196 U+919E"
         },
         {
             "codepoint": "U+9162",
@@ -32656,7 +32768,7 @@
         },
         {
             "codepoint": "U+9186",
-            "kSemanticVariant": "U+76DE<sSoengmou2003:TZ",
+            "kSemanticVariant": "U+76DE<kSMSZD2003Index:TZ",
             "kSimplifiedVariant": "U+2CAA8"
         },
         {
@@ -32665,7 +32777,7 @@
         },
         {
             "codepoint": "U+9189",
-            "kSemanticVariant": "U+9154<sSoengmou2003:T"
+            "kSemanticVariant": "U+9154<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+918A",
@@ -32678,6 +32790,10 @@
         {
             "codepoint": "U+9192",
             "kSpecializedSemanticVariant": "U+60FA<kMeyerWempe"
+        },
+        {
+            "codepoint": "U+9196",
+            "kSimplifiedVariant": "U+915D"
         },
         {
             "codepoint": "U+919C",
@@ -32736,11 +32852,11 @@
         },
         {
             "codepoint": "U+91BE",
-            "kSemanticVariant": "U+91BF<sSoengmou2003:T"
+            "kSemanticVariant": "U+91BF<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+91BF",
-            "kSemanticVariant": "U+91BE<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+91BE<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+91C0",
@@ -32775,7 +32891,7 @@
         {
             "codepoint": "U+91CC",
             "kSimplifiedVariant": "U+91CC",
-            "kTraditionalVariant": "U+88E1 U+91CC"
+            "kTraditionalVariant": "U+88CF U+88E1 U+91CC"
         },
         {
             "codepoint": "U+91CE",
@@ -32829,7 +32945,7 @@
         },
         {
             "codepoint": "U+91DC",
-            "kSemanticVariant": "U+9B34<sSoengmou2003:T"
+            "kSemanticVariant": "U+9B34<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+91DD",
@@ -32878,7 +32994,7 @@
         },
         {
             "codepoint": "U+91EC",
-            "kSemanticVariant": "U+710A<sSoengmou2003:TZ U+92B2<kMatthews",
+            "kSemanticVariant": "U+710A<kSMSZD2003Index:TZ U+92B2<kMatthews",
             "kSimplifiedVariant": "U+2CB27"
         },
         {
@@ -32945,7 +33061,7 @@
         },
         {
             "codepoint": "U+9203",
-            "kSemanticVariant": "U+9292<sSoengmou2003:TZ",
+            "kSemanticVariant": "U+9292<kSMSZD2003Index:TZ",
             "kSimplifiedVariant": "U+9498"
         },
         {
@@ -33252,7 +33368,8 @@
         },
         {
             "codepoint": "U+9262",
-            "kSemanticVariant": "U+7F3D<kHKGlyph"
+            "kSemanticVariant": "U+7F3D<kHKGlyph",
+            "kSimplifiedVariant": "U+94B5"
         },
         {
             "codepoint": "U+9264",
@@ -33386,7 +33503,7 @@
         },
         {
             "codepoint": "U+9292",
-            "kSemanticVariant": "U+9203<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+9203<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+9293",
@@ -33647,6 +33764,7 @@
         },
         {
             "codepoint": "U+92ED",
+            "kSimplifiedVariant": "U+9510",
             "kZVariant": "U+92B3"
         },
         {
@@ -33844,6 +33962,10 @@
             "kSimplifiedVariant": "U+9519"
         },
         {
+            "codepoint": "U+9332",
+            "kSimplifiedVariant": "U+5F55"
+        },
+        {
             "codepoint": "U+9333",
             "kSimplifiedVariant": "U+9530"
         },
@@ -33976,7 +34098,7 @@
         },
         {
             "codepoint": "U+9364",
-            "kSemanticVariant": "U+81FF<sSoengmou2003:T",
+            "kSemanticVariant": "U+81FF<kSMSZD2003Index:T",
             "kSimplifiedVariant": "U+9538"
         },
         {
@@ -34227,6 +34349,10 @@
         {
             "codepoint": "U+93B7",
             "kSimplifiedVariant": "U+28C3E"
+        },
+        {
+            "codepoint": "U+93B8",
+            "kSimplifiedVariant": "U+954C"
         },
         {
             "codepoint": "U+93BB",
@@ -34769,6 +34895,10 @@
             "kSimplifiedVariant": "U+4986"
         },
         {
+            "codepoint": "U+9482",
+            "kSimplifiedVariant": "U+954B"
+        },
+        {
             "codepoint": "U+9483",
             "kSimplifiedVariant": "U+30FBD"
         },
@@ -34966,7 +35096,7 @@
         },
         {
             "codepoint": "U+94B5",
-            "kTraditionalVariant": "U+7F3D"
+            "kTraditionalVariant": "U+7F3D U+9262"
         },
         {
             "codepoint": "U+94B6",
@@ -35330,7 +35460,7 @@
         },
         {
             "codepoint": "U+9510",
-            "kTraditionalVariant": "U+92B3"
+            "kTraditionalVariant": "U+92B3 U+92ED"
         },
         {
             "codepoint": "U+9511",
@@ -35566,11 +35696,11 @@
         },
         {
             "codepoint": "U+954B",
-            "kTraditionalVariant": "U+93B2"
+            "kTraditionalVariant": "U+93B2 U+9482"
         },
         {
             "codepoint": "U+954C",
-            "kTraditionalVariant": "U+942B"
+            "kTraditionalVariant": "U+93B8 U+942B"
         },
         {
             "codepoint": "U+954D",
@@ -35919,6 +36049,10 @@
             "kSimplifiedVariant": "U+9605"
         },
         {
+            "codepoint": "U+95B2",
+            "kSimplifiedVariant": "U+9605"
+        },
+        {
             "codepoint": "U+95B5",
             "kSimplifiedVariant": "U+2B534"
         },
@@ -36044,7 +36178,7 @@
         },
         {
             "codepoint": "U+95DE",
-            "kSemanticVariant": "U+9B2B<sSoengmou2003:T",
+            "kSemanticVariant": "U+9B2B<kSMSZD2003Index:T",
             "kSimplifiedVariant": "U+961A"
         },
         {
@@ -36191,7 +36325,7 @@
         },
         {
             "codepoint": "U+9605",
-            "kTraditionalVariant": "U+95B1"
+            "kTraditionalVariant": "U+95B1 U+95B2"
         },
         {
             "codepoint": "U+9606",
@@ -36527,7 +36661,7 @@
         },
         {
             "codepoint": "U+9699",
-            "kSemanticVariant": "U+28EF6<sSoengmou2003:T"
+            "kSemanticVariant": "U+28EF6<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+969B",
@@ -36854,7 +36988,7 @@
         {
             "codepoint": "U+9766",
             "kSemanticVariant": "U+89A5<kMeyerWempe",
-            "kSimplifiedVariant": "U+4A44 U+817C"
+            "kSimplifiedVariant": "U+4A44"
         },
         {
             "codepoint": "U+9767",
@@ -36889,11 +37023,11 @@
         },
         {
             "codepoint": "U+978C",
-            "kSemanticVariant": "U+978D<sSoengmou:TZ"
+            "kSemanticVariant": "U+978D<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+978D",
-            "kSemanticVariant": "U+978C<sSoengmou:T"
+            "kSemanticVariant": "U+978C<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+978F",
@@ -37358,6 +37492,10 @@
             "kSemanticVariant": "U+8CF4<kLau,kMatthews,kMeyerWempe"
         },
         {
+            "codepoint": "U+983D",
+            "kSimplifiedVariant": "U+9893"
+        },
+        {
             "codepoint": "U+9840",
             "kSimplifiedVariant": "U+310AD"
         },
@@ -37430,6 +37568,10 @@
         {
             "codepoint": "U+9853",
             "kSimplifiedVariant": "U+989B"
+        },
+        {
+            "codepoint": "U+9854",
+            "kSimplifiedVariant": "U+989C"
         },
         {
             "codepoint": "U+9855",
@@ -37669,7 +37811,7 @@
         },
         {
             "codepoint": "U+9893",
-            "kTraditionalVariant": "U+9839"
+            "kTraditionalVariant": "U+9839 U+983D"
         },
         {
             "codepoint": "U+9894",
@@ -37705,7 +37847,7 @@
         },
         {
             "codepoint": "U+989C",
-            "kTraditionalVariant": "U+984F"
+            "kTraditionalVariant": "U+984F U+9854"
         },
         {
             "codepoint": "U+989D",
@@ -37835,7 +37977,7 @@
         },
         {
             "codepoint": "U+98BF",
-            "kSemanticVariant": "U+5E06<sSoengmou2003:TZ",
+            "kSemanticVariant": "U+5E06<kSMSZD2003Index:TZ",
             "kSimplifiedVariant": "U+2CCF3"
         },
         {
@@ -37852,26 +37994,26 @@
         },
         {
             "codepoint": "U+98C3",
-            "kSemanticVariant": "U+98C4<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+98C4<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+98C4",
-            "kSemanticVariant": "U+98C3<sSoengmou2003:T",
+            "kSemanticVariant": "U+98C3<kSMSZD2003Index:T",
             "kSimplifiedVariant": "U+98D8"
         },
         {
             "codepoint": "U+98C6",
-            "kSemanticVariant": "U+98C7<sSoengmou2003:T U+98C8<sSoengmou2003:T",
+            "kSemanticVariant": "U+98C7<kSMSZD2003Index:T U+98C8<kSMSZD2003Index:T",
             "kSimplifiedVariant": "U+98D9"
         },
         {
             "codepoint": "U+98C7",
-            "kSemanticVariant": "U+730B<kMatthews U+98AE<kMatthews,kMeyerWempe U+98C6<sSoengmou2003:TZ",
+            "kSemanticVariant": "U+730B<kMatthews U+98AE<kMatthews,kMeyerWempe U+98C6<kSMSZD2003Index:TZ",
             "kSimplifiedVariant": "U+310E0"
         },
         {
             "codepoint": "U+98C8",
-            "kSemanticVariant": "U+98C6<sSoengmou2003:TZ",
+            "kSemanticVariant": "U+98C6<kSMSZD2003Index:TZ",
             "kSimplifiedVariant": "U+98DA"
         },
         {
@@ -37945,7 +38087,7 @@
         },
         {
             "codepoint": "U+98DC",
-            "kSemanticVariant": "U+7FFB<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+7FFB<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+98DE",
@@ -37962,7 +38104,7 @@
         },
         {
             "codepoint": "U+98E1",
-            "kSemanticVariant": "U+9910<kMatthews,kMeyerWempe,sSoengmou2003:TZ",
+            "kSemanticVariant": "U+9910<kMatthews,kMeyerWempe,kSMSZD2003Index:TZ",
             "kSpoofingVariant": "U+6E4C"
         },
         {
@@ -37990,7 +38132,7 @@
         },
         {
             "codepoint": "U+98E7",
-            "kSemanticVariant": "U+98F1<sSoengmou2003:T"
+            "kSemanticVariant": "U+98F1<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+98E8",
@@ -38024,7 +38166,7 @@
         },
         {
             "codepoint": "U+98F1",
-            "kSemanticVariant": "U+98E7<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+98E7<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+98F2",
@@ -38088,7 +38230,7 @@
         },
         {
             "codepoint": "U+9908",
-            "kSemanticVariant": "U+7CCD<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+7CCD<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+9909",
@@ -38117,7 +38259,7 @@
         },
         {
             "codepoint": "U+9910",
-            "kSemanticVariant": "U+6E4C<sSoengmou2003:T U+98E1<kMatthews,kMeyerWempe"
+            "kSemanticVariant": "U+6E4C<kSMSZD2003Index:T U+98E1<kMatthews,kMeyerWempe"
         },
         {
             "codepoint": "U+9911",
@@ -38372,7 +38514,8 @@
         },
         {
             "codepoint": "U+9951",
-            "kSemanticVariant": "U+98E2<kLau,kMatthews,kMeyerWempe"
+            "kSemanticVariant": "U+98E2<kLau,kMatthews,kMeyerWempe",
+            "kSimplifiedVariant": "U+9965"
         },
         {
             "codepoint": "U+9952",
@@ -38435,7 +38578,7 @@
         },
         {
             "codepoint": "U+9965",
-            "kTraditionalVariant": "U+98E2"
+            "kTraditionalVariant": "U+98E2 U+9951"
         },
         {
             "codepoint": "U+9966",
@@ -38786,17 +38929,21 @@
         },
         {
             "codepoint": "U+99DD",
-            "kSemanticVariant": "U+99DE<sSoengmou2003:T",
+            "kSemanticVariant": "U+99DE<kSMSZD2003Index:T",
             "kSimplifiedVariant": "U+9A7C"
         },
         {
             "codepoint": "U+99DE",
-            "kSemanticVariant": "U+99DD<sSoengmou2003:TZ",
+            "kSemanticVariant": "U+99DD<kSMSZD2003Index:TZ",
             "kSimplifiedVariant": "U+2B61E"
         },
         {
             "codepoint": "U+99DF",
             "kSimplifiedVariant": "U+9A77"
+        },
+        {
+            "codepoint": "U+99E1",
+            "kSimplifiedVariant": "U+9A82"
         },
         {
             "codepoint": "U+99E2",
@@ -39375,7 +39522,7 @@
         },
         {
             "codepoint": "U+9A82",
-            "kTraditionalVariant": "U+7F75"
+            "kTraditionalVariant": "U+7F75 U+99E1"
         },
         {
             "codepoint": "U+9A83",
@@ -39603,11 +39750,11 @@
         },
         {
             "codepoint": "U+9AE0",
-            "kSemanticVariant": "U+9AE1<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+9AE1<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+9AE1",
-            "kSemanticVariant": "U+9AE0<sSoengmou2003:T"
+            "kSemanticVariant": "U+9AE0<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+9AE3",
@@ -39615,11 +39762,11 @@
         },
         {
             "codepoint": "U+9AE4",
-            "kSemanticVariant": "U+9AF9<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+9AF9<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+9AE9",
-            "kSemanticVariant": "U+9B22<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+9B22<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+9AEE",
@@ -39627,7 +39774,7 @@
         },
         {
             "codepoint": "U+9AF9",
-            "kSemanticVariant": "U+9AE4<sSoengmou2003:T"
+            "kSemanticVariant": "U+9AE4<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+9AFB",
@@ -39700,7 +39847,7 @@
         },
         {
             "codepoint": "U+9B22",
-            "kSemanticVariant": "U+9AE9<sSoengmou2003:T U+9B02<kMatthews",
+            "kSemanticVariant": "U+9AE9<kSMSZD2003Index:T U+9B02<kMatthews",
             "kSimplifiedVariant": "U+9B13"
         },
         {
@@ -39736,7 +39883,7 @@
         },
         {
             "codepoint": "U+9B2B",
-            "kSemanticVariant": "U+95DE<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+95DE<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+9B2C",
@@ -39758,7 +39905,7 @@
         },
         {
             "codepoint": "U+9B34",
-            "kSemanticVariant": "U+91DC<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+91DC<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+9B36",
@@ -39774,11 +39921,11 @@
         },
         {
             "codepoint": "U+9B3D",
-            "kSemanticVariant": "U+9B45<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+9B45<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+9B45",
-            "kSemanticVariant": "U+9B3D<sSoengmou2003:T"
+            "kSemanticVariant": "U+9B3D<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+9B47",
@@ -39982,7 +40129,7 @@
         },
         {
             "codepoint": "U+9B8E",
-            "kSemanticVariant": "U+9BF0<sSoengmou2003:T",
+            "kSemanticVariant": "U+9BF0<kSMSZD2003Index:T",
             "kSimplifiedVariant": "U+9C87"
         },
         {
@@ -40027,7 +40174,8 @@
         },
         {
             "codepoint": "U+9B9D",
-            "kSemanticVariant": "U+9BD7<kMatthews"
+            "kSemanticVariant": "U+9BD7<kMatthews",
+            "kSimplifiedVariant": "U+9C9E"
         },
         {
             "codepoint": "U+9B9E",
@@ -40270,7 +40418,7 @@
         },
         {
             "codepoint": "U+9BF0",
-            "kSemanticVariant": "U+9B8E<sSoengmou2003:TZ",
+            "kSemanticVariant": "U+9B8E<kSMSZD2003Index:TZ",
             "kSimplifiedVariant": "U+9CB6"
         },
         {
@@ -40872,7 +41020,7 @@
         },
         {
             "codepoint": "U+9C9E",
-            "kTraditionalVariant": "U+9BD7"
+            "kTraditionalVariant": "U+9B9D U+9BD7"
         },
         {
             "codepoint": "U+9C9F",
@@ -41171,6 +41319,10 @@
             "kSimplifiedVariant": "U+9E20"
         },
         {
+            "codepoint": "U+9CEC",
+            "kSimplifiedVariant": "U+51EB"
+        },
+        {
             "codepoint": "U+9CED",
             "kSimplifiedVariant": "U+31248"
         },
@@ -41270,7 +41422,7 @@
         },
         {
             "codepoint": "U+9D09",
-            "kSemanticVariant": "U+9D76<sSoengmou2003:T",
+            "kSemanticVariant": "U+9D76<kSMSZD2003Index:T",
             "kSimplifiedVariant": "U+9E26"
         },
         {
@@ -41529,12 +41681,12 @@
         },
         {
             "codepoint": "U+9D5D",
-            "kSemanticVariant": "U+4CD8<sSoengmou2003:T U+9D5E<kLau,kMeyeWempe,sSoengmou2003:T",
+            "kSemanticVariant": "U+4CD8<kSMSZD2003Index:T U+9D5E<kLau,kMeyeWempe,kSMSZD2003Index:T",
             "kSimplifiedVariant": "U+9E45"
         },
         {
             "codepoint": "U+9D5E",
-            "kSemanticVariant": "U+9D5D<kLau,kMeyeWempe,sSoengmou2003:TZ"
+            "kSemanticVariant": "U+9D5D<kLau,kMeyeWempe,kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+9D5F",
@@ -41603,7 +41755,7 @@
         },
         {
             "codepoint": "U+9D76",
-            "kSemanticVariant": "U+9D09<sSoengmou2003:TZ",
+            "kSemanticVariant": "U+9D09<kSMSZD2003Index:TZ",
             "kSimplifiedVariant": "U+31268"
         },
         {
@@ -41855,7 +42007,8 @@
         },
         {
             "codepoint": "U+9DC4",
-            "kSemanticVariant": "U+96DE<kLau,kMatthews U+9CEE<kFenn"
+            "kSemanticVariant": "U+96DE<kLau,kMatthews U+9CEE<kFenn",
+            "kSimplifiedVariant": "U+9E21"
         },
         {
             "codepoint": "U+9DC5",
@@ -41997,7 +42150,7 @@
         {
             "codepoint": "U+9DF0",
             "kSimplifiedVariant": "U+2CE27",
-            "kSpecializedSemanticVariant": "U+71D5<sSoengmou2003:TZ"
+            "kSpecializedSemanticVariant": "U+71D5<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+9DF2",
@@ -42041,7 +42194,8 @@
         },
         {
             "codepoint": "U+9DFF",
-            "kSimplifiedVariant": "U+4D19 U+2CE2F"
+            "kSemanticVariant": "U+9E0A",
+            "kSimplifiedVariant": "U+2CE2F"
         },
         {
             "codepoint": "U+9E00",
@@ -42081,6 +42235,7 @@
         },
         {
             "codepoint": "U+9E0A",
+            "kSemanticVariant": "U+9DFF",
             "kSimplifiedVariant": "U+4D19"
         },
         {
@@ -42110,7 +42265,7 @@
         },
         {
             "codepoint": "U+9E12",
-            "kSimplifiedVariant": "U+31270 U+312AD"
+            "kSimplifiedVariant": "U+312AD"
         },
         {
             "codepoint": "U+9E13",
@@ -42167,7 +42322,7 @@
         },
         {
             "codepoint": "U+9E21",
-            "kTraditionalVariant": "U+96DE"
+            "kTraditionalVariant": "U+96DE U+9DC4"
         },
         {
             "codepoint": "U+9E22",
@@ -42586,7 +42741,7 @@
         },
         {
             "codepoint": "U+9EA9",
-            "kSemanticVariant": "U+4D38<sSoengmou2003:T",
+            "kSemanticVariant": "U+4D38<kSMSZD2003Index:T",
             "kSimplifiedVariant": "U+9EB8"
         },
         {
@@ -42842,7 +42997,7 @@
         },
         {
             "codepoint": "U+9F22",
-            "kSemanticVariant": "U+86A1<sSoengmou2003:T"
+            "kSemanticVariant": "U+86A1<kSMSZD2003Index:T"
         },
         {
             "codepoint": "U+9F32",
@@ -42891,7 +43046,7 @@
         },
         {
             "codepoint": "U+9F4E",
-            "kSemanticVariant": "U+8CEB<kMatthews U+8CF7<sSoengmou2003:T",
+            "kSemanticVariant": "U+8CEB<kMatthews U+8CF7<kSMSZD2003Index:T",
             "kSimplifiedVariant": "U+8D4D"
         },
         {
@@ -43500,6 +43655,10 @@
             "kSimplifiedVariant": "U+2B8DB"
         },
         {
+            "codepoint": "U+20487",
+            "kSemanticVariant": "U+5152"
+        },
+        {
             "codepoint": "U+20500",
             "kSpoofingVariant": "U+2232C"
         },
@@ -44081,7 +44240,7 @@
         },
         {
             "codepoint": "U+21681",
-            "kSemanticVariant": "U+5F0A<kFenn"
+            "kSemanticVariant": "U+5F0A<kFenn,kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+21731",
@@ -45049,6 +45208,14 @@
             "kSimplifiedVariant": "U+2C199"
         },
         {
+            "codepoint": "U+23A95",
+            "kSemanticVariant": "U+7C0B<kSMSZD2003Index:TZ"
+        },
+        {
+            "codepoint": "U+23A98",
+            "kSemanticVariant": "U+7C0B<kSMSZD2003Index:TZ"
+        },
+        {
             "codepoint": "U+23AD2",
             "kSimplifiedVariant": "U+2BDB2"
         },
@@ -45312,6 +45479,10 @@
             "kSimplifiedVariant": "U+2C2C3"
         },
         {
+            "codepoint": "U+244B9",
+            "kSemanticVariant": "U+7217"
+        },
+        {
             "codepoint": "U+244BB",
             "kSimplifiedVariant": "U+2AE79"
         },
@@ -45486,7 +45657,7 @@
         },
         {
             "codepoint": "U+24C48",
-            "kSemanticVariant": "U+755D<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+755D<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+24C6E",
@@ -48159,7 +48330,7 @@
         },
         {
             "codepoint": "U+28EF6",
-            "kSemanticVariant": "U+9699<sSoengmou2003:TZ"
+            "kSemanticVariant": "U+9699<kSMSZD2003Index:TZ"
         },
         {
             "codepoint": "U+28EF9",
@@ -51070,7 +51241,7 @@
         },
         {
             "codepoint": "U+2B1ED",
-            "kTraditionalVariant": "U+848D"
+            "kTraditionalVariant": "U+848D U+853F"
         },
         {
             "codepoint": "U+2B1F4",
@@ -51111,6 +51282,10 @@
         {
             "codepoint": "U+2B24D",
             "kSimplifiedVariant": "U+2E3C0"
+        },
+        {
+            "codepoint": "U+2B26C",
+            "kSemanticVariant": "U+7372"
         },
         {
             "codepoint": "U+2B2AA",
@@ -60571,7 +60746,7 @@
         },
         {
             "codepoint": "U+30DED",
-            "kTraditionalVariant": "U+8D13"
+            "kTraditionalVariant": "U+8D13 U+8D1C"
         },
         {
             "codepoint": "U+30DEE",
@@ -62544,10 +62719,6 @@
         {
             "codepoint": "U+3126F",
             "kTraditionalVariant": "U+9D39"
-        },
-        {
-            "codepoint": "U+31270",
-            "kTraditionalVariant": "U+9E12"
         },
         {
             "codepoint": "U+31271",

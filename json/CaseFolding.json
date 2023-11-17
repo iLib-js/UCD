@@ -4346,6 +4346,11 @@
             "mapping": "03B9 0308 0301"
         },
         {
+            "codepoint": "1FD3",
+            "status": "S",
+            "mapping": "0390"
+        },
+        {
             "codepoint": "1FD6",
             "status": "F",
             "mapping": "03B9 0342"
@@ -4384,6 +4389,11 @@
             "codepoint": "1FE3",
             "status": "F",
             "mapping": "03C5 0308 0301"
+        },
+        {
+            "codepoint": "1FE3",
+            "status": "S",
+            "mapping": "03B0"
         },
         {
             "codepoint": "1FE4",
@@ -6339,6 +6349,11 @@
             "codepoint": "FB05",
             "status": "F",
             "mapping": "0073 0074"
+        },
+        {
+            "codepoint": "FB05",
+            "status": "S",
+            "mapping": "FB06"
         },
         {
             "codepoint": "FB06",

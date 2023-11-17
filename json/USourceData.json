@@ -134,6 +134,7 @@
             "status": "ExtC",
             "codepoint": "U+2A79D",
             "radicalStrokeCount": "15.5",
+            "IDS": "⿰冫𠬤",
             "source": "ABC2",
             "totalStrokes": "7",
             "firstResidualStroke": "5"
@@ -543,6 +544,7 @@
             "status": "ExtC",
             "codepoint": "U+2B0B1",
             "radicalStrokeCount": "119.2",
+            "IDS": "⿲丿米丨",
             "source": "ABC2",
             "totalStrokes": "8",
             "firstResidualStroke": "3"
@@ -611,6 +613,7 @@
             "status": "ExtE",
             "codepoint": "U+2B94E",
             "radicalStrokeCount": "15.10",
+            "IDS": "⿱免⺀",
             "source": "ABC2",
             "totalStrokes": "9",
             "firstResidualStroke": "3"
@@ -841,21 +844,24 @@
         },
         {
             "sourceId": "UTC-00086",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "12.8",
             "source": "DYC 627.111",
             "firstResidualStroke": "2"
         },
         {
             "sourceId": "UTC-00087",
-            "status": "X",
-            "radicalStrokeCount": "2.4",
+            "status": "ExtH",
+            "codepoint": "U+3136B",
+            "radicalStrokeCount": "2.2",
+            "IDS": "⿱⿰丨㇎一",
             "source": "kHanYu 21484.021*DYC 637.220",
+            "totalStrokes": "3",
             "firstResidualStroke": "5"
         },
         {
             "sourceId": "UTC-00088",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "64.6",
             "IDS": "⿲扌𠂎彐",
             "source": "kHanYu 31841.071",
@@ -863,7 +869,7 @@
         },
         {
             "sourceId": "UTC-00089",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "8.8",
             "IDS": "⿳六公儿",
             "source": "DYC 062.250",
@@ -871,7 +877,7 @@
         },
         {
             "sourceId": "UTC-00090",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "17.3",
             "IDS": "⿶凵屮",
             "source": "DYC 270.341",
@@ -879,7 +885,7 @@
         },
         {
             "sourceId": "UTC-00091",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "31.3",
             "IDS": "⿴囗屮",
             "source": "DYC 270.341",
@@ -887,7 +893,7 @@
         },
         {
             "sourceId": "UTC-00092",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+8C81",
             "radicalStrokeCount": "153.5",
             "IDS": "⿰豸宂",
@@ -916,7 +922,7 @@
         },
         {
             "sourceId": "UTC-00095",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "111.10",
             "IDS": "⿲矢𦣞亏",
             "source": "DYC 137.211",
@@ -1054,7 +1060,7 @@
         },
         {
             "sourceId": "UTC-00109",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "157.8",
             "IDS": "⿰𧾷夆",
             "source": "kMatthews 5046",
@@ -1152,7 +1158,7 @@
         },
         {
             "sourceId": "UTC-00119",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "169.16",
             "IDS": "⿵門龍",
             "source": "UDR",
@@ -1199,7 +1205,7 @@
         },
         {
             "sourceId": "UTC-00124",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "1.6",
             "IDS": "⿱一⿶凵⿳人一一",
             "source": "DYC 137.221",
@@ -1217,7 +1223,7 @@
         },
         {
             "sourceId": "UTC-00126",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "78.14",
             "IDS": "⿰歺𦟀",
             "source": "DYC 163.430",
@@ -1225,7 +1231,7 @@
         },
         {
             "sourceId": "UTC-00127",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "18.7",
             "IDS": "⿰𣧄刂",
             "source": "DYC 180.150*kSBGY 485.49",
@@ -1233,7 +1239,7 @@
         },
         {
             "sourceId": "UTC-00128",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "18.2",
             "IDS": "⿻刃一",
             "source": "DYC 183.220",
@@ -1241,7 +1247,7 @@
         },
         {
             "sourceId": "UTC-00129",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "18.1",
             "IDS": "⿻刀一",
             "source": "DYC 183.220",
@@ -1249,7 +1255,7 @@
         },
         {
             "sourceId": "UTC-00130",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "7.12",
             "IDS": "⿱𠂹⿸丆二",
             "source": "DYC 200.411",
@@ -1257,7 +1263,7 @@
         },
         {
             "sourceId": "UTC-00131",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "75.9",
             "IDS": "⿰木秌",
             "source": "DYC 242.130",
@@ -1265,7 +1271,7 @@
         },
         {
             "sourceId": "UTC-00132",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "75.7",
             "IDS": "⿰木㢟",
             "source": "DYC 251.140",
@@ -1273,7 +1279,7 @@
         },
         {
             "sourceId": "UTC-00133",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "75.21",
             "IDS": "⿰木⿱𧰲䖵",
             "source": "DYC 267.410",
@@ -1281,7 +1287,7 @@
         },
         {
             "sourceId": "UTC-00134",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "45.3",
             "IDS": "⿻𣎵一",
             "source": "DYC 274.110",
@@ -1292,6 +1298,7 @@
             "status": "ExtC",
             "codepoint": "U+2AA72",
             "radicalStrokeCount": "50.2",
+            "IDS": "㇯朿㇏",
             "source": "DYC 274.110",
             "totalStrokes": "5",
             "firstResidualStroke": "1"
@@ -1308,7 +1315,7 @@
         },
         {
             "sourceId": "UTC-00137",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "61.4",
             "IDS": "⿱𠕴心",
             "source": "DYC 342.112",
@@ -1316,7 +1323,7 @@
         },
         {
             "sourceId": "UTC-00138",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "104.15",
             "IDS": "⿸疒𦹌",
             "source": "DYC 350.310",
@@ -1324,7 +1331,7 @@
         },
         {
             "sourceId": "UTC-00139",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "104.6",
             "IDS": "⿸疒𡰫",
             "source": "DYC 351.231",
@@ -1332,7 +1339,7 @@
         },
         {
             "sourceId": "UTC-00140",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "1.7",
             "IDS": "⿱一㒳",
             "source": "DYC 354.410",
@@ -1340,7 +1347,7 @@
         },
         {
             "sourceId": "UTC-00141",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "46.15",
             "IDS": "⿰山𦹌",
             "source": "DYC 440.410",
@@ -1348,7 +1355,7 @@
         },
         {
             "sourceId": "UTC-00142",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+38C7",
             "radicalStrokeCount": "58.5",
             "source": "DYC 456.212*kHanYu 20961.020",
@@ -1366,7 +1373,7 @@
         },
         {
             "sourceId": "UTC-00144",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "51.3",
             "IDS": "⿱大干",
             "source": "DYC 496.210",
@@ -1374,7 +1381,7 @@
         },
         {
             "sourceId": "UTC-00145",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "104.11",
             "IDS": "⿸疒𤰈",
             "source": "DYC 515.111",
@@ -1382,7 +1389,7 @@
         },
         {
             "sourceId": "UTC-00146",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "85.16",
             "IDS": "⿰氵⿰⿱⿰矢口白亏",
             "source": "DYC 551.210",
@@ -1390,21 +1397,21 @@
         },
         {
             "sourceId": "UTC-00147",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "31.0",
             "source": "DYC 575.112",
             "firstResidualStroke": "2"
         },
         {
             "sourceId": "UTC-00148",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "83.1",
             "source": "DYC 627.110",
             "firstResidualStroke": "1"
         },
         {
             "sourceId": "UTC-00149",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "63.2",
             "source": "DYC 627.111",
             "firstResidualStroke": "3"
@@ -1421,7 +1428,7 @@
         },
         {
             "sourceId": "UTC-00151",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "147.4",
             "IDS": "⿰𢆯見",
             "source": "DYC 643.321",
@@ -1439,7 +1446,7 @@
         },
         {
             "sourceId": "UTC-00153",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "52.10",
             "IDS": "⿰𢆯泉",
             "source": "DYC 656.121",
@@ -1457,7 +1464,7 @@
         },
         {
             "sourceId": "UTC-00155",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "118.10",
             "IDS": "⿱𧰲竹",
             "source": "DYC 675.411",
@@ -1465,7 +1472,7 @@
         },
         {
             "sourceId": "UTC-00156",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "182.4",
             "IDS": "⿺風曰",
             "source": "DYC 678.150",
@@ -1473,7 +1480,7 @@
         },
         {
             "sourceId": "UTC-00157",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "205.6",
             "IDS": "⿱㫐黽",
             "source": "DYC 680.121",
@@ -1481,14 +1488,14 @@
         },
         {
             "sourceId": "UTC-00158",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "32.13",
             "source": "DYC 694.212",
             "firstResidualStroke": "1"
         },
         {
             "sourceId": "UTC-00159",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "159.16",
             "IDS": "⿰車𡭊",
             "source": "DYC 722.320",
@@ -1506,7 +1513,7 @@
         },
         {
             "sourceId": "UTC-00161",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+8FA5",
             "radicalStrokeCount": "160.9",
             "IDS": "⿰𡶫辛",
@@ -1515,7 +1522,7 @@
         },
         {
             "sourceId": "UTC-00162",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "65.6",
             "IDS": "⿰朿支",
             "source": "kSBGY 044.02",
@@ -1523,7 +1530,7 @@
         },
         {
             "sourceId": "UTC-00163",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "75.7",
             "IDS": "⿰枸又",
             "source": "kSBGY 264.01",
@@ -1531,7 +1538,7 @@
         },
         {
             "sourceId": "UTC-00164",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "37.10",
             "IDS": "⿱栒大",
             "source": "kSBGY 278.03",
@@ -1548,7 +1555,7 @@
         },
         {
             "sourceId": "UTC-00166",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "78.13",
             "IDS": "⿰歹粲",
             "source": "kSBGY 403.29",
@@ -1585,7 +1592,7 @@
         },
         {
             "sourceId": "UTC-00170",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "85.15",
             "IDS": "⿲氵扌黃",
             "source": "kSBGY 429.23",
@@ -1593,7 +1600,7 @@
         },
         {
             "sourceId": "UTC-00171",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "85.9",
             "IDS": "⿰氵苨",
             "source": "kSBGY 269.28",
@@ -1640,7 +1647,7 @@
         },
         {
             "sourceId": "UTC-00176",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "108.7",
             "IDS": "⿱汦皿",
             "source": "kSBGY 051.09",
@@ -1648,7 +1655,7 @@
         },
         {
             "sourceId": "UTC-00177",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "106.11",
             "IDS": "⿱泊侖",
             "source": "kSBGY 351.48",
@@ -1656,7 +1663,7 @@
         },
         {
             "sourceId": "UTC-00178",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "96.13",
             "IDS": "⿰王𥏰",
             "source": "kSBGY 375.20,378.42",
@@ -1664,7 +1671,7 @@
         },
         {
             "sourceId": "UTC-00179",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "116.11",
             "IDS": "⿱穴商",
             "source": "kSBGY 510.22",
@@ -1672,7 +1679,7 @@
         },
         {
             "sourceId": "UTC-00180",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "118.20",
             "IDS": "⿱竹瀸",
             "source": "kSBGY 132.10",
@@ -1690,7 +1697,7 @@
         },
         {
             "sourceId": "UTC-00182",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "107.14",
             "IDS": "⿰箕皮",
             "source": "kSBGY 420.35",
@@ -1708,7 +1715,7 @@
         },
         {
             "sourceId": "UTC-00184",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "120.10",
             "IDS": "⿰糹虔",
             "source": "kSBGY 291.48",
@@ -1716,7 +1723,7 @@
         },
         {
             "sourceId": "UTC-00185",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+2A21C",
             "radicalStrokeCount": "120.22",
             "IDS": "⿲糹𡝤鳥",
@@ -1735,7 +1742,7 @@
         },
         {
             "sourceId": "UTC-00187",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "124.6",
             "IDS": "⿰羽戎",
             "source": "kSBGY 474.50",
@@ -1743,7 +1750,7 @@
         },
         {
             "sourceId": "UTC-00188",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "65.9",
             "IDS": "⿰耑支",
             "source": "kSBGY 246.15",
@@ -1761,7 +1768,7 @@
         },
         {
             "sourceId": "UTC-00190",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "132.12",
             "IDS": "⿰臭奈",
             "source": "kSBGY 387.15",
@@ -1799,7 +1806,7 @@
         },
         {
             "sourceId": "UTC-00194",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "142.10",
             "IDS": "⿰虫郤",
             "source": "kSBGY 513.12",
@@ -1807,7 +1814,7 @@
         },
         {
             "sourceId": "UTC-00195",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "65.10",
             "IDS": "⿰蚩支",
             "source": "kSBGY 250.28",
@@ -1865,7 +1872,7 @@
         },
         {
             "sourceId": "UTC-00201",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "149.9",
             "IDS": "⿰言羍",
             "source": "kSBGY 430.21",
@@ -1873,7 +1880,7 @@
         },
         {
             "sourceId": "UTC-00202",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "149.15",
             "IDS": "⿰言⿺⿱田儿隹",
             "source": "kSBGY 097.34",
@@ -1891,7 +1898,7 @@
         },
         {
             "sourceId": "UTC-00204",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "154.14",
             "IDS": "⿰貝睿",
             "source": "kSBGY 394.50",
@@ -1899,7 +1906,7 @@
         },
         {
             "sourceId": "UTC-00205",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "159.10",
             "IDS": "⿰車屐",
             "source": "kSBGY 510.39",
@@ -1907,7 +1914,7 @@
         },
         {
             "sourceId": "UTC-00206",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "65.7",
             "IDS": "⿰辰支",
             "source": "kSBGY 102.11",
@@ -1915,7 +1922,7 @@
         },
         {
             "sourceId": "UTC-00207",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "167.10",
             "IDS": "⿰金冤",
             "source": "kSBGY 115.19",
@@ -1933,7 +1940,7 @@
         },
         {
             "sourceId": "UTC-00209",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "173.15",
             "IDS": "⿱⻗瞐",
             "source": "kSBGY 465.55",
@@ -1951,7 +1958,7 @@
         },
         {
             "sourceId": "UTC-00211",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "182.10",
             "IDS": "⿺風荔",
             "source": "kSBGY 374.54",
@@ -1959,7 +1966,7 @@
         },
         {
             "sourceId": "UTC-00212",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "140.6",
             "IDS": "⿻𦫳⿰土匕",
             "source": "kSBGY 094.45",
@@ -1987,7 +1994,7 @@
         },
         {
             "sourceId": "UTC-00215",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+4D1F",
             "radicalStrokeCount": "198.3",
             "IDS": "⿸鹿丸",
@@ -1996,7 +2003,7 @@
         },
         {
             "sourceId": "UTC-00216",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "65.19",
             "IDS": "⿰麗支",
             "source": "kSBGY 268.25",
@@ -2004,7 +2011,7 @@
         },
         {
             "sourceId": "UTC-00217",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+4D66",
             "radicalStrokeCount": "203.6",
             "IDS": "⿰黑汗",
@@ -2013,7 +2020,7 @@
         },
         {
             "sourceId": "UTC-00218",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "76.17",
             "IDS": "⿰鼁欠",
             "source": "kSBGY 535.60",
@@ -2021,7 +2028,7 @@
         },
         {
             "sourceId": "UTC-00219",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "47.4",
             "IDS": "⿱亡𥘅",
             "source": "kSBGY 181.11",
@@ -2039,7 +2046,7 @@
         },
         {
             "sourceId": "UTC-00221",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "108.14",
             "IDS": "⿱⿰古⿹勹𦈢皿",
             "source": "kSBGY 266.14",
@@ -2047,7 +2054,7 @@
         },
         {
             "sourceId": "UTC-00222",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "120.14",
             "IDS": "⿱⿰咸次糸",
             "source": "kSBGY 229.38",
@@ -2055,7 +2062,7 @@
         },
         {
             "sourceId": "UTC-00223",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "184.7",
             "IDS": "⿰⿱土飠丮",
             "source": "kSBGY 390.04",
@@ -2063,7 +2070,7 @@
         },
         {
             "sourceId": "UTC-00224",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "37.6",
             "IDS": "⿱⿵大二日",
             "source": "kSBGY 375.04,495.45",
@@ -2071,7 +2078,7 @@
         },
         {
             "sourceId": "UTC-00225",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "27.4",
             "IDS": "⿱㞢厂",
             "source": "kSBGY 501.15",
@@ -2079,7 +2086,7 @@
         },
         {
             "sourceId": "UTC-00226",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "62.12",
             "IDS": "⿹𢦒春",
             "source": "kSBGY 278.06",
@@ -2087,7 +2094,7 @@
         },
         {
             "sourceId": "UTC-00227",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "41.6",
             "IDS": "⿳曰八寸",
             "source": "kSBGY 390.30",
@@ -2095,7 +2102,7 @@
         },
         {
             "sourceId": "UTC-00228",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "75.13",
             "IDS": "⿰木⿱云⿺⿱田儿厶",
             "source": "kSBGY 116.29",
@@ -2103,7 +2110,7 @@
         },
         {
             "sourceId": "UTC-00229",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "75.17",
             "IDS": "⿰木䆸",
             "source": "kSBGY 430.07",
@@ -2111,7 +2118,7 @@
         },
         {
             "sourceId": "UTC-00230",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "75.11",
             "IDS": "⿻末⿰目目",
             "source": "kSBGY 074.33",
@@ -2119,7 +2126,7 @@
         },
         {
             "sourceId": "UTC-00231",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+3D94",
             "radicalStrokeCount": "85.18",
             "IDS": "⿰氵⿳四⿰四四大",
@@ -2128,7 +2135,7 @@
         },
         {
             "sourceId": "UTC-00232",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "85.16",
             "IDS": "⿰氵䦧",
             "source": "kSBGY 524.14",
@@ -2155,7 +2162,7 @@
         },
         {
             "sourceId": "UTC-00235",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+269B7",
             "radicalStrokeCount": "114.21",
             "source": "kSBGY 360.16",
@@ -2163,7 +2170,7 @@
         },
         {
             "sourceId": "UTC-00236",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "19.14",
             "IDS": "⿲男力男",
             "source": "kSBGY 296.35",
@@ -2181,7 +2188,7 @@
         },
         {
             "sourceId": "UTC-00238",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "113.15",
             "IDS": "⿰礻賛",
             "source": "kSBGY 284.29",
@@ -2189,7 +2196,7 @@
         },
         {
             "sourceId": "UTC-00239",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "118.15",
             "IDS": "⿱竹賛",
             "source": "kSBGY 286.11",
@@ -2197,7 +2204,7 @@
         },
         {
             "sourceId": "UTC-00240",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "69.15",
             "IDS": "⿰⿱竹狊斤",
             "source": "kSBGY 376.02,376.39",
@@ -2205,7 +2212,7 @@
         },
         {
             "sourceId": "UTC-00241",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "18.9",
             "IDS": "⿰⿱罒止刂",
             "source": "kSBGY 180.15",
@@ -2213,7 +2220,7 @@
         },
         {
             "sourceId": "UTC-00242",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+6722",
             "radicalStrokeCount": "96.10",
             "IDS": "⿱⿰臣肉王",
@@ -2222,7 +2229,7 @@
         },
         {
             "sourceId": "UTC-00243",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "140.16",
             "IDS": "⿳艹椎木",
             "source": "kSBGY 147.29",
@@ -2230,7 +2237,7 @@
         },
         {
             "sourceId": "UTC-00244",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "37.12",
             "IDS": "⿱卝⿻𠈌大",
             "source": "kSBGY 093.28",
@@ -2257,9 +2264,10 @@
         },
         {
             "sourceId": "UTC-00247",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+27D6A",
             "radicalStrokeCount": "154.6",
+            "IDS": "⿰貝𪭊",
             "source": "kSBGY 530.08",
             "firstResidualStroke": "1"
         },
@@ -2275,7 +2283,7 @@
         },
         {
             "sourceId": "UTC-00249",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+4A76",
             "radicalStrokeCount": "177.9",
             "IDS": "⿰革𧈪",
@@ -2294,7 +2302,7 @@
         },
         {
             "sourceId": "UTC-00251",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "128.9",
             "IDS": "⿰⿱⺊𠕁⿱又耳",
             "source": "kSBGY 386.06",
@@ -2302,7 +2310,7 @@
         },
         {
             "sourceId": "UTC-00252",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+5AA3",
             "radicalStrokeCount": "38.10",
             "IDS": "⿰女𣑱",
@@ -2311,7 +2319,7 @@
         },
         {
             "sourceId": "UTC-00253",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "44.15",
             "IDS": "⿰⿱尼木桒",
             "source": "kSBGY 250.31",
@@ -2319,7 +2327,7 @@
         },
         {
             "sourceId": "UTC-00254",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "119.15",
             "IDS": "⿱⿰禾⿸厂果米",
             "source": "kSBGY 310.06",
@@ -2337,7 +2345,7 @@
         },
         {
             "sourceId": "UTC-00256",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "27.8",
             "IDS": "⿸厂阜",
             "source": "kSBGY 097.50",
@@ -2345,7 +2353,7 @@
         },
         {
             "sourceId": "UTC-00257",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "9.10",
             "IDS": "⿰亻⿰𧮫阝",
             "source": "kSBGY 511.20",
@@ -2361,7 +2369,7 @@
         },
         {
             "sourceId": "UTC-00259",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "18.2",
             "IDS": "⿰刁刂",
             "source": "kSBGY 144.29",
@@ -2369,7 +2377,7 @@
         },
         {
             "sourceId": "UTC-00260",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "18.3",
             "IDS": "⿰刃刂",
             "source": "kSBGY 175.34",
@@ -2377,7 +2385,7 @@
         },
         {
             "sourceId": "UTC-00261",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "24.9",
             "IDS": "⿰十皆",
             "source": "kSBGY 386.31",
@@ -2393,7 +2401,7 @@
         },
         {
             "sourceId": "UTC-00263",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "39.8",
             "IDS": "⿱姁子",
             "source": "kSBGY 193.14",
@@ -2401,7 +2409,7 @@
         },
         {
             "sourceId": "UTC-00264",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+2755D",
             "radicalStrokeCount": "142.18",
             "IDS": "⿱寍䖵",
@@ -2410,7 +2418,7 @@
         },
         {
             "sourceId": "UTC-00265",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "181.9",
             "IDS": "⿰宣頁",
             "source": "kSBGY 140.27",
@@ -2418,7 +2426,7 @@
         },
         {
             "sourceId": "UTC-00266",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "50.10",
             "IDS": "⿰帚召",
             "source": "kSBGY 149.18",
@@ -2426,7 +2434,7 @@
         },
         {
             "sourceId": "UTC-00267",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "50.10",
             "IDS": "⿰帚句",
             "source": "kSBGY 439.41",
@@ -2444,7 +2452,7 @@
         },
         {
             "sourceId": "UTC-00269",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "61.15",
             "IDS": "⿰忄瑩",
             "source": "kSBGY 432.34",
@@ -2452,7 +2460,7 @@
         },
         {
             "sourceId": "UTC-00270",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "62.7",
             "IDS": "⿴戊各",
             "source": "kSBGY 512.17",
@@ -2470,7 +2478,7 @@
         },
         {
             "sourceId": "UTC-00272",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "69.5",
             "IDS": "⿰斤皮",
             "source": "kSBGY 511.46",
@@ -2478,7 +2486,7 @@
         },
         {
             "sourceId": "UTC-00273",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "140.16",
             "IDS": "⿱艹㬙",
             "source": "kSBGY 243.32",
@@ -2486,7 +2494,7 @@
         },
         {
             "sourceId": "UTC-00274",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "42.8",
             "IDS": "⿱小兒",
             "source": "kSBGY 411.09",
@@ -2494,7 +2502,7 @@
         },
         {
             "sourceId": "UTC-00275",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+403D",
             "radicalStrokeCount": "109.7",
             "IDS": "⿰目㢟",
@@ -2503,7 +2511,7 @@
         },
         {
             "sourceId": "UTC-00276",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "44.6",
             "IDS": "⿸尸𠀘",
             "source": "kSBGY 407.42",
@@ -2511,7 +2519,7 @@
         },
         {
             "sourceId": "UTC-00277",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "46.4",
             "IDS": "⿱山六",
             "source": "kSBGY 454.30",
@@ -2519,7 +2527,7 @@
         },
         {
             "sourceId": "UTC-00278",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+20A32",
             "radicalStrokeCount": "46.2",
             "IDS": "⿱山𠂇",
@@ -2538,7 +2546,7 @@
         },
         {
             "sourceId": "UTC-00280",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "32.16",
             "IDS": "⿰土聮",
             "source": "kSBGY 103.44",
@@ -2554,14 +2562,14 @@
         },
         {
             "sourceId": "UTC-00282",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "70.3",
             "source": "DYC 308.441",
             "firstResidualStroke": "3"
         },
         {
             "sourceId": "UTC-00283",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "61.6",
             "IDS": "⿱屾心",
             "source": "kSBGY 162.20",
@@ -2569,7 +2577,7 @@
         },
         {
             "sourceId": "UTC-00284",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "140.4",
             "IDS": "⿱艹尐",
             "source": "kSBGY 162.20",
@@ -2580,13 +2588,14 @@
             "status": "ExtE",
             "codepoint": "U+2B9D4",
             "radicalStrokeCount": "22.8",
+            "IDS": "⿷⿱丶匚壯",
             "source": "kSBGY 183.09",
             "totalStrokes": "10",
             "firstResidualStroke": "3"
         },
         {
             "sourceId": "UTC-00286",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "40.18",
             "IDS": "⿱宀⿴茻⿱人仌",
             "source": "DYC 341.410",
@@ -2594,7 +2603,7 @@
         },
         {
             "sourceId": "UTC-00287",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "40.18",
             "IDS": "⿱宀⿴茻⿱人心",
             "source": "DYC 510.441",
@@ -2602,7 +2611,7 @@
         },
         {
             "sourceId": "UTC-00288",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "27.23",
             "source": "WL E09E"
         },
@@ -2746,7 +2755,7 @@
         },
         {
             "sourceId": "UTC-00303",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "115.16",
             "IDS": "⿰⿱𫇦禾𥁕",
             "source": "LDS 36",
@@ -2823,7 +2832,7 @@
         },
         {
             "sourceId": "UTC-00311",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "67.13",
             "IDS": "⿰文頊",
             "source": "LDS 60",
@@ -2871,7 +2880,7 @@
         },
         {
             "sourceId": "UTC-00316",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "162.12",
             "IDS": "⿺辶𢄉",
             "source": "DYC 074.130",
@@ -2879,7 +2888,7 @@
         },
         {
             "sourceId": "UTC-00317",
-            "status": "X",
+            "status": "NoAction",
             "codepoint": "U+27D2A",
             "radicalStrokeCount": "154.3",
             "IDS": "⿱𭕄贝",
@@ -2897,7 +2906,7 @@
         },
         {
             "sourceId": "UTC-00319",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "162.15",
             "IDS": "⿺辶𦹌",
             "source": "DYC 070.231",
@@ -2915,7 +2924,7 @@
         },
         {
             "sourceId": "UTC-00321",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "140.14",
             "IDS": "⿳艹辱廾",
             "source": "DYC 047.411",
@@ -2923,7 +2932,7 @@
         },
         {
             "sourceId": "UTC-00322",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "93.10",
             "IDS": "⿰牜𠪄",
             "source": "DYC 051.240",
@@ -2940,7 +2949,7 @@
         },
         {
             "sourceId": "UTC-00324",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+86D3",
             "radicalStrokeCount": "142.7",
             "IDS": "⿹𢦒虫",
@@ -2949,7 +2958,7 @@
         },
         {
             "sourceId": "UTC-00325",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "213.3",
             "IDS": "⿰夂龜",
             "source": "DYC 678.410",
@@ -2957,7 +2966,7 @@
         },
         {
             "sourceId": "UTC-00326",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "142.10",
             "IDS": "⿱井蛙",
             "source": "UDR",
@@ -3023,7 +3032,7 @@
         },
         {
             "sourceId": "UTC-00334",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+7BA1",
             "radicalStrokeCount": "87.8",
             "IDS": "⿱爫官",
@@ -3031,7 +3040,7 @@
         },
         {
             "sourceId": "UTC-00335",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+4E80",
             "radicalStrokeCount": "5.9",
             "IDS": "⿱𠮥⿻日乚",
@@ -3039,7 +3048,7 @@
         },
         {
             "sourceId": "UTC-00336",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "18.4",
             "source": "kLau 1027a"
         },
@@ -3079,14 +3088,14 @@
         },
         {
             "sourceId": "UTC-00341",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "142.13",
             "IDS": "⿱⿱亡口⿲月虫凡",
             "source": "kLau 1956a,1957a"
         },
         {
             "sourceId": "UTC-00342",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+8993",
             "radicalStrokeCount": "154.4",
             "IDS": "⿱不貝",
@@ -3094,7 +3103,7 @@
         },
         {
             "sourceId": "UTC-00343",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+7B97",
             "radicalStrokeCount": "118.8",
             "IDS": "⿳竹目大",
@@ -3102,7 +3111,7 @@
         },
         {
             "sourceId": "UTC-00344",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+69AB",
             "radicalStrokeCount": "24.12",
             "IDS": "⿱椎十",
@@ -3129,7 +3138,7 @@
         },
         {
             "sourceId": "UTC-00347",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "119.11",
             "IDS": "⿰米章",
             "source": "kLau 206f"
@@ -3146,7 +3155,7 @@
         },
         {
             "sourceId": "UTC-00349",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+9F02",
             "radicalStrokeCount": "205.4",
             "IDS": "⿱日黽",
@@ -3184,7 +3193,7 @@
         },
         {
             "sourceId": "UTC-00353",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+874C",
             "radicalStrokeCount": "30.9",
             "IDS": "⿰口科",
@@ -3201,12 +3210,13 @@
         },
         {
             "sourceId": "UTC-00355",
-            "status": "URO",
-            "codepoint": "U+9855",
+            "status": "ExtB",
+            "codepoint": "U+29530",
             "radicalStrokeCount": "181.10",
             "IDS": "⿰⿱日亚頁",
             "source": "kMeyerWempe 718",
-            "totalStrokes": "18"
+            "totalStrokes": "19",
+            "firstResidualStroke": "2"
         },
         {
             "sourceId": "UTC-00356",
@@ -3228,7 +3238,7 @@
         },
         {
             "sourceId": "UTC-00358",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+627B",
             "radicalStrokeCount": "64.7",
             "IDS": "⿰扌坎",
@@ -3328,7 +3338,7 @@
         },
         {
             "sourceId": "UTC-00369",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+69EA",
             "radicalStrokeCount": "75.11",
             "IDS": "⿱既木",
@@ -3345,7 +3355,7 @@
         },
         {
             "sourceId": "UTC-00371",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+650B",
             "radicalStrokeCount": "64.16",
             "IDS": "⿰扌頼",
@@ -3362,7 +3372,7 @@
         },
         {
             "sourceId": "UTC-00373",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "117.12",
             "IDS": "⿰立集",
             "source": "kMeyerWempe 1489*kCheungBauerIndex 449.03,449.04"
@@ -3379,7 +3389,7 @@
         },
         {
             "sourceId": "UTC-00375",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+5C62",
             "radicalStrokeCount": "63.11",
             "IDS": "⿸户婁",
@@ -3433,14 +3443,14 @@
         },
         {
             "sourceId": "UTC-00381",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "64.12",
             "IDS": "⿰扌寍",
             "source": "kMeyerWempe 2087*kCheungBauerIndex 423.02"
         },
         {
             "sourceId": "UTC-00382",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "30.10",
             "IDS": "⿰口倿",
             "source": "kMeyerWempe 2090"
@@ -3475,7 +3485,7 @@
         },
         {
             "sourceId": "UTC-00386",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+8334",
             "radicalStrokeCount": "140.5",
             "IDS": "⿱艹囘",
@@ -3503,7 +3513,7 @@
         },
         {
             "sourceId": "UTC-00389",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+6500",
             "radicalStrokeCount": "64.15",
             "IDS": "⿳⿲木攵木大手",
@@ -3529,7 +3539,7 @@
         },
         {
             "sourceId": "UTC-00392",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+5110",
             "radicalStrokeCount": "9.14",
             "IDS": "⿰亻賔",
@@ -3551,7 +3561,7 @@
         },
         {
             "sourceId": "UTC-00395",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+4F75",
             "radicalStrokeCount": "9.8",
             "IDS": "⿰亻並",
@@ -3583,7 +3593,7 @@
         },
         {
             "sourceId": "UTC-00399",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+6CE1",
             "radicalStrokeCount": "85.8",
             "IDS": "⿰氵抱",
@@ -3720,7 +3730,7 @@
         },
         {
             "sourceId": "UTC-00414",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+9193",
             "radicalStrokeCount": "130.9",
             "IDS": "⿰月⿱冘皿",
@@ -3773,7 +3783,7 @@
         },
         {
             "sourceId": "UTC-00420",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "30.11",
             "IDS": "⿰口兜",
             "source": "kCowles 4114*kMeyerWempe 3029*kCheungBauerIndex 375.08"
@@ -3817,7 +3827,7 @@
         },
         {
             "sourceId": "UTC-00425",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "72.13",
             "IDS": "⿰日嗇",
             "source": "kMeyerWempe 3338f"
@@ -3876,7 +3886,7 @@
         },
         {
             "sourceId": "UTC-00432",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "167.11",
             "IDS": "⿰金患",
             "source": "kMeyerWempe 3708b"
@@ -3932,14 +3942,14 @@
         },
         {
             "sourceId": "UTC-00438",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "61.10",
             "IDS": "⿱浟心",
             "source": "kMeyerWempe 3854d"
         },
         {
             "sourceId": "UTC-00439",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "140.7",
             "IDS": "⿳艹土夂",
             "source": "kMeyerWempe 3857d",
@@ -3957,10 +3967,13 @@
         },
         {
             "sourceId": "UTC-00441",
-            "status": "WS-2021",
+            "status": "URO",
+            "codepoint": "U+9FFD",
             "radicalStrokeCount": "30.10",
             "IDS": "⿰口窄",
-            "source": "kCowles 78"
+            "source": "kCowles 78",
+            "totalStrokes": "13",
+            "firstResidualStroke": "4"
         },
         {
             "sourceId": "UTC-00442",
@@ -4048,7 +4061,7 @@
         },
         {
             "sourceId": "UTC-00452",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+56B9",
             "radicalStrokeCount": "30.19",
             "IDS": "⿰口鏬",
@@ -4056,7 +4069,7 @@
         },
         {
             "sourceId": "UTC-00453",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+7C15",
             "radicalStrokeCount": "140.11",
             "IDS": "⿱艹勒",
@@ -4064,7 +4077,7 @@
         },
         {
             "sourceId": "UTC-00454",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+8534",
             "radicalStrokeCount": "140.13",
             "IDS": "⿱艹痲",
@@ -4087,7 +4100,7 @@
         },
         {
             "sourceId": "UTC-00457",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "7.17",
             "IDS": "⿱井⿰作恆",
             "source": "UDR"
@@ -4158,7 +4171,7 @@
         },
         {
             "sourceId": "UTC-00465",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+52E2",
             "radicalStrokeCount": "19.11",
             "IDS": "⿱執力",
@@ -4192,7 +4205,7 @@
         },
         {
             "sourceId": "UTC-00469",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+8438",
             "radicalStrokeCount": "140.6",
             "source": "kCowles 4883"
@@ -4218,28 +4231,28 @@
         },
         {
             "sourceId": "UTC-00472",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+8CFA",
             "radicalStrokeCount": "154.16",
             "source": "kLau 1293"
         },
         {
             "sourceId": "UTC-00473",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+76F4",
             "radicalStrokeCount": "109.3",
             "source": "kFennIndex 67.06*kLau 1465"
         },
         {
             "sourceId": "UTC-00474",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+690D",
             "radicalStrokeCount": "75.8",
             "source": "kLau 1467"
         },
         {
             "sourceId": "UTC-00475",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+947D",
             "radicalStrokeCount": "167.15",
             "IDS": "⿰金⿱⿰夬夬貝",
@@ -4256,7 +4269,7 @@
         },
         {
             "sourceId": "UTC-00477",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "14.8",
             "source": "kLau 1653"
         },
@@ -4272,14 +4285,14 @@
         },
         {
             "sourceId": "UTC-00479",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+2B88A",
             "radicalStrokeCount": "4.2",
             "source": "kFennIndex 64.06"
         },
         {
             "sourceId": "UTC-00480",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "154.12",
             "IDS": "⿸厂⿱倠貝",
             "source": "kLau 2317*kCheungBauerIndex 346.03"
@@ -4312,7 +4325,7 @@
         },
         {
             "sourceId": "UTC-00484",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "11.12",
             "IDS": "⿱入番",
             "source": "kCihaiT 147.402"
@@ -4338,13 +4351,13 @@
         },
         {
             "sourceId": "UTC-00487",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "4.2",
             "source": "kMeyerWempe 3370"
         },
         {
             "sourceId": "UTC-00488",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "104.9",
             "IDS": "⿸疒⿰皀阝",
             "source": "kMeyerWempe 3385b",
@@ -4361,7 +4374,7 @@
         },
         {
             "sourceId": "UTC-00490",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+52E2",
             "radicalStrokeCount": "19.11",
             "source": "kMeyerWempe 2616"
@@ -4378,27 +4391,27 @@
         },
         {
             "sourceId": "UTC-00492",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "75.7",
             "source": "kMeyerWempe 2530a"
         },
         {
             "sourceId": "UTC-00493",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "24.13",
             "IDS": "⿱半⿰半半",
             "source": "kMeyerWempe 282d"
         },
         {
             "sourceId": "UTC-00494",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "149.12",
             "IDS": "⿰言⿱罒豆",
             "source": "kMeyerWempe 866a"
         },
         {
             "sourceId": "UTC-00495",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "154.6",
             "IDS": "⿰貝兆",
             "source": "kMeyerWempe 1827f"
@@ -4462,7 +4475,7 @@
         },
         {
             "sourceId": "UTC-00502",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+6BEC",
             "radicalStrokeCount": "82.7",
             "IDS": "⿰毛求",
@@ -4470,7 +4483,7 @@
         },
         {
             "sourceId": "UTC-00503",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "61.10",
             "IDS": "⿱⿸厂叔心",
             "source": "kTang 40.103"
@@ -4629,7 +4642,7 @@
         },
         {
             "sourceId": "UTC-00520",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+9762",
             "radicalStrokeCount": "30.5",
             "source": "Shangwu 123.04"
@@ -4656,7 +4669,7 @@
         },
         {
             "sourceId": "UTC-00523",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+5528",
             "radicalStrokeCount": "30.7",
             "IDS": "⿲口卩且",
@@ -4684,7 +4697,7 @@
         },
         {
             "sourceId": "UTC-00526",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+5C14",
             "radicalStrokeCount": "42.2",
             "IDS": "⿱冖小",
@@ -4726,7 +4739,7 @@
         },
         {
             "sourceId": "UTC-00531",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+98A8",
             "radicalStrokeCount": "16.3",
             "source": "kFennIndex 136.08",
@@ -4879,7 +4892,7 @@
         },
         {
             "sourceId": "UTC-00547",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+4FDC",
             "radicalStrokeCount": "9.9",
             "IDS": "⿰亻𦥚",
@@ -4949,7 +4962,7 @@
         },
         {
             "sourceId": "UTC-00555",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+4F1A",
             "radicalStrokeCount": "9.4",
             "source": "kFennIndex 209.04"
@@ -5010,7 +5023,7 @@
             "radicalStrokeCount": "30.11",
             "IDS": "⿲口木𢌜",
             "source": "kCheungBauerIndex 379.04",
-            "totalStrokes": "13",
+            "totalStrokes": "14",
             "firstResidualStroke": "1"
         },
         {
@@ -5059,7 +5072,7 @@
         },
         {
             "sourceId": "UTC-00567",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+770B",
             "radicalStrokeCount": "109.5",
             "source": "kFennIndex 241.02"
@@ -5105,7 +5118,7 @@
         },
         {
             "sourceId": "UTC-00572",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+568A",
             "radicalStrokeCount": "30.14",
             "IDS": "⿰口⿳自田大",
@@ -5182,7 +5195,7 @@
         },
         {
             "sourceId": "UTC-00580",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+89BD",
             "radicalStrokeCount": "147.8",
             "IDS": "⿱臤見",
@@ -5198,7 +5211,7 @@
         },
         {
             "sourceId": "UTC-00582",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+6B77",
             "radicalStrokeCount": "61.12",
             "IDS": "⿸厂⿱秝心",
@@ -5206,7 +5219,7 @@
         },
         {
             "sourceId": "UTC-00583",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+4EE4",
             "radicalStrokeCount": "9.3",
             "IDS": "⿱⿵人一卩",
@@ -5254,7 +5267,7 @@
         },
         {
             "sourceId": "UTC-00588",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "119.23",
             "IDS": "⿰米戀",
             "source": "kFennIndex 321.10,325.08",
@@ -5301,7 +5314,7 @@
         },
         {
             "sourceId": "UTC-00593",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+80FD",
             "radicalStrokeCount": "130.7",
             "IDS": "⿰⿱厶⺝去",
@@ -5319,7 +5332,7 @@
         },
         {
             "sourceId": "UTC-00595",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+5AC2",
             "radicalStrokeCount": "38.10",
             "IDS": "⿰女⿳穴人夕",
@@ -5436,7 +5449,7 @@
         },
         {
             "sourceId": "UTC-00607",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "130.6",
             "IDS": "⿰月𠔉",
             "source": "kFennIndex 507.04",
@@ -5444,7 +5457,7 @@
         },
         {
             "sourceId": "UTC-00608",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+7B49",
             "radicalStrokeCount": "140.6",
             "IDS": "⿱艹寺",
@@ -5519,7 +5532,7 @@
         },
         {
             "sourceId": "UTC-00616",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+8EA5",
             "radicalStrokeCount": "187.18",
             "IDS": "⿰馬竄",
@@ -5547,14 +5560,14 @@
         },
         {
             "sourceId": "UTC-00619",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "39.9",
             "IDS": "⿰子背",
             "source": "kCheungBauerIndex 399.08"
         },
         {
             "sourceId": "UTC-00620",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+2197C",
             "radicalStrokeCount": "39.9",
             "IDS": "⿰子⿱刀貝",
@@ -5607,7 +5620,7 @@
         },
         {
             "sourceId": "UTC-00626",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+5C7B",
             "radicalStrokeCount": "46.4",
             "IDS": "⿰山刅",
@@ -5615,7 +5628,7 @@
         },
         {
             "sourceId": "UTC-00627",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+5C7B",
             "radicalStrokeCount": "46.3",
             "IDS": "⿰山刄",
@@ -5684,7 +5697,7 @@
         },
         {
             "sourceId": "UTC-00635",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "64.3",
             "IDS": "⿰扌小",
             "source": "kCheungBauerIndex 406.01",
@@ -5735,7 +5748,7 @@
         },
         {
             "sourceId": "UTC-00641",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+8207",
             "radicalStrokeCount": "55.2",
             "source": "kFennIndex 644.07,645.06"
@@ -5849,7 +5862,7 @@
         },
         {
             "sourceId": "UTC-00654",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+5160",
             "radicalStrokeCount": "64.13",
             "IDS": "⿰扌兠",
@@ -5925,7 +5938,7 @@
         },
         {
             "sourceId": "UTC-00663",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+8861",
             "radicalStrokeCount": "144.11",
             "IDS": "⿴行魚",
@@ -6003,7 +6016,7 @@
         },
         {
             "sourceId": "UTC-00672",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "75.13",
             "IDS": "⿰未曾",
             "source": "kCheungBauerIndex 431.05",
@@ -6132,7 +6145,7 @@
         },
         {
             "sourceId": "UTC-00687",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "40.4",
             "IDS": "⿱宀互",
             "source": "kHanYu 20920.050"
@@ -6421,7 +6434,7 @@
         },
         {
             "sourceId": "UTC-00719",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "116.5",
             "IDS": "⿱穴弗",
             "source": "kCheungBauerIndex 448.08",
@@ -6503,7 +6516,7 @@
         },
         {
             "sourceId": "UTC-00728",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+26629",
             "radicalStrokeCount": "130.5",
             "IDS": "⿰月扒",
@@ -6531,7 +6544,7 @@
         },
         {
             "sourceId": "UTC-00731",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "130.9",
             "IDS": "⿰月查",
             "source": "kCheungBauerIndex 453.01",
@@ -6549,7 +6562,7 @@
         },
         {
             "sourceId": "UTC-00733",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+81A5",
             "radicalStrokeCount": "130.11",
             "IDS": "⿰未⿱成肉",
@@ -6968,7 +6981,7 @@
         },
         {
             "sourceId": "UTC-00777",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "85.10",
             "IDS": "⿰氵玆",
             "source": "kHanYu 31707.010, KP1-52B4, UTCDoc L2/21-178 1",
@@ -7053,7 +7066,7 @@
         },
         {
             "sourceId": "UTC-00786",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+3A45",
             "radicalStrokeCount": "64.12",
             "source": "kCheungBauerIndex 422.08"
@@ -7078,7 +7091,7 @@
         },
         {
             "sourceId": "UTC-00789",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+8503",
             "radicalStrokeCount": "140.12",
             "IDS": "⿱艹强",
@@ -7106,268 +7119,268 @@
         },
         {
             "sourceId": "UTC-00792",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "159'.0",
             "IDS": "车",
             "source": "WL EF95"
         },
         {
             "sourceId": "UTC-00793",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "195'.0",
             "IDS": "鱼",
             "source": "WL EF72"
         },
         {
             "sourceId": "UTC-00794",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "29.3",
             "IDS": "睪",
             "source": "WL EFD1"
         },
         {
             "sourceId": "UTC-00795",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "86.0",
             "IDS": "火",
             "source": "WL EF8E"
         },
         {
             "sourceId": "UTC-00796",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "119.0",
             "IDS": "米",
             "source": "WL EF5A"
         },
         {
             "sourceId": "UTC-00797",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "75.0",
             "IDS": "木",
             "source": "WL EF9B"
         },
         {
             "sourceId": "UTC-00798",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "115.0",
             "IDS": "禾",
             "source": "WL EF93"
         },
         {
             "sourceId": "UTC-00799",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "11.0",
             "IDS": "入",
             "source": "WL E1DE"
         },
         {
             "sourceId": "UTC-00800",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "135.2",
             "IDS": "舍",
             "source": "WL EEBF"
         },
         {
             "sourceId": "UTC-00801",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "9.1",
             "IDS": "⿵人一",
             "source": "WL EFE9"
         },
         {
             "sourceId": "UTC-00802",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "38.0",
             "IDS": "女",
             "source": "WL EF8D"
         },
         {
             "sourceId": "UTC-00803",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "32.0",
             "IDS": "土",
             "source": "WL EF97"
         },
         {
             "sourceId": "UTC-00804",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "36.1",
             "IDS": "肉",
             "source": "WL EFDC"
         },
         {
             "sourceId": "UTC-00805",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "96.-1",
             "IDS": "王",
             "source": "WL EF84"
         },
         {
             "sourceId": "UTC-00806",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "46.0",
             "IDS": "山",
             "source": "WL EF6A"
         },
         {
             "sourceId": "UTC-00807",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "187'.0",
             "IDS": "马",
             "source": "WL EF7B"
         },
         {
             "sourceId": "UTC-00808",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "67.0",
             "IDS": "文",
             "source": "WL EF8F"
         },
         {
             "sourceId": "UTC-00809",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "44.0",
             "IDS": "尸",
             "source": "WL EF35"
         },
         {
             "sourceId": "UTC-00810",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "157.0",
             "IDS": "𧾷",
             "source": "WL EF76"
         },
         {
             "sourceId": "UTC-00811",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "173.0",
             "IDS": "⻗",
             "source": "WL EF89"
         },
         {
             "sourceId": "UTC-00812",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "116.0",
             "IDS": "穴",
             "source": "WL EF92"
         },
         {
             "sourceId": "UTC-00813",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "75.6",
             "source": "WL E180"
         },
         {
             "sourceId": "UTC-00814",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "4.1",
             "IDS": "𠂉",
             "source": "WL EFF6"
         },
         {
             "sourceId": "UTC-00815",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "37.0",
             "IDS": "大",
             "source": "WL EF42"
         },
         {
             "sourceId": "UTC-00816",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "163.7",
             "IDS": "⿰𧮫阝",
             "source": "WL E0A0"
         },
         {
             "sourceId": "UTC-00817",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "24.6",
             "source": "WL E076"
         },
         {
             "sourceId": "UTC-00818",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "117.0",
             "IDS": "立",
             "source": "WL EF78"
         },
         {
             "sourceId": "UTC-00819",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "127.0",
             "IDS": "耒",
             "source": "WL EF74"
         },
         {
             "sourceId": "UTC-00820",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "203.0",
             "IDS": "黑",
             "source": "WL EF02"
         },
         {
             "sourceId": "UTC-00821",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "111.0",
             "IDS": "矢",
             "source": "WL EF8A"
         },
         {
             "sourceId": "UTC-00822",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "3.1",
             "source": "WL EFF4"
         },
         {
             "sourceId": "UTC-00823",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "1.3",
             "source": "WL EFE3"
         },
         {
             "sourceId": "UTC-00824",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "1.3",
             "source": "WL EFE0"
         },
         {
             "sourceId": "UTC-00825",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "169.0",
             "IDS": "門",
             "source": "WL EF5D"
         },
         {
             "sourceId": "UTC-00826",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "182.0",
             "IDS": "風",
             "source": "WL EF4D"
         },
         {
             "sourceId": "UTC-00827",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "37.1",
             "IDS": "天",
             "source": "WL E15E"
         },
         {
             "sourceId": "UTC-00828",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "26.2",
             "IDS": "虎",
             "source": "WL E287"
         },
         {
             "sourceId": "UTC-00829",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "9.0",
             "IDS": "人",
             "source": "WL EFA2"
         },
         {
             "sourceId": "UTC-00830",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "53.4",
             "source": "WL EF24"
         },
@@ -7380,14 +7393,14 @@
         },
         {
             "sourceId": "UTC-00832",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "40.7",
             "IDS": "⿳宀𠀎八",
             "source": "WL EFB0"
         },
         {
             "sourceId": "UTC-00833",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "84.0",
             "IDS": "气",
             "source": "WL EF06"
@@ -7590,7 +7603,7 @@
         },
         {
             "sourceId": "UTC-00855",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+5DE5",
             "radicalStrokeCount": "48.0",
             "IDS": "⿳一𠃑一",
@@ -7799,7 +7812,7 @@
         },
         {
             "sourceId": "UTC-00876",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "118.6",
             "IDS": "⿱竹⿰阝攵",
             "source": "Adobe-CNS1 C+14165",
@@ -7808,7 +7821,7 @@
         },
         {
             "sourceId": "UTC-00877",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "188.17",
             "IDS": "⿰骨藏",
             "source": "Adobe-CNS1 C+16082",
@@ -7827,7 +7840,7 @@
         },
         {
             "sourceId": "UTC-00879",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "157.8",
             "IDS": "⿰足奉",
             "source": "Adobe-CNS1 C+16120",
@@ -7835,7 +7848,7 @@
         },
         {
             "sourceId": "UTC-00880",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "120.13",
             "IDS": "⿰糹⿸厂⿳田兀土",
             "source": "Adobe-CNS1 C+16137",
@@ -7843,7 +7856,7 @@
         },
         {
             "sourceId": "UTC-00881",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "191.13",
             "IDS": "⿵鬥黽",
             "source": "Adobe-CNS1 C+16155",
@@ -7851,7 +7864,7 @@
         },
         {
             "sourceId": "UTC-00882",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "30.9",
             "IDS": "⿰口思",
             "source": "Adobe-CNS1 C+16196",
@@ -7859,7 +7872,7 @@
         },
         {
             "sourceId": "UTC-00883",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "140.12",
             "IDS": "⿱艹⿰白辛",
             "source": "Adobe-CNS1 C+16212",
@@ -7867,7 +7880,7 @@
         },
         {
             "sourceId": "UTC-00884",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "5.5",
             "IDS": "⿱氶乙",
             "source": "Adobe-CNS1 C+16219",
@@ -7884,7 +7897,7 @@
         },
         {
             "sourceId": "UTC-00886",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "27.14",
             "IDS": "⿸厂⿱倠月",
             "source": "Adobe-CNS1 C+16237",
@@ -7892,7 +7905,7 @@
         },
         {
             "sourceId": "UTC-00887",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "85.13",
             "IDS": "⿰氵⿸虍⿱八目",
             "source": "Adobe-CNS1 C+16248",
@@ -7900,7 +7913,7 @@
         },
         {
             "sourceId": "UTC-00888",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "122.9",
             "IDS": "⿱罒訃",
             "source": "Adobe-CNS1 C+16252",
@@ -7908,7 +7921,7 @@
         },
         {
             "sourceId": "UTC-00889",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "167.10",
             "IDS": "⿰金袓",
             "source": "Adobe-CNS1 C+16257",
@@ -7916,7 +7929,7 @@
         },
         {
             "sourceId": "UTC-00890",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "145.3",
             "IDS": "⿰衤丸",
             "source": "Adobe-CNS1 C+16290",
@@ -7924,7 +7937,7 @@
         },
         {
             "sourceId": "UTC-00891",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "61.4",
             "IDS": "⿱毛心",
             "source": "Adobe-CNS1 C+16295",
@@ -7941,7 +7954,7 @@
         },
         {
             "sourceId": "UTC-00893",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "45.4",
             "IDS": "⿺屯千",
             "source": "Adobe-CNS1 C+16318",
@@ -7949,7 +7962,7 @@
         },
         {
             "sourceId": "UTC-00894",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "30.10",
             "IDS": "⿰口敇",
             "source": "Adobe-CNS1 C+16333",
@@ -7957,7 +7970,7 @@
         },
         {
             "sourceId": "UTC-00895",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "112.14",
             "IDS": "⿳⿴𦥑爻⿱一八石",
             "source": "Adobe-CNS1 C+16340",
@@ -7965,7 +7978,7 @@
         },
         {
             "sourceId": "UTC-00896",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "119.10",
             "IDS": "⿰米𦐇",
             "source": "Adobe-CNS1 C+16342",
@@ -7973,7 +7986,7 @@
         },
         {
             "sourceId": "UTC-00897",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "5.11",
             "IDS": "⿰⿳艹口𠕁乚",
             "source": "Adobe-CNS1 C+16376",
@@ -7981,7 +7994,7 @@
         },
         {
             "sourceId": "UTC-00898",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "61.12",
             "IDS": "⿰忄𢛧",
             "source": "Adobe-CNS1 C+16390",
@@ -7989,7 +8002,7 @@
         },
         {
             "sourceId": "UTC-00899",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "72.9",
             "IDS": "⿰日⿱白⿻⿰丶丶十",
             "source": "Adobe-CNS1 C+16571",
@@ -7997,7 +8010,7 @@
         },
         {
             "sourceId": "UTC-00900",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "68.8",
             "IDS": "⿱⿰斗斗斗",
             "source": "Adobe-CNS1 C+16806",
@@ -8068,7 +8081,7 @@
         },
         {
             "sourceId": "UTC-00910",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "30.15",
             "IDS": "⿰口劈",
             "source": "Adobe-CNS1 C+17329",
@@ -8076,7 +8089,7 @@
         },
         {
             "sourceId": "UTC-00911",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "32.3",
             "IDS": "⿰土干",
             "source": "Adobe-CNS1 C+17331",
@@ -8084,7 +8097,7 @@
         },
         {
             "sourceId": "UTC-00912",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "44.6",
             "IDS": "⿸尸彵",
             "source": "Adobe-CNS1 C+17334",
@@ -8092,7 +8105,7 @@
         },
         {
             "sourceId": "UTC-00913",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "104.22",
             "IDS": "⿸疒⿲彳𡼡攵",
             "source": "Adobe-CNS1 C+17362",
@@ -8405,7 +8418,7 @@
         },
         {
             "sourceId": "UTC-00949",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "40.35",
             "IDS": "⿱宀⿺辶⿱⿰王尔⿲隹貝招",
             "source": "UDR",
@@ -8413,22 +8426,25 @@
         },
         {
             "sourceId": "UTC-00950",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "113.9",
+            "IDS": "⿿福",
             "source": "UDR",
             "firstResidualStroke": "2"
         },
         {
             "sourceId": "UTC-00951",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "72.5",
+            "IDS": "⿿春",
             "source": "UDR",
             "firstResidualStroke": "2"
         },
         {
             "sourceId": "UTC-00952",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "167.5",
+            "IDS": "⿿钱",
             "source": "UDR",
             "firstResidualStroke": "2"
         },
@@ -8621,7 +8637,7 @@
             "status": "ExtG",
             "codepoint": "U+30053",
             "radicalStrokeCount": "6.10",
-            "IDS": "⿰？争",
+            "IDS": "⿰𰀈争",
             "source": "UTCDoc L2/12-333 4",
             "totalStrokes": "11",
             "firstResidualStroke": "1"
@@ -8641,7 +8657,7 @@
             "status": "ExtG",
             "codepoint": "U+3006C",
             "radicalStrokeCount": "9.5",
-            "IDS": "⿰亻？",
+            "IDS": "⿰亻𰋙",
             "source": "UTCDoc L2/12-333 6",
             "totalStrokes": "7",
             "firstResidualStroke": "2"
@@ -8651,7 +8667,7 @@
             "status": "ExtG",
             "codepoint": "U+30072",
             "radicalStrokeCount": "9.6",
-            "IDS": "⿰亻？",
+            "IDS": "⿰亻𰅰",
             "source": "UTCDoc L2/12-333 7",
             "totalStrokes": "8",
             "firstResidualStroke": "1"
@@ -8727,7 +8743,7 @@
             "status": "ExtG",
             "codepoint": "U+30179",
             "radicalStrokeCount": "24.8",
-            "IDS": "⿱？双",
+            "IDS": "⿱𰅰双",
             "source": "UTCDoc L2/12-333 15",
             "totalStrokes": "10",
             "firstResidualStroke": "2"
@@ -8795,7 +8811,7 @@
             "status": "ExtG",
             "codepoint": "U+30270",
             "radicalStrokeCount": "32.7",
-            "IDS": "⿰土？",
+            "IDS": "⿰土𰅴",
             "source": "UTCDoc L2/12-333 22",
             "totalStrokes": "10",
             "firstResidualStroke": "1"
@@ -8883,7 +8899,7 @@
             "status": "ExtG",
             "codepoint": "U+3034E",
             "radicalStrokeCount": "40.10",
-            "IDS": "⿰？定",
+            "IDS": "⿰𰀈定",
             "source": "UTCDoc L2/12-333 31",
             "totalStrokes": "13",
             "firstResidualStroke": "1"
@@ -8983,7 +8999,7 @@
             "status": "ExtG",
             "codepoint": "U+3044A",
             "radicalStrokeCount": "61.5",
-            "IDS": "⿰忄？",
+            "IDS": "⿰忄𰀈",
             "source": "UTCDoc L2/12-333 41",
             "totalStrokes": "8",
             "firstResidualStroke": "1"
@@ -8993,7 +9009,7 @@
             "status": "ExtG",
             "codepoint": "U+3044C",
             "radicalStrokeCount": "61.5",
-            "IDS": "⿰忄？",
+            "IDS": "⿰忄𰋙",
             "source": "UTCDoc L2/12-333 42",
             "totalStrokes": "8",
             "firstResidualStroke": "2"
@@ -9013,7 +9029,7 @@
             "status": "ExtG",
             "codepoint": "U+3045D",
             "radicalStrokeCount": "61.7",
-            "IDS": "⿰忄？",
+            "IDS": "⿰忄𰅴",
             "source": "UTCDoc L2/12-333 44",
             "totalStrokes": "10",
             "firstResidualStroke": "1"
@@ -9033,7 +9049,7 @@
             "status": "ExtG",
             "codepoint": "U+304CC",
             "radicalStrokeCount": "64.5",
-            "IDS": "⿰扌？",
+            "IDS": "⿰扌𰀉",
             "source": "UTCDoc L2/12-333 46",
             "totalStrokes": "8",
             "firstResidualStroke": "1"
@@ -9043,7 +9059,7 @@
             "status": "ExtG",
             "codepoint": "U+304E2",
             "radicalStrokeCount": "64.6",
-            "IDS": "⿰扌？",
+            "IDS": "⿰扌𰃝",
             "source": "UTCDoc L2/12-333 47",
             "totalStrokes": "9",
             "firstResidualStroke": "4"
@@ -9083,7 +9099,7 @@
             "status": "ExtG",
             "codepoint": "U+3057A",
             "radicalStrokeCount": "72.5",
-            "IDS": "⿰日？",
+            "IDS": "⿰日𰀈",
             "source": "UTCDoc L2/12-333 51",
             "totalStrokes": "9",
             "firstResidualStroke": "1"
@@ -9103,7 +9119,7 @@
             "status": "ExtG",
             "codepoint": "U+305DD",
             "radicalStrokeCount": "75.6",
-            "IDS": "⿰木？",
+            "IDS": "⿰木𰅰",
             "source": "UTCDoc L2/12-333 53",
             "totalStrokes": "10",
             "firstResidualStroke": "1"
@@ -9123,7 +9139,7 @@
             "status": "ExtG",
             "codepoint": "U+3067D",
             "radicalStrokeCount": "78.6",
-            "IDS": "⿰歹？",
+            "IDS": "⿰歹𰅰",
             "source": "UTCDoc L2/12-333 55",
             "totalStrokes": "10",
             "firstResidualStroke": "1"
@@ -9153,7 +9169,7 @@
             "status": "ExtG",
             "codepoint": "U+306D3",
             "radicalStrokeCount": "85.5",
-            "IDS": "⿰氵？",
+            "IDS": "⿰氵𰀈",
             "source": "UTCDoc L2/12-333 58",
             "totalStrokes": "8",
             "firstResidualStroke": "1"
@@ -9163,7 +9179,7 @@
             "status": "ExtG",
             "codepoint": "U+306EC",
             "radicalStrokeCount": "85.7",
-            "IDS": "⿰氵？",
+            "IDS": "⿰氵𰅴",
             "source": "UTCDoc L2/12-333 59",
             "totalStrokes": "10",
             "firstResidualStroke": "1"
@@ -9203,7 +9219,7 @@
             "status": "ExtG",
             "codepoint": "U+30831",
             "radicalStrokeCount": "93.5",
-            "IDS": "⿰牜？",
+            "IDS": "⿰牜𰋙",
             "source": "UTCDoc L2/12-333 63",
             "totalStrokes": "9",
             "firstResidualStroke": "2"
@@ -9213,7 +9229,7 @@
             "status": "ExtG",
             "codepoint": "U+30842",
             "radicalStrokeCount": "94.5",
-            "IDS": "⿰犭？",
+            "IDS": "⿰犭𰀈",
             "source": "UTCDoc L2/12-333 64",
             "totalStrokes": "8",
             "firstResidualStroke": "1"
@@ -9243,7 +9259,7 @@
             "status": "ExtG",
             "codepoint": "U+30955",
             "radicalStrokeCount": "109.5",
-            "IDS": "⿰目？",
+            "IDS": "⿰目𰀈",
             "source": "UTCDoc L2/12-333 67",
             "totalStrokes": "10",
             "firstResidualStroke": "1"
@@ -9313,7 +9329,7 @@
             "status": "ExtG",
             "codepoint": "U+30A62",
             "radicalStrokeCount": "117.5",
-            "IDS": "⿰立？",
+            "IDS": "⿰立𰀈",
             "source": "UTCDoc L2/12-333 74",
             "totalStrokes": "10",
             "firstResidualStroke": "1"
@@ -9393,7 +9409,7 @@
             "status": "ExtG",
             "codepoint": "U+30B4B",
             "radicalStrokeCount": "122.6",
-            "IDS": "⿱罒？",
+            "IDS": "⿱罒𰅰",
             "source": "UTCDoc L2/12-333 82",
             "totalStrokes": "11",
             "firstResidualStroke": "1"
@@ -9433,7 +9449,7 @@
             "status": "ExtG",
             "codepoint": "U+30C2B",
             "radicalStrokeCount": "140.5",
-            "IDS": "⿳艹？",
+            "IDS": "⿱艹𰀈",
             "source": "UTCDoc L2/12-333 86",
             "totalStrokes": "9",
             "firstResidualStroke": "1"
@@ -9473,7 +9489,7 @@
             "status": "ExtG",
             "codepoint": "U+30D55",
             "radicalStrokeCount": "149'.5",
-            "IDS": "⿰讠？",
+            "IDS": "⿰讠𰀈",
             "source": "UTCDoc L2/12-333 90",
             "totalStrokes": "7",
             "firstResidualStroke": "1"
@@ -9593,7 +9609,7 @@
             "status": "ExtG",
             "codepoint": "U+30F82",
             "radicalStrokeCount": "167'.7",
-            "IDS": "⿰钅？",
+            "IDS": "⿰钅𰅴",
             "source": "UTCDoc L2/12-333 102",
             "totalStrokes": "12",
             "firstResidualStroke": "1"
@@ -9603,7 +9619,7 @@
             "status": "ExtG",
             "codepoint": "U+310AA",
             "radicalStrokeCount": "181'.7",
-            "IDS": "⿰？页",
+            "IDS": "⿰𰅴页",
             "source": "UTCDoc L2/12-333 103",
             "totalStrokes": "13",
             "firstResidualStroke": "1"
@@ -11229,7 +11245,7 @@
         },
         {
             "sourceId": "UTC-01237",
-            "status": "X",
+            "status": "NoAction",
             "radicalStrokeCount": "75.14",
             "IDS": "⿰木愨",
             "source": "UTCDoc L2/15-177 36",
@@ -11417,7 +11433,7 @@
         },
         {
             "sourceId": "UTC-01256",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "85.16",
             "IDS": "⿰氵⿵門⿱土必",
             "source": "UTCDoc L2/15-177 55",
@@ -11426,7 +11442,7 @@
         },
         {
             "sourceId": "UTC-01257",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "85.17",
             "IDS": "⿰𤀤殳",
             "source": "UTCDoc L2/15-177 56",
@@ -11575,7 +11591,7 @@
         },
         {
             "sourceId": "UTC-01272",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "86.11",
             "IDS": "⿱炏冏",
             "source": "UTCDoc L2/15-177 71",
@@ -11614,7 +11630,7 @@
         },
         {
             "sourceId": "UTC-01276",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "86.13",
             "IDS": "⿱𤇾冏",
             "source": "UTCDoc L2/15-177 75",
@@ -11862,7 +11878,7 @@
         },
         {
             "sourceId": "UTC-01301",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "167.9",
             "IDS": "⿰金朐",
             "source": "UTCDoc L2/15-177 100",
@@ -12030,7 +12046,7 @@
         },
         {
             "sourceId": "UK-01318",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "8.1",
             "IDS": "⿰亥亥",
             "source": "UTCDoc L2/15-260 6",
@@ -12109,7 +12125,7 @@
         },
         {
             "sourceId": "UK-01326",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "13.2",
             "IDS": "⿱冂凵",
             "source": "UTCDoc L2/15-260 14",
@@ -12118,7 +12134,8 @@
         },
         {
             "sourceId": "UK-01327",
-            "status": "UK-2015",
+            "status": "ExtE",
+            "codepoint": "U+2C176",
             "radicalStrokeCount": "14.4",
             "IDS": "⿱冖止",
             "source": "UTCDoc L2/15-260 15",
@@ -12137,7 +12154,7 @@
         },
         {
             "sourceId": "UK-01329",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "16.3",
             "IDS": "⿱一⿲丿几丶",
             "source": "UTCDoc L2/15-260 17",
@@ -12146,7 +12163,7 @@
         },
         {
             "sourceId": "UK-01330",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "17.5",
             "IDS": "⿶凵歺",
             "source": "UTCDoc L2/15-260 18",
@@ -12175,7 +12192,7 @@
         },
         {
             "sourceId": "UK-01333",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "24.8",
             "IDS": "⿱𠦄仐",
             "source": "UTCDoc L2/15-260 21",
@@ -12214,7 +12231,7 @@
         },
         {
             "sourceId": "UK-01337",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "26.6",
             "IDS": "⿱此卩",
             "source": "UTCDoc L2/15-260 25",
@@ -12223,7 +12240,7 @@
         },
         {
             "sourceId": "UK-01338",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "30.4",
             "IDS": "⿱中口",
             "source": "UTCDoc L2/15-260 26",
@@ -12232,7 +12249,7 @@
         },
         {
             "sourceId": "UK-01339",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "30.6",
             "IDS": "⿱吅下",
             "source": "UTCDoc L2/15-260 27",
@@ -12261,7 +12278,7 @@
         },
         {
             "sourceId": "UK-01342",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "30.15",
             "IDS": "⿳吅𤰔吅",
             "source": "UTCDoc L2/15-260 30",
@@ -12280,7 +12297,8 @@
         },
         {
             "sourceId": "UK-01344",
-            "status": "UK-2015",
+            "status": "ExtB",
+            "codepoint": "U+21249",
             "radicalStrokeCount": "33.3",
             "IDS": "⿱士𠔼",
             "source": "UTCDoc L2/15-260 32",
@@ -12289,7 +12307,7 @@
         },
         {
             "sourceId": "UK-01345",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "34.2",
             "IDS": "⿱夂人",
             "source": "UTCDoc L2/15-260 33",
@@ -12308,7 +12326,7 @@
         },
         {
             "sourceId": "UK-01347",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "34.3",
             "IDS": "⿱夂大",
             "source": "UTCDoc L2/15-260 35",
@@ -12327,7 +12345,7 @@
         },
         {
             "sourceId": "UK-01349",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "58.15",
             "IDS": "⿱⿰彖彖口",
             "source": "UTCDoc L2/15-260 37",
@@ -12336,7 +12354,7 @@
         },
         {
             "sourceId": "UK-01350",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "196.3",
             "IDS": "⿰夕鳥",
             "source": "UTCDoc L2/15-260 38",
@@ -12345,7 +12363,8 @@
         },
         {
             "sourceId": "UK-01351",
-            "status": "UK-2015",
+            "status": "Variant",
+            "codepoint": "U+3B5F",
             "radicalStrokeCount": "75.6",
             "IDS": "⿱共木",
             "source": "UTCDoc L2/15-260 39",
@@ -12364,7 +12383,7 @@
         },
         {
             "sourceId": "UK-01353",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "38.4",
             "IDS": "⿱王女",
             "source": "UTCDoc L2/15-260 41",
@@ -12373,7 +12392,7 @@
         },
         {
             "sourceId": "UK-01354",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "38.6",
             "IDS": "⿰女𡧊",
             "source": "UTCDoc L2/15-260 42",
@@ -12382,7 +12401,7 @@
         },
         {
             "sourceId": "UK-01355",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "38.6",
             "IDS": "⿰女在",
             "source": "UTCDoc L2/15-260 43",
@@ -12391,7 +12410,7 @@
         },
         {
             "sourceId": "UK-01356",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "38.7",
             "IDS": "⿱我女",
             "source": "UTCDoc L2/15-260 44",
@@ -12410,7 +12429,7 @@
         },
         {
             "sourceId": "UK-01358",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "38.13",
             "IDS": "⿱⿰矢或女",
             "source": "UTCDoc L2/15-260 46",
@@ -12449,7 +12468,7 @@
         },
         {
             "sourceId": "UK-01362",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "40.7",
             "IDS": "⿱安止",
             "source": "UTCDoc L2/15-260 50",
@@ -12458,7 +12477,7 @@
         },
         {
             "sourceId": "UK-01363",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "40.1",
             "IDS": "⿳宀⿰女万止",
             "source": "UTCDoc L2/15-260 51",
@@ -12487,7 +12506,7 @@
         },
         {
             "sourceId": "UK-01366",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "40.1",
             "IDS": "⿳宀如止",
             "source": "UTCDoc L2/15-260 54",
@@ -12496,7 +12515,7 @@
         },
         {
             "sourceId": "UK-01367",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "40.9",
             "IDS": "⿱宀叟",
             "source": "UTCDoc L2/15-260 55",
@@ -12505,7 +12524,7 @@
         },
         {
             "sourceId": "UK-01368",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "40.1",
             "IDS": "⿱宀酒",
             "source": "UTCDoc L2/15-260 56",
@@ -12514,7 +12533,7 @@
         },
         {
             "sourceId": "UK-01369",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "30.6",
             "IDS": "⿰口𡵉",
             "source": "UTCDoc L2/15-260 57",
@@ -12543,7 +12562,7 @@
         },
         {
             "sourceId": "UK-01372",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "37.4",
             "IDS": "⿱戈大",
             "source": "UTCDoc L2/15-260 60",
@@ -12555,7 +12574,7 @@
             "status": "ExtG",
             "codepoint": "U+304A5",
             "radicalStrokeCount": "62.4",
-            "IDS": "⿱？戈",
+            "IDS": "⿱⿿戈戈",
             "source": "UTCDoc L2/15-260 61",
             "totalStrokes": "8",
             "firstResidualStroke": "1"
@@ -12732,7 +12751,7 @@
         },
         {
             "sourceId": "UK-01391",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "9.4",
             "IDS": "⿱𠆢丰",
             "source": "UTCDoc L2/15-260 79",
@@ -12794,14 +12813,14 @@
             "status": "ExtG",
             "codepoint": "U+30A07",
             "radicalStrokeCount": "113.8",
-            "IDS": "⿱？示",
+            "IDS": "⿱⿿隹示",
             "source": "UTCDoc L2/15-260 85",
             "totalStrokes": "13",
             "firstResidualStroke": "3"
         },
         {
             "sourceId": "UK-01398",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "115.2",
             "IDS": "⿰禾艹黽火",
             "source": "UTCDoc L2/15-260 86",
@@ -12830,7 +12849,7 @@
         },
         {
             "sourceId": "UK-01401",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "122.3",
             "IDS": "⿱网大",
             "source": "UTCDoc L2/15-260 89",
@@ -12869,7 +12888,7 @@
         },
         {
             "sourceId": "UK-01405",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "128.6",
             "IDS": "⿰耳吕",
             "source": "UTCDoc L2/15-260 93",
@@ -12898,7 +12917,7 @@
         },
         {
             "sourceId": "UK-01408",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "195.6",
             "IDS": "⿱自魚",
             "source": "UTCDoc L2/15-260 96",
@@ -12930,7 +12949,7 @@
             "status": "ExtG",
             "codepoint": "U+30C9E",
             "radicalStrokeCount": "141.4",
-            "IDS": "⿰虎？",
+            "IDS": "⿰虎⿿戈",
             "source": "UTCDoc L2/15-260 99",
             "totalStrokes": "12",
             "firstResidualStroke": "1"
@@ -13027,7 +13046,7 @@
         },
         {
             "sourceId": "UK-01421",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "29.7",
             "IDS": "⿰貝又",
             "source": "UTCDoc L2/15-260 109",
@@ -13046,7 +13065,7 @@
         },
         {
             "sourceId": "UK-01423",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "8.6",
             "IDS": "⿳亠丷⿹𠄎夕",
             "source": "UTCDoc L2/15-260 111",
@@ -13065,7 +13084,7 @@
         },
         {
             "sourceId": "UK-01425",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "193.1",
             "IDS": "⿱隻鬲",
             "source": "UTCDoc L2/15-260 113",
@@ -13114,11 +13133,12 @@
         },
         {
             "sourceId": "UK-01430",
-            "status": "ExtE",
-            "codepoint": "U+2C7CF",
+            "status": "NoAction",
             "radicalStrokeCount": "140.16",
+            "IDS": "⿱艹龜",
             "source": "UTCDoc L2/15-260 118",
-            "totalStrokes": "21",
+            "comments": "IRG Working Set 2021 03467 UK-20437",
+            "totalStrokes": "20",
             "firstResidualStroke": "3"
         },
         {
@@ -13183,7 +13203,7 @@
         },
         {
             "sourceId": "UK-01437",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "40.6",
             "IDS": "⿱宀汝",
             "source": "UTCDoc L2/15-260 125",
@@ -13222,7 +13242,7 @@
         },
         {
             "sourceId": "UK-01441",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "38.6",
             "IDS": "⿰女回",
             "source": "UTCDoc L2/15-260 129",
@@ -13431,7 +13451,7 @@
         },
         {
             "sourceId": "UK-01462",
-            "status": "UK-2015",
+            "status": "ExtB",
             "codepoint": "U+24261",
             "radicalStrokeCount": "86.7",
             "IDS": "⿱凹？",
@@ -13511,7 +13531,8 @@
         },
         {
             "sourceId": "UK-01470",
-            "status": "UK-2015",
+            "status": "ExtB",
+            "codepoint": "U+21827",
             "radicalStrokeCount": "38.11",
             "IDS": "⿱⿰其凡女",
             "source": "UTCDoc L2/15-260 158",
@@ -13610,7 +13631,8 @@
         },
         {
             "sourceId": "UK-01480",
-            "status": "UK-2015",
+            "status": "Variant",
+            "codepoint": "U+246D1",
             "radicalStrokeCount": "93.11",
             "IDS": "⿰牜⿸户甫",
             "source": "UTCDoc L2/15-260 168",
@@ -14139,7 +14161,7 @@
         },
         {
             "sourceId": "UK-01533",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "85.13",
             "IDS": "⿰氵⿸疒⿳又丿出",
             "source": "UTCDoc L2/15-260 221",
@@ -14538,7 +14560,8 @@
         },
         {
             "sourceId": "UK-01573",
-            "status": "UK-2015",
+            "status": "Variant",
+            "codepoint": "U+20266",
             "radicalStrokeCount": "9.9",
             "IDS": "⿰亻⿱丆⿴囗仌",
             "source": "UTCDoc L2/15-260 261",
@@ -14637,7 +14660,7 @@
         },
         {
             "sourceId": "UK-01583",
-            "status": "UK-2015",
+            "status": "NoAction",
             "radicalStrokeCount": "90.9",
             "IDS": "⿰爿首",
             "source": "UTCDoc L2/15-260 271",
@@ -14666,7 +14689,8 @@
         },
         {
             "sourceId": "UK-01586",
-            "status": "UK-2015",
+            "status": "ExtB",
+            "codepoint": "U+2327B",
             "radicalStrokeCount": "72.11",
             "IDS": "⿱𥎿日",
             "source": "UTCDoc L2/15-260 274",
@@ -14805,7 +14829,8 @@
         },
         {
             "sourceId": "UK-01600",
-            "status": "UK-2015",
+            "status": "Variant",
+            "codepoint": "U+2A7CA",
             "radicalStrokeCount": "18.9",
             "IDS": "⿱？分",
             "source": "UTCDoc L2/15-260 288",
@@ -15074,7 +15099,8 @@
         },
         {
             "sourceId": "UK-01627",
-            "status": "UK-2015",
+            "status": "ExtB",
+            "codepoint": "U+23FD5",
             "radicalStrokeCount": "85.13",
             "IDS": "⿰氵𢊁",
             "source": "UTCDoc L2/15-260 315",
@@ -15583,8 +15609,8 @@
         },
         {
             "sourceId": "UK-01678",
-            "status": "UK-2015",
-            "codepoint": "U+4FF4",
+            "status": "ExtB",
+            "codepoint": "U+20219",
             "radicalStrokeCount": "9.5",
             "IDS": "⿰亻戋",
             "source": "UTCDoc L2/15-260 366",
@@ -16263,8 +16289,8 @@
         },
         {
             "sourceId": "UK-01746",
-            "status": "UK-2015",
-            "codepoint": "U+6AD4",
+            "status": "Variant",
+            "codepoint": "U+6803",
             "radicalStrokeCount": "75.5",
             "IDS": "⿰木厉",
             "source": "UTCDoc L2/15-260 434",
@@ -17143,8 +17169,8 @@
         },
         {
             "sourceId": "UK-01834",
-            "status": "UK-2015",
-            "codepoint": "U+65DF",
+            "status": "Variant",
+            "codepoint": "U+2D930",
             "radicalStrokeCount": "70.5",
             "IDS": "⿰方⿱𠂉与",
             "source": "UTCDoc L2/15-260 522",
@@ -18213,8 +18239,8 @@
         },
         {
             "sourceId": "UK-01941",
-            "status": "UK-2015",
-            "codepoint": "U+891D U+79AA",
+            "status": "Variant",
+            "codepoint": "U+891D",
             "radicalStrokeCount": "145.8",
             "IDS": "⿰衤单",
             "source": "UTCDoc L2/15-260 629",
@@ -18473,8 +18499,8 @@
         },
         {
             "sourceId": "UK-01967",
-            "status": "UK-2015",
-            "codepoint": "U+8518",
+            "status": "ExtB",
+            "codepoint": "U+26C9E",
             "radicalStrokeCount": "140.8",
             "IDS": "⿱艹参",
             "source": "UTCDoc L2/15-260 655",
@@ -20633,8 +20659,8 @@
         },
         {
             "sourceId": "UK-02183",
-            "status": "UK-2015",
-            "codepoint": "U+8B9F",
+            "status": "Variant",
+            "codepoint": "U+2E64B",
             "radicalStrokeCount": "149'.15",
             "IDS": "⿰读言",
             "source": "UTCDoc L2/15-260 871",
@@ -24723,7 +24749,7 @@
         },
         {
             "sourceId": "UK-02592",
-            "status": "ExtE",
+            "status": "Variant",
             "codepoint": "U+2CE73",
             "radicalStrokeCount": "210'.4",
             "IDS": "⿵齐贝",
@@ -25123,8 +25149,8 @@
         },
         {
             "sourceId": "UK-02632",
-            "status": "UK-2015",
-            "codepoint": "U+2BF4A",
+            "status": "Variant",
+            "codepoint": "U+632C",
             "radicalStrokeCount": "64.8",
             "IDS": "⿰扌⿱龸子",
             "source": "UTCDoc L2/15-260 1320",
@@ -25153,7 +25179,8 @@
         },
         {
             "sourceId": "UK-02635",
-            "status": "UK-2015",
+            "status": "Variant",
+            "codepoint": "U+2BA65",
             "radicalStrokeCount": "30.5",
             "IDS": "⿰口归",
             "source": "UTCDoc L2/15-260 1323",
@@ -25302,7 +25329,8 @@
         },
         {
             "sourceId": "UK-02650",
-            "status": "UK-2015",
+            "status": "Variant",
+            "codepoint": "U+29466",
             "radicalStrokeCount": "181.4",
             "IDS": "⿰殳頁",
             "source": "UTCDoc L2/15-260 1338",
@@ -25311,7 +25339,7 @@
         },
         {
             "sourceId": "UK-02651",
-            "status": "UK-2015",
+            "status": "Variant",
             "codepoint": "U+241C6",
             "radicalStrokeCount": "86.6",
             "IDS": "⿰火回",
@@ -25361,8 +25389,8 @@
         },
         {
             "sourceId": "UK-02656",
-            "status": "UK-2015",
-            "codepoint": "U+788A",
+            "status": "ExtB",
+            "codepoint": "U+2548E",
             "radicalStrokeCount": "112.5",
             "IDS": "⿰石戋",
             "source": "UTCDoc L2/15-260 1344",
@@ -26560,8 +26588,8 @@
         },
         {
             "sourceId": "UK-02776",
-            "status": "UK-2015",
-            "codepoint": "U+2B938",
+            "status": "Variant",
+            "codepoint": "U+2780A",
             "radicalStrokeCount": "14.8",
             "IDS": "⿳冖一見",
             "source": "UTCDoc L2/15-260 1464",
@@ -26610,8 +26638,8 @@
         },
         {
             "sourceId": "UK-02781",
-            "status": "UK-2015",
-            "codepoint": "U+2BF1F",
+            "status": "Variant",
+            "codepoint": "U+6465",
             "radicalStrokeCount": "64.11",
             "IDS": "⿰扌⿱𠂉昜",
             "source": "UTCDoc L2/15-260 1469",
@@ -26620,7 +26648,8 @@
         },
         {
             "sourceId": "UK-02782",
-            "status": "UK-2015",
+            "status": "Variant",
+            "codepoint": "U+22ACF",
             "radicalStrokeCount": "64.5",
             "IDS": "⿰扌冚",
             "source": "UTCDoc L2/15-260 1470",
@@ -26669,7 +26698,7 @@
         },
         {
             "sourceId": "UK-02787",
-            "status": "UK-2015",
+            "status": "ExtA",
             "codepoint": "U+38C7",
             "radicalStrokeCount": "50.6",
             "IDS": "⿳⿱夕一𠂊巾",
@@ -26699,8 +26728,8 @@
         },
         {
             "sourceId": "UK-02790",
-            "status": "UK-2015",
-            "codepoint": "U+2BF28",
+            "status": "ExtB",
+            "codepoint": "U+22C3A",
             "radicalStrokeCount": "64.9",
             "IDS": "⿰扌負",
             "source": "UTCDoc L2/15-260 1478",
@@ -27009,7 +27038,7 @@
         },
         {
             "sourceId": "UK-02821",
-            "status": "UK-2015",
+            "status": "Variant",
             "codepoint": "U+2219E",
             "radicalStrokeCount": "24.1",
             "IDS": "⿱幵朿",
@@ -27099,8 +27128,8 @@
         },
         {
             "sourceId": "UK-02830",
-            "status": "ExtB",
-            "codepoint": "U+238A7",
+            "status": "ExtA",
+            "codepoint": "U+4DBE",
             "radicalStrokeCount": "76.8",
             "IDS": "⿰臾欠",
             "source": "UTCDoc L2/15-260 1518",
@@ -27229,7 +27258,7 @@
         },
         {
             "sourceId": "UK-02843",
-            "status": "ExtB",
+            "status": "Variant",
             "codepoint": "U+24498",
             "radicalStrokeCount": "86.16",
             "IDS": "⿰火篤",
@@ -27269,11 +27298,12 @@
         },
         {
             "sourceId": "UK-02847",
-            "status": "UK-2015",
+            "status": "Variant",
+            "codepoint": "U+3C80",
             "radicalStrokeCount": "79.9",
             "IDS": "⿰⿸尸？殳",
             "source": "UTCDoc L2/15-260 1535",
-            "totalStrokes": "?",
+            "totalStrokes": "13",
             "firstResidualStroke": "5"
         },
         {
@@ -27308,7 +27338,8 @@
         },
         {
             "sourceId": "UK-02851",
-            "status": "UK-2015",
+            "status": "Variant",
+            "codepoint": "U+3A30",
             "radicalStrokeCount": "64.11",
             "IDS": "⿰扌袞",
             "source": "UTCDoc L2/15-260 1539",
@@ -27357,8 +27388,8 @@
         },
         {
             "sourceId": "UK-02856",
-            "status": "UK-2015",
-            "codepoint": "U+2C312",
+            "status": "Variant",
+            "codepoint": "U+2459B",
             "radicalStrokeCount": "90.12",
             "IDS": "⿱將且",
             "source": "UTCDoc L2/15-260 1544",
@@ -27367,8 +27398,8 @@
         },
         {
             "sourceId": "UK-02857",
-            "status": "UK-2015",
-            "codepoint": "U+2C920",
+            "status": "Variant",
+            "codepoint": "U+27B0C",
             "radicalStrokeCount": "149.12",
             "IDS": "⿰訁嵒",
             "source": "UTCDoc L2/15-260 1545",
@@ -27527,8 +27558,8 @@
         },
         {
             "sourceId": "UK-02873",
-            "status": "UK-2015",
-            "codepoint": "U+2C172",
+            "status": "Variant",
+            "codepoint": "U+23936",
             "radicalStrokeCount": "76.17",
             "IDS": "⿰⿳土八黽欠",
             "source": "UTCDoc L2/15-260 1561",
@@ -27557,8 +27588,8 @@
         },
         {
             "sourceId": "UK-02876",
-            "status": "UK-2015",
-            "codepoint": "U+2CCD4",
+            "status": "Variant",
+            "codepoint": "U+297E0",
             "radicalStrokeCount": "184.14",
             "IDS": "⿰飠麽",
             "source": "UTCDoc L2/15-260 1564",
@@ -27577,7 +27608,7 @@
         },
         {
             "sourceId": "UK-02878",
-            "status": "UK-2015",
+            "status": "Variant",
             "codepoint": "U+7666",
             "radicalStrokeCount": "104.13",
             "IDS": "⿸疒⿳？八土",
@@ -27757,7 +27788,8 @@
         },
         {
             "sourceId": "UK-02896",
-            "status": "UK-2015",
+            "status": "ExtF",
+            "codepoint": "U+2DE4A",
             "radicalStrokeCount": "144.4",
             "IDS": "⿲彳王亍",
             "source": "UTCDoc L2/15-260 1584",
@@ -27986,7 +28018,8 @@
         },
         {
             "sourceId": "UK-02919",
-            "status": "UK-2015",
+            "status": "Variant",
+            "codepoint": "U+7097",
             "radicalStrokeCount": "86.5",
             "IDS": "⿱㐀火",
             "source": "UTCDoc L2/15-260 1607",
@@ -28015,7 +28048,7 @@
         },
         {
             "sourceId": "UK-02922",
-            "status": "UK-2015",
+            "status": "ExtB",
             "codepoint": "U+2363B",
             "radicalStrokeCount": "75.11",
             "IDS": "⿰木𦯬",
@@ -28025,7 +28058,7 @@
         },
         {
             "sourceId": "UK-02923",
-            "status": "UK-2015",
+            "status": "ExtB",
             "codepoint": "U+23839",
             "radicalStrokeCount": "75.19",
             "IDS": "⿰木⿱𥫗𦀤",
@@ -28035,7 +28068,7 @@
         },
         {
             "sourceId": "UK-02924",
-            "status": "ExtF",
+            "status": "Variant",
             "codepoint": "U+2DED0",
             "radicalStrokeCount": "102.6",
             "IDS": "⿰田朶",
@@ -28045,7 +28078,7 @@
         },
         {
             "sourceId": "UK-02925",
-            "status": "ExtF",
+            "status": "Variant",
             "codepoint": "U+2E0C4",
             "radicalStrokeCount": "115.6",
             "IDS": "⿰禾朶",
@@ -28065,7 +28098,7 @@
         },
         {
             "sourceId": "UK-02927",
-            "status": "UK-2015",
+            "status": "Variant",
             "codepoint": "U+27466",
             "radicalStrokeCount": "142.12",
             "IDS": "⿰虫⿱佳夬",
@@ -28075,7 +28108,7 @@
         },
         {
             "sourceId": "UK-02928",
-            "status": "ExtF",
+            "status": "Variant",
             "codepoint": "U+2EAC4",
             "radicalStrokeCount": "190.6",
             "IDS": "⿱髟朶",
@@ -28085,7 +28118,7 @@
         },
         {
             "sourceId": "UK-02929",
-            "status": "ExtF",
+            "status": "Variant",
             "codepoint": "U+2E073",
             "radicalStrokeCount": "113.6",
             "IDS": "⿰礻朶",
@@ -28095,7 +28128,7 @@
         },
         {
             "sourceId": "UK-02930",
-            "status": "ExtB",
+            "status": "Variant",
             "codepoint": "U+2668D",
             "radicalStrokeCount": "130.4",
             "IDS": "⿱木月",
@@ -28248,7 +28281,7 @@
             "status": "ExtG",
             "codepoint": "U+300F6",
             "radicalStrokeCount": "15.4",
-            "IDS": "冫风",
+            "IDS": "⿰冫风",
             "source": "UTCDoc L2/15-260 1633",
             "totalStrokes": "6",
             "firstResidualStroke": "3"
@@ -28258,7 +28291,7 @@
             "status": "ExtG",
             "codepoint": "U+30FC0",
             "radicalStrokeCount": "167'.13",
-            "IDS": "钅鉴",
+            "IDS": "⿰钅鉴",
             "source": "UTCDoc L2/15-260 1634",
             "totalStrokes": "18",
             "firstResidualStroke": "2"
@@ -28268,7 +28301,7 @@
             "status": "ExtG",
             "codepoint": "U+30F7D",
             "radicalStrokeCount": "167'.6",
-            "IDS": "钅羊",
+            "IDS": "⿰钅羊",
             "source": "UTCDoc L2/15-260 1635",
             "totalStrokes": "11",
             "firstResidualStroke": "4"
@@ -28278,7 +28311,7 @@
             "status": "ExtG",
             "codepoint": "U+30C82",
             "radicalStrokeCount": "140.13",
-            "IDS": "艹腾",
+            "IDS": "⿱艹腾",
             "source": "UTCDoc L2/15-260 1636",
             "totalStrokes": "16",
             "firstResidualStroke": "3"
@@ -28288,7 +28321,7 @@
             "status": "ExtG",
             "codepoint": "U+306EE",
             "radicalStrokeCount": "85.7",
-            "IDS": "氵卤",
+            "IDS": "⿰氵卤",
             "source": "UTCDoc L2/15-260 1637",
             "totalStrokes": "10",
             "firstResidualStroke": "2"
@@ -28742,8 +28775,8 @@
         },
         {
             "sourceId": "UTC-02994",
-            "status": "WS-2017",
-            "codepoint": "U+44D5",
+            "status": "ExtI",
+            "codepoint": "U+2EDE3",
             "radicalStrokeCount": "162.8",
             "IDS": "⿺辶芫",
             "source": "UTCDoc L2/17-062 14",
@@ -29611,7 +29644,7 @@
         },
         {
             "sourceId": "UTC-03076",
-            "status": "W",
+            "status": "Rejected",
             "radicalStrokeCount": "181'.3",
             "IDS": "⿰叉页",
             "source": "UTCDoc L2/17-062 96"
@@ -29709,7 +29742,8 @@
         },
         {
             "sourceId": "UTC-03086",
-            "status": "WS-2017",
+            "status": "FutureWS",
+            "codepoint": "U+3696 U+209F5 U+21605",
             "radicalStrokeCount": "37.6",
             "IDS": "⿱囟大",
             "source": "UTCDoc L2/17-204",
@@ -29878,11 +29912,12 @@
         },
         {
             "sourceId": "UTC-03103",
-            "status": "WS-2017",
-            "radicalStrokeCount": "190.11",
+            "status": "FutureWS",
+            "codepoint": "U+9B14",
+            "radicalStrokeCount": "190.10",
             "IDS": "⿱髟逄",
             "source": "UTCDoc L2/17-204",
-            "totalStrokes": "21 20",
+            "totalStrokes": "20",
             "firstResidualStroke": "3"
         },
         {
@@ -29897,10 +29932,10 @@
         },
         {
             "sourceId": "UTC-03105",
-            "status": "WS-2017",
+            "status": "FutureWS",
             "codepoint": "U+8F2F",
             "radicalStrokeCount": "159.9",
-            "IDS": "⿰車⿳口冖月",
+            "IDS": "⿰車⿱口肎",
             "source": "UTCDoc L2/17-204",
             "totalStrokes": "16",
             "firstResidualStroke": "2"
@@ -30007,7 +30042,8 @@
         },
         {
             "sourceId": "UTC-03116",
-            "status": "WS-2017",
+            "status": "FutureWS",
+            "codepoint": "U+2A01A",
             "radicalStrokeCount": "196.6",
             "IDS": "⿰戎鳥",
             "source": "UTCDoc L2/17-204",
@@ -30026,7 +30062,8 @@
         },
         {
             "sourceId": "UTC-03118",
-            "status": "WS-2017",
+            "status": "FutureWS",
+            "codepoint": "U+3D31 U+23D6B",
             "radicalStrokeCount": "85.9",
             "IDS": "⿰氵⿱穴文",
             "source": "UTCDoc L2/17-204",
@@ -30035,7 +30072,8 @@
         },
         {
             "sourceId": "UTC-03119",
-            "status": "WS-2017",
+            "status": "FutureWS",
+            "codepoint": "U+21F1B",
             "radicalStrokeCount": "46.11",
             "IDS": "⿰山戛",
             "source": "UTCDoc L2/17-204",
@@ -30144,8 +30182,8 @@
         },
         {
             "sourceId": "UTC-03130",
-            "status": "WS-2017",
-            "codepoint": "U+27708",
+            "status": "FutureWS",
+            "codepoint": "U+27708 U+2777B",
             "radicalStrokeCount": "145.11",
             "IDS": "⿳亠𣍹𧘇",
             "source": "UTCDoc L2/17-204",
@@ -30172,7 +30210,7 @@
         },
         {
             "sourceId": "UTC-03133",
-            "status": "WS-2017",
+            "status": "ExtA",
             "codepoint": "U+3A9C",
             "radicalStrokeCount": "66.9",
             "IDS": "⿰耑攵",
@@ -30382,12 +30420,13 @@
         },
         {
             "sourceId": "UTC-03154",
-            "status": "WS-2017",
-            "radicalStrokeCount": "134.13",
-            "IDS": "⿱輿𠀆",
+            "status": "FutureWS",
+            "codepoint": "U+22E4F",
+            "radicalStrokeCount": "159.13",
+            "IDS": "⿱輿⿻二丨",
             "source": "UTCDoc L2/17-204",
             "totalStrokes": "20",
-            "firstResidualStroke": "1"
+            "firstResidualStroke": "3"
         },
         {
             "sourceId": "UTC-03155",
@@ -30575,7 +30614,7 @@
         },
         {
             "sourceId": "UTC-03175",
-            "status": "W",
+            "status": "Rejected",
             "codepoint": "U+9CF8",
             "radicalStrokeCount": "196.4",
             "IDS": "⿸广𩾏",
@@ -30596,7 +30635,7 @@
             "sourceId": "UTC-03177",
             "status": "WS-2021",
             "radicalStrokeCount": "96.17",
-            "IDS": "⿰𤣩賽",
+            "IDS": "⿰王賽",
             "source": "UTCDoc L2/18-097 8",
             "totalStrokes": "21",
             "firstResidualStroke": "4"
@@ -30800,7 +30839,7 @@
             "sourceId": "UTC-03199",
             "status": "WS-2021",
             "radicalStrokeCount": "140.6",
-            "IDS": "⿰艹吐",
+            "IDS": "⿱艹吐",
             "source": "UTCDoc L2/18-290 6",
             "comments": "Taiwanese: puh",
             "totalStrokes": "10",
@@ -30964,7 +31003,8 @@
         },
         {
             "sourceId": "UTC-03216",
-            "status": "WS-2021",
+            "status": "Variant",
+            "codepoint": "U+2BAD5",
             "radicalStrokeCount": "30.11",
             "IDS": "⿰口梃",
             "source": "UTCDoc L2/20-093 2",
@@ -31004,7 +31044,7 @@
         },
         {
             "sourceId": "UTC-03220",
-            "status": "W",
+            "status": "Rejected",
             "codepoint": "UTC-03214",
             "radicalStrokeCount": "162.35",
             "IDS": "⿺辶⿳⿲日日日⿲日日日⿲日日巾",
@@ -31142,7 +31182,7 @@
         },
         {
             "sourceId": "UTC-03234",
-            "status": "V",
+            "status": "Variant",
             "codepoint": "U+5B78",
             "radicalStrokeCount": "39.13",
             "IDS": "⿱⿶⿱𦥑冖文子",
@@ -31173,7 +31213,7 @@
             "sourceId": "UTC-03237",
             "status": "WS-2021",
             "radicalStrokeCount": "86.12",
-            "IDS": "⿰晶灬",
+            "IDS": "⿱晶灬",
             "source": "UTCDoc L2/21-025 3",
             "comments": "kJapaneseOn SHOU",
             "totalStrokes": "16",
@@ -31190,7 +31230,7 @@
         },
         {
             "sourceId": "UTC-03239",
-            "status": "N",
+            "status": "FutureWS",
             "codepoint": "U+2BB71",
             "radicalStrokeCount": "75.7",
             "IDS": "⿰木𮕜",
@@ -31201,7 +31241,7 @@
         },
         {
             "sourceId": "UTC-03240",
-            "status": "N",
+            "status": "FutureWS",
             "codepoint": "U+7F3B",
             "radicalStrokeCount": "98.6",
             "IDS": "⿺瓦缶",
@@ -31212,7 +31252,7 @@
         },
         {
             "sourceId": "UTC-03241",
-            "status": "N",
+            "status": "FutureWS",
             "codepoint": "U+2E99B",
             "radicalStrokeCount": "173.10",
             "IDS": "⿱雨流",
@@ -31223,7 +31263,7 @@
         },
         {
             "sourceId": "UTC-03242",
-            "status": "N",
+            "status": "FutureWS",
             "codepoint": "U+4FDD",
             "radicalStrokeCount": "113.7",
             "IDS": "⿰礻呆",
@@ -31234,7 +31274,7 @@
         },
         {
             "sourceId": "UTC-03243",
-            "status": "N",
+            "status": "FutureWS",
             "codepoint": "U+973A",
             "radicalStrokeCount": "173.13",
             "IDS": "⿱雨𪫕",
@@ -31245,7 +31285,7 @@
         },
         {
             "sourceId": "UTC-03244",
-            "status": "N",
+            "status": "FutureWS",
             "codepoint": "U+5E79 U+2D16A",
             "radicalStrokeCount": "37.11",
             "IDS": "⿰𠦝夸",
@@ -31256,7 +31296,7 @@
         },
         {
             "sourceId": "UTC-03245",
-            "status": "N",
+            "status": "FutureWS",
             "codepoint": "U+7E20",
             "radicalStrokeCount": "120.9",
             "IDS": "⿰⿳士冖糸殳",
@@ -31267,7 +31307,7 @@
         },
         {
             "sourceId": "UTC-03246",
-            "status": "N",
+            "status": "FutureWS",
             "codepoint": "U+7E3F",
             "radicalStrokeCount": "120.13",
             "IDS": "⿰糸𭆤",
@@ -31278,7 +31318,7 @@
         },
         {
             "sourceId": "UTC-03247",
-            "status": "N",
+            "status": "FutureWS",
             "codepoint": "U+84AD",
             "radicalStrokeCount": "140.6",
             "IDS": "⿳艹彐彐",
@@ -31289,7 +31329,7 @@
         },
         {
             "sourceId": "UTC-03248",
-            "status": "N",
+            "status": "FutureWS",
             "codepoint": "U+807F",
             "radicalStrokeCount": "129.0",
             "IDS": "⿱𦘒一",
@@ -31299,7 +31339,7 @@
         },
         {
             "sourceId": "UTC-03249",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "120.8",
             "IDS": "⿰糹東",
             "source": "KP1-671B, UTCDoc L2/21-178 2",
@@ -31308,7 +31348,7 @@
         },
         {
             "sourceId": "UTC-03250",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "75.5",
             "IDS": "⿰木朮",
             "source": "KP1-4B26, UTCDoc L2/21-178 3",
@@ -31317,7 +31357,7 @@
         },
         {
             "sourceId": "UTC-03251",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "58.0",
             "IDS": "⿻⿱𠃍一一",
             "source": "UTCDoc L2/21-179 1",
@@ -31326,7 +31366,7 @@
         },
         {
             "sourceId": "UTC-03252",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "147.14",
             "IDS": "⿱見覞",
             "source": "UTCDoc L2/22-009 1",
@@ -31335,9 +31375,9 @@
         },
         {
             "sourceId": "UTC-03253",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "147.7",
-            "IDS": "〾⿺見見",
+            "IDS": "⿺見⿿見",
             "source": "UTCDoc L2/22-009 2",
             "comments": "kSimplifiedVariant U+32053",
             "totalStrokes": "14",
@@ -31345,16 +31385,16 @@
         },
         {
             "sourceId": "UTC-03254",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "147.21",
-            "IDS": "〾⿺⿺見見⿺見見",
+            "IDS": "⿺⿺見⿿見⿺見⿿見",
             "source": "UTCDoc L2/22-009 3",
             "totalStrokes": "28",
             "firstResidualStroke": "2"
         },
         {
             "sourceId": "UTC-03255",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "85.13",
             "IDS": "⿰氵嵩",
             "source": "UTCDoc L2/22-040 1",
@@ -31363,7 +31403,7 @@
         },
         {
             "sourceId": "UTC-03256",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "85.12",
             "IDS": "⿰氵裁",
             "source": "UTCDoc L2/22-040 2",
@@ -31372,7 +31412,7 @@
         },
         {
             "sourceId": "UTC-03257",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "85.7",
             "IDS": "⿰⿱山水攵",
             "source": "UTCDoc L2/22-040 3",
@@ -31381,7 +31421,7 @@
         },
         {
             "sourceId": "UTC-03258",
-            "status": "N",
+            "status": "FutureWS",
             "codepoint": "U+289D2",
             "radicalStrokeCount": "167.7",
             "IDS": "⿱⿰户己金",
@@ -31391,7 +31431,7 @@
         },
         {
             "sourceId": "UTC-03259",
-            "status": "N",
+            "status": "FutureWS",
             "codepoint": "U+23CB8",
             "radicalStrokeCount": "85.5",
             "IDS": "⿱山⿰氵乃",
@@ -31401,7 +31441,7 @@
         },
         {
             "sourceId": "UTC-03260",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "85.10",
             "IDS": "⿰氵⿱罒永",
             "source": "UTCDoc L2/22-040 6",
@@ -31410,7 +31450,7 @@
         },
         {
             "sourceId": "UTC-03261",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "86.3",
             "IDS": "⿰火巳",
             "source": "UTCDoc L2/22-040 7",
@@ -31419,7 +31459,7 @@
         },
         {
             "sourceId": "UTC-03262",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "33.6",
             "IDS": "⿳士艹工",
             "source": "UTCDoc L2/22-040 8",
@@ -31428,7 +31468,7 @@
         },
         {
             "sourceId": "UTC-03263",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "32.9",
             "IDS": "⿰土耍",
             "source": "UTCDoc L2/22-040 9",
@@ -31437,7 +31477,7 @@
         },
         {
             "sourceId": "UTC-03264",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "86.8",
             "IDS": "⿱⿰火攵日",
             "source": "UTCDoc L2/22-040 10",
@@ -31446,7 +31486,7 @@
         },
         {
             "sourceId": "UTC-03265",
-            "status": "N",
+            "status": "FutureWS",
             "codepoint": "U+3D36",
             "radicalStrokeCount": "85.11",
             "IDS": "⿰氵⿱宀隹",
@@ -31456,7 +31496,7 @@
         },
         {
             "sourceId": "UTC-03266",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "123.8",
             "IDS": "⿰羊隹",
             "source": "UTCDoc L2/22-040 12",
@@ -31465,7 +31505,7 @@
         },
         {
             "sourceId": "UTC-03267",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "167.17",
             "IDS": "⿲金⿱火犬頁",
             "source": "UTCDoc L2/22-040 13",
@@ -31474,7 +31514,7 @@
         },
         {
             "sourceId": "UTC-03268",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "167.5",
             "IDS": "⿰金⿸厂彡",
             "source": "UTCDoc L2/22-040 14",
@@ -31483,7 +31523,7 @@
         },
         {
             "sourceId": "UTC-03269",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "167.8",
             "IDS": "⿱⿰土正金",
             "source": "UTCDoc L2/22-040 15",
@@ -31492,7 +31532,7 @@
         },
         {
             "sourceId": "UTC-03270",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "167.3",
             "IDS": "⿱宀金",
             "source": "UTCDoc L2/22-040 16",
@@ -31501,7 +31541,7 @@
         },
         {
             "sourceId": "UTC-03271",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "167.5",
             "IDS": "⿰田金",
             "source": "UTCDoc L2/22-040 17",
@@ -31510,7 +31550,7 @@
         },
         {
             "sourceId": "UTC-03272",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "167.8",
             "IDS": "⿱泊金",
             "source": "UTCDoc L2/22-040 18",
@@ -31519,7 +31559,7 @@
         },
         {
             "sourceId": "UTC-03273",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "85.21",
             "IDS": "⿱雨⿰氵蒦",
             "source": "UTCDoc L2/22-040 19",
@@ -31528,7 +31568,7 @@
         },
         {
             "sourceId": "UTC-03274",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "167.6",
             "IDS": "⿰金芝",
             "source": "UTCDoc L2/22-040 20",
@@ -31537,7 +31577,7 @@
         },
         {
             "sourceId": "UTC-03275",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "86.4",
             "IDS": "⿰火今",
             "source": "UTCDoc L2/22-040 21",
@@ -31546,7 +31586,7 @@
         },
         {
             "sourceId": "UTC-03276",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "85.9",
             "IDS": "⿱⿰氵[H6-03]水",
             "source": "UTCDoc L2/22-040 22",
@@ -31555,7 +31595,7 @@
         },
         {
             "sourceId": "UTC-03277",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "75.7",
             "IDS": "⿱艹⿰木火",
             "source": "UTCDoc L2/22-040 23",
@@ -31564,7 +31604,7 @@
         },
         {
             "sourceId": "UTC-03278",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "75.8",
             "IDS": "⿰木受",
             "source": "UTCDoc L2/22-040 24",
@@ -31573,7 +31613,7 @@
         },
         {
             "sourceId": "UTC-03279",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "75.10",
             "IDS": "⿰木⿸户衣",
             "source": "UTCDoc L2/22-040 25",
@@ -31582,7 +31622,7 @@
         },
         {
             "sourceId": "UTC-03280",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "85.9",
             "IDS": "⿱𤱄木",
             "source": "UTCDoc L2/22-040 26",
@@ -31591,7 +31631,7 @@
         },
         {
             "sourceId": "UTC-03281",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "167.7",
             "IDS": "⿱金坐",
             "source": "UTCDoc L2/22-040 27",
@@ -31600,7 +31640,7 @@
         },
         {
             "sourceId": "UTC-03282",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "167.8",
             "IDS": "⿱⿰王巨金",
             "source": "UTCDoc L2/22-040 28",
@@ -31609,7 +31649,7 @@
         },
         {
             "sourceId": "UTC-03283",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "75.11",
             "IDS": "⿰木野",
             "source": "UTCDoc L2/22-040 29",
@@ -31618,7 +31658,7 @@
         },
         {
             "sourceId": "UTC-03284",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "86.27",
             "IDS": "⿰革⿳亠⿱⿴𦥑同冖灭",
             "source": "UTCDoc L2/22-040 30",
@@ -31627,7 +31667,7 @@
         },
         {
             "sourceId": "UTC-03285",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "167.11",
             "IDS": "⿰金進",
             "source": "UTCDoc L2/22-040 31",
@@ -31636,7 +31676,7 @@
         },
         {
             "sourceId": "UTC-03286",
-            "status": "N",
+            "status": "FutureWS",
             "codepoint": "U+25778",
             "radicalStrokeCount": "85.5",
             "IDS": "⿱禾氺",
@@ -31646,7 +31686,7 @@
         },
         {
             "sourceId": "UTC-03287",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "167.6",
             "IDS": "⿰金此",
             "source": "UTCDoc L2/22-040 33",
@@ -31655,7 +31695,7 @@
         },
         {
             "sourceId": "UTC-03288",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "75.12",
             "IDS": "⿰木欻",
             "source": "UTCDoc L2/22-040 34",
@@ -31664,7 +31704,7 @@
         },
         {
             "sourceId": "UTC-03289",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "85.10",
             "IDS": "⿰氵紋",
             "source": "UTCDoc L2/22-040 35",
@@ -31673,7 +31713,7 @@
         },
         {
             "sourceId": "UTC-03290",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "75.30",
             "IDS": "⿰木鸞",
             "source": "UTCDoc L2/22-040 36",
@@ -31682,7 +31722,7 @@
         },
         {
             "sourceId": "UTC-03291",
-            "status": "N",
+            "status": "FutureWS",
             "codepoint": "U+27E29",
             "radicalStrokeCount": "154'.14",
             "IDS": "⿰贝睿",
@@ -31693,7 +31733,7 @@
         },
         {
             "sourceId": "UTC-03292",
-            "status": "N",
+            "status": "FutureWS",
             "codepoint": "U+30A37",
             "radicalStrokeCount": "113.11",
             "IDS": "⿰礻密",
@@ -31704,7 +31744,7 @@
         },
         {
             "sourceId": "UTC-03293",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "113.11",
             "IDS": "⿰礻規",
             "source": "UTCDoc L2/22-040 39",
@@ -31714,7 +31754,7 @@
         },
         {
             "sourceId": "UTC-03294",
-            "status": "N",
+            "status": "FutureWS",
             "radicalStrokeCount": "113.8",
             "IDS": "⿰礻规",
             "source": "UTCDoc L2/22-040 40",
@@ -31724,7 +31764,7 @@
         },
         {
             "sourceId": "UTC-03295",
-            "status": "N",
+            "status": "FutureWS",
             "codepoint": "U+31FC3",
             "radicalStrokeCount": "140.5",
             "IDS": "⿱花一",
@@ -31734,7 +31774,7 @@
         },
         {
             "sourceId": "UTC-03296",
-            "status": "N",
+            "status": "FutureWS",
             "codepoint": "U+20BC7",
             "radicalStrokeCount": "30.3",
             "IDS": "⿰口己",
@@ -31745,13 +31785,365 @@
         },
         {
             "sourceId": "UTC-03297",
-            "status": "N",
+            "status": "FutureWS",
             "codepoint": "U+25426",
             "radicalStrokeCount": "112.3",
             "IDS": "⿰石己",
             "source": "UTCDoc L2/22-085 2",
             "comments": "kSpoofingVariant U+25426",
             "totalStrokes": "8",
+            "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03298",
+            "status": "FutureWS",
+            "radicalStrokeCount": "2.12",
+            "IDS": "⿱⿰中人𭠀",
+            "source": "UTCDoc L2/22-206 1",
+            "totalStrokes": "13",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03299",
+            "status": "FutureWS",
+            "radicalStrokeCount": "9.3",
+            "IDS": "⿰亻凢",
+            "source": "UTCDoc L2/22-206 2",
+            "totalStrokes": "5",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03300",
+            "status": "FutureWS",
+            "radicalStrokeCount": "15.3",
+            "IDS": "⿰冫上",
+            "source": "UTCDoc L2/22-206 3",
+            "totalStrokes": "5",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03301",
+            "status": "FutureWS",
+            "radicalStrokeCount": "15.4",
+            "IDS": "⿰冫五",
+            "source": "UTCDoc L2/22-206 4",
+            "totalStrokes": "6",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03302",
+            "status": "FutureWS",
+            "radicalStrokeCount": "15.4",
+            "IDS": "⿰冫六",
+            "source": "UTCDoc L2/22-206 5",
+            "totalStrokes": "6",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03303",
+            "status": "FutureWS",
+            "radicalStrokeCount": "15.5",
+            "IDS": "⿰冫四",
+            "source": "UTCDoc L2/22-206 6",
+            "totalStrokes": "7",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03304",
+            "status": "FutureWS",
+            "radicalStrokeCount": "24.11",
+            "IDS": "⿰南太",
+            "source": "UTCDoc L2/22-206 7",
+            "totalStrokes": "13",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03305",
+            "status": "FutureWS",
+            "radicalStrokeCount": "26.6",
+            "IDS": "〾⿱[P5-02]五",
+            "source": "UTCDoc L2/22-206 8",
+            "totalStrokes": "8",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03306",
+            "status": "FutureWS",
+            "radicalStrokeCount": "30.11",
+            "IDS": "⿰古南",
+            "source": "UTCDoc L2/22-206 9",
+            "totalStrokes": "4",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03307",
+            "status": "FutureWS",
+            "radicalStrokeCount": "38.6",
+            "IDS": "⿳一巛𠕷",
+            "source": "UTCDoc L2/22-206 10",
+            "totalStrokes": "9",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03308",
+            "status": "FutureWS",
+            "radicalStrokeCount": "38.6",
+            "IDS": "⿱爪𠕷",
+            "source": "UTCDoc L2/22-206 11",
+            "totalStrokes": "9",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03309",
+            "status": "FutureWS",
+            "radicalStrokeCount": "53.4",
+            "IDS": "⿸广五",
+            "source": "UTCDoc L2/22-206 12",
+            "totalStrokes": "7",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03310",
+            "status": "FutureWS",
+            "radicalStrokeCount": "59.2",
+            "IDS": "⿰⿱丿彳一",
+            "source": "UTCDoc L2/22-206 13",
+            "totalStrokes": "5",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03311",
+            "status": "FutureWS",
+            "radicalStrokeCount": "59.2",
+            "IDS": "⿰⿱丿彳乙",
+            "source": "UTCDoc L2/22-206 14",
+            "totalStrokes": "5",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03312",
+            "status": "FutureWS",
+            "radicalStrokeCount": "59.4",
+            "IDS": "⿰⿱丿彳上",
+            "source": "UTCDoc L2/22-206 15",
+            "totalStrokes": "7",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03313",
+            "status": "FutureWS",
+            "radicalStrokeCount": "59.4",
+            "IDS": "⿰⿱丿彳工",
+            "source": "UTCDoc L2/22-206 16",
+            "totalStrokes": "7",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03314",
+            "status": "FutureWS",
+            "radicalStrokeCount": "59.4",
+            "IDS": "⿰⿱丿彳凢",
+            "source": "UTCDoc L2/22-206 17",
+            "totalStrokes": "7",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03315",
+            "status": "FutureWS",
+            "radicalStrokeCount": "59.4",
+            "IDS": "⿰⿱丿彳凡",
+            "source": "UTCDoc L2/22-206 18",
+            "totalStrokes": "7",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03316",
+            "status": "FutureWS",
+            "radicalStrokeCount": "59.5",
+            "IDS": "⿰⿱丿彳尺",
+            "source": "UTCDoc L2/22-206 19",
+            "totalStrokes": "8",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03317",
+            "status": "FutureWS",
+            "radicalStrokeCount": "59.5",
+            "IDS": "⿰⿱丿彳六",
+            "source": "UTCDoc L2/22-206 20",
+            "totalStrokes": "8",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03318",
+            "status": "FutureWS",
+            "radicalStrokeCount": "59.5",
+            "IDS": "⿰⿱丿彳五",
+            "source": "UTCDoc L2/22-206 21",
+            "totalStrokes": "8",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03319",
+            "status": "FutureWS",
+            "radicalStrokeCount": "60.1",
+            "IDS": "⿰彳一",
+            "source": "UTCDoc L2/22-206 22",
+            "totalStrokes": "4",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03320",
+            "status": "FutureWS",
+            "radicalStrokeCount": "60.3",
+            "IDS": "⿰彳凢",
+            "source": "UTCDoc L2/22-206 23",
+            "totalStrokes": "6",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03321",
+            "status": "FutureWS",
+            "radicalStrokeCount": "60.5",
+            "IDS": "⿰彳四",
+            "source": "UTCDoc L2/22-206 24",
+            "totalStrokes": "8",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03322",
+            "status": "FutureWS",
+            "radicalStrokeCount": "63.1",
+            "IDS": "⿸戸一",
+            "source": "UTCDoc L2/22-206 25",
+            "totalStrokes": "5",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03323",
+            "status": "FutureWS",
+            "radicalStrokeCount": "63.3",
+            "IDS": "⿸戸三",
+            "source": "UTCDoc L2/22-206 26",
+            "totalStrokes": "7",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03324",
+            "status": "FutureWS",
+            "radicalStrokeCount": "63.4",
+            "IDS": "⿸戸五",
+            "source": "UTCDoc L2/22-206 27",
+            "totalStrokes": "8",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03325",
+            "status": "FutureWS",
+            "radicalStrokeCount": "63.4",
+            "IDS": "⿸戸⿱幺一",
+            "source": "UTCDoc L2/22-206 28",
+            "totalStrokes": "8",
+            "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03326",
+            "status": "FutureWS",
+            "radicalStrokeCount": "63.5",
+            "IDS": "⿸戸⿳一巛一",
+            "source": "UTCDoc L2/22-206 29",
+            "totalStrokes": "9",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03327",
+            "status": "FutureWS",
+            "radicalStrokeCount": "63.5",
+            "IDS": "⿸戸四",
+            "source": "UTCDoc L2/22-206 30",
+            "totalStrokes": "9",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03328",
+            "status": "FutureWS",
+            "radicalStrokeCount": "63.5",
+            "IDS": "⿸戸⿱爫一",
+            "source": "UTCDoc L2/22-206 31",
+            "totalStrokes": "9",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03329",
+            "status": "FutureWS",
+            "radicalStrokeCount": "63.5",
+            "IDS": "⿸戸氐",
+            "source": "UTCDoc L2/22-206 32",
+            "totalStrokes": "9",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03330",
+            "status": "FutureWS",
+            "radicalStrokeCount": "63.7",
+            "IDS": "⿱⿰戸人右",
+            "source": "UTCDoc L2/22-206 33",
+            "totalStrokes": "11",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03331",
+            "status": "FutureWS",
+            "radicalStrokeCount": "64.4",
+            "IDS": "⿱才六",
+            "source": "UTCDoc L2/22-206 34",
+            "totalStrokes": "7",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03332",
+            "status": "FutureWS",
+            "radicalStrokeCount": "75.4",
+            "IDS": "⿰木太",
+            "source": "UTCDoc L2/22-206 35",
+            "totalStrokes": "8",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03333",
+            "status": "FutureWS",
+            "radicalStrokeCount": "85.3",
+            "IDS": "⿰氵士",
+            "source": "UTCDoc L2/22-206 36",
+            "totalStrokes": "6",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03334",
+            "status": "FutureWS",
+            "radicalStrokeCount": "85.4",
+            "IDS": "⿰氵五",
+            "source": "UTCDoc L2/22-206 37",
+            "totalStrokes": "7",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03335",
+            "status": "FutureWS",
+            "radicalStrokeCount": "85.4",
+            "IDS": "⿰氵六",
+            "source": "UTCDoc L2/22-206 38",
+            "totalStrokes": "7",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03336",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.8",
+            "IDS": "⿰鱼孟",
+            "source": "UTCDoc L2/22-282",
+            "comments": "kTraditionalVariant U+9BED",
+            "totalStrokes": "16",
             "firstResidualStroke": "5"
         }
     ]

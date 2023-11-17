@@ -6379,7 +6379,7 @@
         {
             "range": [
                 "2FF0",
-                "2FFB"
+                "2FFF"
             ],
             "combiningClass": "0"
         },
@@ -6724,6 +6724,12 @@
             "range": [
                 "31C0",
                 "31E3"
+            ],
+            "combiningClass": "0"
+        },
+        {
+            "range": [
+                "31EF"
             ],
             "combiningClass": "0"
         },
@@ -13102,6 +13108,13 @@
             "range": [
                 "2CEB0",
                 "2EBE0"
+            ],
+            "combiningClass": "0"
+        },
+        {
+            "range": [
+                "2EBF0",
+                "2EE5D"
             ],
             "combiningClass": "0"
         },
