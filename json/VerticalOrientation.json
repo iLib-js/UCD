@@ -7330,13 +7330,6 @@
         {
             "range": [
                 "2FF0",
-                "2FFB"
-            ],
-            "verticalOrientation": "U"
-        },
-        {
-            "range": [
-                "2FFC",
                 "2FFF"
             ],
             "verticalOrientation": "U"
@@ -8021,6 +8014,12 @@
         {
             "range": [
                 "31E4",
+                "31EE"
+            ],
+            "verticalOrientation": "U"
+        },
+        {
+            "range": [
                 "31EF"
             ],
             "verticalOrientation": "U"
@@ -9399,6 +9398,20 @@
         {
             "range": [
                 "D800",
+                "DB7F"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "DB80",
+                "DBFF"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "DC00",
                 "DFFF"
             ],
             "verticalOrientation": "R"
@@ -15613,6 +15626,20 @@
         {
             "range": [
                 "2EBE1",
+                "2EBEF"
+            ],
+            "verticalOrientation": "U"
+        },
+        {
+            "range": [
+                "2EBF0",
+                "2EE5D"
+            ],
+            "verticalOrientation": "U"
+        },
+        {
+            "range": [
+                "2EE5E",
                 "2F7FF"
             ],
             "verticalOrientation": "U"
@@ -15627,6 +15654,13 @@
         {
             "range": [
                 "2FA1E",
+                "2FA1F"
+            ],
+            "verticalOrientation": "U"
+        },
+        {
+            "range": [
+                "2FA20",
                 "2FFFD"
             ],
             "verticalOrientation": "U"

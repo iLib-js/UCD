@@ -2242,6 +2242,13 @@
         },
         {
             "range": [
+                "2EBF0",
+                "2EE5F"
+            ],
+            "block": "CJK Unified Ideographs Extension I"
+        },
+        {
+            "range": [
                 "2F800",
                 "2FA1F"
             ],

@@ -1773,13 +1773,6 @@
         },
         {
             "range": [
-                "2FFC",
-                "2FFF"
-            ],
-            "category": "Cn"
-        },
-        {
-            "range": [
                 "3040"
             ],
             "category": "Cn"
@@ -1813,7 +1806,7 @@
         {
             "range": [
                 "31E4",
-                "31EF"
+                "31EE"
             ],
             "category": "Cn"
         },
@@ -4646,6 +4639,13 @@
         {
             "range": [
                 "2EBE1",
+                "2EBEF"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "2EE5E",
                 "2F7FF"
             ],
             "category": "Cn"
@@ -16701,6 +16701,13 @@
         },
         {
             "range": [
+                "2EBF0",
+                "2EE5D"
+            ],
+            "category": "Lo"
+        },
+        {
+            "range": [
                 "2F800",
                 "2FA1D"
             ],
@@ -25173,7 +25180,7 @@
         {
             "range": [
                 "2FF0",
-                "2FFB"
+                "2FFF"
             ],
             "category": "So"
         },
@@ -25228,6 +25235,12 @@
             "range": [
                 "31C0",
                 "31E3"
+            ],
+            "category": "So"
+        },
+        {
+            "range": [
+                "31EF"
             ],
             "category": "So"
         },

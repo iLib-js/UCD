@@ -841,11 +841,6 @@
             "unified": "8FB5"
         },
         {
-            "radical": "162'",
-            "character": "2ECC",
-            "unified": "8FB6"
-        },
-        {
             "radical": "163",
             "character": "2FA2",
             "unified": "9091"
@@ -974,6 +969,10 @@
             "radical": "182'",
             "character": "2EDB",
             "unified": "98CE"
+        },
+        {
+            "radical": "182''",
+            "unified": "322C4"
         },
         {
             "radical": "183",
@@ -1151,6 +1150,10 @@
             "unified": "9F20"
         },
         {
+            "radical": "208''",
+            "unified": "9F21"
+        },
+        {
             "radical": "209",
             "character": "2FD0",
             "unified": "9F3B"
@@ -1166,6 +1169,11 @@
             "unified": "9F50"
         },
         {
+            "radical": "210''",
+            "character": "2EEB",
+            "unified": "6589"
+        },
+        {
             "radical": "211",
             "character": "2FD2",
             "unified": "9F52"
@@ -1174,6 +1182,11 @@
             "radical": "211'",
             "character": "2EEE",
             "unified": "9F7F"
+        },
+        {
+            "radical": "211''",
+            "character": "2EED",
+            "unified": "6B6F"
         },
         {
             "radical": "212",
@@ -1186,6 +1199,11 @@
             "unified": "9F99"
         },
         {
+            "radical": "212''",
+            "character": "2EEF",
+            "unified": "7ADC"
+        },
+        {
             "radical": "213",
             "character": "2FD4",
             "unified": "9F9C"
@@ -1194,6 +1212,11 @@
             "radical": "213'",
             "character": "2EF3",
             "unified": "9F9F"
+        },
+        {
+            "radical": "213''",
+            "character": "2EF2",
+            "unified": "4E80"
         },
         {
             "radical": "214",

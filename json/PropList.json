@@ -5203,6 +5203,13 @@
         },
         {
             "range": [
+                "2EBF0",
+                "2EE5D"
+            ],
+            "property": "Ideographic"
+        },
+        {
+            "range": [
                 "2F800",
                 "2FA1D"
             ],
@@ -7487,7 +7494,13 @@
         {
             "range": [
                 "2FF4",
-                "2FFB"
+                "2FFD"
+            ],
+            "property": "IDS_Binary_Operator"
+        },
+        {
+            "range": [
+                "31EF"
             ],
             "property": "IDS_Binary_Operator"
         },
@@ -7497,6 +7510,13 @@
                 "2FF3"
             ],
             "property": "IDS_Trinary_Operator"
+        },
+        {
+            "range": [
+                "2FFE",
+                "2FFF"
+            ],
+            "property": "IDS_Unary_Operator"
         },
         {
             "range": [
@@ -7611,6 +7631,13 @@
             "range": [
                 "2CEB0",
                 "2EBE0"
+            ],
+            "property": "Unified_Ideograph"
+        },
+        {
+            "range": [
+                "2EBF0",
+                "2EE5D"
             ],
             "property": "Unified_Ideograph"
         },
@@ -8076,6 +8103,252 @@
         },
         {
             "range": [
+                "200C",
+                "200D"
+            ],
+            "property": "Other_ID_Continue"
+        },
+        {
+            "range": [
+                "30FB"
+            ],
+            "property": "Other_ID_Continue"
+        },
+        {
+            "range": [
+                "FF65"
+            ],
+            "property": "Other_ID_Continue"
+        },
+        {
+            "range": [
+                "00B2",
+                "00B3"
+            ],
+            "property": "ID_Compat_Math_Continue"
+        },
+        {
+            "range": [
+                "00B9"
+            ],
+            "property": "ID_Compat_Math_Continue"
+        },
+        {
+            "range": [
+                "2070"
+            ],
+            "property": "ID_Compat_Math_Continue"
+        },
+        {
+            "range": [
+                "2074",
+                "2079"
+            ],
+            "property": "ID_Compat_Math_Continue"
+        },
+        {
+            "range": [
+                "207A",
+                "207C"
+            ],
+            "property": "ID_Compat_Math_Continue"
+        },
+        {
+            "range": [
+                "207D"
+            ],
+            "property": "ID_Compat_Math_Continue"
+        },
+        {
+            "range": [
+                "207E"
+            ],
+            "property": "ID_Compat_Math_Continue"
+        },
+        {
+            "range": [
+                "2080",
+                "2089"
+            ],
+            "property": "ID_Compat_Math_Continue"
+        },
+        {
+            "range": [
+                "208A",
+                "208C"
+            ],
+            "property": "ID_Compat_Math_Continue"
+        },
+        {
+            "range": [
+                "208D"
+            ],
+            "property": "ID_Compat_Math_Continue"
+        },
+        {
+            "range": [
+                "208E"
+            ],
+            "property": "ID_Compat_Math_Continue"
+        },
+        {
+            "range": [
+                "2202"
+            ],
+            "property": "ID_Compat_Math_Continue"
+        },
+        {
+            "range": [
+                "2207"
+            ],
+            "property": "ID_Compat_Math_Continue"
+        },
+        {
+            "range": [
+                "221E"
+            ],
+            "property": "ID_Compat_Math_Continue"
+        },
+        {
+            "range": [
+                "1D6C1"
+            ],
+            "property": "ID_Compat_Math_Continue"
+        },
+        {
+            "range": [
+                "1D6DB"
+            ],
+            "property": "ID_Compat_Math_Continue"
+        },
+        {
+            "range": [
+                "1D6FB"
+            ],
+            "property": "ID_Compat_Math_Continue"
+        },
+        {
+            "range": [
+                "1D715"
+            ],
+            "property": "ID_Compat_Math_Continue"
+        },
+        {
+            "range": [
+                "1D735"
+            ],
+            "property": "ID_Compat_Math_Continue"
+        },
+        {
+            "range": [
+                "1D74F"
+            ],
+            "property": "ID_Compat_Math_Continue"
+        },
+        {
+            "range": [
+                "1D76F"
+            ],
+            "property": "ID_Compat_Math_Continue"
+        },
+        {
+            "range": [
+                "1D789"
+            ],
+            "property": "ID_Compat_Math_Continue"
+        },
+        {
+            "range": [
+                "1D7A9"
+            ],
+            "property": "ID_Compat_Math_Continue"
+        },
+        {
+            "range": [
+                "1D7C3"
+            ],
+            "property": "ID_Compat_Math_Continue"
+        },
+        {
+            "range": [
+                "2202"
+            ],
+            "property": "ID_Compat_Math_Start"
+        },
+        {
+            "range": [
+                "2207"
+            ],
+            "property": "ID_Compat_Math_Start"
+        },
+        {
+            "range": [
+                "221E"
+            ],
+            "property": "ID_Compat_Math_Start"
+        },
+        {
+            "range": [
+                "1D6C1"
+            ],
+            "property": "ID_Compat_Math_Start"
+        },
+        {
+            "range": [
+                "1D6DB"
+            ],
+            "property": "ID_Compat_Math_Start"
+        },
+        {
+            "range": [
+                "1D6FB"
+            ],
+            "property": "ID_Compat_Math_Start"
+        },
+        {
+            "range": [
+                "1D715"
+            ],
+            "property": "ID_Compat_Math_Start"
+        },
+        {
+            "range": [
+                "1D735"
+            ],
+            "property": "ID_Compat_Math_Start"
+        },
+        {
+            "range": [
+                "1D74F"
+            ],
+            "property": "ID_Compat_Math_Start"
+        },
+        {
+            "range": [
+                "1D76F"
+            ],
+            "property": "ID_Compat_Math_Start"
+        },
+        {
+            "range": [
+                "1D789"
+            ],
+            "property": "ID_Compat_Math_Start"
+        },
+        {
+            "range": [
+                "1D7A9"
+            ],
+            "property": "ID_Compat_Math_Start"
+        },
+        {
+            "range": [
+                "1D7C3"
+            ],
+            "property": "ID_Compat_Math_Start"
+        },
+        {
+            "range": [
                 "0021"
             ],
             "property": "Sentence_Terminal"
@@ -8180,6 +8453,13 @@
             "range": [
                 "1735",
                 "1736"
+            ],
+            "property": "Sentence_Terminal"
+        },
+        {
+            "range": [
+                "17D4",
+                "17D5"
             ],
             "property": "Sentence_Terminal"
         },

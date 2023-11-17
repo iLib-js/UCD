@@ -450,6 +450,34 @@
         },
         {
             "variationSequence": [
+                "23EB",
+                "FE0E"
+            ],
+            "style": "text style"
+        },
+        {
+            "variationSequence": [
+                "23EB",
+                "FE0F"
+            ],
+            "style": "emoji style"
+        },
+        {
+            "variationSequence": [
+                "23EC",
+                "FE0E"
+            ],
+            "style": "text style"
+        },
+        {
+            "variationSequence": [
+                "23EC",
+                "FE0F"
+            ],
+            "style": "emoji style"
+        },
+        {
+            "variationSequence": [
                 "23ED",
                 "FE0E"
             ],
@@ -486,6 +514,20 @@
         {
             "variationSequence": [
                 "23EF",
+                "FE0F"
+            ],
+            "style": "emoji style"
+        },
+        {
+            "variationSequence": [
+                "23F0",
+                "FE0E"
+            ],
+            "style": "text style"
+        },
+        {
+            "variationSequence": [
+                "23F0",
                 "FE0F"
             ],
             "style": "emoji style"
@@ -1612,6 +1654,20 @@
         },
         {
             "variationSequence": [
+                "26CE",
+                "FE0E"
+            ],
+            "style": "text style"
+        },
+        {
+            "variationSequence": [
+                "26CE",
+                "FE0F"
+            ],
+            "style": "emoji style"
+        },
+        {
+            "variationSequence": [
                 "26CF",
                 "FE0E"
             ],
@@ -1864,6 +1920,20 @@
         },
         {
             "variationSequence": [
+                "2705",
+                "FE0E"
+            ],
+            "style": "text style"
+        },
+        {
+            "variationSequence": [
+                "2705",
+                "FE0F"
+            ],
+            "style": "emoji style"
+        },
+        {
+            "variationSequence": [
                 "2708",
                 "FE0E"
             ],
@@ -1886,6 +1956,34 @@
         {
             "variationSequence": [
                 "2709",
+                "FE0F"
+            ],
+            "style": "emoji style"
+        },
+        {
+            "variationSequence": [
+                "270A",
+                "FE0E"
+            ],
+            "style": "text style"
+        },
+        {
+            "variationSequence": [
+                "270A",
+                "FE0F"
+            ],
+            "style": "emoji style"
+        },
+        {
+            "variationSequence": [
+                "270B",
+                "FE0E"
+            ],
+            "style": "text style"
+        },
+        {
+            "variationSequence": [
+                "270B",
                 "FE0F"
             ],
             "style": "emoji style"
@@ -2004,6 +2102,20 @@
         },
         {
             "variationSequence": [
+                "2728",
+                "FE0E"
+            ],
+            "style": "text style"
+        },
+        {
+            "variationSequence": [
+                "2728",
+                "FE0F"
+            ],
+            "style": "emoji style"
+        },
+        {
+            "variationSequence": [
                 "2733",
                 "FE0E"
             ],
@@ -2060,6 +2172,34 @@
         },
         {
             "variationSequence": [
+                "274C",
+                "FE0E"
+            ],
+            "style": "text style"
+        },
+        {
+            "variationSequence": [
+                "274C",
+                "FE0F"
+            ],
+            "style": "emoji style"
+        },
+        {
+            "variationSequence": [
+                "274E",
+                "FE0E"
+            ],
+            "style": "text style"
+        },
+        {
+            "variationSequence": [
+                "274E",
+                "FE0F"
+            ],
+            "style": "emoji style"
+        },
+        {
+            "variationSequence": [
                 "2753",
                 "FE0E"
             ],
@@ -2068,6 +2208,34 @@
         {
             "variationSequence": [
                 "2753",
+                "FE0F"
+            ],
+            "style": "emoji style"
+        },
+        {
+            "variationSequence": [
+                "2754",
+                "FE0E"
+            ],
+            "style": "text style"
+        },
+        {
+            "variationSequence": [
+                "2754",
+                "FE0F"
+            ],
+            "style": "emoji style"
+        },
+        {
+            "variationSequence": [
+                "2755",
+                "FE0E"
+            ],
+            "style": "text style"
+        },
+        {
+            "variationSequence": [
+                "2755",
                 "FE0F"
             ],
             "style": "emoji style"
@@ -2116,6 +2284,48 @@
         },
         {
             "variationSequence": [
+                "2795",
+                "FE0E"
+            ],
+            "style": "text style"
+        },
+        {
+            "variationSequence": [
+                "2795",
+                "FE0F"
+            ],
+            "style": "emoji style"
+        },
+        {
+            "variationSequence": [
+                "2796",
+                "FE0E"
+            ],
+            "style": "text style"
+        },
+        {
+            "variationSequence": [
+                "2796",
+                "FE0F"
+            ],
+            "style": "emoji style"
+        },
+        {
+            "variationSequence": [
+                "2797",
+                "FE0E"
+            ],
+            "style": "text style"
+        },
+        {
+            "variationSequence": [
+                "2797",
+                "FE0F"
+            ],
+            "style": "emoji style"
+        },
+        {
+            "variationSequence": [
                 "27A1",
                 "FE0E"
             ],
@@ -2124,6 +2334,34 @@
         {
             "variationSequence": [
                 "27A1",
+                "FE0F"
+            ],
+            "style": "emoji style"
+        },
+        {
+            "variationSequence": [
+                "27B0",
+                "FE0E"
+            ],
+            "style": "text style"
+        },
+        {
+            "variationSequence": [
+                "27B0",
+                "FE0F"
+            ],
+            "style": "emoji style"
+        },
+        {
+            "variationSequence": [
+                "27BF",
+                "FE0E"
+            ],
+            "style": "text style"
+        },
+        {
+            "variationSequence": [
+                "27BF",
                 "FE0F"
             ],
             "style": "emoji style"

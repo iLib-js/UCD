@@ -268,6 +268,13 @@
         },
         {
             "range": [
+                "6D1E"
+            ],
+            "decimalValue": "0.0",
+            "whole": "0"
+        },
+        {
+            "range": [
                 "96F6"
             ],
             "decimalValue": "0.0",
@@ -2725,7 +2732,28 @@
         },
         {
             "range": [
+                "4E24"
+            ],
+            "decimalValue": "2.0",
+            "whole": "2"
+        },
+        {
+            "range": [
                 "4E8C"
+            ],
+            "decimalValue": "2.0",
+            "whole": "2"
+        },
+        {
+            "range": [
+                "4FE9"
+            ],
+            "decimalValue": "2.0",
+            "whole": "2"
+        },
+        {
+            "range": [
+                "5006"
             ],
             "decimalValue": "2.0",
             "whole": "2"
@@ -7348,6 +7376,13 @@
         },
         {
             "range": [
+                "62D0"
+            ],
+            "decimalValue": "7.0",
+            "whole": "7"
+        },
+        {
+            "range": [
                 "67D2"
             ],
             "decimalValue": "7.0",
@@ -8940,6 +8975,20 @@
         {
             "range": [
                 "7396"
+            ],
+            "decimalValue": "9.0",
+            "whole": "9"
+        },
+        {
+            "range": [
+                "920E"
+            ],
+            "decimalValue": "9.0",
+            "whole": "9"
+        },
+        {
+            "range": [
+                "94A9"
             ],
             "decimalValue": "9.0",
             "whole": "9"
@@ -11791,6 +11840,13 @@
         },
         {
             "range": [
+                "7695"
+            ],
+            "decimalValue": "200.0",
+            "whole": "200"
+        },
+        {
+            "range": [
                 "1011A"
             ],
             "decimalValue": "200.0",
@@ -13053,6 +13109,13 @@
         },
         {
             "range": [
+                "5146"
+            ],
+            "decimalValue": "1000000.0",
+            "whole": "1000000"
+        },
+        {
+            "range": [
                 "16B5E"
             ],
             "decimalValue": "1000000.0",
@@ -13095,6 +13158,13 @@
         },
         {
             "range": [
+                "79ED"
+            ],
+            "decimalValue": "1000000000.0",
+            "whole": "1000000000"
+        },
+        {
+            "range": [
                 "16B60"
             ],
             "decimalValue": "10000000000.0",
@@ -13102,17 +13172,17 @@
         },
         {
             "range": [
-                "5146"
+                "16B61"
             ],
             "decimalValue": "1000000000000.0",
             "whole": "1000000000000"
         },
         {
             "range": [
-                "16B61"
+                "4EAC"
             ],
-            "decimalValue": "1000000000000.0",
-            "whole": "1000000000000"
+            "decimalValue": "10000000000000000.0",
+            "whole": "10000000000000000"
         }
     ]
 }

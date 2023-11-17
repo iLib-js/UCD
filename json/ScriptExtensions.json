@@ -229,12 +229,6 @@
         },
         {
             "range": [
-                "06D4"
-            ],
-            "extension": "Arab Rohg"
-        },
-        {
-            "range": [
                 "FD3E"
             ],
             "extension": "Arab Nkoo"
@@ -244,6 +238,12 @@
                 "FD3F"
             ],
             "extension": "Arab Nkoo"
+        },
+        {
+            "range": [
+                "06D4"
+            ],
+            "extension": "Arab Rohg"
         },
         {
             "range": [
@@ -915,26 +915,20 @@
         },
         {
             "range": [
-                "1CF2"
-            ],
-            "extension": "Beng Deva Gran Knda Nand Orya Telu Tirh"
-        },
-        {
-            "range": [
                 "0640"
             ],
             "extension": "Adlm Arab Mand Mani Ougr Phlp Rohg Sogd Syrc"
         },
         {
             "range": [
-                "A836",
-                "A837"
+                "1CF2"
             ],
-            "extension": "Deva Dogr Gujr Guru Khoj Kthi Mahj Modi Sind Takr Tirh"
+            "extension": "Beng Deva Gran Knda Mlym Nand Orya Sinh Telu Tirh"
         },
         {
             "range": [
-                "A838"
+                "A836",
+                "A837"
             ],
             "extension": "Deva Dogr Gujr Guru Khoj Kthi Mahj Modi Sind Takr Tirh"
         },
@@ -952,6 +946,12 @@
         },
         {
             "range": [
+                "A838"
+            ],
+            "extension": "Deva Dogr Gujr Guru Khoj Kthi Mahj Modi Shrd Sind Takr Tirh"
+        },
+        {
+            "range": [
                 "0951"
             ],
             "extension": "Beng Deva Gran Gujr Guru Knda Latn Mlym Orya Shrd Taml Telu Tirh"
@@ -961,14 +961,14 @@
                 "A833",
                 "A835"
             ],
-            "extension": "Deva Dogr Gujr Guru Khoj Knda Kthi Mahj Modi Nand Sind Takr Tirh"
+            "extension": "Deva Dogr Gujr Guru Khoj Knda Kthi Mahj Modi Nand Shrd Sind Takr Tirh"
         },
         {
             "range": [
                 "A830",
                 "A832"
             ],
-            "extension": "Deva Dogr Gujr Guru Khoj Knda Kthi Mahj Mlym Modi Nand Sind Takr Tirh"
+            "extension": "Deva Dogr Gujr Guru Khoj Knda Kthi Mahj Mlym Modi Nand Shrd Sind Takr Tirh"
         },
         {
             "range": [

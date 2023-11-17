@@ -9194,6 +9194,13 @@
         },
         {
             "range": [
+                "2EBF0",
+                "2EE5D"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
                 "2F800",
                 "2FA1D"
             ],
@@ -42953,6 +42960,13 @@
         },
         {
             "range": [
+                "2EBF0",
+                "2EE5D"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
                 "2F800",
                 "2FA1D"
             ],
@@ -46774,6 +46788,13 @@
         },
         {
             "range": [
+                "200C",
+                "200D"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
                 "203F",
                 "2040"
             ],
@@ -47207,6 +47228,12 @@
             "range": [
                 "30A1",
                 "30FA"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "30FB"
             ],
             "property": "ID_Continue"
         },
@@ -48409,6 +48436,12 @@
             "range": [
                 "FF41",
                 "FF5A"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "FF65"
             ],
             "property": "ID_Continue"
         },
@@ -51948,6 +51981,13 @@
             "range": [
                 "2CEB0",
                 "2EBE0"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "2EBF0",
+                "2EE5D"
             ],
             "property": "ID_Continue"
         },
@@ -56971,6 +57011,13 @@
         },
         {
             "range": [
+                "2EBF0",
+                "2EE5D"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
                 "2F800",
                 "2FA1D"
             ],
@@ -60786,6 +60833,13 @@
         },
         {
             "range": [
+                "200C",
+                "200D"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
                 "203F",
                 "2040"
             ],
@@ -61212,6 +61266,12 @@
             "range": [
                 "30A1",
                 "30FA"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "30FB"
             ],
             "property": "XID_Continue"
         },
@@ -62450,6 +62510,12 @@
             "range": [
                 "FF41",
                 "FF5A"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "FF65"
             ],
             "property": "XID_Continue"
         },
@@ -65989,6 +66055,13 @@
             "range": [
                 "2CEB0",
                 "2EBE0"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "2EBF0",
+                "2EE5D"
             ],
             "property": "XID_Continue"
         },
@@ -74242,7 +74315,7 @@
         {
             "range": [
                 "2FF0",
-                "2FFB"
+                "2FFF"
             ],
             "property": "Grapheme_Base"
         },
@@ -74587,6 +74660,12 @@
             "range": [
                 "31C0",
                 "31E3"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "31EF"
             ],
             "property": "Grapheme_Base"
         },
@@ -80231,6 +80310,13 @@
         },
         {
             "range": [
+                "2EBF0",
+                "2EE5D"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
                 "2F800",
                 "2FA1D"
             ],
@@ -80614,6 +80700,1537 @@
                 "11F42"
             ],
             "property": "Grapheme_Link"
+        },
+        {
+            "range": [
+                "094D"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Linker"
+        },
+        {
+            "range": [
+                "09CD"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Linker"
+        },
+        {
+            "range": [
+                "0ACD"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Linker"
+        },
+        {
+            "range": [
+                "0B4D"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Linker"
+        },
+        {
+            "range": [
+                "0C4D"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Linker"
+        },
+        {
+            "range": [
+                "0D4D"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Linker"
+        },
+        {
+            "range": [
+                "0915",
+                "0939"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "0958",
+                "095F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "0978",
+                "097F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "0995",
+                "09A8"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "09AA",
+                "09B0"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "09B2"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "09B6",
+                "09B9"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "09DC",
+                "09DD"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "09DF"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "09F0",
+                "09F1"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "0A95",
+                "0AA8"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "0AAA",
+                "0AB0"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "0AB2",
+                "0AB3"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "0AB5",
+                "0AB9"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "0AF9"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "0B15",
+                "0B28"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "0B2A",
+                "0B30"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "0B32",
+                "0B33"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "0B35",
+                "0B39"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "0B5C",
+                "0B5D"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "0B5F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "0B71"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "0C15",
+                "0C28"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "0C2A",
+                "0C39"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "0C58",
+                "0C5A"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "0D15",
+                "0D3A"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "0300",
+                "034E"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0350",
+                "036F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0483",
+                "0487"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0591",
+                "05BD"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "05BF"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "05C1",
+                "05C2"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "05C4",
+                "05C5"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "05C7"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0610",
+                "061A"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "064B",
+                "065F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0670"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "06D6",
+                "06DC"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "06DF",
+                "06E4"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "06E7",
+                "06E8"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "06EA",
+                "06ED"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0711"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0730",
+                "074A"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "07EB",
+                "07F3"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "07FD"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0816",
+                "0819"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "081B",
+                "0823"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0825",
+                "0827"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0829",
+                "082D"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0859",
+                "085B"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0898",
+                "089F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "08CA",
+                "08E1"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "08E3",
+                "08FF"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "093C"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0951",
+                "0954"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "09BC"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "09FE"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0A3C"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0ABC"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0B3C"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0C3C"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0C55",
+                "0C56"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0CBC"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0D3B",
+                "0D3C"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0E38",
+                "0E3A"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0E48",
+                "0E4B"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0EB8",
+                "0EBA"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0EC8",
+                "0ECB"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0F18",
+                "0F19"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0F35"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0F37"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0F39"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0F71",
+                "0F72"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0F74"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0F7A",
+                "0F7D"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0F80"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0F82",
+                "0F84"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0F86",
+                "0F87"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0FC6"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1037"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1039",
+                "103A"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "108D"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "135D",
+                "135F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1714"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "17D2"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "17DD"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "18A9"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1939",
+                "193B"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1A17",
+                "1A18"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1A60"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1A75",
+                "1A7C"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1A7F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1AB0",
+                "1ABD"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1ABF",
+                "1ACE"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1B34"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1B6B",
+                "1B73"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1BAB"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1BE6"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1C37"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1CD0",
+                "1CD2"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1CD4",
+                "1CE0"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1CE2",
+                "1CE8"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1CED"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1CF4"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1CF8",
+                "1CF9"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1DC0",
+                "1DFF"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "200D"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "20D0",
+                "20DC"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "20E1"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "20E5",
+                "20F0"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "2CEF",
+                "2CF1"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "2D7F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "2DE0",
+                "2DFF"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "302A",
+                "302D"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "302E",
+                "302F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "3099",
+                "309A"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "A66F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "A674",
+                "A67D"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "A69E",
+                "A69F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "A6F0",
+                "A6F1"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "A82C"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "A8E0",
+                "A8F1"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "A92B",
+                "A92D"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "A9B3"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "AAB0"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "AAB2",
+                "AAB4"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "AAB7",
+                "AAB8"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "AABE",
+                "AABF"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "AAC1"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "AAF6"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "ABED"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "FB1E"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "FE20",
+                "FE2F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "101FD"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "102E0"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "10376",
+                "1037A"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "10A0D"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "10A0F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "10A38",
+                "10A3A"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "10A3F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "10AE5",
+                "10AE6"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "10D24",
+                "10D27"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "10EAB",
+                "10EAC"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "10EFD",
+                "10EFF"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "10F46",
+                "10F50"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "10F82",
+                "10F85"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11070"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1107F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "110BA"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11100",
+                "11102"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11133",
+                "11134"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11173"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "111CA"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11236"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "112E9",
+                "112EA"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1133B",
+                "1133C"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11366",
+                "1136C"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11370",
+                "11374"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11446"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1145E"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "114C3"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "115C0"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "116B7"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1172B"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1183A"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1193E"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11943"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11A34"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11A47"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11A99"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11D42"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11D44",
+                "11D45"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11D97"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11F42"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "16AF0",
+                "16AF4"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "16B30",
+                "16B36"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1BC9E"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1D165"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1D167",
+                "1D169"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1D16E",
+                "1D172"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1D17B",
+                "1D182"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1D185",
+                "1D18B"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1D1AA",
+                "1D1AD"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1D242",
+                "1D244"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1E000",
+                "1E006"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1E008",
+                "1E018"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1E01B",
+                "1E021"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1E023",
+                "1E024"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1E026",
+                "1E02A"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1E08F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1E130",
+                "1E136"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1E2AE"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1E2EC",
+                "1E2EF"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1E4EC",
+                "1E4EF"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1E8D0",
+                "1E8D6"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1E944",
+                "1E94A"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
         }
     ]
 }

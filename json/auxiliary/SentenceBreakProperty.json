@@ -3598,39 +3598,13 @@
         },
         {
             "range": [
-                "0600",
-                "0605"
-            ],
-            "property": "Format"
-        },
-        {
-            "range": [
                 "061C"
             ],
             "property": "Format"
         },
         {
             "range": [
-                "06DD"
-            ],
-            "property": "Format"
-        },
-        {
-            "range": [
                 "070F"
-            ],
-            "property": "Format"
-        },
-        {
-            "range": [
-                "0890",
-                "0891"
-            ],
-            "property": "Format"
-        },
-        {
-            "range": [
-                "08E2"
             ],
             "property": "Format"
         },
@@ -3684,18 +3658,6 @@
             "range": [
                 "FFF9",
                 "FFFB"
-            ],
-            "property": "Format"
-        },
-        {
-            "range": [
-                "110BD"
-            ],
-            "property": "Format"
-        },
-        {
-            "range": [
-                "110CD"
             ],
             "property": "Format"
         },
@@ -15895,6 +15857,13 @@
         },
         {
             "range": [
+                "2EBF0",
+                "2EE5D"
+            ],
+            "property": "OLetter"
+        },
+        {
+            "range": [
                 "2F800",
                 "2FA1D"
             ],
@@ -15923,6 +15892,13 @@
         },
         {
             "range": [
+                "0600",
+                "0605"
+            ],
+            "property": "Numeric"
+        },
+        {
+            "range": [
                 "0660",
                 "0669"
             ],
@@ -15937,6 +15913,12 @@
         },
         {
             "range": [
+                "06DD"
+            ],
+            "property": "Numeric"
+        },
+        {
+            "range": [
                 "06F0",
                 "06F9"
             ],
@@ -15946,6 +15928,19 @@
             "range": [
                 "07C0",
                 "07C9"
+            ],
+            "property": "Numeric"
+        },
+        {
+            "range": [
+                "0890",
+                "0891"
+            ],
+            "property": "Numeric"
+        },
+        {
+            "range": [
+                "08E2"
             ],
             "property": "Numeric"
         },
@@ -16198,6 +16193,18 @@
             "range": [
                 "11066",
                 "1106F"
+            ],
+            "property": "Numeric"
+        },
+        {
+            "range": [
+                "110BD"
+            ],
+            "property": "Numeric"
+        },
+        {
+            "range": [
+                "110CD"
             ],
             "property": "Numeric"
         },
@@ -16493,6 +16500,13 @@
             "range": [
                 "1735",
                 "1736"
+            ],
+            "property": "STerm"
+        },
+        {
+            "range": [
+                "17D4",
+                "17D5"
             ],
             "property": "STerm"
         },
