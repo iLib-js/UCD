@@ -73,7 +73,8 @@
         ],
         "DerivedCoreProperties.txt": [
             "range",
-            "property"
+            "property",
+            "syllabicCategory"
         ],
         "DerivedNormalizationProps.txt": [
             "range",

@@ -21,7 +21,7 @@ var fs = require("fs");
 var path = require("path");
 var mkdirp = require("mkdirp");
 
-var UnicodeFile = require("./unifile.js").UnicodeFile;
+var UnicodeFile = require("ilib-data-utils").UnicodeFile;
 
 // "NamesList.txt": [],
 
@@ -52,13 +52,15 @@ function processFiles(files, output, options) {
         var uf = new UnicodeFile({
             path: pathname,
             splitChar: options.splitChar,
-            commentString: options.commentString
+            commentString: options.commentString,
+            multilineComments: options.multilineComments
         });
         var fields = files[filename];
 
         for (var j = 0; j < uf.length(); j++) {
             var entry = {};
-            uf.get(j).forEach(function(field, index) {
+            var fileFields = uf.get(j);
+            fileFields.forEach(function(field, index) {
                 var value = field.trim();
                 if (fields.length < 2) {
                     result.push(value);
@@ -298,7 +300,8 @@ writeFiles(contents);
 contents = {};
 processFiles(UCDFiles.tab, contents, {
     splitChar: "\t",
-    commentString: ";"
+    commentString: "@",
+    multilineComments: true
 });
 postProcessTabFiles(contents);
 writeFiles(contents);
