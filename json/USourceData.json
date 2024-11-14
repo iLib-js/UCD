@@ -2363,8 +2363,9 @@
             "sourceId": "UTC-00258",
             "status": "WS-2021",
             "radicalStrokeCount": "140.11",
-            "IDS": "⿳艹大雨",
+            "IDS": "⿰艹⿵大雨",
             "source": "kSBGY 469.01",
+            "totalStrokes": "15",
             "firstResidualStroke": "1"
         },
         {
@@ -3238,11 +3239,13 @@
         },
         {
             "sourceId": "UTC-00358",
-            "status": "Variant",
+            "status": "FutureWS",
             "codepoint": "U+627B",
             "radicalStrokeCount": "64.7",
             "IDS": "⿰扌坎",
-            "source": "kMeyerWempe 772*kCowles 1148*kCheungBauerIndex 410.03"
+            "source": "kMeyerWempe 772*kCowles 1148*kCheungBauerIndex 410.03",
+            "totalStrokes": "10",
+            "firstResidualStroke": "1"
         },
         {
             "sourceId": "UTC-00359",
@@ -3372,10 +3375,12 @@
         },
         {
             "sourceId": "UTC-00373",
-            "status": "NoAction",
+            "status": "FutureWS",
             "radicalStrokeCount": "117.12",
             "IDS": "⿰立集",
-            "source": "kMeyerWempe 1489*kCheungBauerIndex 449.03,449.04"
+            "source": "kMeyerWempe 1489*kCheungBauerIndex 449.03,449.04",
+            "totalStrokes": "17",
+            "firstResidualStroke": "3"
         },
         {
             "sourceId": "UTC-00374",
@@ -3783,10 +3788,13 @@
         },
         {
             "sourceId": "UTC-00420",
-            "status": "NoAction",
+            "status": "ExtH",
+            "codepoint": "U+3150D",
             "radicalStrokeCount": "30.11",
             "IDS": "⿰口兜",
-            "source": "kCowles 4114*kMeyerWempe 3029*kCheungBauerIndex 375.08"
+            "source": "kCowles 4114*kMeyerWempe 3029*kCheungBauerIndex 375.08",
+            "totalStrokes": "14",
+            "firstResidualStroke": "3"
         },
         {
             "sourceId": "UTC-00421",
@@ -5697,10 +5705,12 @@
         },
         {
             "sourceId": "UTC-00635",
-            "status": "Rejected",
+            "status": "ExtH",
+            "codepoint": "U+317EA",
             "radicalStrokeCount": "64.3",
             "IDS": "⿰扌小",
             "source": "kCheungBauerIndex 406.01",
+            "totalStrokes": "6",
             "firstResidualStroke": "3"
         },
         {
@@ -7120,9 +7130,12 @@
         {
             "sourceId": "UTC-00792",
             "status": "FutureWS",
+            "codepoint": "U+8F66",
             "radicalStrokeCount": "159'.0",
             "IDS": "车",
-            "source": "WL EF95"
+            "source": "WL EF95:UTCDoc L2/21-149 1",
+            "totalStrokes": "4",
+            "firstResidualStroke": "0"
         },
         {
             "sourceId": "UTC-00793",
@@ -8081,19 +8094,22 @@
         },
         {
             "sourceId": "UTC-00910",
-            "status": "NoAction",
+            "status": "FutureWS",
             "radicalStrokeCount": "30.15",
             "IDS": "⿰口劈",
             "source": "Adobe-CNS1 C+17329",
-            "totalStrokes": "18"
+            "totalStrokes": "18",
+            "firstResidualStroke": "5"
         },
         {
             "sourceId": "UTC-00911",
-            "status": "NoAction",
+            "status": "UTC-02997",
+            "codepoint": "U+31587",
             "radicalStrokeCount": "32.3",
             "IDS": "⿰土干",
             "source": "Adobe-CNS1 C+17331",
-            "totalStrokes": "6"
+            "totalStrokes": "6",
+            "firstResidualStroke": "1"
         },
         {
             "sourceId": "UTC-00912",
@@ -11444,7 +11460,7 @@
             "sourceId": "UTC-01257",
             "status": "FutureWS",
             "radicalStrokeCount": "85.17",
-            "IDS": "⿰𤀤殳",
+            "IDS": "⿰氵𣫑",
             "source": "UTCDoc L2/15-177 56",
             "totalStrokes": "20",
             "firstResidualStroke": "3"
@@ -30423,7 +30439,7 @@
             "status": "FutureWS",
             "codepoint": "U+22E4F",
             "radicalStrokeCount": "159.13",
-            "IDS": "⿱輿⿻二丨",
+            "IDS": "⿵輿𰀁",
             "source": "UTCDoc L2/17-204",
             "totalStrokes": "20",
             "firstResidualStroke": "3"
@@ -31321,7 +31337,7 @@
             "status": "FutureWS",
             "codepoint": "U+84AD",
             "radicalStrokeCount": "140.6",
-            "IDS": "⿳艹彐彐",
+            "IDS": "⿱艹𢑑",
             "source": "UTCDoc L2/21-101 9",
             "comments": "JTI code を",
             "totalStrokes": "10",
@@ -31333,7 +31349,7 @@
             "codepoint": "U+807F",
             "radicalStrokeCount": "129.0",
             "IDS": "⿱𦘒一",
-            "source": "UTCDoc L2/21-149",
+            "source": "UTCDoc L2/21-149 2",
             "totalStrokes": "6",
             "firstResidualStroke": "0"
         },
@@ -31387,7 +31403,7 @@
             "sourceId": "UTC-03254",
             "status": "FutureWS",
             "radicalStrokeCount": "147.21",
-            "IDS": "⿺⿺見⿿見⿺見⿿見",
+            "IDS": "⿺⿺見見⿿⿺見見",
             "source": "UTCDoc L2/22-009 3",
             "totalStrokes": "28",
             "firstResidualStroke": "2"
@@ -31414,14 +31430,14 @@
             "sourceId": "UTC-03257",
             "status": "FutureWS",
             "radicalStrokeCount": "85.7",
-            "IDS": "⿰⿱山水攵",
+            "IDS": "⿰汖攵",
             "source": "UTCDoc L2/22-040 3",
             "totalStrokes": "11",
             "firstResidualStroke": "2"
         },
         {
             "sourceId": "UTC-03258",
-            "status": "FutureWS",
+            "status": "Variant",
             "codepoint": "U+289D2",
             "radicalStrokeCount": "167.7",
             "IDS": "⿱⿰户己金",
@@ -31431,7 +31447,7 @@
         },
         {
             "sourceId": "UTC-03259",
-            "status": "FutureWS",
+            "status": "Variant",
             "codepoint": "U+23CB8",
             "radicalStrokeCount": "85.5",
             "IDS": "⿱山⿰氵乃",
@@ -31459,7 +31475,8 @@
         },
         {
             "sourceId": "UTC-03262",
-            "status": "FutureWS",
+            "status": "Variant",
+            "codepoint": "U+3653",
             "radicalStrokeCount": "33.6",
             "IDS": "⿳士艹工",
             "source": "UTCDoc L2/22-040 8",
@@ -31477,7 +31494,8 @@
         },
         {
             "sourceId": "UTC-03264",
-            "status": "FutureWS",
+            "status": "Variant",
+            "codepoint": "U+24274",
             "radicalStrokeCount": "86.8",
             "IDS": "⿱⿰火攵日",
             "source": "UTCDoc L2/22-040 10",
@@ -31486,7 +31504,7 @@
         },
         {
             "sourceId": "UTC-03265",
-            "status": "FutureWS",
+            "status": "Variant",
             "codepoint": "U+3D36",
             "radicalStrokeCount": "85.11",
             "IDS": "⿰氵⿱宀隹",
@@ -31505,7 +31523,8 @@
         },
         {
             "sourceId": "UTC-03267",
-            "status": "FutureWS",
+            "status": "Variant",
+            "codepoint": "U+28C25",
             "radicalStrokeCount": "167.17",
             "IDS": "⿲金⿱火犬頁",
             "source": "UTCDoc L2/22-040 13",
@@ -31515,10 +31534,10 @@
         {
             "sourceId": "UTC-03268",
             "status": "FutureWS",
-            "radicalStrokeCount": "167.5",
-            "IDS": "⿰金⿸厂彡",
+            "radicalStrokeCount": "167.7",
+            "IDS": "⿰金⿸厂㐱",
             "source": "UTCDoc L2/22-040 14",
-            "totalStrokes": "13",
+            "totalStrokes": "15",
             "firstResidualStroke": "1"
         },
         {
@@ -31561,7 +31580,7 @@
             "sourceId": "UTC-03273",
             "status": "FutureWS",
             "radicalStrokeCount": "85.21",
-            "IDS": "⿱雨⿰氵蒦",
+            "IDS": "⿱雨濩",
             "source": "UTCDoc L2/22-040 19",
             "totalStrokes": "24",
             "firstResidualStroke": "1"
@@ -31586,7 +31605,8 @@
         },
         {
             "sourceId": "UTC-03276",
-            "status": "FutureWS",
+            "status": "Variant",
+            "codepoint": "U+3D57",
             "radicalStrokeCount": "85.9",
             "IDS": "⿱⿰氵[H6-03]水",
             "source": "UTCDoc L2/22-040 22",
@@ -31597,7 +31617,7 @@
             "sourceId": "UTC-03277",
             "status": "FutureWS",
             "radicalStrokeCount": "75.7",
-            "IDS": "⿱艹⿰木火",
+            "IDS": "⿱艹𣏹",
             "source": "UTCDoc L2/22-040 23",
             "totalStrokes": "11",
             "firstResidualStroke": "1"
@@ -31615,7 +31635,7 @@
             "sourceId": "UTC-03279",
             "status": "FutureWS",
             "radicalStrokeCount": "75.10",
-            "IDS": "⿰木⿸户衣",
+            "IDS": "⿰木扆",
             "source": "UTCDoc L2/22-040 25",
             "totalStrokes": "14",
             "firstResidualStroke": "4"
@@ -31676,7 +31696,7 @@
         },
         {
             "sourceId": "UTC-03286",
-            "status": "FutureWS",
+            "status": "Variant",
             "codepoint": "U+25778",
             "radicalStrokeCount": "85.5",
             "IDS": "⿱禾氺",
@@ -32102,7 +32122,8 @@
         },
         {
             "sourceId": "UTC-03332",
-            "status": "FutureWS",
+            "status": "ExtI",
+            "codepoint": "U+2ECAC",
             "radicalStrokeCount": "75.4",
             "IDS": "⿰木太",
             "source": "UTCDoc L2/22-206 35",
@@ -32145,6 +32166,1492 @@
             "comments": "kTraditionalVariant U+9BED",
             "totalStrokes": "16",
             "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03337",
+            "status": "FutureWS",
+            "radicalStrokeCount": "44.19",
+            "IDS": "⿸尸醮",
+            "source": "UTCDoc L2/23-110 1",
+            "totalStrokes": "22",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03338",
+            "status": "NoAction",
+            "radicalStrokeCount": "44.19",
+            "IDS": "⿸尸𬋕",
+            "source": "UTCDoc L2/23-110 2",
+            "comments": "Variant of UTC-03337",
+            "totalStrokes": "22",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03339",
+            "status": "FutureWS",
+            "radicalStrokeCount": "86.8",
+            "IDS": "⿰火奈",
+            "source": "UTCDoc L2/23-124",
+            "comments": "kMandarin nà:kCantonese naat3",
+            "totalStrokes": "12",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03340",
+            "status": "FutureWS",
+            "radicalStrokeCount": "74.52",
+            "IDS": "⿰月⿹⿶戈丶⿳⿲糹⿱二口糹⿲長馬長心",
+            "source": "UTCDoc L2/23-126 1",
+            "totalStrokes": "56",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03341",
+            "status": "FutureWS",
+            "radicalStrokeCount": "74.31",
+            "IDS": "⿰月⿹⿶戈丶⿳⿲纟⿱二口纟⿲长马长心",
+            "source": "UTCDoc L2/23-126 2",
+            "totalStrokes": "35",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03342",
+            "status": "FutureWS",
+            "radicalStrokeCount": "74.53",
+            "IDS": "⿲月⿳亠⿲糹⿱二口糹⿱⿲長馬長心戈",
+            "source": "UTCDoc L2/23-126 3",
+            "totalStrokes": "57",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03343",
+            "status": "FutureWS",
+            "radicalStrokeCount": "74.32",
+            "IDS": "⿲月⿳亠⿲糹⿱二口糹⿱⿲長馬長心戈",
+            "source": "UTCDoc L2/23-126 4",
+            "totalStrokes": "36",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03344",
+            "status": "FutureWS",
+            "radicalStrokeCount": "8.60",
+            "IDS": "⿳亠⿲月⿳⿲糹⿱二口糹一⿲長馬長戔心",
+            "source": "UTCDoc L2/23-126 5",
+            "totalStrokes": "62",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03345",
+            "status": "FutureWS",
+            "radicalStrokeCount": "61.46",
+            "IDS": "⿳䜌⿲長馬長必",
+            "source": "UTCDoc L2/23-126 6",
+            "totalStrokes": "50",
+            "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03346",
+            "status": "FutureWS",
+            "radicalStrokeCount": "46.52",
+            "IDS": "⿹⿶戈⿱山丶⿳⿲糹⿱二口糹⿲長馬長灬",
+            "source": "UTCDoc L2/23-126 7",
+            "totalStrokes": "55",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03347",
+            "status": "FutureWS",
+            "radicalStrokeCount": "8.27",
+            "IDS": "⿳亠⿲幺⿱二口幺⿱⿲月贝戈心",
+            "source": "UTCDoc L2/23-126 8",
+            "totalStrokes": "29",
+            "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03348",
+            "status": "FutureWS",
+            "radicalStrokeCount": "74.32",
+            "IDS": "⿰月⿵⿶戈⿲纟言纟⿱⿲长马长心",
+            "source": "UTCDoc L2/23-126 9",
+            "totalStrokes": "36",
+            "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03349",
+            "status": "FutureWS",
+            "radicalStrokeCount": "62.52",
+            "IDS": "⿰⿸广⿳⿲糹言糹⿲長馬長心戈",
+            "source": "UTCDoc L2/23-126 10",
+            "totalStrokes": "56",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03350",
+            "status": "FutureWS",
+            "radicalStrokeCount": "85.6",
+            "IDS": "⿰氵𠧗",
+            "source": "UTCDoc L2/23-130 1",
+            "comments": "kJapanese いと",
+            "totalStrokes": "9",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03351",
+            "status": "FutureWS",
+            "radicalStrokeCount": "93.4",
+            "IDS": "⿰牛化",
+            "source": "UTCDoc L2/23-130 2",
+            "comments": "kJapanese こっとい",
+            "totalStrokes": "8",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03352",
+            "status": "FutureWS",
+            "radicalStrokeCount": "75.7",
+            "IDS": "⿰木励",
+            "source": "UTCDoc L2/23-130 3",
+            "comments": "kJapanese とち:Variant of 栃 (probably)",
+            "totalStrokes": "11",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03353",
+            "status": "FutureWS",
+            "radicalStrokeCount": "140.7",
+            "IDS": "⿳艹从干",
+            "source": "UTCDoc L2/23-130 4",
+            "comments": "kJapanese ケ:Variant of 華 (probably)",
+            "totalStrokes": "10",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03354",
+            "status": "FutureWS",
+            "radicalStrokeCount": "75.9",
+            "IDS": "⿰木⿱艹𡧃",
+            "source": "UTCDoc L2/23-130 5",
+            "comments": "kJapanese へら",
+            "totalStrokes": "13",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03355",
+            "status": "FutureWS",
+            "radicalStrokeCount": "85.9",
+            "IDS": "⿰氵神",
+            "source": "UTCDoc L2/23-130 6",
+            "comments": "kJapanese ほうり",
+            "totalStrokes": "12",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03356",
+            "status": "FutureWS",
+            "radicalStrokeCount": "46.3",
+            "IDS": "〾⿰山川",
+            "source": "UTCDoc L2/23-130 7",
+            "comments": "kJapanese ほき:The last stroke of left part is strange, but it is certainly 山:Variant of 𡵅 (probably)",
+            "totalStrokes": "6",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03357",
+            "status": "FutureWS",
+            "radicalStrokeCount": "75.13",
+            "IDS": "⿰木蒔",
+            "source": "UTCDoc L2/23-130 8",
+            "comments": "kJapanese たぶ",
+            "totalStrokes": "17",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03358",
+            "status": "FutureWS",
+            "radicalStrokeCount": "115.5",
+            "IDS": "⿰禾⿱千又",
+            "source": "UTCDoc L2/23-130 9",
+            "comments": "kJapanese ぬき",
+            "totalStrokes": "10",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03359",
+            "status": "FutureWS",
+            "radicalStrokeCount": "64.6",
+            "IDS": "〾⿰扌年",
+            "source": "UTCDoc L2/23-130 10",
+            "comments": "kJapanese ハイ:The right part looks like 年, but a bit different shape:It is unclear if this part is 年 or not:Variant of 拝 (probably):Unified with 𢬧?",
+            "totalStrokes": "9",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03360",
+            "status": "FutureWS",
+            "radicalStrokeCount": "64.9",
+            "IDS": "〾⿰扌乗",
+            "source": "UTCDoc L2/23-130 11",
+            "comments": "kJapanese はと:The right part looks like a 乗, but vertical stroke was hook",
+            "totalStrokes": "12",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03361",
+            "status": "FutureWS",
+            "radicalStrokeCount": "140.13",
+            "IDS": "⿱艹⿰身瓜",
+            "source": "UTCDoc L2/23-130 12",
+            "comments": "kJapanese こも:Variant of 菰 (probably)",
+            "totalStrokes": "16",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03362",
+            "status": "FutureWS",
+            "radicalStrokeCount": "94.4",
+            "IDS": "⿰犭丒",
+            "source": "UTCDoc L2/23-130 13",
+            "comments": "kJapanese チュウ:Variant of 狃",
+            "totalStrokes": "7",
+            "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03363",
+            "status": "FutureWS",
+            "radicalStrokeCount": "128.10",
+            "IDS": "⿱𬔜耳",
+            "source": "UTCDoc L2/23-130 14",
+            "totalStrokes": "16",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03364",
+            "status": "FutureWS",
+            "radicalStrokeCount": "116.11",
+            "IDS": "⿱穴堀",
+            "source": "UTCDoc L2/23-130 15",
+            "comments": "kJapanese ほき ほっき:Similar to 𫁗",
+            "totalStrokes": "16",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03365",
+            "status": "FutureWS",
+            "radicalStrokeCount": "38.14",
+            "IDS": "⿱皷女",
+            "source": "UTCDoc L2/23-130 16",
+            "comments": "kJapanese ごぜ:Similar to 𰌘",
+            "totalStrokes": "17",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03366",
+            "status": "FutureWS",
+            "radicalStrokeCount": "46.9",
+            "IDS": "⿱山段",
+            "source": "UTCDoc L2/23-130 17",
+            "comments": "kJapanese ゆり",
+            "totalStrokes": "12",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03367",
+            "status": "FutureWS",
+            "radicalStrokeCount": "75.1",
+            "IDS": "⿰木畔",
+            "source": "UTCDoc L2/23-130 18",
+            "comments": "kJapanese くるが",
+            "totalStrokes": "14",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03368",
+            "status": "FutureWS",
+            "radicalStrokeCount": "75.2",
+            "IDS": "⿰木㐅",
+            "source": "UTCDoc L2/23-130 19",
+            "comments": "kJapanese しめ",
+            "totalStrokes": "6",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03369",
+            "status": "FutureWS",
+            "radicalStrokeCount": "140.9",
+            "IDS": "⿳艹冖⿺元⿱⺊又",
+            "source": "UTCDoc L2/23-130 20",
+            "comments": "kJapanese ク:Variant of 蔻",
+            "totalStrokes": "12",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03370",
+            "status": "FutureWS",
+            "radicalStrokeCount": "46.7",
+            "IDS": "⿰山花",
+            "source": "UTCDoc L2/23-130 21",
+            "comments": "kJapanese はな",
+            "totalStrokes": "10",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03371",
+            "status": "FutureWS",
+            "radicalStrokeCount": "142.5",
+            "IDS": "⿰虫矢",
+            "source": "UTCDoc L2/23-130 22",
+            "comments": "kJapanese けら",
+            "totalStrokes": "11",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03372",
+            "status": "FutureWS",
+            "radicalStrokeCount": "142.16",
+            "IDS": "⿳𠫓罒⿲月虫丸",
+            "source": "UTCDoc L2/23-130 24",
+            "comments": "kJapanese ほらがい:Variant of 蠃",
+            "totalStrokes": "22",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03373",
+            "status": "FutureWS",
+            "radicalStrokeCount": "46.12",
+            "IDS": "⿱山𪿢",
+            "source": "UTCDoc L2/23-130 25",
+            "comments": "kJapanese びゃく",
+            "totalStrokes": "15",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03374",
+            "status": "FutureWS",
+            "radicalStrokeCount": "75.8",
+            "IDS": "⿰木⿱止⿱丷八",
+            "source": "UTCDoc L2/23-130 26",
+            "comments": "kJapanese しぶ",
+            "totalStrokes": "12",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03375",
+            "status": "FutureWS",
+            "radicalStrokeCount": "75.7",
+            "IDS": "⿰木⿱且八",
+            "source": "UTCDoc L2/23-130 27",
+            "comments": "Similar to 椇",
+            "totalStrokes": "11",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03376",
+            "status": "FutureWS",
+            "radicalStrokeCount": "142.15",
+            "IDS": "⿳亡罒⿲月虫卂",
+            "source": "UTCDoc L2/23-130 28",
+            "comments": "kJapanese つぶら:Variant of 蠃",
+            "totalStrokes": "21",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03377",
+            "status": "FutureWS",
+            "radicalStrokeCount": "48.0",
+            "IDS": "⿱𠃍一",
+            "source": "UTCDoc L2/23-130 29",
+            "comments": "kJapanese コウ:Variant of 工",
+            "totalStrokes": "2",
+            "firstResidualStroke": "0"
+        },
+        {
+            "sourceId": "UTC-03378",
+            "status": "Variant",
+            "codepoint": "U+9BC7",
+            "radicalStrokeCount": "195.7",
+            "IDS": "⿰𩵋完",
+            "source": "UTCDoc L2/23-130 30",
+            "totalStrokes": "17",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03379",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195.9",
+            "IDS": "⿰魚砂",
+            "source": "UTCDoc L2/23-130 31",
+            "comments": "kJapanese はぜ:Variant of 鯊 (probably)",
+            "totalStrokes": "20",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03380",
+            "status": "FutureWS",
+            "radicalStrokeCount": "140.14",
+            "IDS": "⿱艹廣",
+            "source": "UTCDoc L2/23-130 32",
+            "totalStrokes": "17",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03381",
+            "status": "FutureWS",
+            "radicalStrokeCount": "46.6",
+            "IDS": "⿰山㦮",
+            "source": "UTCDoc L2/23-130 33",
+            "comments": "kJapanese がけ:Simplified of 㟞",
+            "totalStrokes": "9",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03382",
+            "status": "FutureWS",
+            "radicalStrokeCount": "30.6",
+            "IDS": "⿰口成",
+            "source": "UTCDoc L2/23-130 34",
+            "comments": "kJapanese かみ",
+            "totalStrokes": "9",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03383",
+            "status": "FutureWS",
+            "radicalStrokeCount": "75.5",
+            "IDS": "⿱平木",
+            "source": "UTCDoc L2/23-130 35",
+            "comments": "kJapanese なろ",
+            "totalStrokes": "9",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03384",
+            "status": "FutureWS",
+            "radicalStrokeCount": "112.9",
+            "IDS": "⿰石飛",
+            "source": "UTCDoc L2/23-130 36",
+            "comments": "kJapanese つぶて:Variant of 礫 (probably)",
+            "totalStrokes": "14",
+            "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03385",
+            "status": "FutureWS",
+            "radicalStrokeCount": "53.2",
+            "IDS": "⿸广龴",
+            "source": "UTCDoc L2/23-139R 1",
+            "comments": "Japanese simplified forms of U+6469 and U+9B54",
+            "totalStrokes": "5",
+            "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03386",
+            "status": "FutureWS",
+            "radicalStrokeCount": "18.6",
+            "IDS": "⿰虍刂",
+            "source": "UTCDoc L2/23-139R 2",
+            "comments": "Japanese simplified form of U+5287",
+            "totalStrokes": "8",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03387",
+            "status": "FutureWS",
+            "radicalStrokeCount": "75.9",
+            "IDS": "⿰木⿱𭕄⿹戈人",
+            "source": "UTCDoc L2/23-139R 3",
+            "comments": "Japanese simplified form of U+6A5F",
+            "totalStrokes": "13",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03388",
+            "status": "FutureWS",
+            "radicalStrokeCount": "75.10",
+            "IDS": "⿰木⿵⿱丷八⿹戈人",
+            "source": "UTCDoc L2/23-139R 4",
+            "comments": "Japanese simplified form of U+6A5F",
+            "totalStrokes": "14",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03389",
+            "status": "FutureWS",
+            "radicalStrokeCount": "162.9",
+            "IDS": "⿺辶⿱𭕄共",
+            "source": "UTCDoc L2/23-139R 5",
+            "comments": "Japanese simplified form of U+9078",
+            "totalStrokes": "13",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03390",
+            "status": "FutureWS",
+            "radicalStrokeCount": "44.2",
+            "IDS": "⿸尸丷",
+            "source": "UTCDoc L2/23-139R 6",
+            "comments": "Japanese simplified form of U+5C64",
+            "totalStrokes": "5",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03391",
+            "status": "FutureWS",
+            "radicalStrokeCount": "53.5",
+            "IDS": "⿸广⿱夕力",
+            "source": "UTCDoc L2/23-139R 7",
+            "comments": "Japanese simplified form of U+9DF9",
+            "totalStrokes": "8",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03392",
+            "status": "FutureWS",
+            "radicalStrokeCount": "140.6",
+            "IDS": "⿱艹𦘱",
+            "source": "UTCDoc L2/23-139R 8",
+            "comments": "Japanese simplified form of U+85E4",
+            "totalStrokes": "10",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03393",
+            "status": "FutureWS",
+            "radicalStrokeCount": "31.1",
+            "IDS": "⿴囗丶",
+            "source": "UTCDoc L2/23-139R 9",
+            "comments": "Japanese simplified forms of U+56FD and U+5712",
+            "totalStrokes": "4",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03394",
+            "status": "FutureWS",
+            "radicalStrokeCount": "5.6",
+            "IDS": "⿺九未",
+            "source": "UTCDoc L2/23-202",
+            "comments": "kKorean KWUMI MI",
+            "totalStrokes": "7",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03395",
+            "status": "FutureWS",
+            "radicalStrokeCount": "196'.9",
+            "IDS": "⿰春鸟",
+            "source": "UTCDoc L2/23-213",
+            "comments": "kTraditionalVariant U+2A0B9:kMandarin chūn:kCantonese ceon1",
+            "totalStrokes": "14",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03396",
+            "status": "FutureWS",
+            "radicalStrokeCount": "1.2",
+            "IDS": "⿻十丿",
+            "source": "UTCDoc L2/23-214",
+            "comments": "kSemanticVariant U+6563:kSpoofingVariant U+5344 U+535D U+5EFE U+8279 U+21B1D",
+            "totalStrokes": "2",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03397",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.7",
+            "IDS": "⿰鱼希",
+            "source": "UTCDoc L2/23-226",
+            "comments": "kTraditionalVariant U+9BD1:kMandarin xī:kCantonese hei1",
+            "totalStrokes": "15",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03398",
+            "status": "FutureWS",
+            "radicalStrokeCount": "119.7",
+            "IDS": "⿰米达",
+            "source": "UTCDoc L2/23-285",
+            "comments": "kMandarin dá",
+            "totalStrokes": "13",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03399",
+            "status": "FutureWS",
+            "radicalStrokeCount": "30.15",
+            "IDS": "⿰口蔭",
+            "source": "UTCDoc L2/24-041 1",
+            "comments": "PX Min /iã⁴²/",
+            "totalStrokes": "18",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03400",
+            "status": "FutureWS",
+            "radicalStrokeCount": "30.13",
+            "IDS": "⿰口毁",
+            "source": "UTCDoc L2/24-041 2",
+            "comments": "PX Min /hui⁴⁵³/",
+            "totalStrokes": "16",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03401",
+            "status": "FutureWS",
+            "radicalStrokeCount": "64.8",
+            "IDS": "⿰扌迎",
+            "source": "UTCDoc L2/24-041 3",
+            "comments": "PX Min /ŋia²⁴/",
+            "totalStrokes": "11",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03402",
+            "status": "FutureWS",
+            "radicalStrokeCount": "118.5",
+            "IDS": "⿱𥫗石",
+            "source": "UTCDoc L2/24-041 4",
+            "comments": "PX Min /tu⁴⁵³/",
+            "totalStrokes": "11",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03403",
+            "status": "FutureWS",
+            "radicalStrokeCount": "30.15",
+            "IDS": "⿰口輝",
+            "source": "UTCDoc L2/24-041 5",
+            "comments": "PX Min /hui⁵³³/",
+            "totalStrokes": "18",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03404",
+            "status": "FutureWS",
+            "radicalStrokeCount": "30.13",
+            "IDS": "⿰口粲",
+            "source": "UTCDoc L2/24-041 6",
+            "comments": "PX Min /t͡sʰaŋ¹¹/",
+            "totalStrokes": "16",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03405",
+            "status": "FutureWS",
+            "radicalStrokeCount": "30.17",
+            "IDS": "⿰口薑",
+            "source": "UTCDoc L2/24-041 7",
+            "comments": "kSimplifiedVariant U+20DE9",
+            "totalStrokes": "20",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03406",
+            "status": "FutureWS",
+            "radicalStrokeCount": "44.5",
+            "IDS": "⿸尸瓦",
+            "source": "UTCDoc L2/24-041 8",
+            "comments": "PX Min /kʰɔ⁵³³/",
+            "totalStrokes": "8",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03407",
+            "status": "FutureWS",
+            "radicalStrokeCount": "30.11",
+            "IDS": "⿰口勘",
+            "source": "UTCDoc L2/24-041 9",
+            "comments": "PX Min /kʰaŋ⁴²/",
+            "totalStrokes": "14",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03408",
+            "status": "FutureWS",
+            "radicalStrokeCount": "9.9",
+            "IDS": "⿰亻看",
+            "source": "UTCDoc L2/24-041 10",
+            "totalStrokes": "11",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03409",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.4",
+            "IDS": "⿰鱼友",
+            "source": "UTCDoc L2/24-047 1",
+            "comments": "kTraditionalVariant U+29D7C:kCantonese jau5",
+            "totalStrokes": "12",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03410",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.4",
+            "IDS": "⿰鱼今",
+            "source": "UTCDoc L2/24-047 2",
+            "comments": "kTraditionalVariant U+4C3C:kMandarin qín:kCantonese cam4",
+            "totalStrokes": "12",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03411",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.4",
+            "IDS": "⿰鱼公",
+            "source": "UTCDoc L2/24-047 3",
+            "comments": "kTraditionalVariant U+4C38:kMandarin gōng:kCantonese gung1",
+            "totalStrokes": "12",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03412",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.4",
+            "IDS": "⿰鱼勿",
+            "source": "UTCDoc L2/24-047 4",
+            "comments": "kTraditionalVariant U+9B69:kMandarin mò:kCantonese mut6",
+            "totalStrokes": "12",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03413",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.6",
+            "IDS": "⿰鱼产",
+            "source": "UTCDoc L2/24-047 5",
+            "comments": "kTraditionalVariant U+29ECF",
+            "totalStrokes": "14",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03414",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.4",
+            "IDS": "⿰鱼历",
+            "source": "UTCDoc L2/24-047 6",
+            "comments": "kTraditionalVariant U+29F4F:kMandarin lì:Min Dong lik⁴⁴",
+            "totalStrokes": "12",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03415",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.2",
+            "IDS": "⿰鱼力",
+            "source": "UTCDoc L2/24-047 7",
+            "comments": "kTraditionalVariant U+29D53:kMandarin lèi",
+            "totalStrokes": "10",
+            "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03416",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.4",
+            "IDS": "⿰鱼户",
+            "source": "UTCDoc L2/24-047 8",
+            "comments": "kTraditionalVariant U+9B72:kSemanticVariant U+9C78 U+9C88:kMandarin lú:kCantonese lou4",
+            "totalStrokes": "12",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03417",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.9",
+            "IDS": "⿰鱼若",
+            "source": "UTCDoc L2/24-047 9",
+            "comments": "kTraditionalVariant U+9C19:kMandarin ruò:kCantonese joek6:Wu ȵiæʔ²² ȵiaʔ² ȵiɐʔ¹²",
+            "totalStrokes": "17",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03418",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.13",
+            "IDS": "⿰鱼辟",
+            "source": "UTCDoc L2/24-047 10",
+            "comments": "kTraditionalVariant U+29F0E",
+            "totalStrokes": "21",
+            "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03419",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.8",
+            "IDS": "⿰鱼定",
+            "source": "UTCDoc L2/24-047 11",
+            "comments": "kTraditionalVariant U+29E0E:kMandarin dìng",
+            "totalStrokes": "16",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03420",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.8",
+            "IDS": "⿰鱼卖",
+            "source": "UTCDoc L2/24-047 12",
+            "comments": "kTraditionalVariant U+29F46:kMandarin xù",
+            "totalStrokes": "16",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03421",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.3",
+            "IDS": "⿰鱼子",
+            "source": "UTCDoc L2/24-047 13",
+            "comments": "kTraditionalVariant U+4C35:kMandarin zī:kCantonese zi1",
+            "totalStrokes": "11",
+            "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03422",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.6",
+            "IDS": "⿰鱼匡",
+            "source": "UTCDoc L2/24-047 14",
+            "totalStrokes": "14",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03423",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.6",
+            "IDS": "⿰鱼光",
+            "source": "UTCDoc L2/24-047 15",
+            "comments": "kTraditionalVariant U+29DB8",
+            "totalStrokes": "14",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03424",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.7",
+            "IDS": "⿰鱼每",
+            "source": "UTCDoc L2/24-047 16",
+            "comments": "kTraditionalVariant U+4C55:kMandarin móu:kCantonese mau4",
+            "totalStrokes": "15",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03425",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.6",
+            "IDS": "⿰鱼舌",
+            "source": "UTCDoc L2/24-047 17",
+            "comments": "kTraditionalVariant U+2CD4F:kMandarin shè",
+            "totalStrokes": "14",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03426",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.10",
+            "IDS": "⿰鱼桀",
+            "source": "UTCDoc L2/24-047 18",
+            "comments": "kTraditionalVariant U+2B66E",
+            "totalStrokes": "18",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03427",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.9",
+            "IDS": "⿰鱼厚",
+            "source": "UTCDoc L2/24-047 19",
+            "comments": "kTraditionalVariant WS2021-04607:kMandarin hòu",
+            "totalStrokes": "17",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03428",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.5",
+            "IDS": "⿰鱼巨",
+            "source": "UTCDoc L2/24-047 20",
+            "comments": "kTraditionalVariant U+9B94:kMandarin jù:kCantonese geoi6",
+            "totalStrokes": "13",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03429",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.5",
+            "IDS": "⿰鱼尔",
+            "source": "UTCDoc L2/24-047 21",
+            "comments": "kTraditionalVariant U+29D97",
+            "totalStrokes": "13",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03430",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.9",
+            "IDS": "⿰鱼带",
+            "source": "UTCDoc L2/24-047 22",
+            "comments": "kTraditionalVariant U+29E8C",
+            "totalStrokes": "17",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03431",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.11",
+            "IDS": "⿰鱼常",
+            "source": "UTCDoc L2/24-047 23",
+            "comments": "kTraditionalVariant U+2B672",
+            "totalStrokes": "19",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03432",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.9",
+            "IDS": "⿰鱼迪",
+            "source": "UTCDoc L2/24-047 24",
+            "totalStrokes": "17",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03433",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.7",
+            "IDS": "⿰鱼攸",
+            "source": "UTCDoc L2/24-047 25",
+            "comments": "kTraditionalVariant U+4C54:kMandarin tiáo:kCantonese tiu4",
+            "totalStrokes": "15",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03434",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.5",
+            "IDS": "⿰鱼厉",
+            "source": "UTCDoc L2/24-047 26",
+            "comments": "kTraditionalVariant U+9C71:kMandarin lì:kCantonese lai6:kVietnamese lịch",
+            "totalStrokes": "13",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03435",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.10",
+            "IDS": "⿰鱼资",
+            "source": "UTCDoc L2/24-047 27",
+            "comments": "kTraditionalVariant U+2B681",
+            "totalStrokes": "18",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03436",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.8",
+            "IDS": "⿰鱼苍",
+            "source": "UTCDoc L2/24-047 28",
+            "comments": "kTraditionalVariant U+29F3A",
+            "totalStrokes": "16",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03437",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.4",
+            "IDS": "⿰鱼文",
+            "source": "UTCDoc L2/24-047 29",
+            "comments": "kTraditionalVariant U+9B70:kMandarin wén:kCantonese man4",
+            "totalStrokes": "12",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03438",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.12",
+            "IDS": "⿰鱼逮",
+            "source": "UTCDoc L2/24-047 30",
+            "comments": "kTraditionalVariant U+29EF8:kCantonese dai6",
+            "totalStrokes": "20",
+            "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03439",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.9",
+            "IDS": "⿰鱼建",
+            "source": "UTCDoc L2/24-047 31",
+            "comments": "kTraditionalVariant U+9C0E:kMandarin jiǎn:kCantonese gin2",
+            "totalStrokes": "17",
+            "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03440",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.7",
+            "IDS": "⿰鱼孛",
+            "source": "UTCDoc L2/24-047 32",
+            "comments": "kTraditionalVariant U+29DDA:kMandarin bó",
+            "totalStrokes": "15",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03441",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.10",
+            "IDS": "⿰鱼唐",
+            "source": "UTCDoc L2/24-047 33",
+            "comments": "kTraditionalVariant U+29E76:kMandarin táng",
+            "totalStrokes": "18",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03442",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.4",
+            "IDS": "⿰鱼区",
+            "source": "UTCDoc L2/24-047 34",
+            "comments": "kTraditionalVariant U+9C38:kMandarin qū:kCantonese keoi1",
+            "totalStrokes": "12",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03443",
+            "status": "FutureWS",
+            "radicalStrokeCount": "159'.4",
+            "IDS": "⿰车允",
+            "source": "UTCDoc L2/24-056 1",
+            "comments": "kTraditionalVariant U+282CD:kCantonese wen1",
+            "totalStrokes": "8",
+            "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03444",
+            "status": "FutureWS",
+            "radicalStrokeCount": "130.6",
+            "IDS": "⿰月夺",
+            "source": "UTCDoc L2/24-056 2",
+            "comments": "kCantonese dyut1",
+            "totalStrokes": "10",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03445",
+            "status": "FutureWS",
+            "radicalStrokeCount": "30.10",
+            "IDS": "⿰口挛",
+            "source": "UTCDoc L2/24-056 3",
+            "comments": "kCantonese lyun1",
+            "totalStrokes": "13",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03446",
+            "status": "FutureWS",
+            "radicalStrokeCount": "30.10",
+            "IDS": "⿰口紧",
+            "source": "UTCDoc L2/24-075",
+            "comments": "kTraditionalVariant U+21075:kCantonese gan2",
+            "totalStrokes": "13",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03447",
+            "status": "FutureWS",
+            "radicalStrokeCount": "187.5",
+            "IDS": "⿰馬占",
+            "source": "UTCDoc L2/24-076 1",
+            "comments": "kMandarin zhàn",
+            "totalStrokes": "15",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03448",
+            "status": "FutureWS",
+            "radicalStrokeCount": "96.9",
+            "IDS": "⿰王品",
+            "source": "UTCDoc L2/24-076 2",
+            "totalStrokes": "13",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03449",
+            "status": "FutureWS",
+            "radicalStrokeCount": "159.5",
+            "IDS": "⿰車丘",
+            "source": "UTCDoc L2/24-076 3",
+            "comments": "U+9A45:KC05766",
+            "totalStrokes": "12",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03450",
+            "status": "FutureWS",
+            "radicalStrokeCount": "46.6",
+            "IDS": "⿱山虫",
+            "source": "UTCDoc L2/24-092 1",
+            "comments": "kMandarin chī:kSemanticVariant U+86A9",
+            "totalStrokes": "9",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03451",
+            "status": "FutureWS",
+            "radicalStrokeCount": "75.10",
+            "IDS": "⿰木宵",
+            "source": "UTCDoc L2/24-092 2",
+            "comments": "kMandarin lǔ:kSemanticVariant U+6AD3",
+            "totalStrokes": "14",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03452",
+            "status": "FutureWS",
+            "radicalStrokeCount": "94.12",
+            "IDS": "⿰犭颉",
+            "source": "UTCDoc L2/24-092 3",
+            "comments": "kMandarin xié:kTraditionalVariant U+248BA",
+            "totalStrokes": "15",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03453",
+            "status": "FutureWS",
+            "radicalStrokeCount": "115.4",
+            "IDS": "⿱禾龰",
+            "source": "UTCDoc L2/24-092 4",
+            "comments": "kMandarin zǒu:kSemanticVariant U+27E86 U+8D70",
+            "totalStrokes": "9",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03454",
+            "status": "FutureWS",
+            "radicalStrokeCount": "118.9",
+            "IDS": "⿱𥫗俛",
+            "source": "UTCDoc L2/24-092 5",
+            "comments": "kMandarin jué:kSemanticVariant U+855D",
+            "totalStrokes": "15",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03455",
+            "status": "FutureWS",
+            "radicalStrokeCount": "118.9",
+            "IDS": "⿱𥫗绝",
+            "source": "UTCDoc L2/24-092 6",
+            "comments": "kMandarin jué:kTraditionalVariant U+25CF5:kSemanticVariant U+2B235",
+            "totalStrokes": "15",
+            "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03456",
+            "status": "FutureWS",
+            "radicalStrokeCount": "119.9",
+            "IDS": "⿰米费",
+            "source": "UTCDoc L2/24-092 7",
+            "comments": "kMandarin pì:kTraditionalVariant U+42A7:kSemanticVariant U+5C41",
+            "totalStrokes": "15",
+            "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03457",
+            "status": "FutureWS",
+            "radicalStrokeCount": "120'.8",
+            "IDS": "⿰纟昔",
+            "source": "UTCDoc L2/24-092 8",
+            "comments": "kMandarin zuó:kTraditionalVariant U+2604E",
+            "totalStrokes": "11",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03458",
+            "status": "FutureWS",
+            "radicalStrokeCount": "123.5",
+            "IDS": "⿰羊东",
+            "source": "UTCDoc L2/24-092 9",
+            "comments": "kMandarin dōng:kTraditionalVariant U+4376",
+            "totalStrokes": "11",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03459",
+            "status": "FutureWS",
+            "radicalStrokeCount": "142.5",
+            "IDS": "⿰虫鸟",
+            "source": "UTCDoc L2/24-092 10",
+            "comments": "kMandarin tóng:kTraditionalVariant U+4CCB",
+            "totalStrokes": "11",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03460",
+            "status": "FutureWS",
+            "radicalStrokeCount": "159'.9",
+            "IDS": "⿰车扁",
+            "source": "UTCDoc L2/24-092 11",
+            "comments": "kMandarin biàn:kTraditionalVariant U+4862",
+            "totalStrokes": "13",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03461",
+            "status": "FutureWS",
+            "radicalStrokeCount": "169'.8",
+            "IDS": "⿵门豖",
+            "source": "UTCDoc L2/24-092 12",
+            "comments": "kMandarin dū:kTraditionalVariant U+49A0",
+            "totalStrokes": "11",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03462",
+            "status": "FutureWS",
+            "radicalStrokeCount": "187'.9",
+            "IDS": "⿰马𱅑",
+            "source": "UTCDoc L2/24-092 13",
+            "comments": "kMandarin téng:kTraditionalVariant U+9A63:kSemanticVariant U+9A30",
+            "totalStrokes": "12",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03463",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.10",
+            "IDS": "⿰鱼尃",
+            "source": "UTCDoc L2/24-092 15",
+            "comments": "kMandarin bū:kTraditionalVariant U+29E72",
+            "totalStrokes": "13",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03464",
+            "status": "FutureWS",
+            "radicalStrokeCount": "195'.11",
+            "IDS": "⿰鱼巢",
+            "source": "UTCDoc L2/24-092 16",
+            "comments": "kMandarin zǎo:kTraditionalVariant U+4C83",
+            "totalStrokes": "19",
+            "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03465",
+            "status": "FutureWS",
+            "radicalStrokeCount": "196'.3",
+            "IDS": "⿰鸟大",
+            "source": "UTCDoc L2/24-092 17",
+            "comments": "kMandarin dài:kTraditionalVariant U+4CA6",
+            "totalStrokes": "8",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03466",
+            "status": "FutureWS",
+            "radicalStrokeCount": "196'.5",
+            "IDS": "⿰乐鸟",
+            "source": "UTCDoc L2/24-092 18",
+            "comments": "kMandarin luò:kTraditionalVariant U+2A1F1",
+            "totalStrokes": "10",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03467",
+            "status": "FutureWS",
+            "radicalStrokeCount": "196'.5",
+            "IDS": "⿰丘鸟",
+            "source": "UTCDoc L2/24-092 19",
+            "comments": "kMandarin chī:kTraditionalVariant U+29FE8:kSemanticVariant U+9D1F",
+            "totalStrokes": "10",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03468",
+            "status": "FutureWS",
+            "radicalStrokeCount": "196'.6",
+            "IDS": "⿱次鸟",
+            "source": "UTCDoc L2/24-092 20",
+            "comments": "kMandarin cì:kTraditionalVariant U+4CD0",
+            "totalStrokes": "11",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03469",
+            "status": "FutureWS",
+            "radicalStrokeCount": "196'.8",
+            "IDS": "⿹㇯鸟一宛",
+            "source": "UTCDoc L2/24-092 21",
+            "comments": "kMandarin wǎn:kTraditionalVariant U+2A0A7",
+            "totalStrokes": "12",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03470",
+            "status": "FutureWS",
+            "radicalStrokeCount": "196'.10",
+            "IDS": "⿰贲鸟",
+            "source": "UTCDoc L2/24-092 22",
+            "comments": "kMandarin fén:kTraditionalVariant U+4D05",
+            "totalStrokes": "15",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03471",
+            "status": "FutureWS",
+            "radicalStrokeCount": "196'.10",
+            "IDS": "⿱般鸟",
+            "source": "UTCDoc L2/24-092 23",
+            "comments": "kMandarin pán:kTraditionalVariant U+2A100",
+            "totalStrokes": "15",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03472",
+            "status": "FutureWS",
+            "radicalStrokeCount": "196'.11",
+            "IDS": "⿰習鸟",
+            "source": "UTCDoc L2/24-092 24",
+            "comments": "kMandarin xí:kTraditionalVariant U+2A136",
+            "totalStrokes": "16",
+            "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03473",
+            "status": "FutureWS",
+            "radicalStrokeCount": "196'.13",
+            "IDS": "⿰鸟蜀",
+            "source": "UTCDoc L2/24-092 25",
+            "comments": "kMandarin chù:kTraditionalVariant U+2A1C6",
+            "totalStrokes": "18",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03474",
+            "status": "FutureWS",
+            "radicalStrokeCount": "196'.13",
+            "IDS": "⿰詹鸟",
+            "source": "UTCDoc L2/24-092 26",
+            "comments": "kMandarin dǎn:kTraditionalVariant U+2A1BB",
+            "totalStrokes": "18",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03475",
+            "status": "FutureWS",
+            "radicalStrokeCount": "196'.13",
+            "IDS": "⿰叠鸟",
+            "source": "UTCDoc L2/24-092 27",
+            "comments": "kMandarin dié:kTraditionalVariant U+4D11",
+            "totalStrokes": "18",
+            "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03476",
+            "status": "FutureWS",
+            "radicalStrokeCount": "196'.16",
+            "IDS": "⿰薨鸟",
+            "source": "UTCDoc L2/24-092 28",
+            "comments": "kMandarin hōng:kTraditionalVariant U+2A218",
+            "totalStrokes": "21",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03477",
+            "status": "FutureWS",
+            "radicalStrokeCount": "27.9",
+            "IDS": "⿸厂畐",
+            "source": "UTCDoc L2/24-095",
+            "comments": "kMandarin bì:kSemanticVariant U+6E62:KC07952",
+            "totalStrokes": "11",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03478",
+            "status": "FutureWS",
+            "radicalStrokeCount": "109.16",
+            "IDS": "⿰目⿱⿻王冖𰤷",
+            "source": "UTCDoc L2/24-099 1",
+            "comments": "U+77D1",
+            "totalStrokes": "21",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03479",
+            "status": "FutureWS",
+            "radicalStrokeCount": "157.14",
+            "IDS": "⿰𧾷𠪨",
+            "source": "UTCDoc L2/24-099 2",
+            "comments": "U+8E94",
+            "totalStrokes": "21",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03480",
+            "status": "FutureWS",
+            "radicalStrokeCount": "169.3",
+            "IDS": "⿵門兀",
+            "source": "UTCDoc L2/24-099 3",
+            "totalStrokes": "11",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03481",
+            "status": "FutureWS",
+            "radicalStrokeCount": "187.19",
+            "IDS": "⿰馬羅",
+            "source": "UTCDoc L2/24-099 4",
+            "totalStrokes": "28",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03482",
+            "status": "FutureWS",
+            "radicalStrokeCount": "123.7",
+            "IDS": "⿰羊𭥐",
+            "source": "UTCDoc L2/24-099 5",
+            "totalStrokes": "12",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03483",
+            "status": "FutureWS",
+            "radicalStrokeCount": "196.13",
+            "IDS": "⿰窟鳥",
+            "source": "UTCDoc L2/24-099 6",
+            "totalStrokes": "24",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03484",
+            "status": "FutureWS",
+            "radicalStrokeCount": "196.7",
+            "IDS": "⿰克鳥",
+            "source": "UTCDoc L2/24-099 7",
+            "totalStrokes": "18",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03485",
+            "status": "FutureWS",
+            "radicalStrokeCount": "208.9",
+            "IDS": "⿺鼠革",
+            "source": "UTCDoc L2/24-099 8",
+            "totalStrokes": "22",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03486",
+            "status": "FutureWS",
+            "radicalStrokeCount": "208.9",
+            "IDS": "⿺𣆨𮧓",
+            "source": "UTCDoc L2/24-099 9",
+            "totalStrokes": "19",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03487",
+            "status": "FutureWS",
+            "radicalStrokeCount": "208.16",
+            "IDS": "⿺𣆨⿸⿻丅⿸⿱乛丿二𰤷",
+            "source": "UTCDoc L2/24-099 10",
+            "comments": "U+2A58C",
+            "totalStrokes": "26",
+            "firstResidualStroke": "1"
         }
     ]
 }

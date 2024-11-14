@@ -50,9 +50,9 @@
         },
         {
             "codepoint": "0620",
-            "name": "DOTLESS YEH WITH SEPARATE RING BELOW",
+            "name": "KASHMIRI YEH",
             "type": "D",
-            "joiningGroup": "YEH"
+            "joiningGroup": "KASHMIRI YEH"
         },
         {
             "codepoint": "0621",
@@ -2882,7 +2882,7 @@
         },
         {
             "codepoint": "1878",
-            "name": "MONGOLIAN MANCHU CHA WITH 2 DOTS",
+            "name": "MONGOLIAN CHA WITH 2 DOTS",
             "type": "D",
             "joiningGroup": "No_Joining_Group"
         },
@@ -4109,6 +4109,24 @@
             "name": "HANIFI ROHINGYA DOTLESS KINNA YA WITH DOT ABOVE",
             "type": "D",
             "joiningGroup": "HANIFI ROHINGYA KINNA YA"
+        },
+        {
+            "codepoint": "10EC2",
+            "name": "DAL WITH VERTICAL 2 DOTS BELOW",
+            "type": "R",
+            "joiningGroup": "DAL"
+        },
+        {
+            "codepoint": "10EC3",
+            "name": "TAH WITH VERTICAL 2 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "TAH"
+        },
+        {
+            "codepoint": "10EC4",
+            "name": "KAF WITH VERTICAL 2 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "KAF"
         },
         {
             "codepoint": "10F30",

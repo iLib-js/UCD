@@ -2716,6 +2716,11 @@
             "mapping": "A64B"
         },
         {
+            "codepoint": "1C89",
+            "status": "C",
+            "mapping": "1C8A"
+        },
+        {
             "codepoint": "1C90",
             "status": "C",
             "mapping": "10D0"
@@ -5901,6 +5906,16 @@
             "mapping": "A7CA"
         },
         {
+            "codepoint": "A7CB",
+            "status": "C",
+            "mapping": "0264"
+        },
+        {
+            "codepoint": "A7CC",
+            "status": "C",
+            "mapping": "A7CD"
+        },
+        {
             "codepoint": "A7D0",
             "status": "C",
             "mapping": "A7D1"
@@ -5914,6 +5929,16 @@
             "codepoint": "A7D8",
             "status": "C",
             "mapping": "A7D9"
+        },
+        {
+            "codepoint": "A7DA",
+            "status": "C",
+            "mapping": "A7DB"
+        },
+        {
+            "codepoint": "A7DC",
+            "status": "C",
+            "mapping": "019B"
         },
         {
             "codepoint": "A7F5",
@@ -7324,6 +7349,116 @@
             "codepoint": "10CB2",
             "status": "C",
             "mapping": "10CF2"
+        },
+        {
+            "codepoint": "10D50",
+            "status": "C",
+            "mapping": "10D70"
+        },
+        {
+            "codepoint": "10D51",
+            "status": "C",
+            "mapping": "10D71"
+        },
+        {
+            "codepoint": "10D52",
+            "status": "C",
+            "mapping": "10D72"
+        },
+        {
+            "codepoint": "10D53",
+            "status": "C",
+            "mapping": "10D73"
+        },
+        {
+            "codepoint": "10D54",
+            "status": "C",
+            "mapping": "10D74"
+        },
+        {
+            "codepoint": "10D55",
+            "status": "C",
+            "mapping": "10D75"
+        },
+        {
+            "codepoint": "10D56",
+            "status": "C",
+            "mapping": "10D76"
+        },
+        {
+            "codepoint": "10D57",
+            "status": "C",
+            "mapping": "10D77"
+        },
+        {
+            "codepoint": "10D58",
+            "status": "C",
+            "mapping": "10D78"
+        },
+        {
+            "codepoint": "10D59",
+            "status": "C",
+            "mapping": "10D79"
+        },
+        {
+            "codepoint": "10D5A",
+            "status": "C",
+            "mapping": "10D7A"
+        },
+        {
+            "codepoint": "10D5B",
+            "status": "C",
+            "mapping": "10D7B"
+        },
+        {
+            "codepoint": "10D5C",
+            "status": "C",
+            "mapping": "10D7C"
+        },
+        {
+            "codepoint": "10D5D",
+            "status": "C",
+            "mapping": "10D7D"
+        },
+        {
+            "codepoint": "10D5E",
+            "status": "C",
+            "mapping": "10D7E"
+        },
+        {
+            "codepoint": "10D5F",
+            "status": "C",
+            "mapping": "10D7F"
+        },
+        {
+            "codepoint": "10D60",
+            "status": "C",
+            "mapping": "10D80"
+        },
+        {
+            "codepoint": "10D61",
+            "status": "C",
+            "mapping": "10D81"
+        },
+        {
+            "codepoint": "10D62",
+            "status": "C",
+            "mapping": "10D82"
+        },
+        {
+            "codepoint": "10D63",
+            "status": "C",
+            "mapping": "10D83"
+        },
+        {
+            "codepoint": "10D64",
+            "status": "C",
+            "mapping": "10D84"
+        },
+        {
+            "codepoint": "10D65",
+            "status": "C",
+            "mapping": "10D85"
         },
         {
             "codepoint": "118A0",

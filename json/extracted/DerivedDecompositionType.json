@@ -1502,6 +1502,18 @@
         },
         {
             "range": [
+                "105C9"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "105E4"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
                 "1109A"
             ],
             "type": "Canonical"
@@ -1534,6 +1546,43 @@
         },
         {
             "range": [
+                "11383"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "11385"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "1138E"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "11391"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "113C5"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "113C7",
+                "113C8"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
                 "114BB",
                 "114BC"
             ],
@@ -1555,6 +1604,20 @@
         {
             "range": [
                 "11938"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "16121",
+                "16128"
+            ],
+            "type": "Canonical"
+        },
+        {
+            "range": [
+                "16D68",
+                "16D6A"
             ],
             "type": "Canonical"
         },
@@ -2192,6 +2255,20 @@
         {
             "range": [
                 "FB29"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1CCD6",
+                "1CCEF"
+            ],
+            "type": "Font"
+        },
+        {
+            "range": [
+                "1CCF0",
+                "1CCF9"
             ],
             "type": "Font"
         },

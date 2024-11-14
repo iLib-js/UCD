@@ -1297,6 +1297,13 @@
         },
         {
             "range": [
+                "105C0",
+                "105FF"
+            ],
+            "block": "Todhri"
+        },
+        {
+            "range": [
                 "10600",
                 "1077F"
             ],
@@ -1451,6 +1458,13 @@
         },
         {
             "range": [
+                "10D40",
+                "10D8F"
+            ],
+            "block": "Garay"
+        },
+        {
+            "range": [
                 "10E60",
                 "10E7F"
             ],
@@ -1584,6 +1598,13 @@
         },
         {
             "range": [
+                "11380",
+                "113FF"
+            ],
+            "block": "Tulu-Tigalari"
+        },
+        {
+            "range": [
                 "11400",
                 "1147F"
             ],
@@ -1623,6 +1644,13 @@
                 "116CF"
             ],
             "block": "Takri"
+        },
+        {
+            "range": [
+                "116D0",
+                "116FF"
+            ],
+            "block": "Myanmar Extended-C"
         },
         {
             "range": [
@@ -1693,6 +1721,13 @@
                 "11B5F"
             ],
             "block": "Devanagari Extended-A"
+        },
+        {
+            "range": [
+                "11BC0",
+                "11BFF"
+            ],
+            "block": "Sunuwar"
         },
         {
             "range": [
@@ -1794,10 +1829,24 @@
         },
         {
             "range": [
+                "13460",
+                "143FF"
+            ],
+            "block": "Egyptian Hieroglyphs Extended-A"
+        },
+        {
+            "range": [
                 "14400",
                 "1467F"
             ],
             "block": "Anatolian Hieroglyphs"
+        },
+        {
+            "range": [
+                "16100",
+                "1613F"
+            ],
+            "block": "Gurung Khema"
         },
         {
             "range": [
@@ -1833,6 +1882,13 @@
                 "16B8F"
             ],
             "block": "Pahawh Hmong"
+        },
+        {
+            "range": [
+                "16D40",
+                "16D7F"
+            ],
+            "block": "Kirat Rai"
         },
         {
             "range": [
@@ -1931,6 +1987,13 @@
                 "1BCAF"
             ],
             "block": "Shorthand Format Controls"
+        },
+        {
+            "range": [
+                "1CC00",
+                "1CEBF"
+            ],
+            "block": "Symbols for Legacy Computing Supplement"
         },
         {
             "range": [
@@ -2050,6 +2113,13 @@
                 "1E4FF"
             ],
             "block": "Nag Mundari"
+        },
+        {
+            "range": [
+                "1E5D0",
+                "1E5FF"
+            ],
+            "block": "Ol Onal"
         },
         {
             "range": [

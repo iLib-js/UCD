@@ -148,7 +148,7 @@
         {
             "range": [
                 "0892",
-                "0897"
+                "0896"
             ],
             "category": "Cn"
         },
@@ -1411,14 +1411,7 @@
         },
         {
             "range": [
-                "1B4D",
-                "1B4F"
-            ],
-            "category": "Cn"
-        },
-        {
-            "range": [
-                "1B7F"
+                "1B4D"
             ],
             "category": "Cn"
         },
@@ -1445,7 +1438,7 @@
         },
         {
             "range": [
-                "1C89",
+                "1C8B",
                 "1C8F"
             ],
             "category": "Cn"
@@ -1623,7 +1616,7 @@
         },
         {
             "range": [
-                "2427",
+                "242A",
                 "243F"
             ],
             "category": "Cn"
@@ -1805,7 +1798,7 @@
         },
         {
             "range": [
-                "31E4",
+                "31E6",
                 "31EE"
             ],
             "category": "Cn"
@@ -1846,7 +1839,7 @@
         },
         {
             "range": [
-                "A7CB",
+                "A7CE",
                 "A7CF"
             ],
             "category": "Cn"
@@ -1865,7 +1858,7 @@
         },
         {
             "range": [
-                "A7DA",
+                "A7DD",
                 "A7F1"
             ],
             "category": "Cn"
@@ -2469,6 +2462,13 @@
         {
             "range": [
                 "105BD",
+                "105BF"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "105F4",
                 "105FF"
             ],
             "category": "Cn"
@@ -2761,6 +2761,27 @@
         {
             "range": [
                 "10D3A",
+                "10D3F"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "10D66",
+                "10D68"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "10D86",
+                "10D8D"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "10D90",
                 "10E5F"
             ],
             "category": "Cn"
@@ -2787,7 +2808,14 @@
         {
             "range": [
                 "10EB2",
-                "10EFC"
+                "10EC1"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "10EC5",
+                "10EFB"
             ],
             "category": "Cn"
         },
@@ -3055,6 +3083,76 @@
         {
             "range": [
                 "11375",
+                "1137F"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "1138A"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "1138C",
+                "1138D"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "1138F"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "113B6"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "113C1"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "113C3",
+                "113C4"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "113C6"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "113CB"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "113D6"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "113D9",
+                "113E0"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "113E3",
                 "113FF"
             ],
             "category": "Cn"
@@ -3131,6 +3229,13 @@
         {
             "range": [
                 "116CA",
+                "116CF"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "116E4",
                 "116FF"
             ],
             "category": "Cn"
@@ -3268,6 +3373,20 @@
         {
             "range": [
                 "11B0A",
+                "11BBF"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "11BE2",
+                "11BEF"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "11BFA",
                 "11BFF"
             ],
             "category": "Cn"
@@ -3423,7 +3542,7 @@
         },
         {
             "range": [
-                "11F5A",
+                "11F5B",
                 "11FAF"
             ],
             "category": "Cn"
@@ -3479,6 +3598,13 @@
         {
             "range": [
                 "13456",
+                "1345F"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "143FB",
                 "143FF"
             ],
             "category": "Cn"
@@ -3486,6 +3612,13 @@
         {
             "range": [
                 "14647",
+                "160FF"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "1613A",
                 "167FF"
             ],
             "category": "Cn"
@@ -3566,6 +3699,13 @@
         {
             "range": [
                 "16B90",
+                "16D3F"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "16D7A",
                 "16E3F"
             ],
             "category": "Cn"
@@ -3622,7 +3762,7 @@
         {
             "range": [
                 "18CD6",
-                "18CFF"
+                "18CFE"
             ],
             "category": "Cn"
         },
@@ -3724,6 +3864,20 @@
         {
             "range": [
                 "1BCA4",
+                "1CBFF"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "1CCFA",
+                "1CCFF"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "1CEB4",
                 "1CEFF"
             ],
             "category": "Cn"
@@ -4064,6 +4218,20 @@
         {
             "range": [
                 "1E4FA",
+                "1E5CF"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "1E5FB",
+                "1E5FE"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "1E600",
                 "1E7DF"
             ],
             "category": "Cn"
@@ -4521,7 +4689,14 @@
         },
         {
             "range": [
-                "1F8B2",
+                "1F8BC",
+                "1F8BF"
+            ],
+            "category": "Cn"
+        },
+        {
+            "range": [
+                "1F8C2",
                 "1F8FF"
             ],
             "category": "Cn"
@@ -4549,34 +4724,28 @@
         },
         {
             "range": [
-                "1FA89",
-                "1FA8F"
+                "1FA8A",
+                "1FA8E"
             ],
             "category": "Cn"
         },
         {
             "range": [
-                "1FABE"
-            ],
-            "category": "Cn"
-        },
-        {
-            "range": [
-                "1FAC6",
+                "1FAC7",
                 "1FACD"
             ],
             "category": "Cn"
         },
         {
             "range": [
-                "1FADC",
-                "1FADF"
+                "1FADD",
+                "1FADE"
             ],
             "category": "Cn"
         },
         {
             "range": [
-                "1FAE9",
+                "1FAEA",
                 "1FAEF"
             ],
             "category": "Cn"
@@ -4591,13 +4760,6 @@
         {
             "range": [
                 "1FB93"
-            ],
-            "category": "Cn"
-        },
-        {
-            "range": [
-                "1FBCB",
-                "1FBEF"
             ],
             "category": "Cn"
         },
@@ -6390,6 +6552,12 @@
             "range": [
                 "13A0",
                 "13F5"
+            ],
+            "category": "Lu"
+        },
+        {
+            "range": [
+                "1C89"
             ],
             "category": "Lu"
         },
@@ -8366,6 +8534,13 @@
         },
         {
             "range": [
+                "A7CB",
+                "A7CC"
+            ],
+            "category": "Lu"
+        },
+        {
+            "range": [
                 "A7D0"
             ],
             "category": "Lu"
@@ -8379,6 +8554,18 @@
         {
             "range": [
                 "A7D8"
+            ],
+            "category": "Lu"
+        },
+        {
+            "range": [
+                "A7DA"
+            ],
+            "category": "Lu"
+        },
+        {
+            "range": [
+                "A7DC"
             ],
             "category": "Lu"
         },
@@ -8441,6 +8628,13 @@
             "range": [
                 "10C80",
                 "10CB2"
+            ],
+            "category": "Lu"
+        },
+        {
+            "range": [
+                "10D50",
+                "10D65"
             ],
             "category": "Lu"
         },
@@ -10349,6 +10543,12 @@
             "range": [
                 "1C80",
                 "1C88"
+            ],
+            "category": "Ll"
+        },
+        {
+            "range": [
+                "1C8A"
             ],
             "category": "Ll"
         },
@@ -12370,6 +12570,12 @@
         },
         {
             "range": [
+                "A7CD"
+            ],
+            "category": "Ll"
+        },
+        {
+            "range": [
                 "A7D1"
             ],
             "category": "Ll"
@@ -12395,6 +12601,12 @@
         {
             "range": [
                 "A7D9"
+            ],
+            "category": "Ll"
+        },
+        {
+            "range": [
+                "A7DB"
             ],
             "category": "Ll"
         },
@@ -12498,6 +12710,13 @@
             "range": [
                 "10CC0",
                 "10CF2"
+            ],
+            "category": "Ll"
+        },
+        {
+            "range": [
+                "10D70",
+                "10D85"
             ],
             "category": "Ll"
         },
@@ -13186,8 +13405,34 @@
         },
         {
             "range": [
+                "10D4E"
+            ],
+            "category": "Lm"
+        },
+        {
+            "range": [
+                "10D6F"
+            ],
+            "category": "Lm"
+        },
+        {
+            "range": [
                 "16B40",
                 "16B43"
+            ],
+            "category": "Lm"
+        },
+        {
+            "range": [
+                "16D40",
+                "16D42"
+            ],
+            "category": "Lm"
+        },
+        {
+            "range": [
+                "16D6B",
+                "16D6C"
             ],
             "category": "Lm"
         },
@@ -15366,6 +15611,13 @@
         },
         {
             "range": [
+                "105C0",
+                "105F3"
+            ],
+            "category": "Lo"
+        },
+        {
+            "range": [
                 "10600",
                 "10736"
             ],
@@ -15580,6 +15832,19 @@
         },
         {
             "range": [
+                "10D4A",
+                "10D4D"
+            ],
+            "category": "Lo"
+        },
+        {
+            "range": [
+                "10D4F"
+            ],
+            "category": "Lo"
+        },
+        {
+            "range": [
                 "10E80",
                 "10EA9"
             ],
@@ -15589,6 +15854,13 @@
             "range": [
                 "10EB0",
                 "10EB1"
+            ],
+            "category": "Lo"
+        },
+        {
+            "range": [
+                "10EC2",
+                "10EC4"
             ],
             "category": "Lo"
         },
@@ -15850,6 +16122,50 @@
         },
         {
             "range": [
+                "11380",
+                "11389"
+            ],
+            "category": "Lo"
+        },
+        {
+            "range": [
+                "1138B"
+            ],
+            "category": "Lo"
+        },
+        {
+            "range": [
+                "1138E"
+            ],
+            "category": "Lo"
+        },
+        {
+            "range": [
+                "11390",
+                "113B5"
+            ],
+            "category": "Lo"
+        },
+        {
+            "range": [
+                "113B7"
+            ],
+            "category": "Lo"
+        },
+        {
+            "range": [
+                "113D1"
+            ],
+            "category": "Lo"
+        },
+        {
+            "range": [
+                "113D3"
+            ],
+            "category": "Lo"
+        },
+        {
+            "range": [
                 "11400",
                 "11434"
             ],
@@ -16069,6 +16385,13 @@
         },
         {
             "range": [
+                "11BC0",
+                "11BE0"
+            ],
+            "category": "Lo"
+        },
+        {
+            "range": [
                 "11C00",
                 "11C08"
             ],
@@ -16218,8 +16541,22 @@
         },
         {
             "range": [
+                "13460",
+                "143FA"
+            ],
+            "category": "Lo"
+        },
+        {
+            "range": [
                 "14400",
                 "14646"
+            ],
+            "category": "Lo"
+        },
+        {
+            "range": [
+                "16100",
+                "1611D"
             ],
             "category": "Lo"
         },
@@ -16274,6 +16611,13 @@
         },
         {
             "range": [
+                "16D43",
+                "16D6A"
+            ],
+            "category": "Lo"
+        },
+        {
+            "range": [
                 "16F00",
                 "16F4A"
             ],
@@ -16301,7 +16645,7 @@
         },
         {
             "range": [
-                "18D00",
+                "18CFF",
                 "18D08"
             ],
             "category": "Lo"
@@ -16411,6 +16755,19 @@
             "range": [
                 "1E4D0",
                 "1E4EA"
+            ],
+            "category": "Lo"
+        },
+        {
+            "range": [
+                "1E5D0",
+                "1E5ED"
+            ],
+            "category": "Lo"
+        },
+        {
+            "range": [
+                "1E5F0"
             ],
             "category": "Lo"
         },
@@ -16892,7 +17249,7 @@
         },
         {
             "range": [
-                "0898",
+                "0897",
                 "089F"
             ],
             "category": "Mn"
@@ -18199,6 +18556,13 @@
         },
         {
             "range": [
+                "10D69",
+                "10D6D"
+            ],
+            "category": "Mn"
+        },
+        {
+            "range": [
                 "10EAB",
                 "10EAC"
             ],
@@ -18206,7 +18570,7 @@
         },
         {
             "range": [
-                "10EFD",
+                "10EFC",
                 "10EFF"
             ],
             "category": "Mn"
@@ -18413,6 +18777,38 @@
         },
         {
             "range": [
+                "113BB",
+                "113C0"
+            ],
+            "category": "Mn"
+        },
+        {
+            "range": [
+                "113CE"
+            ],
+            "category": "Mn"
+        },
+        {
+            "range": [
+                "113D0"
+            ],
+            "category": "Mn"
+        },
+        {
+            "range": [
+                "113D2"
+            ],
+            "category": "Mn"
+        },
+        {
+            "range": [
+                "113E1",
+                "113E2"
+            ],
+            "category": "Mn"
+        },
+        {
+            "range": [
                 "11438",
                 "1143F"
             ],
@@ -18539,7 +18935,12 @@
         },
         {
             "range": [
-                "1171D",
+                "1171D"
+            ],
+            "category": "Mn"
+        },
+        {
+            "range": [
                 "1171F"
             ],
             "category": "Mn"
@@ -18801,6 +19202,12 @@
         },
         {
             "range": [
+                "11F5A"
+            ],
+            "category": "Mn"
+        },
+        {
+            "range": [
                 "13440"
             ],
             "category": "Mn"
@@ -18809,6 +19216,20 @@
             "range": [
                 "13447",
                 "13455"
+            ],
+            "category": "Mn"
+        },
+        {
+            "range": [
+                "1611E",
+                "16129"
+            ],
+            "category": "Mn"
+        },
+        {
+            "range": [
+                "1612D",
+                "1612F"
             ],
             "category": "Mn"
         },
@@ -19006,6 +19427,13 @@
             "range": [
                 "1E4EC",
                 "1E4EF"
+            ],
+            "category": "Mn"
+        },
+        {
+            "range": [
+                "1E5EE",
+                "1E5EF"
             ],
             "category": "Mn"
         },
@@ -19955,6 +20383,45 @@
         },
         {
             "range": [
+                "113B8",
+                "113BA"
+            ],
+            "category": "Mc"
+        },
+        {
+            "range": [
+                "113C2"
+            ],
+            "category": "Mc"
+        },
+        {
+            "range": [
+                "113C5"
+            ],
+            "category": "Mc"
+        },
+        {
+            "range": [
+                "113C7",
+                "113CA"
+            ],
+            "category": "Mc"
+        },
+        {
+            "range": [
+                "113CC",
+                "113CD"
+            ],
+            "category": "Mc"
+        },
+        {
+            "range": [
+                "113CF"
+            ],
+            "category": "Mc"
+        },
+        {
+            "range": [
                 "11435",
                 "11437"
             ],
@@ -20055,6 +20522,12 @@
         {
             "range": [
                 "116B6"
+            ],
+            "category": "Mc"
+        },
+        {
+            "range": [
+                "1171E"
             ],
             "category": "Mc"
         },
@@ -20235,6 +20708,13 @@
         {
             "range": [
                 "11F41"
+            ],
+            "category": "Mc"
+        },
+        {
+            "range": [
+                "1612A",
+                "1612C"
             ],
             "category": "Mc"
         },
@@ -20541,6 +21021,13 @@
         },
         {
             "range": [
+                "10D40",
+                "10D49"
+            ],
+            "category": "Nd"
+        },
+        {
+            "range": [
                 "11066",
                 "1106F"
             ],
@@ -20604,6 +21091,13 @@
         },
         {
             "range": [
+                "116D0",
+                "116E3"
+            ],
+            "category": "Nd"
+        },
+        {
+            "range": [
                 "11730",
                 "11739"
             ],
@@ -20620,6 +21114,13 @@
             "range": [
                 "11950",
                 "11959"
+            ],
+            "category": "Nd"
+        },
+        {
+            "range": [
+                "11BF0",
+                "11BF9"
             ],
             "category": "Nd"
         },
@@ -20653,6 +21154,13 @@
         },
         {
             "range": [
+                "16130",
+                "16139"
+            ],
+            "category": "Nd"
+        },
+        {
+            "range": [
                 "16A60",
                 "16A69"
             ],
@@ -20669,6 +21177,20 @@
             "range": [
                 "16B50",
                 "16B59"
+            ],
+            "category": "Nd"
+        },
+        {
+            "range": [
+                "16D70",
+                "16D79"
+            ],
+            "category": "Nd"
+        },
+        {
+            "range": [
+                "1CCF0",
+                "1CCF9"
             ],
             "category": "Nd"
         },
@@ -20697,6 +21219,13 @@
             "range": [
                 "1E4F0",
                 "1E4F9"
+            ],
+            "category": "Nd"
+        },
+        {
+            "range": [
+                "1E5F1",
+                "1E5FA"
             ],
             "category": "Nd"
         },
@@ -21636,6 +22165,12 @@
         {
             "range": [
                 "FF0D"
+            ],
+            "category": "Pd"
+        },
+        {
+            "range": [
+                "10D6E"
             ],
             "category": "Pd"
         },
@@ -23003,6 +23538,13 @@
         },
         {
             "range": [
+                "1B4E",
+                "1B4F"
+            ],
+            "category": "Po"
+        },
+        {
+            "range": [
                 "1B5A",
                 "1B60"
             ],
@@ -23011,7 +23553,7 @@
         {
             "range": [
                 "1B7D",
-                "1B7E"
+                "1B7F"
             ],
             "category": "Po"
         },
@@ -23645,6 +24187,20 @@
         },
         {
             "range": [
+                "113D4",
+                "113D5"
+            ],
+            "category": "Po"
+        },
+        {
+            "range": [
+                "113D7",
+                "113D8"
+            ],
+            "category": "Po"
+        },
+        {
+            "range": [
                 "1144B",
                 "1144F"
             ],
@@ -23752,6 +24308,12 @@
         },
         {
             "range": [
+                "11BE1"
+            ],
+            "category": "Po"
+        },
+        {
+            "range": [
                 "11C41",
                 "11C45"
             ],
@@ -23826,6 +24388,13 @@
         },
         {
             "range": [
+                "16D6D",
+                "16D6F"
+            ],
+            "category": "Po"
+        },
+        {
+            "range": [
                 "16E97",
                 "16E9A"
             ],
@@ -23847,6 +24416,12 @@
             "range": [
                 "1DA87",
                 "1DA8B"
+            ],
+            "category": "Po"
+        },
+        {
+            "range": [
+                "1E5FF"
             ],
             "category": "Po"
         },
@@ -24197,6 +24772,13 @@
             "range": [
                 "FFE9",
                 "FFEC"
+            ],
+            "category": "Sm"
+        },
+        {
+            "range": [
+                "10D8E",
+                "10D8F"
             ],
             "category": "Sm"
         },
@@ -25040,7 +25622,7 @@
         {
             "range": [
                 "23E2",
-                "2426"
+                "2429"
             ],
             "category": "So"
         },
@@ -25234,7 +25816,7 @@
         {
             "range": [
                 "31C0",
-                "31E3"
+                "31E5"
             ],
             "category": "So"
         },
@@ -25462,6 +26044,20 @@
         {
             "range": [
                 "1BC9C"
+            ],
+            "category": "So"
+        },
+        {
+            "range": [
+                "1CC00",
+                "1CCEF"
+            ],
+            "category": "So"
+        },
+        {
+            "range": [
+                "1CD00",
+                "1CEB3"
             ],
             "category": "So"
         },
@@ -25771,7 +26367,14 @@
         {
             "range": [
                 "1F8B0",
-                "1F8B1"
+                "1F8BB"
+            ],
+            "category": "So"
+        },
+        {
+            "range": [
+                "1F8C0",
+                "1F8C1"
             ],
             "category": "So"
         },
@@ -25799,35 +26402,28 @@
         {
             "range": [
                 "1FA80",
-                "1FA88"
+                "1FA89"
             ],
             "category": "So"
         },
         {
             "range": [
-                "1FA90",
-                "1FABD"
-            ],
-            "category": "So"
-        },
-        {
-            "range": [
-                "1FABF",
-                "1FAC5"
+                "1FA8F",
+                "1FAC6"
             ],
             "category": "So"
         },
         {
             "range": [
                 "1FACE",
-                "1FADB"
+                "1FADC"
             ],
             "category": "So"
         },
         {
             "range": [
-                "1FAE0",
-                "1FAE8"
+                "1FADF",
+                "1FAE9"
             ],
             "category": "So"
         },
@@ -25848,7 +26444,7 @@
         {
             "range": [
                 "1FB94",
-                "1FBCA"
+                "1FBEF"
             ],
             "category": "So"
         },

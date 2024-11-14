@@ -2,62 +2,202 @@
     "ScriptExtensions": [
         {
             "range": [
-                "1CF7"
+                "00B7"
             ],
-            "extension": "Beng"
+            "extension": "Avst Cari Copt Dupl Elba Geor Glag Gong Goth Grek Hani Latn Lydi Mahj Perm Shaw"
         },
         {
             "range": [
-                "1CD1"
+                "02BC"
             ],
-            "extension": "Deva"
+            "extension": "Beng Cyrl Deva Latn Lisu Thai Toto"
         },
         {
             "range": [
-                "1CD4"
+                "02C7"
             ],
-            "extension": "Deva"
+            "extension": "Bopo Latn"
         },
         {
             "range": [
-                "1CDB"
+                "02C9",
+                "02CB"
             ],
-            "extension": "Deva"
+            "extension": "Bopo Latn"
         },
         {
             "range": [
-                "1CDE",
-                "1CDF"
+                "02CD"
             ],
-            "extension": "Deva"
+            "extension": "Latn Lisu"
         },
         {
             "range": [
-                "1CE2",
-                "1CE8"
+                "02D7"
             ],
-            "extension": "Deva"
+            "extension": "Latn Thai"
         },
         {
             "range": [
-                "1CEB",
-                "1CEC"
+                "02D9"
             ],
-            "extension": "Deva"
+            "extension": "Bopo Latn"
         },
         {
             "range": [
-                "1CEE",
-                "1CF1"
+                "0300"
             ],
-            "extension": "Deva"
+            "extension": "Cher Copt Cyrl Grek Latn Perm Sunu Tale"
         },
         {
             "range": [
-                "1BCA0",
-                "1BCA3"
+                "0301"
             ],
-            "extension": "Dupl"
+            "extension": "Cher Cyrl Grek Latn Osge Sunu Tale Todr"
+        },
+        {
+            "range": [
+                "0302"
+            ],
+            "extension": "Cher Cyrl Latn Tfng"
+        },
+        {
+            "range": [
+                "0303"
+            ],
+            "extension": "Glag Latn Sunu Syrc Thai"
+        },
+        {
+            "range": [
+                "0304"
+            ],
+            "extension": "Aghb Cher Copt Cyrl Goth Grek Latn Osge Syrc Tfng Todr"
+        },
+        {
+            "range": [
+                "0305"
+            ],
+            "extension": "Copt Elba Glag Goth Kana Latn"
+        },
+        {
+            "range": [
+                "0306"
+            ],
+            "extension": "Cyrl Grek Latn Perm"
+        },
+        {
+            "range": [
+                "0307"
+            ],
+            "extension": "Copt Dupl Hebr Latn Perm Syrc Tale Tfng Todr"
+        },
+        {
+            "range": [
+                "0308"
+            ],
+            "extension": "Armn Cyrl Dupl Goth Grek Hebr Latn Perm Syrc Tale"
+        },
+        {
+            "range": [
+                "0309"
+            ],
+            "extension": "Latn Tfng"
+        },
+        {
+            "range": [
+                "030A"
+            ],
+            "extension": "Dupl Latn Syrc"
+        },
+        {
+            "range": [
+                "030B"
+            ],
+            "extension": "Cher Cyrl Latn Osge"
+        },
+        {
+            "range": [
+                "030C"
+            ],
+            "extension": "Cher Latn Tale"
+        },
+        {
+            "range": [
+                "030D"
+            ],
+            "extension": "Latn Sunu"
+        },
+        {
+            "range": [
+                "030E"
+            ],
+            "extension": "Ethi Latn"
+        },
+        {
+            "range": [
+                "0310"
+            ],
+            "extension": "Latn Sunu"
+        },
+        {
+            "range": [
+                "0311"
+            ],
+            "extension": "Cyrl Latn Todr"
+        },
+        {
+            "range": [
+                "0313"
+            ],
+            "extension": "Grek Latn Perm Todr"
+        },
+        {
+            "range": [
+                "0320"
+            ],
+            "extension": "Latn Syrc"
+        },
+        {
+            "range": [
+                "0323"
+            ],
+            "extension": "Cher Dupl Kana Latn Syrc"
+        },
+        {
+            "range": [
+                "0324"
+            ],
+            "extension": "Cher Dupl Latn Syrc"
+        },
+        {
+            "range": [
+                "0325"
+            ],
+            "extension": "Latn Syrc"
+        },
+        {
+            "range": [
+                "032D"
+            ],
+            "extension": "Latn Sunu Syrc"
+        },
+        {
+            "range": [
+                "032E"
+            ],
+            "extension": "Latn Syrc"
+        },
+        {
+            "range": [
+                "0330"
+            ],
+            "extension": "Cher Latn Syrc"
+        },
+        {
+            "range": [
+                "0331"
+            ],
+            "extension": "Aghb Cher Goth Latn Sunu Thai"
         },
         {
             "range": [
@@ -73,10 +213,526 @@
         },
         {
             "range": [
+                "0358"
+            ],
+            "extension": "Latn Osge"
+        },
+        {
+            "range": [
+                "035E"
+            ],
+            "extension": "Aghb Latn Todr"
+        },
+        {
+            "range": [
+                "0363",
+                "036F"
+            ],
+            "extension": "Latn"
+        },
+        {
+            "range": [
+                "0374"
+            ],
+            "extension": "Copt Grek"
+        },
+        {
+            "range": [
+                "0375"
+            ],
+            "extension": "Copt Grek"
+        },
+        {
+            "range": [
+                "0483"
+            ],
+            "extension": "Cyrl Perm"
+        },
+        {
+            "range": [
+                "0484"
+            ],
+            "extension": "Cyrl Glag"
+        },
+        {
+            "range": [
+                "0485",
+                "0486"
+            ],
+            "extension": "Cyrl Latn"
+        },
+        {
+            "range": [
+                "0487"
+            ],
+            "extension": "Cyrl Glag"
+        },
+        {
+            "range": [
+                "0589"
+            ],
+            "extension": "Armn Geor Glag"
+        },
+        {
+            "range": [
+                "060C"
+            ],
+            "extension": "Arab Gara Nkoo Rohg Syrc Thaa Yezi"
+        },
+        {
+            "range": [
+                "061B"
+            ],
+            "extension": "Arab Gara Nkoo Rohg Syrc Thaa Yezi"
+        },
+        {
+            "range": [
+                "061C"
+            ],
+            "extension": "Arab Syrc Thaa"
+        },
+        {
+            "range": [
+                "061F"
+            ],
+            "extension": "Adlm Arab Gara Nkoo Rohg Syrc Thaa Yezi"
+        },
+        {
+            "range": [
+                "0640"
+            ],
+            "extension": "Adlm Arab Mand Mani Ougr Phlp Rohg Sogd Syrc"
+        },
+        {
+            "range": [
+                "064B",
+                "0655"
+            ],
+            "extension": "Arab Syrc"
+        },
+        {
+            "range": [
+                "0660",
+                "0669"
+            ],
+            "extension": "Arab Thaa Yezi"
+        },
+        {
+            "range": [
+                "0670"
+            ],
+            "extension": "Arab Syrc"
+        },
+        {
+            "range": [
+                "06D4"
+            ],
+            "extension": "Arab Rohg"
+        },
+        {
+            "range": [
+                "0951"
+            ],
+            "extension": "Beng Deva Gran Gujr Guru Knda Latn Mlym Orya Shrd Taml Telu Tirh"
+        },
+        {
+            "range": [
+                "0952"
+            ],
+            "extension": "Beng Deva Gran Gujr Guru Knda Latn Mlym Orya Taml Telu Tirh"
+        },
+        {
+            "range": [
+                "0964"
+            ],
+            "extension": "Beng Deva Dogr Gong Gonm Gran Gujr Guru Knda Mahj Mlym Nand Onao Orya Sind Sinh Sylo Takr Taml Telu Tirh"
+        },
+        {
+            "range": [
+                "0965"
+            ],
+            "extension": "Beng Deva Dogr Gong Gonm Gran Gujr Gukh Guru Knda Limb Mahj Mlym Nand Onao Orya Sind Sinh Sylo Takr Taml Telu Tirh"
+        },
+        {
+            "range": [
+                "0966",
+                "096F"
+            ],
+            "extension": "Deva Dogr Kthi Mahj"
+        },
+        {
+            "range": [
+                "09E6",
+                "09EF"
+            ],
+            "extension": "Beng Cakm Sylo"
+        },
+        {
+            "range": [
+                "0A66",
+                "0A6F"
+            ],
+            "extension": "Guru Mult"
+        },
+        {
+            "range": [
+                "0AE6",
+                "0AEF"
+            ],
+            "extension": "Gujr Khoj"
+        },
+        {
+            "range": [
+                "0BE6",
+                "0BEF"
+            ],
+            "extension": "Gran Taml"
+        },
+        {
+            "range": [
+                "0BF0",
+                "0BF2"
+            ],
+            "extension": "Gran Taml"
+        },
+        {
+            "range": [
+                "0BF3"
+            ],
+            "extension": "Gran Taml"
+        },
+        {
+            "range": [
+                "0CE6",
+                "0CEF"
+            ],
+            "extension": "Knda Nand Tutg"
+        },
+        {
+            "range": [
+                "1040",
+                "1049"
+            ],
+            "extension": "Cakm Mymr Tale"
+        },
+        {
+            "range": [
+                "10FB"
+            ],
+            "extension": "Geor Glag Latn"
+        },
+        {
+            "range": [
+                "16EB",
+                "16ED"
+            ],
+            "extension": "Runr"
+        },
+        {
+            "range": [
+                "1735",
+                "1736"
+            ],
+            "extension": "Buhd Hano Tagb Tglg"
+        },
+        {
+            "range": [
+                "1802",
+                "1803"
+            ],
+            "extension": "Mong Phag"
+        },
+        {
+            "range": [
+                "1805"
+            ],
+            "extension": "Mong Phag"
+        },
+        {
+            "range": [
+                "1CD0"
+            ],
+            "extension": "Beng Deva Gran Knda"
+        },
+        {
+            "range": [
+                "1CD1"
+            ],
+            "extension": "Deva"
+        },
+        {
+            "range": [
+                "1CD2"
+            ],
+            "extension": "Beng Deva Gran Knda"
+        },
+        {
+            "range": [
+                "1CD3"
+            ],
+            "extension": "Deva Gran Knda"
+        },
+        {
+            "range": [
+                "1CD4"
+            ],
+            "extension": "Deva"
+        },
+        {
+            "range": [
+                "1CD5",
+                "1CD6"
+            ],
+            "extension": "Beng Deva"
+        },
+        {
+            "range": [
+                "1CD7"
+            ],
+            "extension": "Deva Shrd"
+        },
+        {
+            "range": [
+                "1CD8"
+            ],
+            "extension": "Beng Deva"
+        },
+        {
+            "range": [
+                "1CD9"
+            ],
+            "extension": "Deva Shrd"
+        },
+        {
+            "range": [
+                "1CDA"
+            ],
+            "extension": "Deva Knda Mlym Orya Taml Telu"
+        },
+        {
+            "range": [
+                "1CDB"
+            ],
+            "extension": "Deva"
+        },
+        {
+            "range": [
+                "1CDC",
+                "1CDD"
+            ],
+            "extension": "Deva Shrd"
+        },
+        {
+            "range": [
+                "1CDE",
+                "1CDF"
+            ],
+            "extension": "Deva"
+        },
+        {
+            "range": [
+                "1CE0"
+            ],
+            "extension": "Deva Shrd"
+        },
+        {
+            "range": [
+                "1CE1"
+            ],
+            "extension": "Beng Deva"
+        },
+        {
+            "range": [
+                "1CE2",
+                "1CE8"
+            ],
+            "extension": "Deva"
+        },
+        {
+            "range": [
+                "1CE9"
+            ],
+            "extension": "Deva Nand"
+        },
+        {
+            "range": [
+                "1CEA"
+            ],
+            "extension": "Beng Deva"
+        },
+        {
+            "range": [
+                "1CEB",
+                "1CEC"
+            ],
+            "extension": "Deva"
+        },
+        {
+            "range": [
+                "1CED"
+            ],
+            "extension": "Beng Deva"
+        },
+        {
+            "range": [
+                "1CEE",
+                "1CF1"
+            ],
+            "extension": "Deva"
+        },
+        {
+            "range": [
+                "1CF2"
+            ],
+            "extension": "Beng Deva Gran Knda Mlym Nand Orya Sinh Telu Tirh Tutg"
+        },
+        {
+            "range": [
+                "1CF3"
+            ],
+            "extension": "Deva Gran"
+        },
+        {
+            "range": [
+                "1CF4"
+            ],
+            "extension": "Deva Gran Knda Tutg"
+        },
+        {
+            "range": [
+                "1CF5",
+                "1CF6"
+            ],
+            "extension": "Beng Deva"
+        },
+        {
+            "range": [
+                "1CF7"
+            ],
+            "extension": "Beng"
+        },
+        {
+            "range": [
+                "1CF8",
+                "1CF9"
+            ],
+            "extension": "Deva Gran"
+        },
+        {
+            "range": [
+                "1CFA"
+            ],
+            "extension": "Nand"
+        },
+        {
+            "range": [
                 "1DC0",
                 "1DC1"
             ],
             "extension": "Grek"
+        },
+        {
+            "range": [
+                "1DF8"
+            ],
+            "extension": "Cyrl Latn Syrc"
+        },
+        {
+            "range": [
+                "1DFA"
+            ],
+            "extension": "Syrc"
+        },
+        {
+            "range": [
+                "202F"
+            ],
+            "extension": "Latn Mong Phag"
+        },
+        {
+            "range": [
+                "204F"
+            ],
+            "extension": "Adlm Arab"
+        },
+        {
+            "range": [
+                "205A"
+            ],
+            "extension": "Cari Geor Glag Hung Lyci Orkh"
+        },
+        {
+            "range": [
+                "205D"
+            ],
+            "extension": "Cari Grek Hung Mero"
+        },
+        {
+            "range": [
+                "20F0"
+            ],
+            "extension": "Deva Gran Latn"
+        },
+        {
+            "range": [
+                "2E17"
+            ],
+            "extension": "Copt Latn"
+        },
+        {
+            "range": [
+                "2E30"
+            ],
+            "extension": "Avst Orkh"
+        },
+        {
+            "range": [
+                "2E31"
+            ],
+            "extension": "Avst Cari Geor Hung Kthi Lydi Samr"
+        },
+        {
+            "range": [
+                "2E3C"
+            ],
+            "extension": "Dupl"
+        },
+        {
+            "range": [
+                "2E41"
+            ],
+            "extension": "Adlm Arab Hung"
+        },
+        {
+            "range": [
+                "2E43"
+            ],
+            "extension": "Cyrl Glag"
+        },
+        {
+            "range": [
+                "2FF0",
+                "2FFF"
+            ],
+            "extension": "Hani Tang"
+        },
+        {
+            "range": [
+                "3001"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana Mong Yiii"
+        },
+        {
+            "range": [
+                "3002"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana Mong Phag Yiii"
+        },
+        {
+            "range": [
+                "3003"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana"
         },
         {
             "range": [
@@ -86,10 +742,213 @@
         },
         {
             "range": [
+                "3008"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana Mong Tibt Yiii"
+        },
+        {
+            "range": [
+                "3009"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana Mong Tibt Yiii"
+        },
+        {
+            "range": [
+                "300A"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana Lisu Mong Tibt Yiii"
+        },
+        {
+            "range": [
+                "300B"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana Lisu Mong Tibt Yiii"
+        },
+        {
+            "range": [
+                "300C"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana Yiii"
+        },
+        {
+            "range": [
+                "300D"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana Yiii"
+        },
+        {
+            "range": [
+                "300E"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana Yiii"
+        },
+        {
+            "range": [
+                "300F"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana Yiii"
+        },
+        {
+            "range": [
+                "3010"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana Yiii"
+        },
+        {
+            "range": [
+                "3011"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana Yiii"
+        },
+        {
+            "range": [
+                "3013"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana"
+        },
+        {
+            "range": [
+                "3014"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana Yiii"
+        },
+        {
+            "range": [
+                "3015"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana Yiii"
+        },
+        {
+            "range": [
+                "3016"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana Yiii"
+        },
+        {
+            "range": [
+                "3017"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana Yiii"
+        },
+        {
+            "range": [
+                "3018"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana Yiii"
+        },
+        {
+            "range": [
+                "3019"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana Yiii"
+        },
+        {
+            "range": [
+                "301A"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana Yiii"
+        },
+        {
+            "range": [
+                "301B"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana Yiii"
+        },
+        {
+            "range": [
+                "301C"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana"
+        },
+        {
+            "range": [
+                "301D"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana"
+        },
+        {
+            "range": [
+                "301E",
+                "301F"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana"
+        },
+        {
+            "range": [
+                "302A",
+                "302D"
+            ],
+            "extension": "Bopo Hani"
+        },
+        {
+            "range": [
+                "3030"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana"
+        },
+        {
+            "range": [
+                "3031",
+                "3035"
+            ],
+            "extension": "Hira Kana"
+        },
+        {
+            "range": [
+                "3037"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana"
+        },
+        {
+            "range": [
+                "303C"
+            ],
+            "extension": "Hani Hira Kana"
+        },
+        {
+            "range": [
+                "303D"
+            ],
+            "extension": "Hani Hira Kana"
+        },
+        {
+            "range": [
                 "303E",
                 "303F"
             ],
             "extension": "Hani"
+        },
+        {
+            "range": [
+                "3099",
+                "309A"
+            ],
+            "extension": "Hira Kana"
+        },
+        {
+            "range": [
+                "309B",
+                "309C"
+            ],
+            "extension": "Hira Kana"
+        },
+        {
+            "range": [
+                "30A0"
+            ],
+            "extension": "Hira Kana"
+        },
+        {
+            "range": [
+                "30FB"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana Yiii"
+        },
+        {
+            "range": [
+                "30FC"
+            ],
+            "extension": "Hira Kana"
         },
         {
             "range": [
@@ -115,9 +974,15 @@
         {
             "range": [
                 "31C0",
-                "31E3"
+                "31E5"
             ],
             "extension": "Hani"
+        },
+        {
+            "range": [
+                "31EF"
+            ],
+            "extension": "Hani Tang"
         },
         {
             "range": [
@@ -183,36 +1048,169 @@
         },
         {
             "range": [
-                "1D360",
-                "1D371"
+                "A66F"
             ],
-            "extension": "Hani"
+            "extension": "Cyrl Glag"
         },
         {
             "range": [
-                "1F250",
-                "1F251"
+                "A700",
+                "A707"
             ],
-            "extension": "Hani"
+            "extension": "Hani Latn"
         },
         {
             "range": [
-                "0363",
-                "036F"
+                "A830",
+                "A832"
             ],
-            "extension": "Latn"
+            "extension": "Deva Dogr Gujr Guru Khoj Knda Kthi Mahj Mlym Modi Nand Shrd Sind Takr Tirh Tutg"
         },
         {
             "range": [
-                "1CFA"
+                "A833",
+                "A835"
             ],
-            "extension": "Nand"
+            "extension": "Deva Dogr Gujr Guru Khoj Knda Kthi Mahj Modi Nand Shrd Sind Takr Tirh Tutg"
         },
         {
             "range": [
-                "1DFA"
+                "A836",
+                "A837"
             ],
-            "extension": "Syrc"
+            "extension": "Deva Dogr Gujr Guru Khoj Kthi Mahj Modi Sind Takr Tirh"
+        },
+        {
+            "range": [
+                "A838"
+            ],
+            "extension": "Deva Dogr Gujr Guru Khoj Kthi Mahj Modi Shrd Sind Takr Tirh"
+        },
+        {
+            "range": [
+                "A839"
+            ],
+            "extension": "Deva Dogr Gujr Guru Khoj Kthi Mahj Modi Sind Takr Tirh"
+        },
+        {
+            "range": [
+                "A8F1"
+            ],
+            "extension": "Beng Deva Tutg"
+        },
+        {
+            "range": [
+                "A8F3"
+            ],
+            "extension": "Deva Taml"
+        },
+        {
+            "range": [
+                "A92E"
+            ],
+            "extension": "Kali Latn Mymr"
+        },
+        {
+            "range": [
+                "A9CF"
+            ],
+            "extension": "Bugi Java"
+        },
+        {
+            "range": [
+                "FD3E"
+            ],
+            "extension": "Arab Nkoo"
+        },
+        {
+            "range": [
+                "FD3F"
+            ],
+            "extension": "Arab Nkoo"
+        },
+        {
+            "range": [
+                "FDF2"
+            ],
+            "extension": "Arab Thaa"
+        },
+        {
+            "range": [
+                "FDFD"
+            ],
+            "extension": "Arab Thaa"
+        },
+        {
+            "range": [
+                "FE45",
+                "FE46"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana"
+        },
+        {
+            "range": [
+                "FF61"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana Yiii"
+        },
+        {
+            "range": [
+                "FF62"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana Yiii"
+        },
+        {
+            "range": [
+                "FF63"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana Yiii"
+        },
+        {
+            "range": [
+                "FF64",
+                "FF65"
+            ],
+            "extension": "Bopo Hang Hani Hira Kana Yiii"
+        },
+        {
+            "range": [
+                "FF70"
+            ],
+            "extension": "Hira Kana"
+        },
+        {
+            "range": [
+                "FF9E",
+                "FF9F"
+            ],
+            "extension": "Hira Kana"
+        },
+        {
+            "range": [
+                "10100",
+                "10101"
+            ],
+            "extension": "Cpmn Cprt Linb"
+        },
+        {
+            "range": [
+                "10102"
+            ],
+            "extension": "Cprt Linb"
+        },
+        {
+            "range": [
+                "10107",
+                "10133"
+            ],
+            "extension": "Cprt Lina Linb"
+        },
+        {
+            "range": [
+                "10137",
+                "1013F"
+            ],
+            "extension": "Cprt Linb"
         },
         {
             "range": [
@@ -229,241 +1227,9 @@
         },
         {
             "range": [
-                "FD3E"
+                "10AF2"
             ],
-            "extension": "Arab Nkoo"
-        },
-        {
-            "range": [
-                "FD3F"
-            ],
-            "extension": "Arab Nkoo"
-        },
-        {
-            "range": [
-                "06D4"
-            ],
-            "extension": "Arab Rohg"
-        },
-        {
-            "range": [
-                "064B",
-                "0655"
-            ],
-            "extension": "Arab Syrc"
-        },
-        {
-            "range": [
-                "0670"
-            ],
-            "extension": "Arab Syrc"
-        },
-        {
-            "range": [
-                "FDF2"
-            ],
-            "extension": "Arab Thaa"
-        },
-        {
-            "range": [
-                "FDFD"
-            ],
-            "extension": "Arab Thaa"
-        },
-        {
-            "range": [
-                "1CD5",
-                "1CD6"
-            ],
-            "extension": "Beng Deva"
-        },
-        {
-            "range": [
-                "1CD8"
-            ],
-            "extension": "Beng Deva"
-        },
-        {
-            "range": [
-                "1CE1"
-            ],
-            "extension": "Beng Deva"
-        },
-        {
-            "range": [
-                "1CEA"
-            ],
-            "extension": "Beng Deva"
-        },
-        {
-            "range": [
-                "1CED"
-            ],
-            "extension": "Beng Deva"
-        },
-        {
-            "range": [
-                "1CF5",
-                "1CF6"
-            ],
-            "extension": "Beng Deva"
-        },
-        {
-            "range": [
-                "A8F1"
-            ],
-            "extension": "Beng Deva"
-        },
-        {
-            "range": [
-                "302A",
-                "302D"
-            ],
-            "extension": "Bopo Hani"
-        },
-        {
-            "range": [
-                "A9CF"
-            ],
-            "extension": "Bugi Java"
-        },
-        {
-            "range": [
-                "10102"
-            ],
-            "extension": "Cprt Linb"
-        },
-        {
-            "range": [
-                "10137",
-                "1013F"
-            ],
-            "extension": "Cprt Linb"
-        },
-        {
-            "range": [
-                "0484"
-            ],
-            "extension": "Cyrl Glag"
-        },
-        {
-            "range": [
-                "0487"
-            ],
-            "extension": "Cyrl Glag"
-        },
-        {
-            "range": [
-                "2E43"
-            ],
-            "extension": "Cyrl Glag"
-        },
-        {
-            "range": [
-                "A66F"
-            ],
-            "extension": "Cyrl Glag"
-        },
-        {
-            "range": [
-                "0485",
-                "0486"
-            ],
-            "extension": "Cyrl Latn"
-        },
-        {
-            "range": [
-                "0483"
-            ],
-            "extension": "Cyrl Perm"
-        },
-        {
-            "range": [
-                "1DF8"
-            ],
-            "extension": "Cyrl Syrc"
-        },
-        {
-            "range": [
-                "1CD3"
-            ],
-            "extension": "Deva Gran"
-        },
-        {
-            "range": [
-                "1CF3"
-            ],
-            "extension": "Deva Gran"
-        },
-        {
-            "range": [
-                "1CF8",
-                "1CF9"
-            ],
-            "extension": "Deva Gran"
-        },
-        {
-            "range": [
-                "1CE9"
-            ],
-            "extension": "Deva Nand"
-        },
-        {
-            "range": [
-                "1CD7"
-            ],
-            "extension": "Deva Shrd"
-        },
-        {
-            "range": [
-                "1CD9"
-            ],
-            "extension": "Deva Shrd"
-        },
-        {
-            "range": [
-                "1CDC",
-                "1CDD"
-            ],
-            "extension": "Deva Shrd"
-        },
-        {
-            "range": [
-                "1CE0"
-            ],
-            "extension": "Deva Shrd"
-        },
-        {
-            "range": [
-                "A8F3"
-            ],
-            "extension": "Deva Taml"
-        },
-        {
-            "range": [
-                "10FB"
-            ],
-            "extension": "Geor Latn"
-        },
-        {
-            "range": [
-                "0BE6",
-                "0BEF"
-            ],
-            "extension": "Gran Taml"
-        },
-        {
-            "range": [
-                "0BF0",
-                "0BF2"
-            ],
-            "extension": "Gran Taml"
-        },
-        {
-            "range": [
-                "0BF3"
-            ],
-            "extension": "Gran Taml"
+            "extension": "Mani Ougr"
         },
         {
             "range": [
@@ -499,488 +1265,24 @@
         },
         {
             "range": [
-                "0AE6",
-                "0AEF"
+                "1BCA0",
+                "1BCA3"
             ],
-            "extension": "Gujr Khoj"
+            "extension": "Dupl"
         },
         {
             "range": [
-                "0A66",
-                "0A6F"
+                "1D360",
+                "1D371"
             ],
-            "extension": "Guru Mult"
+            "extension": "Hani"
         },
         {
             "range": [
-                "A700",
-                "A707"
+                "1F250",
+                "1F251"
             ],
-            "extension": "Hani Latn"
-        },
-        {
-            "range": [
-                "3031",
-                "3035"
-            ],
-            "extension": "Hira Kana"
-        },
-        {
-            "range": [
-                "3099",
-                "309A"
-            ],
-            "extension": "Hira Kana"
-        },
-        {
-            "range": [
-                "309B",
-                "309C"
-            ],
-            "extension": "Hira Kana"
-        },
-        {
-            "range": [
-                "30A0"
-            ],
-            "extension": "Hira Kana"
-        },
-        {
-            "range": [
-                "30FC"
-            ],
-            "extension": "Hira Kana"
-        },
-        {
-            "range": [
-                "FF70"
-            ],
-            "extension": "Hira Kana"
-        },
-        {
-            "range": [
-                "FF9E",
-                "FF9F"
-            ],
-            "extension": "Hira Kana"
-        },
-        {
-            "range": [
-                "0CE6",
-                "0CEF"
-            ],
-            "extension": "Knda Nand"
-        },
-        {
-            "range": [
-                "202F"
-            ],
-            "extension": "Latn Mong"
-        },
-        {
-            "range": [
-                "10AF2"
-            ],
-            "extension": "Mani Ougr"
-        },
-        {
-            "range": [
-                "1802",
-                "1803"
-            ],
-            "extension": "Mong Phag"
-        },
-        {
-            "range": [
-                "1805"
-            ],
-            "extension": "Mong Phag"
-        },
-        {
-            "range": [
-                "061C"
-            ],
-            "extension": "Arab Syrc Thaa"
-        },
-        {
-            "range": [
-                "0660",
-                "0669"
-            ],
-            "extension": "Arab Thaa Yezi"
-        },
-        {
-            "range": [
-                "09E6",
-                "09EF"
-            ],
-            "extension": "Beng Cakm Sylo"
-        },
-        {
-            "range": [
-                "1040",
-                "1049"
-            ],
-            "extension": "Cakm Mymr Tale"
-        },
-        {
-            "range": [
-                "10100",
-                "10101"
-            ],
-            "extension": "Cpmn Cprt Linb"
-        },
-        {
-            "range": [
-                "10107",
-                "10133"
-            ],
-            "extension": "Cprt Lina Linb"
-        },
-        {
-            "range": [
-                "1CF4"
-            ],
-            "extension": "Deva Gran Knda"
-        },
-        {
-            "range": [
-                "20F0"
-            ],
-            "extension": "Deva Gran Latn"
-        },
-        {
-            "range": [
-                "303C"
-            ],
-            "extension": "Hani Hira Kana"
-        },
-        {
-            "range": [
-                "303D"
-            ],
-            "extension": "Hani Hira Kana"
-        },
-        {
-            "range": [
-                "A92E"
-            ],
-            "extension": "Kali Latn Mymr"
-        },
-        {
-            "range": [
-                "1CD0"
-            ],
-            "extension": "Beng Deva Gran Knda"
-        },
-        {
-            "range": [
-                "1CD2"
-            ],
-            "extension": "Beng Deva Gran Knda"
-        },
-        {
-            "range": [
-                "1735",
-                "1736"
-            ],
-            "extension": "Buhd Hano Tagb Tglg"
-        },
-        {
-            "range": [
-                "0966",
-                "096F"
-            ],
-            "extension": "Deva Dogr Kthi Mahj"
-        },
-        {
-            "range": [
-                "3003"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana"
-        },
-        {
-            "range": [
-                "3013"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana"
-        },
-        {
-            "range": [
-                "301C"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana"
-        },
-        {
-            "range": [
-                "301D"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana"
-        },
-        {
-            "range": [
-                "301E",
-                "301F"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana"
-        },
-        {
-            "range": [
-                "3030"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana"
-        },
-        {
-            "range": [
-                "3037"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana"
-        },
-        {
-            "range": [
-                "FE45",
-                "FE46"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana"
-        },
-        {
-            "range": [
-                "060C"
-            ],
-            "extension": "Arab Nkoo Rohg Syrc Thaa Yezi"
-        },
-        {
-            "range": [
-                "061B"
-            ],
-            "extension": "Arab Nkoo Rohg Syrc Thaa Yezi"
-        },
-        {
-            "range": [
-                "3001",
-                "3002"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana Yiii"
-        },
-        {
-            "range": [
-                "3008"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana Yiii"
-        },
-        {
-            "range": [
-                "3009"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana Yiii"
-        },
-        {
-            "range": [
-                "300A"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana Yiii"
-        },
-        {
-            "range": [
-                "300B"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana Yiii"
-        },
-        {
-            "range": [
-                "300C"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana Yiii"
-        },
-        {
-            "range": [
-                "300D"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana Yiii"
-        },
-        {
-            "range": [
-                "300E"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana Yiii"
-        },
-        {
-            "range": [
-                "300F"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana Yiii"
-        },
-        {
-            "range": [
-                "3010"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana Yiii"
-        },
-        {
-            "range": [
-                "3011"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana Yiii"
-        },
-        {
-            "range": [
-                "3014"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana Yiii"
-        },
-        {
-            "range": [
-                "3015"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana Yiii"
-        },
-        {
-            "range": [
-                "3016"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana Yiii"
-        },
-        {
-            "range": [
-                "3017"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana Yiii"
-        },
-        {
-            "range": [
-                "3018"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana Yiii"
-        },
-        {
-            "range": [
-                "3019"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana Yiii"
-        },
-        {
-            "range": [
-                "301A"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana Yiii"
-        },
-        {
-            "range": [
-                "301B"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana Yiii"
-        },
-        {
-            "range": [
-                "30FB"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana Yiii"
-        },
-        {
-            "range": [
-                "FF61"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana Yiii"
-        },
-        {
-            "range": [
-                "FF62"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana Yiii"
-        },
-        {
-            "range": [
-                "FF63"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana Yiii"
-        },
-        {
-            "range": [
-                "FF64",
-                "FF65"
-            ],
-            "extension": "Bopo Hang Hani Hira Kana Yiii"
-        },
-        {
-            "range": [
-                "1CDA"
-            ],
-            "extension": "Deva Knda Mlym Orya Taml Telu"
-        },
-        {
-            "range": [
-                "061F"
-            ],
-            "extension": "Adlm Arab Nkoo Rohg Syrc Thaa Yezi"
-        },
-        {
-            "range": [
-                "0640"
-            ],
-            "extension": "Adlm Arab Mand Mani Ougr Phlp Rohg Sogd Syrc"
-        },
-        {
-            "range": [
-                "1CF2"
-            ],
-            "extension": "Beng Deva Gran Knda Mlym Nand Orya Sinh Telu Tirh"
-        },
-        {
-            "range": [
-                "A836",
-                "A837"
-            ],
-            "extension": "Deva Dogr Gujr Guru Khoj Kthi Mahj Modi Sind Takr Tirh"
-        },
-        {
-            "range": [
-                "A839"
-            ],
-            "extension": "Deva Dogr Gujr Guru Khoj Kthi Mahj Modi Sind Takr Tirh"
-        },
-        {
-            "range": [
-                "0952"
-            ],
-            "extension": "Beng Deva Gran Gujr Guru Knda Latn Mlym Orya Taml Telu Tirh"
-        },
-        {
-            "range": [
-                "A838"
-            ],
-            "extension": "Deva Dogr Gujr Guru Khoj Kthi Mahj Modi Shrd Sind Takr Tirh"
-        },
-        {
-            "range": [
-                "0951"
-            ],
-            "extension": "Beng Deva Gran Gujr Guru Knda Latn Mlym Orya Shrd Taml Telu Tirh"
-        },
-        {
-            "range": [
-                "A833",
-                "A835"
-            ],
-            "extension": "Deva Dogr Gujr Guru Khoj Knda Kthi Mahj Modi Nand Shrd Sind Takr Tirh"
-        },
-        {
-            "range": [
-                "A830",
-                "A832"
-            ],
-            "extension": "Deva Dogr Gujr Guru Khoj Knda Kthi Mahj Mlym Modi Nand Shrd Sind Takr Tirh"
-        },
-        {
-            "range": [
-                "0964"
-            ],
-            "extension": "Beng Deva Dogr Gong Gonm Gran Gujr Guru Knda Mahj Mlym Nand Orya Sind Sinh Sylo Takr Taml Telu Tirh"
-        },
-        {
-            "range": [
-                "0965"
-            ],
-            "extension": "Beng Deva Dogr Gong Gonm Gran Gujr Guru Knda Limb Mahj Mlym Nand Orya Sind Sinh Sylo Takr Taml Telu Tirh"
+            "extension": "Hani"
         }
     ]
 }

@@ -191,6 +191,12 @@
         },
         {
             "range": [
+                "10EC2"
+            ],
+            "group": "Dal"
+        },
+        {
+            "range": [
                 "0715",
                 "0716"
             ],
@@ -440,6 +446,12 @@
         {
             "range": [
                 "08B4"
+            ],
+            "group": "Kaf"
+        },
+        {
+            "range": [
+                "10EC4"
             ],
             "group": "Kaf"
         },
@@ -784,6 +796,12 @@
         },
         {
             "range": [
+                "10EC3"
+            ],
+            "group": "Tah"
+        },
+        {
+            "range": [
                 "072C"
             ],
             "group": "Taw"
@@ -863,12 +881,6 @@
                 "0718"
             ],
             "group": "Syriac_Waw"
-        },
-        {
-            "range": [
-                "0620"
-            ],
-            "group": "Yeh"
         },
         {
             "range": [
@@ -1327,6 +1339,12 @@
                 "088E"
             ],
             "group": "Vertical_Tail"
+        },
+        {
+            "range": [
+                "0620"
+            ],
+            "group": "Kashmiri_Yeh"
         }
     ]
 }

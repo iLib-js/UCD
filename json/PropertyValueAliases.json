@@ -146,6 +146,11 @@
         },
         {
             "property": "age",
+            "shortName": "16.0",
+            "longName": "V16_0"
+        },
+        {
+            "property": "age",
             "shortName": "NA",
             "longName": "Unassigned"
         },
@@ -796,6 +801,11 @@
         },
         {
             "property": "blk",
+            "shortName": "Egyptian_Hieroglyphs_Ext_A",
+            "longName": "Egyptian_Hieroglyphs_Extended_A"
+        },
+        {
+            "property": "blk",
             "shortName": "Elbasan",
             "longName": "Elbasan"
         },
@@ -853,6 +863,11 @@
             "property": "blk",
             "shortName": "Ethiopic_Sup",
             "longName": "Ethiopic_Supplement"
+        },
+        {
+            "property": "blk",
+            "shortName": "Garay",
+            "longName": "Garay"
         },
         {
             "property": "blk",
@@ -923,6 +938,11 @@
             "property": "blk",
             "shortName": "Gurmukhi",
             "longName": "Gurmukhi"
+        },
+        {
+            "property": "blk",
+            "shortName": "Gurung_Khema",
+            "longName": "Gurung_Khema"
         },
         {
             "property": "blk",
@@ -1123,6 +1143,11 @@
             "property": "blk",
             "shortName": "Khudawadi",
             "longName": "Khudawadi"
+        },
+        {
+            "property": "blk",
+            "shortName": "Kirat_Rai",
+            "longName": "Kirat_Rai"
         },
         {
             "property": "blk",
@@ -1407,6 +1432,11 @@
         },
         {
             "property": "blk",
+            "shortName": "Myanmar_Ext_C",
+            "longName": "Myanmar_Extended_C"
+        },
+        {
+            "property": "blk",
             "shortName": "Nabataean",
             "longName": "Nabataean"
         },
@@ -1469,6 +1499,11 @@
             "property": "blk",
             "shortName": "Ol_Chiki",
             "longName": "Ol_Chiki"
+        },
+        {
+            "property": "blk",
+            "shortName": "Ol_Onal",
+            "longName": "Ol_Onal"
         },
         {
             "property": "blk",
@@ -1698,6 +1733,11 @@
         },
         {
             "property": "blk",
+            "shortName": "Sunuwar",
+            "longName": "Sunuwar"
+        },
+        {
+            "property": "blk",
             "shortName": "Sup_Arrows_A",
             "longName": "Supplemental_Arrows_A"
         },
@@ -1760,6 +1800,11 @@
             "property": "blk",
             "shortName": "Symbols_For_Legacy_Computing",
             "longName": "Symbols_For_Legacy_Computing"
+        },
+        {
+            "property": "blk",
+            "shortName": "Symbols_For_Legacy_Computing_Sup",
+            "longName": "Symbols_For_Legacy_Computing_Supplement"
         },
         {
             "property": "blk",
@@ -1873,6 +1918,11 @@
         },
         {
             "property": "blk",
+            "shortName": "Todhri",
+            "longName": "Todhri"
+        },
+        {
+            "property": "blk",
             "shortName": "Toto",
             "longName": "Toto"
         },
@@ -1880,6 +1930,11 @@
             "property": "blk",
             "shortName": "Transport_And_Map",
             "longName": "Transport_And_Map_Symbols"
+        },
+        {
+            "property": "blk",
+            "shortName": "Tulu_Tigalari",
+            "longName": "Tulu_Tigalari"
         },
         {
             "property": "blk",
@@ -3546,6 +3601,11 @@
         },
         {
             "property": "InSC",
+            "shortName": "Reordering_Killer",
+            "longName": "Reordering_Killer"
+        },
+        {
+            "property": "InSC",
             "shortName": "Syllable_Modifier",
             "longName": "Syllable_Modifier"
         },
@@ -3995,6 +4055,11 @@
         },
         {
             "property": "jg",
+            "shortName": "Kashmiri_Yeh",
+            "longName": "Kashmiri_Yeh"
+        },
+        {
+            "property": "jg",
             "shortName": "Khaph",
             "longName": "Khaph"
         },
@@ -4321,7 +4386,8 @@
         {
             "property": "jg",
             "shortName": "Teh_Marbuta_Goal",
-            "longName": "Hamza_On_Heh_Goal"
+            "longName": "Teh_Marbuta_Goal",
+            "alias": "Hamza_On_Heh_Goal"
         },
         {
             "property": "jg",
@@ -4686,6 +4752,20 @@
         },
         {
             "property": "Math",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "MCM",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "MCM",
             "value1short": "Y",
             "value1long": "Yes",
             "value2short": "T",
@@ -5159,6 +5239,11 @@
         },
         {
             "property": "sc",
+            "shortName": "Gara",
+            "longName": "Garay"
+        },
+        {
+            "property": "sc",
             "shortName": "Geor",
             "longName": "Georgian"
         },
@@ -5196,6 +5281,11 @@
             "property": "sc",
             "shortName": "Gujr",
             "longName": "Gujarati"
+        },
+        {
+            "property": "sc",
+            "shortName": "Gukh",
+            "longName": "Gurung_Khema"
         },
         {
             "property": "sc",
@@ -5306,6 +5396,11 @@
             "property": "sc",
             "shortName": "Knda",
             "longName": "Kannada"
+        },
+        {
+            "property": "sc",
+            "shortName": "Krai",
+            "longName": "Kirat_Rai"
         },
         {
             "property": "sc",
@@ -5489,6 +5584,11 @@
         },
         {
             "property": "sc",
+            "shortName": "Onao",
+            "longName": "Ol_Onal"
+        },
+        {
+            "property": "sc",
             "shortName": "Orkh",
             "longName": "Old_Turkic"
         },
@@ -5644,6 +5744,11 @@
         },
         {
             "property": "sc",
+            "shortName": "Sunu",
+            "longName": "Sunuwar"
+        },
+        {
+            "property": "sc",
             "shortName": "Sylo",
             "longName": "Syloti_Nagri"
         },
@@ -5729,8 +5834,18 @@
         },
         {
             "property": "sc",
+            "shortName": "Todr",
+            "longName": "Todhri"
+        },
+        {
+            "property": "sc",
             "shortName": "Toto",
             "longName": "Toto"
+        },
+        {
+            "property": "sc",
+            "shortName": "Tutg",
+            "longName": "Tulu_Tigalari"
         },
         {
             "property": "sc",
@@ -6129,6 +6244,34 @@
         },
         {
             "property": "XIDS",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "kEH_NoMirror",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "kEH_NoMirror",
+            "value1short": "Y",
+            "value1long": "Yes",
+            "value2short": "T",
+            "value2long": "True"
+        },
+        {
+            "property": "kEH_NoRotate",
+            "value1short": "N",
+            "value1long": "No",
+            "value2short": "F",
+            "value2long": "False"
+        },
+        {
+            "property": "kEH_NoRotate",
             "value1short": "Y",
             "value1long": "Yes",
             "value2short": "T",

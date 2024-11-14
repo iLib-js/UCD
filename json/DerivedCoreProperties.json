@@ -1055,6 +1055,13 @@
         },
         {
             "range": [
+                "10D8E",
+                "10D8F"
+            ],
+            "property": "Math"
+        },
+        {
+            "range": [
                 "1D400",
                 "1D454"
             ],
@@ -1683,6 +1690,13 @@
         },
         {
             "range": [
+                "0363",
+                "036F"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
                 "0370",
                 "0373"
             ],
@@ -2099,6 +2113,12 @@
             "range": [
                 "0889",
                 "088E"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "0897"
             ],
             "property": "Alphabetic"
         },
@@ -4568,7 +4588,7 @@
         {
             "range": [
                 "1C80",
-                "1C88"
+                "1C8A"
             ],
             "property": "Alphabetic"
         },
@@ -4656,7 +4676,7 @@
         },
         {
             "range": [
-                "1DE7",
+                "1DD3",
                 "1DF4"
             ],
             "property": "Alphabetic"
@@ -5374,7 +5394,7 @@
         {
             "range": [
                 "A790",
-                "A7CA"
+                "A7CD"
             ],
             "property": "Alphabetic"
         },
@@ -5394,7 +5414,7 @@
         {
             "range": [
                 "A7D5",
-                "A7D9"
+                "A7DC"
             ],
             "property": "Alphabetic"
         },
@@ -6509,6 +6529,13 @@
         },
         {
             "range": [
+                "105C0",
+                "105F3"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
                 "10600",
                 "10736"
             ],
@@ -6786,6 +6813,51 @@
         },
         {
             "range": [
+                "10D4A",
+                "10D4D"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "10D4E"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "10D4F"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "10D50",
+                "10D65"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "10D69"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "10D6F"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "10D70",
+                "10D85"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
                 "10E80",
                 "10EA9"
             ],
@@ -6802,6 +6874,19 @@
             "range": [
                 "10EB0",
                 "10EB1"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "10EC2",
+                "10EC4"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "10EFC"
             ],
             "property": "Alphabetic"
         },
@@ -7340,6 +7425,90 @@
         },
         {
             "range": [
+                "11380",
+                "11389"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "1138B"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "1138E"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "11390",
+                "113B5"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "113B7"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "113B8",
+                "113BA"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "113BB",
+                "113C0"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "113C2"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "113C5"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "113C7",
+                "113CA"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "113CC",
+                "113CD"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "113D1"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "113D3"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
                 "11400",
                 "11434"
             ],
@@ -7620,7 +7789,18 @@
         },
         {
             "range": [
-                "1171D",
+                "1171D"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "1171E"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
                 "1171F"
             ],
             "property": "Alphabetic"
@@ -7935,6 +8115,13 @@
             "range": [
                 "11AB0",
                 "11AF8"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "11BC0",
+                "11BE0"
             ],
             "property": "Alphabetic"
         },
@@ -8294,8 +8481,43 @@
         },
         {
             "range": [
+                "13460",
+                "143FA"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
                 "14400",
                 "14646"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "16100",
+                "1611D"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "1611E",
+                "16129"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "1612A",
+                "1612C"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "1612D",
+                "1612E"
             ],
             "property": "Alphabetic"
         },
@@ -8352,6 +8574,27 @@
             "range": [
                 "16B7D",
                 "16B8F"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "16D40",
+                "16D42"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "16D43",
+                "16D6A"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "16D6B",
+                "16D6C"
             ],
             "property": "Alphabetic"
         },
@@ -8438,7 +8681,7 @@
         },
         {
             "range": [
-                "18D00",
+                "18CFF",
                 "18D08"
             ],
             "property": "Alphabetic"
@@ -8864,6 +9107,19 @@
         {
             "range": [
                 "1E4EB"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "1E5D0",
+                "1E5ED"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "1E5F0"
             ],
             "property": "Alphabetic"
         },
@@ -10942,6 +11198,12 @@
             "range": [
                 "1C80",
                 "1C88"
+            ],
+            "property": "Lowercase"
+        },
+        {
+            "range": [
+                "1C8A"
             ],
             "property": "Lowercase"
         },
@@ -13036,6 +13298,12 @@
         },
         {
             "range": [
+                "A7CD"
+            ],
+            "property": "Lowercase"
+        },
+        {
+            "range": [
                 "A7D1"
             ],
             "property": "Lowercase"
@@ -13061,6 +13329,12 @@
         {
             "range": [
                 "A7D9"
+            ],
+            "property": "Lowercase"
+        },
+        {
+            "range": [
+                "A7DB"
             ],
             "property": "Lowercase"
         },
@@ -13218,6 +13492,13 @@
             "range": [
                 "10CC0",
                 "10CF2"
+            ],
+            "property": "Lowercase"
+        },
+        {
+            "range": [
+                "10D70",
+                "10D85"
             ],
             "property": "Lowercase"
         },
@@ -15148,6 +15429,12 @@
             "range": [
                 "13A0",
                 "13F5"
+            ],
+            "property": "Uppercase"
+        },
+        {
+            "range": [
+                "1C89"
             ],
             "property": "Uppercase"
         },
@@ -17138,6 +17425,13 @@
         },
         {
             "range": [
+                "A7CB",
+                "A7CC"
+            ],
+            "property": "Uppercase"
+        },
+        {
+            "range": [
                 "A7D0"
             ],
             "property": "Uppercase"
@@ -17151,6 +17445,18 @@
         {
             "range": [
                 "A7D8"
+            ],
+            "property": "Uppercase"
+        },
+        {
+            "range": [
+                "A7DA"
+            ],
+            "property": "Uppercase"
+        },
+        {
+            "range": [
+                "A7DC"
             ],
             "property": "Uppercase"
         },
@@ -17213,6 +17519,13 @@
             "range": [
                 "10C80",
                 "10CB2"
+            ],
+            "property": "Uppercase"
+        },
+        {
+            "range": [
+                "10D50",
+                "10D65"
             ],
             "property": "Uppercase"
         },
@@ -17722,7 +18035,7 @@
         {
             "range": [
                 "1C80",
-                "1C88"
+                "1C8A"
             ],
             "property": "Cased"
         },
@@ -18145,7 +18458,7 @@
         {
             "range": [
                 "A790",
-                "A7CA"
+                "A7CD"
             ],
             "property": "Cased"
         },
@@ -18165,7 +18478,7 @@
         {
             "range": [
                 "A7D5",
-                "A7D9"
+                "A7DC"
             ],
             "property": "Cased"
         },
@@ -18373,6 +18686,20 @@
             "range": [
                 "10CC0",
                 "10CF2"
+            ],
+            "property": "Cased"
+        },
+        {
+            "range": [
+                "10D50",
+                "10D65"
+            ],
+            "property": "Cased"
+        },
+        {
+            "range": [
+                "10D70",
+                "10D85"
             ],
             "property": "Cased"
         },
@@ -19089,7 +19416,7 @@
         },
         {
             "range": [
-                "0898",
+                "0897",
                 "089F"
             ],
             "property": "Case_Ignorable"
@@ -20932,6 +21259,25 @@
         },
         {
             "range": [
+                "10D4E"
+            ],
+            "property": "Case_Ignorable"
+        },
+        {
+            "range": [
+                "10D69",
+                "10D6D"
+            ],
+            "property": "Case_Ignorable"
+        },
+        {
+            "range": [
+                "10D6F"
+            ],
+            "property": "Case_Ignorable"
+        },
+        {
+            "range": [
                 "10EAB",
                 "10EAC"
             ],
@@ -20939,7 +21285,7 @@
         },
         {
             "range": [
-                "10EFD",
+                "10EFC",
                 "10EFF"
             ],
             "property": "Case_Ignorable"
@@ -21158,6 +21504,38 @@
         },
         {
             "range": [
+                "113BB",
+                "113C0"
+            ],
+            "property": "Case_Ignorable"
+        },
+        {
+            "range": [
+                "113CE"
+            ],
+            "property": "Case_Ignorable"
+        },
+        {
+            "range": [
+                "113D0"
+            ],
+            "property": "Case_Ignorable"
+        },
+        {
+            "range": [
+                "113D2"
+            ],
+            "property": "Case_Ignorable"
+        },
+        {
+            "range": [
+                "113E1",
+                "113E2"
+            ],
+            "property": "Case_Ignorable"
+        },
+        {
+            "range": [
                 "11438",
                 "1143F"
             ],
@@ -21284,7 +21662,12 @@
         },
         {
             "range": [
-                "1171D",
+                "1171D"
+            ],
+            "property": "Case_Ignorable"
+        },
+        {
+            "range": [
                 "1171F"
             ],
             "property": "Case_Ignorable"
@@ -21546,6 +21929,12 @@
         },
         {
             "range": [
+                "11F5A"
+            ],
+            "property": "Case_Ignorable"
+        },
+        {
+            "range": [
                 "13430",
                 "1343F"
             ],
@@ -21561,6 +21950,20 @@
             "range": [
                 "13447",
                 "13455"
+            ],
+            "property": "Case_Ignorable"
+        },
+        {
+            "range": [
+                "1611E",
+                "16129"
+            ],
+            "property": "Case_Ignorable"
+        },
+        {
+            "range": [
+                "1612D",
+                "1612F"
             ],
             "property": "Case_Ignorable"
         },
@@ -21582,6 +21985,20 @@
             "range": [
                 "16B40",
                 "16B43"
+            ],
+            "property": "Case_Ignorable"
+        },
+        {
+            "range": [
+                "16D40",
+                "16D42"
+            ],
+            "property": "Case_Ignorable"
+        },
+        {
+            "range": [
+                "16D6B",
+                "16D6C"
             ],
             "property": "Case_Ignorable"
         },
@@ -21840,6 +22257,13 @@
             "range": [
                 "1E4EC",
                 "1E4EF"
+            ],
+            "property": "Case_Ignorable"
+        },
+        {
+            "range": [
+                "1E5EE",
+                "1E5EF"
             ],
             "property": "Case_Ignorable"
         },
@@ -23571,6 +23995,12 @@
             "range": [
                 "13A0",
                 "13F5"
+            ],
+            "property": "Changes_When_Lowercased"
+        },
+        {
+            "range": [
+                "1C89"
             ],
             "property": "Changes_When_Lowercased"
         },
@@ -25517,6 +25947,13 @@
         },
         {
             "range": [
+                "A7CB",
+                "A7CC"
+            ],
+            "property": "Changes_When_Lowercased"
+        },
+        {
+            "range": [
                 "A7D0"
             ],
             "property": "Changes_When_Lowercased"
@@ -25530,6 +25967,18 @@
         {
             "range": [
                 "A7D8"
+            ],
+            "property": "Changes_When_Lowercased"
+        },
+        {
+            "range": [
+                "A7DA"
+            ],
+            "property": "Changes_When_Lowercased"
+        },
+        {
+            "range": [
+                "A7DC"
             ],
             "property": "Changes_When_Lowercased"
         },
@@ -25592,6 +26041,13 @@
             "range": [
                 "10C80",
                 "10CB2"
+            ],
+            "property": "Changes_When_Lowercased"
+        },
+        {
+            "range": [
+                "10D50",
+                "10D65"
             ],
             "property": "Changes_When_Lowercased"
         },
@@ -26056,7 +26512,7 @@
         {
             "range": [
                 "0199",
-                "019A"
+                "019B"
             ],
             "property": "Changes_When_Uppercased"
         },
@@ -26523,13 +26979,7 @@
         },
         {
             "range": [
-                "0263"
-            ],
-            "property": "Changes_When_Uppercased"
-        },
-        {
-            "range": [
-                "0265",
+                "0263",
                 "0266"
             ],
             "property": "Changes_When_Uppercased"
@@ -27382,6 +27832,12 @@
             "range": [
                 "1C80",
                 "1C88"
+            ],
+            "property": "Changes_When_Uppercased"
+        },
+        {
+            "range": [
+                "1C8A"
             ],
             "property": "Changes_When_Uppercased"
         },
@@ -29325,6 +29781,12 @@
         },
         {
             "range": [
+                "A7CD"
+            ],
+            "property": "Changes_When_Uppercased"
+        },
+        {
+            "range": [
                 "A7D1"
             ],
             "property": "Changes_When_Uppercased"
@@ -29338,6 +29800,12 @@
         {
             "range": [
                 "A7D9"
+            ],
+            "property": "Changes_When_Uppercased"
+        },
+        {
+            "range": [
+                "A7DB"
             ],
             "property": "Changes_When_Uppercased"
         },
@@ -29427,6 +29895,13 @@
             "range": [
                 "10CC0",
                 "10CF2"
+            ],
+            "property": "Changes_When_Uppercased"
+        },
+        {
+            "range": [
+                "10D70",
+                "10D85"
             ],
             "property": "Changes_When_Uppercased"
         },
@@ -29891,7 +30366,7 @@
         {
             "range": [
                 "0199",
-                "019A"
+                "019B"
             ],
             "property": "Changes_When_Titlecased"
         },
@@ -30362,13 +30837,7 @@
         },
         {
             "range": [
-                "0263"
-            ],
-            "property": "Changes_When_Titlecased"
-        },
-        {
-            "range": [
-                "0265",
+                "0263",
                 "0266"
             ],
             "property": "Changes_When_Titlecased"
@@ -31207,6 +31676,12 @@
             "range": [
                 "1C80",
                 "1C88"
+            ],
+            "property": "Changes_When_Titlecased"
+        },
+        {
+            "range": [
+                "1C8A"
             ],
             "property": "Changes_When_Titlecased"
         },
@@ -33153,6 +33628,12 @@
         },
         {
             "range": [
+                "A7CD"
+            ],
+            "property": "Changes_When_Titlecased"
+        },
+        {
+            "range": [
                 "A7D1"
             ],
             "property": "Changes_When_Titlecased"
@@ -33166,6 +33647,12 @@
         {
             "range": [
                 "A7D9"
+            ],
+            "property": "Changes_When_Titlecased"
+        },
+        {
+            "range": [
+                "A7DB"
             ],
             "property": "Changes_When_Titlecased"
         },
@@ -33255,6 +33742,13 @@
             "range": [
                 "10CC0",
                 "10CF2"
+            ],
+            "property": "Changes_When_Titlecased"
+        },
+        {
+            "range": [
+                "10D70",
+                "10D85"
             ],
             "property": "Changes_When_Titlecased"
         },
@@ -35013,7 +35507,7 @@
         {
             "range": [
                 "1C80",
-                "1C88"
+                "1C89"
             ],
             "property": "Changes_When_Casefolded"
         },
@@ -36974,6 +37468,13 @@
         },
         {
             "range": [
+                "A7CB",
+                "A7CC"
+            ],
+            "property": "Changes_When_Casefolded"
+        },
+        {
+            "range": [
                 "A7D0"
             ],
             "property": "Changes_When_Casefolded"
@@ -36987,6 +37488,18 @@
         {
             "range": [
                 "A7D8"
+            ],
+            "property": "Changes_When_Casefolded"
+        },
+        {
+            "range": [
+                "A7DA"
+            ],
+            "property": "Changes_When_Casefolded"
+        },
+        {
+            "range": [
+                "A7DC"
             ],
             "property": "Changes_When_Casefolded"
         },
@@ -37075,6 +37588,13 @@
         },
         {
             "range": [
+                "10D50",
+                "10D65"
+            ],
+            "property": "Changes_When_Casefolded"
+        },
+        {
+            "range": [
                 "118A0",
                 "118BF"
             ],
@@ -37145,13 +37665,6 @@
         {
             "range": [
                 "018E",
-                "019A"
-            ],
-            "property": "Changes_When_Casemapped"
-        },
-        {
-            "range": [
-                "019C",
                 "01A9"
             ],
             "property": "Changes_When_Casemapped"
@@ -37226,13 +37739,7 @@
         },
         {
             "range": [
-                "0263"
-            ],
-            "property": "Changes_When_Casemapped"
-        },
-        {
-            "range": [
-                "0265",
+                "0263",
                 "0266"
             ],
             "property": "Changes_When_Casemapped"
@@ -37460,7 +37967,7 @@
         {
             "range": [
                 "1C80",
-                "1C88"
+                "1C8A"
             ],
             "property": "Changes_When_Casemapped"
         },
@@ -37804,7 +38311,7 @@
         {
             "range": [
                 "A7B0",
-                "A7CA"
+                "A7CD"
             ],
             "property": "Changes_When_Casemapped"
         },
@@ -37818,7 +38325,7 @@
         {
             "range": [
                 "A7D6",
-                "A7D9"
+                "A7DC"
             ],
             "property": "Changes_When_Casemapped"
         },
@@ -37958,6 +38465,20 @@
             "range": [
                 "10CC0",
                 "10CF2"
+            ],
+            "property": "Changes_When_Casemapped"
+        },
+        {
+            "range": [
+                "10D50",
+                "10D65"
+            ],
+            "property": "Changes_When_Casemapped"
+        },
+        {
+            "range": [
+                "10D70",
+                "10D85"
             ],
             "property": "Changes_When_Casemapped"
         },
@@ -39642,7 +40163,7 @@
         {
             "range": [
                 "1C80",
-                "1C88"
+                "1C8A"
             ],
             "property": "ID_Start"
         },
@@ -40426,7 +40947,7 @@
         {
             "range": [
                 "A790",
-                "A7CA"
+                "A7CD"
             ],
             "property": "ID_Start"
         },
@@ -40446,7 +40967,7 @@
         {
             "range": [
                 "A7D5",
-                "A7D9"
+                "A7DC"
             ],
             "property": "ID_Start"
         },
@@ -41260,6 +41781,13 @@
         },
         {
             "range": [
+                "105C0",
+                "105F3"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
                 "10600",
                 "10736"
             ],
@@ -41509,6 +42037,45 @@
         },
         {
             "range": [
+                "10D4A",
+                "10D4D"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "10D4E"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "10D4F"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "10D50",
+                "10D65"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "10D6F"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "10D70",
+                "10D85"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
                 "10E80",
                 "10EA9"
             ],
@@ -41518,6 +42085,13 @@
             "range": [
                 "10EB0",
                 "10EB1"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "10EC2",
+                "10EC4"
             ],
             "property": "ID_Start"
         },
@@ -41779,6 +42353,50 @@
         },
         {
             "range": [
+                "11380",
+                "11389"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "1138B"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "1138E"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "11390",
+                "113B5"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "113B7"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "113D1"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "113D3"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
                 "11400",
                 "11434"
             ],
@@ -42005,6 +42623,13 @@
         },
         {
             "range": [
+                "11BC0",
+                "11BE0"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
                 "11C00",
                 "11C08"
             ],
@@ -42161,8 +42786,22 @@
         },
         {
             "range": [
+                "13460",
+                "143FA"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
                 "14400",
                 "14646"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "16100",
+                "1611D"
             ],
             "property": "ID_Start"
         },
@@ -42224,6 +42863,27 @@
         },
         {
             "range": [
+                "16D40",
+                "16D42"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "16D43",
+                "16D6A"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "16D6B",
+                "16D6C"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
                 "16E40",
                 "16E7F"
             ],
@@ -42278,7 +42938,7 @@
         },
         {
             "range": [
-                "18D00",
+                "18CFF",
                 "18D08"
             ],
             "property": "ID_Start"
@@ -42657,6 +43317,19 @@
         {
             "range": [
                 "1E4EB"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "1E5D0",
+                "1E5ED"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "1E5F0"
             ],
             "property": "ID_Start"
         },
@@ -43609,7 +44282,7 @@
         },
         {
             "range": [
-                "0898",
+                "0897",
                 "089F"
             ],
             "property": "ID_Continue"
@@ -46512,7 +47185,7 @@
         {
             "range": [
                 "1C80",
-                "1C88"
+                "1C8A"
             ],
             "property": "ID_Continue"
         },
@@ -47476,7 +48149,7 @@
         {
             "range": [
                 "A790",
-                "A7CA"
+                "A7CD"
             ],
             "property": "ID_Continue"
         },
@@ -47496,7 +48169,7 @@
         {
             "range": [
                 "A7D5",
-                "A7D9"
+                "A7DC"
             ],
             "property": "ID_Continue"
         },
@@ -48771,6 +49444,13 @@
         },
         {
             "range": [
+                "105C0",
+                "105F3"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
                 "10600",
                 "10736"
             ],
@@ -49075,6 +49755,59 @@
         },
         {
             "range": [
+                "10D40",
+                "10D49"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "10D4A",
+                "10D4D"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "10D4E"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "10D4F"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "10D50",
+                "10D65"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "10D69",
+                "10D6D"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "10D6F"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "10D70",
+                "10D85"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
                 "10E80",
                 "10EA9"
             ],
@@ -49096,7 +49829,14 @@
         },
         {
             "range": [
-                "10EFD",
+                "10EC2",
+                "10EC4"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "10EFC",
                 "10EFF"
             ],
             "property": "ID_Continue"
@@ -49740,6 +50480,121 @@
         },
         {
             "range": [
+                "11380",
+                "11389"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "1138B"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "1138E"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "11390",
+                "113B5"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "113B7"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "113B8",
+                "113BA"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "113BB",
+                "113C0"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "113C2"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "113C5"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "113C7",
+                "113CA"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "113CC",
+                "113CD"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "113CE"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "113CF"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "113D0"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "113D1"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "113D2"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "113D3"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "113E1",
+                "113E2"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
                 "11400",
                 "11434"
             ],
@@ -50080,6 +50935,13 @@
         },
         {
             "range": [
+                "116D0",
+                "116E3"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
                 "11700",
                 "1171A"
             ],
@@ -50087,7 +50949,18 @@
         },
         {
             "range": [
-                "1171D",
+                "1171D"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "1171E"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
                 "1171F"
             ],
             "property": "ID_Continue"
@@ -50472,6 +51345,20 @@
         },
         {
             "range": [
+                "11BC0",
+                "11BE0"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "11BF0",
+                "11BF9"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
                 "11C00",
                 "11C08"
             ],
@@ -50824,6 +51711,12 @@
         },
         {
             "range": [
+                "11F5A"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
                 "11FB0"
             ],
             "property": "ID_Continue"
@@ -50885,8 +51778,50 @@
         },
         {
             "range": [
+                "13460",
+                "143FA"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
                 "14400",
                 "14646"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "16100",
+                "1611D"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "1611E",
+                "16129"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "1612A",
+                "1612C"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "1612D",
+                "1612F"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "16130",
+                "16139"
             ],
             "property": "ID_Continue"
         },
@@ -50983,6 +51918,34 @@
         },
         {
             "range": [
+                "16D40",
+                "16D42"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "16D43",
+                "16D6A"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "16D6B",
+                "16D6C"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "16D70",
+                "16D79"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
                 "16E40",
                 "16E7F"
             ],
@@ -51070,7 +52033,7 @@
         },
         {
             "range": [
-                "18D00",
+                "18CFF",
                 "18D08"
             ],
             "property": "ID_Continue"
@@ -51168,6 +52131,13 @@
             "range": [
                 "1BC9D",
                 "1BC9E"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "1CCF0",
+                "1CCF9"
             ],
             "property": "ID_Continue"
         },
@@ -51655,6 +52625,33 @@
             "range": [
                 "1E4F0",
                 "1E4F9"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "1E5D0",
+                "1E5ED"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "1E5EE",
+                "1E5EF"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "1E5F0"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "1E5F1",
+                "1E5FA"
             ],
             "property": "ID_Continue"
         },
@@ -53671,7 +54668,7 @@
         {
             "range": [
                 "1C80",
-                "1C88"
+                "1C8A"
             ],
             "property": "XID_Start"
         },
@@ -54448,7 +55445,7 @@
         {
             "range": [
                 "A790",
-                "A7CA"
+                "A7CD"
             ],
             "property": "XID_Start"
         },
@@ -54468,7 +55465,7 @@
         {
             "range": [
                 "A7D5",
-                "A7D9"
+                "A7DC"
             ],
             "property": "XID_Start"
         },
@@ -55311,6 +56308,13 @@
         },
         {
             "range": [
+                "105C0",
+                "105F3"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
                 "10600",
                 "10736"
             ],
@@ -55560,6 +56564,45 @@
         },
         {
             "range": [
+                "10D4A",
+                "10D4D"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "10D4E"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "10D4F"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "10D50",
+                "10D65"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "10D6F"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "10D70",
+                "10D85"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
                 "10E80",
                 "10EA9"
             ],
@@ -55569,6 +56612,13 @@
             "range": [
                 "10EB0",
                 "10EB1"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "10EC2",
+                "10EC4"
             ],
             "property": "XID_Start"
         },
@@ -55830,6 +56880,50 @@
         },
         {
             "range": [
+                "11380",
+                "11389"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "1138B"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "1138E"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "11390",
+                "113B5"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "113B7"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "113D1"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "113D3"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
                 "11400",
                 "11434"
             ],
@@ -56056,6 +57150,13 @@
         },
         {
             "range": [
+                "11BC0",
+                "11BE0"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
                 "11C00",
                 "11C08"
             ],
@@ -56212,8 +57313,22 @@
         },
         {
             "range": [
+                "13460",
+                "143FA"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
                 "14400",
                 "14646"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "16100",
+                "1611D"
             ],
             "property": "XID_Start"
         },
@@ -56275,6 +57390,27 @@
         },
         {
             "range": [
+                "16D40",
+                "16D42"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "16D43",
+                "16D6A"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "16D6B",
+                "16D6C"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
                 "16E40",
                 "16E7F"
             ],
@@ -56329,7 +57465,7 @@
         },
         {
             "range": [
-                "18D00",
+                "18CFF",
                 "18D08"
             ],
             "property": "XID_Start"
@@ -56708,6 +57844,19 @@
         {
             "range": [
                 "1E4EB"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "1E5D0",
+                "1E5ED"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "1E5F0"
             ],
             "property": "XID_Start"
         },
@@ -57654,7 +58803,7 @@
         },
         {
             "range": [
-                "0898",
+                "0897",
                 "089F"
             ],
             "property": "XID_Continue"
@@ -60557,7 +61706,7 @@
         {
             "range": [
                 "1C80",
-                "1C88"
+                "1C8A"
             ],
             "property": "XID_Continue"
         },
@@ -61514,7 +62663,7 @@
         {
             "range": [
                 "A790",
-                "A7CA"
+                "A7CD"
             ],
             "property": "XID_Continue"
         },
@@ -61534,7 +62683,7 @@
         {
             "range": [
                 "A7D5",
-                "A7D9"
+                "A7DC"
             ],
             "property": "XID_Continue"
         },
@@ -62845,6 +63994,13 @@
         },
         {
             "range": [
+                "105C0",
+                "105F3"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
                 "10600",
                 "10736"
             ],
@@ -63149,6 +64305,59 @@
         },
         {
             "range": [
+                "10D40",
+                "10D49"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "10D4A",
+                "10D4D"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "10D4E"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "10D4F"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "10D50",
+                "10D65"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "10D69",
+                "10D6D"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "10D6F"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "10D70",
+                "10D85"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
                 "10E80",
                 "10EA9"
             ],
@@ -63170,7 +64379,14 @@
         },
         {
             "range": [
-                "10EFD",
+                "10EC2",
+                "10EC4"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "10EFC",
                 "10EFF"
             ],
             "property": "XID_Continue"
@@ -63814,6 +65030,121 @@
         },
         {
             "range": [
+                "11380",
+                "11389"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "1138B"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "1138E"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "11390",
+                "113B5"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "113B7"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "113B8",
+                "113BA"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "113BB",
+                "113C0"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "113C2"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "113C5"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "113C7",
+                "113CA"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "113CC",
+                "113CD"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "113CE"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "113CF"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "113D0"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "113D1"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "113D2"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "113D3"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "113E1",
+                "113E2"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
                 "11400",
                 "11434"
             ],
@@ -64154,6 +65485,13 @@
         },
         {
             "range": [
+                "116D0",
+                "116E3"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
                 "11700",
                 "1171A"
             ],
@@ -64161,7 +65499,18 @@
         },
         {
             "range": [
-                "1171D",
+                "1171D"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "1171E"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
                 "1171F"
             ],
             "property": "XID_Continue"
@@ -64546,6 +65895,20 @@
         },
         {
             "range": [
+                "11BC0",
+                "11BE0"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "11BF0",
+                "11BF9"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
                 "11C00",
                 "11C08"
             ],
@@ -64898,6 +66261,12 @@
         },
         {
             "range": [
+                "11F5A"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
                 "11FB0"
             ],
             "property": "XID_Continue"
@@ -64959,8 +66328,50 @@
         },
         {
             "range": [
+                "13460",
+                "143FA"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
                 "14400",
                 "14646"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "16100",
+                "1611D"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "1611E",
+                "16129"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "1612A",
+                "1612C"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "1612D",
+                "1612F"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "16130",
+                "16139"
             ],
             "property": "XID_Continue"
         },
@@ -65057,6 +66468,34 @@
         },
         {
             "range": [
+                "16D40",
+                "16D42"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "16D43",
+                "16D6A"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "16D6B",
+                "16D6C"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "16D70",
+                "16D79"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
                 "16E40",
                 "16E7F"
             ],
@@ -65144,7 +66583,7 @@
         },
         {
             "range": [
-                "18D00",
+                "18CFF",
                 "18D08"
             ],
             "property": "XID_Continue"
@@ -65242,6 +66681,13 @@
             "range": [
                 "1BC9D",
                 "1BC9E"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "1CCF0",
+                "1CCF9"
             ],
             "property": "XID_Continue"
         },
@@ -65729,6 +67175,33 @@
             "range": [
                 "1E4F0",
                 "1E4F9"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "1E5D0",
+                "1E5ED"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "1E5EE",
+                "1E5EF"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "1E5F0"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "1E5F1",
+                "1E5FA"
             ],
             "property": "XID_Continue"
         },
@@ -66443,7 +67916,7 @@
         },
         {
             "range": [
-                "0898",
+                "0897",
                 "089F"
             ],
             "property": "Grapheme_Extend"
@@ -66811,6 +68284,12 @@
         },
         {
             "range": [
+                "0CC0"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
                 "0CC2"
             ],
             "property": "Grapheme_Extend"
@@ -66818,6 +68297,20 @@
         {
             "range": [
                 "0CC6"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "0CC7",
+                "0CC8"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "0CCA",
+                "0CCB"
             ],
             "property": "Grapheme_Extend"
         },
@@ -67121,8 +68614,20 @@
         },
         {
             "range": [
+                "1715"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
                 "1732",
                 "1733"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "1734"
             ],
             "property": "Grapheme_Extend"
         },
@@ -67332,13 +68837,32 @@
         },
         {
             "range": [
+                "1B3B"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
                 "1B3C"
             ],
             "property": "Grapheme_Extend"
         },
         {
             "range": [
+                "1B3D"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
                 "1B42"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "1B43",
+                "1B44"
             ],
             "property": "Grapheme_Extend"
         },
@@ -67372,6 +68896,12 @@
         },
         {
             "range": [
+                "1BAA"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
                 "1BAB",
                 "1BAD"
             ],
@@ -67400,6 +68930,13 @@
             "range": [
                 "1BEF",
                 "1BF1"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "1BF2",
+                "1BF3"
             ],
             "property": "Grapheme_Extend"
         },
@@ -67646,6 +69183,12 @@
         },
         {
             "range": [
+                "A953"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
                 "A980",
                 "A982"
             ],
@@ -67668,6 +69211,12 @@
             "range": [
                 "A9BC",
                 "A9BD"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "A9C0"
             ],
             "property": "Grapheme_Extend"
         },
@@ -67876,6 +69425,13 @@
         },
         {
             "range": [
+                "10D69",
+                "10D6D"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
                 "10EAB",
                 "10EAC"
             ],
@@ -67883,7 +69439,7 @@
         },
         {
             "range": [
-                "10EFD",
+                "10EFC",
                 "10EFF"
             ],
             "property": "Grapheme_Extend"
@@ -67998,6 +69554,12 @@
         },
         {
             "range": [
+                "111C0"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
                 "111C9",
                 "111CC"
             ],
@@ -68019,6 +69581,12 @@
         {
             "range": [
                 "11234"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "11235"
             ],
             "property": "Grapheme_Extend"
         },
@@ -68082,6 +69650,12 @@
         },
         {
             "range": [
+                "1134D"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
                 "11357"
             ],
             "property": "Grapheme_Extend"
@@ -68097,6 +69671,69 @@
             "range": [
                 "11370",
                 "11374"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "113B8"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "113BB",
+                "113C0"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "113C2"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "113C5"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "113C7",
+                "113C9"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "113CE"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "113CF"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "113D0"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "113D2"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "113E1",
+                "113E2"
             ],
             "property": "Grapheme_Extend"
         },
@@ -68240,13 +69877,24 @@
         },
         {
             "range": [
+                "116B6"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
                 "116B7"
             ],
             "property": "Grapheme_Extend"
         },
         {
             "range": [
-                "1171D",
+                "1171D"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
                 "1171F"
             ],
             "property": "Grapheme_Extend"
@@ -68289,6 +69937,12 @@
             "range": [
                 "1193B",
                 "1193C"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "1193D"
             ],
             "property": "Grapheme_Extend"
         },
@@ -68508,7 +70162,19 @@
         },
         {
             "range": [
+                "11F41"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
                 "11F42"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "11F5A"
             ],
             "property": "Grapheme_Extend"
         },
@@ -68522,6 +70188,20 @@
             "range": [
                 "13447",
                 "13455"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "1611E",
+                "16129"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "1612D",
+                "1612F"
             ],
             "property": "Grapheme_Extend"
         },
@@ -68560,6 +70240,13 @@
         },
         {
             "range": [
+                "16FF0",
+                "16FF1"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
                 "1BC9D",
                 "1BC9E"
             ],
@@ -68581,7 +70268,8 @@
         },
         {
             "range": [
-                "1D165"
+                "1D165",
+                "1D166"
             ],
             "property": "Grapheme_Extend"
         },
@@ -68594,7 +70282,7 @@
         },
         {
             "range": [
-                "1D16E",
+                "1D16D",
                 "1D172"
             ],
             "property": "Grapheme_Extend"
@@ -68732,6 +70420,13 @@
             "range": [
                 "1E4EC",
                 "1E4EF"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "1E5EE",
+                "1E5EF"
             ],
             "property": "Grapheme_Extend"
         },
@@ -70624,7 +72319,6 @@
         },
         {
             "range": [
-                "0CC0",
                 "0CC1"
             ],
             "property": "Grapheme_Base"
@@ -70633,20 +72327,6 @@
             "range": [
                 "0CC3",
                 "0CC4"
-            ],
-            "property": "Grapheme_Base"
-        },
-        {
-            "range": [
-                "0CC7",
-                "0CC8"
-            ],
-            "property": "Grapheme_Base"
-        },
-        {
-            "range": [
-                "0CCA",
-                "0CCB"
             ],
             "property": "Grapheme_Base"
         },
@@ -71644,20 +73324,8 @@
         },
         {
             "range": [
-                "1715"
-            ],
-            "property": "Grapheme_Base"
-        },
-        {
-            "range": [
                 "171F",
                 "1731"
-            ],
-            "property": "Grapheme_Base"
-        },
-        {
-            "range": [
-                "1734"
             ],
             "property": "Grapheme_Base"
         },
@@ -72048,21 +73716,8 @@
         },
         {
             "range": [
-                "1B3B"
-            ],
-            "property": "Grapheme_Base"
-        },
-        {
-            "range": [
-                "1B3D",
+                "1B3E",
                 "1B41"
-            ],
-            "property": "Grapheme_Base"
-        },
-        {
-            "range": [
-                "1B43",
-                "1B44"
             ],
             "property": "Grapheme_Base"
         },
@@ -72070,6 +73725,13 @@
             "range": [
                 "1B45",
                 "1B4C"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "1B4E",
+                "1B4F"
             ],
             "property": "Grapheme_Base"
         },
@@ -72104,7 +73766,7 @@
         {
             "range": [
                 "1B7D",
-                "1B7E"
+                "1B7F"
             ],
             "property": "Grapheme_Base"
         },
@@ -72131,12 +73793,6 @@
             "range": [
                 "1BA6",
                 "1BA7"
-            ],
-            "property": "Grapheme_Base"
-        },
-        {
-            "range": [
-                "1BAA"
             ],
             "property": "Grapheme_Base"
         },
@@ -72177,13 +73833,6 @@
         {
             "range": [
                 "1BEE"
-            ],
-            "property": "Grapheme_Base"
-        },
-        {
-            "range": [
-                "1BF2",
-                "1BF3"
             ],
             "property": "Grapheme_Base"
         },
@@ -72267,7 +73916,7 @@
         {
             "range": [
                 "1C80",
-                "1C88"
+                "1C8A"
             ],
             "property": "Grapheme_Base"
         },
@@ -73287,7 +74936,7 @@
         {
             "range": [
                 "23E2",
-                "2426"
+                "2429"
             ],
             "property": "Grapheme_Base"
         },
@@ -74659,7 +76308,7 @@
         {
             "range": [
                 "31C0",
-                "31E3"
+                "31E5"
             ],
             "property": "Grapheme_Base"
         },
@@ -74991,7 +76640,7 @@
         {
             "range": [
                 "A790",
-                "A7CA"
+                "A7CD"
             ],
             "property": "Grapheme_Base"
         },
@@ -75011,7 +76660,7 @@
         {
             "range": [
                 "A7D5",
-                "A7D9"
+                "A7DC"
             ],
             "property": "Grapheme_Base"
         },
@@ -75234,8 +76883,7 @@
         },
         {
             "range": [
-                "A952",
-                "A953"
+                "A952"
             ],
             "property": "Grapheme_Base"
         },
@@ -75282,7 +76930,7 @@
         {
             "range": [
                 "A9BE",
-                "A9C0"
+                "A9BF"
             ],
             "property": "Grapheme_Base"
         },
@@ -76814,6 +78462,13 @@
         },
         {
             "range": [
+                "105C0",
+                "105F3"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
                 "10600",
                 "10736"
             ],
@@ -77247,6 +78902,65 @@
         },
         {
             "range": [
+                "10D40",
+                "10D49"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "10D4A",
+                "10D4D"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "10D4E"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "10D4F"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "10D50",
+                "10D65"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "10D6E"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "10D6F"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "10D70",
+                "10D85"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "10D8E",
+                "10D8F"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
                 "10E60",
                 "10E7E"
             ],
@@ -77269,6 +78983,13 @@
             "range": [
                 "10EB0",
                 "10EB1"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "10EC2",
+                "10EC4"
             ],
             "property": "Grapheme_Base"
         },
@@ -77544,8 +79265,7 @@
         },
         {
             "range": [
-                "111BF",
-                "111C0"
+                "111BF"
             ],
             "property": "Grapheme_Base"
         },
@@ -77639,12 +79359,6 @@
             "range": [
                 "11232",
                 "11233"
-            ],
-            "property": "Grapheme_Base"
-        },
-        {
-            "range": [
-                "11235"
             ],
             "property": "Grapheme_Base"
         },
@@ -77801,7 +79515,7 @@
         {
             "range": [
                 "1134B",
-                "1134D"
+                "1134C"
             ],
             "property": "Grapheme_Base"
         },
@@ -77822,6 +79536,84 @@
             "range": [
                 "11362",
                 "11363"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "11380",
+                "11389"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "1138B"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "1138E"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "11390",
+                "113B5"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "113B7"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "113B9",
+                "113BA"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "113CA"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "113CC",
+                "113CD"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "113D1"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "113D3"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "113D4",
+                "113D5"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "113D7",
+                "113D8"
             ],
             "property": "Grapheme_Base"
         },
@@ -78075,12 +79867,6 @@
         },
         {
             "range": [
-                "116B6"
-            ],
-            "property": "Grapheme_Base"
-        },
-        {
-            "range": [
                 "116B8"
             ],
             "property": "Grapheme_Base"
@@ -78100,8 +79886,21 @@
         },
         {
             "range": [
+                "116D0",
+                "116E3"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
                 "11700",
                 "1171A"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "1171E"
             ],
             "property": "Grapheme_Base"
         },
@@ -78244,12 +80043,6 @@
             "range": [
                 "11937",
                 "11938"
-            ],
-            "property": "Grapheme_Base"
-        },
-        {
-            "range": [
-                "1193D"
             ],
             "property": "Grapheme_Base"
         },
@@ -78432,6 +80225,26 @@
             "range": [
                 "11B00",
                 "11B09"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "11BC0",
+                "11BE0"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "11BE1"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "11BF0",
+                "11BF9"
             ],
             "property": "Grapheme_Base"
         },
@@ -78671,12 +80484,6 @@
         },
         {
             "range": [
-                "11F41"
-            ],
-            "property": "Grapheme_Base"
-        },
-        {
-            "range": [
                 "11F43",
                 "11F4F"
             ],
@@ -78787,8 +80594,36 @@
         },
         {
             "range": [
+                "13460",
+                "143FA"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
                 "14400",
                 "14646"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "16100",
+                "1611D"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "1612A",
+                "1612C"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "16130",
+                "16139"
             ],
             "property": "Grapheme_Base"
         },
@@ -78917,6 +80752,41 @@
         },
         {
             "range": [
+                "16D40",
+                "16D42"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "16D43",
+                "16D6A"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "16D6B",
+                "16D6C"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "16D6D",
+                "16D6F"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "16D70",
+                "16D79"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
                 "16E40",
                 "16E7F"
             ],
@@ -78984,13 +80854,6 @@
         },
         {
             "range": [
-                "16FF0",
-                "16FF1"
-            ],
-            "property": "Grapheme_Base"
-        },
-        {
-            "range": [
                 "17000",
                 "187F7"
             ],
@@ -79005,7 +80868,7 @@
         },
         {
             "range": [
-                "18D00",
+                "18CFF",
                 "18D08"
             ],
             "property": "Grapheme_Base"
@@ -79113,6 +80976,27 @@
         },
         {
             "range": [
+                "1CC00",
+                "1CCEF"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "1CCF0",
+                "1CCF9"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "1CD00",
+                "1CEB3"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
                 "1CF50",
                 "1CFC3"
             ],
@@ -79141,20 +81025,8 @@
         },
         {
             "range": [
-                "1D166"
-            ],
-            "property": "Grapheme_Base"
-        },
-        {
-            "range": [
                 "1D16A",
                 "1D16C"
-            ],
-            "property": "Grapheme_Base"
-        },
-        {
-            "range": [
-                "1D16D"
             ],
             "property": "Grapheme_Base"
         },
@@ -79647,6 +81519,32 @@
             "range": [
                 "1E4F0",
                 "1E4F9"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "1E5D0",
+                "1E5ED"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "1E5F0"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "1E5F1",
+                "1E5FA"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "1E5FF"
             ],
             "property": "Grapheme_Base"
         },
@@ -80185,7 +82083,14 @@
         {
             "range": [
                 "1F8B0",
-                "1F8B1"
+                "1F8BB"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "1F8C0",
+                "1F8C1"
             ],
             "property": "Grapheme_Base"
         },
@@ -80213,35 +82118,28 @@
         {
             "range": [
                 "1FA80",
-                "1FA88"
+                "1FA89"
             ],
             "property": "Grapheme_Base"
         },
         {
             "range": [
-                "1FA90",
-                "1FABD"
-            ],
-            "property": "Grapheme_Base"
-        },
-        {
-            "range": [
-                "1FABF",
-                "1FAC5"
+                "1FA8F",
+                "1FAC6"
             ],
             "property": "Grapheme_Base"
         },
         {
             "range": [
                 "1FACE",
-                "1FADB"
+                "1FADC"
             ],
             "property": "Grapheme_Base"
         },
         {
             "range": [
-                "1FAE0",
-                "1FAE8"
+                "1FADF",
+                "1FAE9"
             ],
             "property": "Grapheme_Base"
         },
@@ -80262,7 +82160,7 @@
         {
             "range": [
                 "1FB94",
-                "1FBCA"
+                "1FBEF"
             ],
             "property": "Grapheme_Base"
         },
@@ -80594,6 +82492,24 @@
         },
         {
             "range": [
+                "113CE"
+            ],
+            "property": "Grapheme_Link"
+        },
+        {
+            "range": [
+                "113CF"
+            ],
+            "property": "Grapheme_Link"
+        },
+        {
+            "range": [
+                "113D0"
+            ],
+            "property": "Grapheme_Link"
+        },
+        {
+            "range": [
                 "11442"
             ],
             "property": "Grapheme_Link"
@@ -80698,6 +82614,12 @@
         {
             "range": [
                 "11F42"
+            ],
+            "property": "Grapheme_Link"
+        },
+        {
+            "range": [
+                "1612F"
             ],
             "property": "Grapheme_Link"
         },
@@ -80949,14 +82871,6 @@
         {
             "range": [
                 "0300",
-                "034E"
-            ],
-            "property": "InCB",
-            "syllabicCategory": "Extend"
-        },
-        {
-            "range": [
-                "0350",
                 "036F"
             ],
             "property": "InCB",
@@ -80966,6 +82880,14 @@
             "range": [
                 "0483",
                 "0487"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0488",
+                "0489"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -81080,6 +83002,14 @@
         },
         {
             "range": [
+                "07A6",
+                "07B0"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
                 "07EB",
                 "07F3"
             ],
@@ -81135,7 +83065,7 @@
         },
         {
             "range": [
-                "0898",
+                "0897",
                 "089F"
             ],
             "property": "InCB",
@@ -81152,7 +83082,14 @@
         {
             "range": [
                 "08E3",
-                "08FF"
+                "0902"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "093A"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -81166,8 +83103,31 @@
         },
         {
             "range": [
+                "0941",
+                "0948"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
                 "0951",
-                "0954"
+                "0957"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0962",
+                "0963"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0981"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -81181,7 +83141,45 @@
         },
         {
             "range": [
+                "09BE"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "09C1",
+                "09C4"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "09D7"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "09E2",
+                "09E3"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
                 "09FE"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0A01",
+                "0A02"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -81195,7 +83193,100 @@
         },
         {
             "range": [
+                "0A41",
+                "0A42"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0A47",
+                "0A48"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0A4B",
+                "0A4D"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0A51"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0A70",
+                "0A71"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0A75"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0A81",
+                "0A82"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
                 "0ABC"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0AC1",
+                "0AC5"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0AC7",
+                "0AC8"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0AE2",
+                "0AE3"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0AFA",
+                "0AFF"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0B01"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -81209,7 +83300,125 @@
         },
         {
             "range": [
+                "0B3E"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0B3F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0B41",
+                "0B44"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0B55",
+                "0B56"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0B57"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0B62",
+                "0B63"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0B82"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0BBE"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0BC0"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0BCD"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0BD7"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0C00"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0C04"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
                 "0C3C"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0C3E",
+                "0C40"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0C46",
+                "0C48"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0C4A",
+                "0C4C"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -81224,7 +83433,98 @@
         },
         {
             "range": [
+                "0C62",
+                "0C63"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0C81"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
                 "0CBC"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0CBF"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0CC0"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0CC2"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0CC6"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0CC7",
+                "0CC8"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0CCA",
+                "0CCB"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0CCC",
+                "0CCD"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0CD5",
+                "0CD6"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0CE2",
+                "0CE3"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0D00",
+                "0D01"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -81239,7 +83539,87 @@
         },
         {
             "range": [
-                "0E38",
+                "0D3E"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0D41",
+                "0D44"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0D57"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0D62",
+                "0D63"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0D81"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0DCA"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0DCF"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0DD2",
+                "0DD4"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0DD6"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0DDF"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0E31"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0E34",
                 "0E3A"
             ],
             "property": "InCB",
@@ -81247,16 +83627,23 @@
         },
         {
             "range": [
-                "0E48",
-                "0E4B"
+                "0E47",
+                "0E4E"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
         },
         {
             "range": [
-                "0EB8",
-                "0EBA"
+                "0EB1"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0EB4",
+                "0EBC"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -81264,7 +83651,7 @@
         {
             "range": [
                 "0EC8",
-                "0ECB"
+                "0ECE"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -81301,36 +83688,14 @@
         {
             "range": [
                 "0F71",
-                "0F72"
+                "0F7E"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
         },
         {
             "range": [
-                "0F74"
-            ],
-            "property": "InCB",
-            "syllabicCategory": "Extend"
-        },
-        {
-            "range": [
-                "0F7A",
-                "0F7D"
-            ],
-            "property": "InCB",
-            "syllabicCategory": "Extend"
-        },
-        {
-            "range": [
-                "0F80"
-            ],
-            "property": "InCB",
-            "syllabicCategory": "Extend"
-        },
-        {
-            "range": [
-                "0F82",
+                "0F80",
                 "0F84"
             ],
             "property": "InCB",
@@ -81346,6 +83711,22 @@
         },
         {
             "range": [
+                "0F8D",
+                "0F97"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "0F99",
+                "0FBC"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
                 "0FC6"
             ],
             "property": "InCB",
@@ -81353,6 +83734,15 @@
         },
         {
             "range": [
+                "102D",
+                "1030"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1032",
                 "1037"
             ],
             "property": "InCB",
@@ -81368,7 +83758,61 @@
         },
         {
             "range": [
+                "103D",
+                "103E"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1058",
+                "1059"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "105E",
+                "1060"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1071",
+                "1074"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1082"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1085",
+                "1086"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
                 "108D"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "109D"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -81383,6 +83827,7 @@
         },
         {
             "range": [
+                "1712",
                 "1714"
             ],
             "property": "InCB",
@@ -81390,7 +83835,69 @@
         },
         {
             "range": [
-                "17D2"
+                "1715"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1732",
+                "1733"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1734"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1752",
+                "1753"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1772",
+                "1773"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "17B4",
+                "17B5"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "17B7",
+                "17BD"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "17C6"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "17C9",
+                "17D3"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -81404,7 +83911,53 @@
         },
         {
             "range": [
+                "180B",
+                "180D"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "180F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1885",
+                "1886"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
                 "18A9"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1920",
+                "1922"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1927",
+                "1928"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1932"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -81427,6 +83980,28 @@
         },
         {
             "range": [
+                "1A1B"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1A56"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1A58",
+                "1A5E"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
                 "1A60"
             ],
             "property": "InCB",
@@ -81434,7 +84009,22 @@
         },
         {
             "range": [
-                "1A75",
+                "1A62"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1A65",
+                "1A6C"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1A73",
                 "1A7C"
             ],
             "property": "InCB",
@@ -81457,6 +84047,13 @@
         },
         {
             "range": [
+                "1ABE"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
                 "1ABF",
                 "1ACE"
             ],
@@ -81465,7 +84062,66 @@
         },
         {
             "range": [
+                "1B00",
+                "1B03"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
                 "1B34"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1B35"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1B36",
+                "1B3A"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1B3B"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1B3C"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1B3D"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1B42"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1B43",
+                "1B44"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -81480,7 +84136,39 @@
         },
         {
             "range": [
-                "1BAB"
+                "1B80",
+                "1B81"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1BA2",
+                "1BA5"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1BA8",
+                "1BA9"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1BAA"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1BAB",
+                "1BAD"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -81494,6 +84182,46 @@
         },
         {
             "range": [
+                "1BE8",
+                "1BE9"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1BED"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1BEF",
+                "1BF1"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1BF2",
+                "1BF3"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1C2C",
+                "1C33"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1C36",
                 "1C37"
             ],
             "property": "InCB",
@@ -81570,7 +84298,23 @@
         },
         {
             "range": [
+                "20DD",
+                "20E0"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
                 "20E1"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "20E2",
+                "20E4"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -81639,6 +84383,14 @@
         },
         {
             "range": [
+                "A670",
+                "A672"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
                 "A674",
                 "A67D"
             ],
@@ -81663,7 +84415,44 @@
         },
         {
             "range": [
+                "A802"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "A806"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "A80B"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "A825",
+                "A826"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
                 "A82C"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "A8C4",
+                "A8C5"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -81678,7 +84467,14 @@
         },
         {
             "range": [
-                "A92B",
+                "A8FF"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "A926",
                 "A92D"
             ],
             "property": "InCB",
@@ -81686,7 +84482,105 @@
         },
         {
             "range": [
+                "A947",
+                "A951"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "A953"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "A980",
+                "A982"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
                 "A9B3"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "A9B6",
+                "A9B9"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "A9BC",
+                "A9BD"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "A9C0"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "A9E5"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "AA29",
+                "AA2E"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "AA31",
+                "AA32"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "AA35",
+                "AA36"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "AA43"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "AA4C"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "AA7C"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -81731,7 +84625,29 @@
         },
         {
             "range": [
+                "AAEC",
+                "AAED"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
                 "AAF6"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "ABE5"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "ABE8"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -81752,8 +84668,24 @@
         },
         {
             "range": [
+                "FE00",
+                "FE0F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
                 "FE20",
                 "FE2F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "FF9E",
+                "FF9F"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -81782,13 +84714,23 @@
         },
         {
             "range": [
-                "10A0D"
+                "10A01",
+                "10A03"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
         },
         {
             "range": [
+                "10A05",
+                "10A06"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "10A0C",
                 "10A0F"
             ],
             "property": "InCB",
@@ -81827,6 +84769,14 @@
         },
         {
             "range": [
+                "10D69",
+                "10D6D"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
                 "10EAB",
                 "10EAC"
             ],
@@ -81835,7 +84785,7 @@
         },
         {
             "range": [
-                "10EFD",
+                "10EFC",
                 "10EFF"
             ],
             "property": "InCB",
@@ -81859,6 +84809,21 @@
         },
         {
             "range": [
+                "11001"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11038",
+                "11046"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
                 "11070"
             ],
             "property": "InCB",
@@ -81866,14 +84831,39 @@
         },
         {
             "range": [
-                "1107F"
+                "11073",
+                "11074"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
         },
         {
             "range": [
+                "1107F",
+                "11081"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "110B3",
+                "110B6"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "110B9",
                 "110BA"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "110C2"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -81888,7 +84878,15 @@
         },
         {
             "range": [
-                "11133",
+                "11127",
+                "1112B"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1112D",
                 "11134"
             ],
             "property": "InCB",
@@ -81903,22 +84901,105 @@
         },
         {
             "range": [
-                "111CA"
+                "11180",
+                "11181"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
         },
         {
             "range": [
-                "11236"
+                "111B6",
+                "111BE"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
         },
         {
             "range": [
-                "112E9",
+                "111C0"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "111C9",
+                "111CC"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "111CF"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1122F",
+                "11231"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11234"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11235"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11236",
+                "11237"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1123E"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11241"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "112DF"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "112E3",
                 "112EA"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11300",
+                "11301"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -81927,6 +85008,34 @@
             "range": [
                 "1133B",
                 "1133C"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1133E"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11340"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1134D"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11357"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -81949,6 +85058,95 @@
         },
         {
             "range": [
+                "113B8"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "113BB",
+                "113C0"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "113C2"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "113C5"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "113C7",
+                "113C9"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "113CE"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "113CF"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "113D0"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "113D2"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "113E1",
+                "113E2"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11438",
+                "1143F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11442",
+                "11444"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
                 "11446"
             ],
             "property": "InCB",
@@ -81963,6 +85161,44 @@
         },
         {
             "range": [
+                "114B0"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "114B3",
+                "114B8"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "114BA"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "114BD"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "114BF",
+                "114C0"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "114C2",
                 "114C3"
             ],
             "property": "InCB",
@@ -81970,7 +85206,91 @@
         },
         {
             "range": [
+                "115AF"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "115B2",
+                "115B5"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "115BC",
+                "115BD"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "115BF",
                 "115C0"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "115DC",
+                "115DD"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11633",
+                "1163A"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1163D"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1163F",
+                "11640"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "116AB"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "116AD"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "116B0",
+                "116B5"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "116B6"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -81984,6 +85304,29 @@
         },
         {
             "range": [
+                "1171D"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1171F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11722",
+                "11725"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11727",
                 "1172B"
             ],
             "property": "InCB",
@@ -81991,7 +85334,38 @@
         },
         {
             "range": [
+                "1182F",
+                "11837"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11839",
                 "1183A"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11930"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1193B",
+                "1193C"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1193D"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -82012,7 +85386,47 @@
         },
         {
             "range": [
-                "11A34"
+                "119D4",
+                "119D7"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "119DA",
+                "119DB"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "119E0"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11A01",
+                "11A0A"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11A33",
+                "11A38"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11A3B",
+                "11A3E"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -82026,6 +85440,31 @@
         },
         {
             "range": [
+                "11A51",
+                "11A56"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11A59",
+                "11A5B"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11A8A",
+                "11A96"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11A98",
                 "11A99"
             ],
             "property": "InCB",
@@ -82033,15 +85472,108 @@
         },
         {
             "range": [
-                "11D42"
+                "11C30",
+                "11C36"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
         },
         {
             "range": [
-                "11D44",
+                "11C38",
+                "11C3D"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11C3F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11C92",
+                "11CA7"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11CAA",
+                "11CB0"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11CB2",
+                "11CB3"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11CB5",
+                "11CB6"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11D31",
+                "11D36"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11D3A"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11D3C",
+                "11D3D"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11D3F",
                 "11D45"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11D47"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11D90",
+                "11D91"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11D95"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -82055,7 +85587,83 @@
         },
         {
             "range": [
+                "11EF3",
+                "11EF4"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11F00",
+                "11F01"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11F36",
+                "11F3A"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11F40"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11F41"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
                 "11F42"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11F5A"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "13440"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "13447",
+                "13455"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1611E",
+                "16129"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1612D",
+                "1612F"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -82078,6 +85686,37 @@
         },
         {
             "range": [
+                "16F4F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "16F8F",
+                "16F92"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "16FE4"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "16FF0",
+                "16FF1"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1BC9D",
                 "1BC9E"
             ],
             "property": "InCB",
@@ -82085,7 +85724,24 @@
         },
         {
             "range": [
-                "1D165"
+                "1CF00",
+                "1CF2D"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1CF30",
+                "1CF46"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1D165",
+                "1D166"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -82100,7 +85756,7 @@
         },
         {
             "range": [
-                "1D16E",
+                "1D16D",
                 "1D172"
             ],
             "property": "InCB",
@@ -82134,6 +85790,52 @@
             "range": [
                 "1D242",
                 "1D244"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1DA00",
+                "1DA36"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1DA3B",
+                "1DA6C"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1DA75"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1DA84"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1DA9B",
+                "1DA9F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1DAA1",
+                "1DAAF"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -82218,6 +85920,14 @@
         },
         {
             "range": [
+                "1E5EE",
+                "1E5EF"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
                 "1E8D0",
                 "1E8D6"
             ],
@@ -82228,6 +85938,30 @@
             "range": [
                 "1E944",
                 "1E94A"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1F3FB",
+                "1F3FF"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "E0020",
+                "E007F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "E0100",
+                "E01EF"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"

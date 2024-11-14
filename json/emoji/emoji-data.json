@@ -2496,6 +2496,18 @@
         },
         {
             "range": [
+                "1FA89"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1FA8F"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
                 "1FA90",
                 "1FA95"
             ],
@@ -2545,6 +2557,12 @@
         },
         {
             "range": [
+                "1FABE"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
                 "1FABF"
             ],
             "property": "Emoji"
@@ -2560,6 +2578,12 @@
             "range": [
                 "1FAC3",
                 "1FAC5"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1FAC6"
             ],
             "property": "Emoji"
         },
@@ -2593,6 +2617,18 @@
         },
         {
             "range": [
+                "1FADC"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1FADF"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
                 "1FAE0",
                 "1FAE7"
             ],
@@ -2601,6 +2637,12 @@
         {
             "range": [
                 "1FAE8"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1FAE9"
             ],
             "property": "Emoji"
         },
@@ -4343,6 +4385,18 @@
         },
         {
             "range": [
+                "1FA89"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1FA8F"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
                 "1FA90",
                 "1FA95"
             ],
@@ -4392,6 +4446,12 @@
         },
         {
             "range": [
+                "1FABE"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
                 "1FABF"
             ],
             "property": "Emoji_Presentation"
@@ -4407,6 +4467,12 @@
             "range": [
                 "1FAC3",
                 "1FAC5"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1FAC6"
             ],
             "property": "Emoji_Presentation"
         },
@@ -4440,6 +4506,18 @@
         },
         {
             "range": [
+                "1FADC"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1FADF"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
                 "1FAE0",
                 "1FAE7"
             ],
@@ -4448,6 +4526,12 @@
         {
             "range": [
                 "1FAE8"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1FAE9"
             ],
             "property": "Emoji_Presentation"
         },
@@ -8041,7 +8125,19 @@
         },
         {
             "range": [
-                "1FA89",
+                "1FA89"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FA8A",
+                "1FA8E"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
                 "1FA8F"
             ],
             "property": "Extended_Pictographic"
@@ -8123,7 +8219,13 @@
         },
         {
             "range": [
-                "1FAC6",
+                "1FAC6"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FAC7",
                 "1FACD"
             ],
             "property": "Extended_Pictographic"
@@ -8158,7 +8260,19 @@
         },
         {
             "range": [
-                "1FADC",
+                "1FADC"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FADD",
+                "1FADE"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
                 "1FADF"
             ],
             "property": "Extended_Pictographic"
@@ -8178,7 +8292,13 @@
         },
         {
             "range": [
-                "1FAE9",
+                "1FAE9"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FAEA",
                 "1FAEF"
             ],
             "property": "Extended_Pictographic"
