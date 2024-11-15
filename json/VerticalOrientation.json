@@ -1277,7 +1277,7 @@
         },
         {
             "range": [
-                "0898",
+                "0897",
                 "089F"
             ],
             "verticalOrientation": "R"
@@ -4507,6 +4507,13 @@
         },
         {
             "range": [
+                "1B4E",
+                "1B4F"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
                 "1B50",
                 "1B59"
             ],
@@ -4543,7 +4550,7 @@
         {
             "range": [
                 "1B7D",
-                "1B7E"
+                "1B7F"
             ],
             "verticalOrientation": "R"
         },
@@ -4781,7 +4788,7 @@
         {
             "range": [
                 "1C80",
-                "1C88"
+                "1C8A"
             ],
             "verticalOrientation": "R"
         },
@@ -6117,13 +6124,13 @@
         {
             "range": [
                 "2424",
-                "2426"
+                "2429"
             ],
             "verticalOrientation": "U"
         },
         {
             "range": [
-                "2427",
+                "242A",
                 "243F"
             ],
             "verticalOrientation": "U"
@@ -8007,13 +8014,13 @@
         {
             "range": [
                 "31C0",
-                "31E3"
+                "31E5"
             ],
             "verticalOrientation": "U"
         },
         {
             "range": [
-                "31E4",
+                "31E6",
                 "31EE"
             ],
             "verticalOrientation": "U"
@@ -8441,7 +8448,7 @@
         {
             "range": [
                 "A790",
-                "A7CA"
+                "A7CD"
             ],
             "verticalOrientation": "R"
         },
@@ -8461,7 +8468,7 @@
         {
             "range": [
                 "A7D5",
-                "A7D9"
+                "A7DC"
             ],
             "verticalOrientation": "R"
         },
@@ -10684,6 +10691,13 @@
         },
         {
             "range": [
+                "105C0",
+                "105F3"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
                 "10600",
                 "10736"
             ],
@@ -11178,6 +11192,72 @@
         },
         {
             "range": [
+                "10D40",
+                "10D49"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "10D4A",
+                "10D4D"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "10D4E"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "10D4F"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "10D50",
+                "10D65"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "10D69",
+                "10D6D"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "10D6E"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "10D6F"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "10D70",
+                "10D85"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "10D8E",
+                "10D8F"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
                 "10E60",
                 "10E7E"
             ],
@@ -11212,7 +11292,14 @@
         },
         {
             "range": [
-                "10EFD",
+                "10EC2",
+                "10EC4"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "10EFC",
                 "10EFF"
             ],
             "verticalOrientation": "R"
@@ -11997,6 +12084,135 @@
         },
         {
             "range": [
+                "11380",
+                "11389"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "1138B"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "1138E"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "11390",
+                "113B5"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "113B7"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "113B8",
+                "113BA"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "113BB",
+                "113C0"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "113C2"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "113C5"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "113C7",
+                "113CA"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "113CC",
+                "113CD"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "113CE"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "113CF"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "113D0"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "113D1"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "113D2"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "113D3"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "113D4",
+                "113D5"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "113D7",
+                "113D8"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "113E1",
+                "113E2"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
                 "11400",
                 "11434"
             ],
@@ -12404,6 +12620,13 @@
         },
         {
             "range": [
+                "116D0",
+                "116E3"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
                 "11700",
                 "1171A"
             ],
@@ -12411,7 +12634,18 @@
         },
         {
             "range": [
-                "1171D",
+                "1171D"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "1171E"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
                 "1171F"
             ],
             "verticalOrientation": "R"
@@ -12897,6 +13131,26 @@
         },
         {
             "range": [
+                "11BC0",
+                "11BE0"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "11BE1"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "11BF0",
+                "11BF9"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
                 "11C00",
                 "11C08"
             ],
@@ -13284,6 +13538,12 @@
         },
         {
             "range": [
+                "11F5A"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
                 "11FB0"
             ],
             "verticalOrientation": "R"
@@ -13407,6 +13667,20 @@
         },
         {
             "range": [
+                "13460",
+                "143FA"
+            ],
+            "verticalOrientation": "U"
+        },
+        {
+            "range": [
+                "143FB",
+                "143FF"
+            ],
+            "verticalOrientation": "U"
+        },
+        {
+            "range": [
                 "14400",
                 "14646"
             ],
@@ -13418,6 +13692,41 @@
                 "1467F"
             ],
             "verticalOrientation": "U"
+        },
+        {
+            "range": [
+                "16100",
+                "1611D"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "1611E",
+                "16129"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "1612A",
+                "1612C"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "1612D",
+                "1612F"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "16130",
+                "16139"
+            ],
+            "verticalOrientation": "R"
         },
         {
             "range": [
@@ -13553,6 +13862,41 @@
             "range": [
                 "16B7D",
                 "16B8F"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "16D40",
+                "16D42"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "16D43",
+                "16D6A"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "16D6B",
+                "16D6C"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "16D6D",
+                "16D6F"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "16D70",
+                "16D79"
             ],
             "verticalOrientation": "R"
         },
@@ -13694,6 +14038,12 @@
         {
             "range": [
                 "18CD6",
+                "18CFE"
+            ],
+            "verticalOrientation": "U"
+        },
+        {
+            "range": [
                 "18CFF"
             ],
             "verticalOrientation": "U"
@@ -13898,6 +14248,27 @@
             "range": [
                 "1BCA0",
                 "1BCA3"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "1CC00",
+                "1CCEF"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "1CCF0",
+                "1CCF9"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "1CD00",
+                "1CEB3"
             ],
             "verticalOrientation": "R"
         },
@@ -14684,6 +15055,39 @@
         },
         {
             "range": [
+                "1E5D0",
+                "1E5ED"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "1E5EE",
+                "1E5EF"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "1E5F0"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "1E5F1",
+                "1E5FA"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "1E5FF"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
                 "1E7E0",
                 "1E7E6"
             ],
@@ -15403,7 +15807,14 @@
         {
             "range": [
                 "1F8B0",
-                "1F8B1"
+                "1F8BB"
+            ],
+            "verticalOrientation": "R"
+        },
+        {
+            "range": [
+                "1F8C0",
+                "1F8C1"
             ],
             "verticalOrientation": "R"
         },
@@ -15459,40 +15870,27 @@
         {
             "range": [
                 "1FA80",
-                "1FA88"
+                "1FA89"
             ],
             "verticalOrientation": "U"
         },
         {
             "range": [
-                "1FA89",
-                "1FA8F"
+                "1FA8A",
+                "1FA8E"
             ],
             "verticalOrientation": "U"
         },
         {
             "range": [
-                "1FA90",
-                "1FABD"
+                "1FA8F",
+                "1FAC6"
             ],
             "verticalOrientation": "U"
         },
         {
             "range": [
-                "1FABE"
-            ],
-            "verticalOrientation": "U"
-        },
-        {
-            "range": [
-                "1FABF",
-                "1FAC5"
-            ],
-            "verticalOrientation": "U"
-        },
-        {
-            "range": [
-                "1FAC6",
+                "1FAC7",
                 "1FACD"
             ],
             "verticalOrientation": "U"
@@ -15500,27 +15898,27 @@
         {
             "range": [
                 "1FACE",
-                "1FADB"
+                "1FADC"
             ],
             "verticalOrientation": "U"
         },
         {
             "range": [
-                "1FADC",
-                "1FADF"
+                "1FADD",
+                "1FADE"
             ],
             "verticalOrientation": "U"
         },
         {
             "range": [
-                "1FAE0",
-                "1FAE8"
+                "1FADF",
+                "1FAE9"
             ],
             "verticalOrientation": "U"
         },
         {
             "range": [
-                "1FAE9",
+                "1FAEA",
                 "1FAEF"
             ],
             "verticalOrientation": "U"
@@ -15549,7 +15947,7 @@
         {
             "range": [
                 "1FB94",
-                "1FBCA"
+                "1FBEF"
             ],
             "verticalOrientation": "R"
         },

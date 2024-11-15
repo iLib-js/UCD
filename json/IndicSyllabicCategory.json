@@ -323,6 +323,18 @@
         },
         {
             "range": [
+                "113CA"
+            ],
+            "syllabicCategory": "Bindu"
+        },
+        {
+            "range": [
+                "113CC"
+            ],
+            "syllabicCategory": "Bindu"
+        },
+        {
+            "range": [
                 "11443",
                 "11444"
             ],
@@ -422,6 +434,19 @@
             "range": [
                 "11F00",
                 "11F01"
+            ],
+            "syllabicCategory": "Bindu"
+        },
+        {
+            "range": [
+                "1612D"
+            ],
+            "syllabicCategory": "Bindu"
+        },
+        {
+            "range": [
+                "16D40",
+                "16D41"
             ],
             "syllabicCategory": "Bindu"
         },
@@ -565,6 +590,12 @@
         },
         {
             "range": [
+                "113CD"
+            ],
+            "syllabicCategory": "Visarga"
+        },
+        {
+            "range": [
                 "11445"
             ],
             "syllabicCategory": "Visarga"
@@ -643,6 +674,12 @@
         },
         {
             "range": [
+                "16D42"
+            ],
+            "syllabicCategory": "Visarga"
+        },
+        {
+            "range": [
                 "093D"
             ],
             "syllabicCategory": "Avagraha"
@@ -710,6 +747,12 @@
         {
             "range": [
                 "1133D"
+            ],
+            "syllabicCategory": "Avagraha"
+        },
+        {
+            "range": [
+                "113B7"
             ],
             "syllabicCategory": "Avagraha"
         },
@@ -905,6 +948,12 @@
         {
             "range": [
                 "11D42"
+            ],
+            "syllabicCategory": "Nukta"
+        },
+        {
+            "range": [
+                "11F5A"
             ],
             "syllabicCategory": "Nukta"
         },
@@ -1145,13 +1194,6 @@
         },
         {
             "range": [
-                "1BF2",
-                "1BF3"
-            ],
-            "syllabicCategory": "Pure_Killer"
-        },
-        {
-            "range": [
                 "A82C"
             ],
             "syllabicCategory": "Pure_Killer"
@@ -1188,6 +1230,18 @@
         },
         {
             "range": [
+                "113CE"
+            ],
+            "syllabicCategory": "Pure_Killer"
+        },
+        {
+            "range": [
+                "113CF"
+            ],
+            "syllabicCategory": "Pure_Killer"
+        },
+        {
+            "range": [
                 "1172B"
             ],
             "syllabicCategory": "Pure_Killer"
@@ -1215,6 +1269,26 @@
                 "11F41"
             ],
             "syllabicCategory": "Pure_Killer"
+        },
+        {
+            "range": [
+                "1612F"
+            ],
+            "syllabicCategory": "Pure_Killer"
+        },
+        {
+            "range": [
+                "16D6B",
+                "16D6C"
+            ],
+            "syllabicCategory": "Pure_Killer"
+        },
+        {
+            "range": [
+                "1BF2",
+                "1BF3"
+            ],
+            "syllabicCategory": "Reordering_Killer"
         },
         {
             "range": [
@@ -1255,6 +1329,12 @@
         {
             "range": [
                 "11133"
+            ],
+            "syllabicCategory": "Invisible_Stacker"
+        },
+        {
+            "range": [
+                "113D0"
             ],
             "syllabicCategory": "Invisible_Stacker"
         },
@@ -1769,6 +1849,32 @@
         },
         {
             "range": [
+                "11380",
+                "11389"
+            ],
+            "syllabicCategory": "Vowel_Independent"
+        },
+        {
+            "range": [
+                "1138B"
+            ],
+            "syllabicCategory": "Vowel_Independent"
+        },
+        {
+            "range": [
+                "1138E"
+            ],
+            "syllabicCategory": "Vowel_Independent"
+        },
+        {
+            "range": [
+                "11390",
+                "11391"
+            ],
+            "syllabicCategory": "Vowel_Independent"
+        },
+        {
+            "range": [
                 "11400",
                 "1140D"
             ],
@@ -1914,6 +2020,12 @@
             "range": [
                 "11F04",
                 "11F10"
+            ],
+            "syllabicCategory": "Vowel_Independent"
+        },
+        {
+            "range": [
+                "16100"
             ],
             "syllabicCategory": "Vowel_Independent"
         },
@@ -3209,6 +3321,39 @@
         },
         {
             "range": [
+                "113B8",
+                "113BA"
+            ],
+            "syllabicCategory": "Vowel_Dependent"
+        },
+        {
+            "range": [
+                "113BB",
+                "113C0"
+            ],
+            "syllabicCategory": "Vowel_Dependent"
+        },
+        {
+            "range": [
+                "113C2"
+            ],
+            "syllabicCategory": "Vowel_Dependent"
+        },
+        {
+            "range": [
+                "113C5"
+            ],
+            "syllabicCategory": "Vowel_Dependent"
+        },
+        {
+            "range": [
+                "113C7",
+                "113C9"
+            ],
+            "syllabicCategory": "Vowel_Dependent"
+        },
+        {
+            "range": [
                 "11435",
                 "11437"
             ],
@@ -3589,6 +3734,20 @@
         {
             "range": [
                 "11F40"
+            ],
+            "syllabicCategory": "Vowel_Dependent"
+        },
+        {
+            "range": [
+                "1611E",
+                "16129"
+            ],
+            "syllabicCategory": "Vowel_Dependent"
+        },
+        {
+            "range": [
+                "16D63",
+                "16D6A"
             ],
             "syllabicCategory": "Vowel_Dependent"
         },
@@ -4662,6 +4821,13 @@
         },
         {
             "range": [
+                "11392",
+                "113B5"
+            ],
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
                 "1140E",
                 "11434"
             ],
@@ -4808,6 +4974,20 @@
         },
         {
             "range": [
+                "16101",
+                "1611D"
+            ],
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "16D43",
+                "16D62"
+            ],
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
                 "09CE"
             ],
             "syllabicCategory": "Consonant_Dead"
@@ -4902,6 +5082,12 @@
         {
             "range": [
                 "0D4E"
+            ],
+            "syllabicCategory": "Consonant_Preceding_Repha"
+        },
+        {
+            "range": [
+                "113D1"
             ],
             "syllabicCategory": "Consonant_Preceding_Repha"
         },
@@ -5121,7 +5307,18 @@
         },
         {
             "range": [
-                "1171D",
+                "1171D"
+            ],
+            "syllabicCategory": "Consonant_Medial"
+        },
+        {
+            "range": [
+                "1171E"
+            ],
+            "syllabicCategory": "Consonant_Medial"
+        },
+        {
+            "range": [
                 "1171F"
             ],
             "syllabicCategory": "Consonant_Medial"
@@ -5148,6 +5345,19 @@
         {
             "range": [
                 "11D47"
+            ],
+            "syllabicCategory": "Consonant_Medial"
+        },
+        {
+            "range": [
+                "1612A",
+                "1612C"
+            ],
+            "syllabicCategory": "Consonant_Medial"
+        },
+        {
+            "range": [
+                "1612E"
             ],
             "syllabicCategory": "Consonant_Medial"
         },
@@ -5452,6 +5662,12 @@
         },
         {
             "range": [
+                "113D2"
+            ],
+            "syllabicCategory": "Gemination_Mark"
+        },
+        {
+            "range": [
                 "11A98"
             ],
             "syllabicCategory": "Gemination_Mark"
@@ -5550,6 +5766,13 @@
             "range": [
                 "11370",
                 "11374"
+            ],
+            "syllabicCategory": "Cantillation_Mark"
+        },
+        {
+            "range": [
+                "113E1",
+                "113E2"
             ],
             "syllabicCategory": "Cantillation_Mark"
         },
@@ -6009,6 +6232,13 @@
         },
         {
             "range": [
+                "116D0",
+                "116E3"
+            ],
+            "syllabicCategory": "Number"
+        },
+        {
+            "range": [
                 "11730",
                 "11739"
             ],
@@ -6060,6 +6290,20 @@
             "range": [
                 "11F50",
                 "11F59"
+            ],
+            "syllabicCategory": "Number"
+        },
+        {
+            "range": [
+                "16130",
+                "16139"
+            ],
+            "syllabicCategory": "Number"
+        },
+        {
+            "range": [
+                "16D70",
+                "16D79"
             ],
             "syllabicCategory": "Number"
         },

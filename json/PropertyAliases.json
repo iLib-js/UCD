@@ -144,6 +144,26 @@
             "longName": "Jamo_Short_Name"
         },
         {
+            "shortName": "kEH_Cat",
+            "longName": "kEH_Cat"
+        },
+        {
+            "shortName": "kEH_Desc",
+            "longName": "kEH_Desc"
+        },
+        {
+            "shortName": "kEH_HG",
+            "longName": "kEH_HG"
+        },
+        {
+            "shortName": "kEH_IFAO",
+            "longName": "kEH_IFAO"
+        },
+        {
+            "shortName": "kEH_JSesh",
+            "longName": "kEH_JSesh"
+        },
+        {
             "shortName": "na",
             "longName": "Name"
         },
@@ -416,6 +436,14 @@
             "longName": "Join_Control"
         },
         {
+            "shortName": "kEH_NoMirror",
+            "longName": "kEH_NoMirror"
+        },
+        {
+            "shortName": "kEH_NoRotate",
+            "longName": "kEH_NoRotate"
+        },
+        {
             "shortName": "LOE",
             "longName": "Logical_Order_Exception"
         },
@@ -426,6 +454,10 @@
         {
             "shortName": "Math",
             "longName": "Math"
+        },
+        {
+            "shortName": "MCM",
+            "longName": "Modifier_Combining_Mark"
         },
         {
             "shortName": "NChar",

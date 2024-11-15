@@ -12,11 +12,11 @@ rm -rf UCD
 mkdir UCD
 pushd UCD
 
-wget https://unicode.org/Public/${UCD_VERSION}/ucd/UCD.zip
-wget https://unicode.org/Public/${UCD_VERSION}/ucd/Unihan.zip
-
+wget -r --limit-rate=50k --no-host-directories --cut-dirs=7 -L -np -e robots=off http://www.unicode.org/Public/zipped/$1/
+wget -r --limit-rate=50k --no-host-directories --cut-dirs=7 -L -np -e robots=off http://www.unicode.org/iso15924/iso15924.txt
 unzip UCD.zip
 unzip Unihan.zip
 
+rm -rf __MACOSX
 popd
 

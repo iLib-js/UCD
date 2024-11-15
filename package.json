@@ -1,6 +1,6 @@
 {
     "name": "ucd-full",
-    "version": "15.1.0",
+    "version": "16.0.0",
     "main": "./ucd.js",
     "description": "Encoding the Unicode Character Database as json files",
     "license": "Apache-2.0",

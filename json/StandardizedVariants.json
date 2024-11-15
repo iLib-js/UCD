@@ -548,6 +548,62 @@
         },
         {
             "variationSequence": [
+                "2018",
+                "FE00"
+            ],
+            "description": "non-fullwidth form"
+        },
+        {
+            "variationSequence": [
+                "2018",
+                "FE01"
+            ],
+            "description": "right-justified fullwidth form"
+        },
+        {
+            "variationSequence": [
+                "2019",
+                "FE00"
+            ],
+            "description": "non-fullwidth form"
+        },
+        {
+            "variationSequence": [
+                "2019",
+                "FE01"
+            ],
+            "description": "left-justified fullwidth form"
+        },
+        {
+            "variationSequence": [
+                "201C",
+                "FE00"
+            ],
+            "description": "non-fullwidth form"
+        },
+        {
+            "variationSequence": [
+                "201C",
+                "FE01"
+            ],
+            "description": "right-justified fullwidth form"
+        },
+        {
+            "variationSequence": [
+                "201D",
+                "FE00"
+            ],
+            "description": "non-fullwidth form"
+        },
+        {
+            "variationSequence": [
+                "201D",
+                "FE01"
+            ],
+            "description": "left-justified fullwidth form"
+        },
+        {
+            "variationSequence": [
                 "3001",
                 "FE00"
             ],
@@ -1416,21 +1472,7 @@
         },
         {
             "variationSequence": [
-                "13092",
-                "FE00"
-            ],
-            "description": "rotated 90 degrees"
-        },
-        {
-            "variationSequence": [
                 "13093",
-                "FE01"
-            ],
-            "description": "rotated 180 degrees"
-        },
-        {
-            "variationSequence": [
-                "130A9",
                 "FE01"
             ],
             "description": "rotated 180 degrees"
@@ -1472,10 +1514,24 @@
         },
         {
             "variationSequence": [
+                "13132",
+                "FE01"
+            ],
+            "description": "rotated 180 degrees"
+        },
+        {
+            "variationSequence": [
                 "13139",
                 "FE00"
             ],
             "description": "rotated 90 degrees"
+        },
+        {
+            "variationSequence": [
+                "13139",
+                "FE01"
+            ],
+            "description": "rotated 180 degrees"
         },
         {
             "variationSequence": [
@@ -1556,6 +1612,13 @@
         },
         {
             "variationSequence": [
+                "131E0",
+                "FE00"
+            ],
+            "description": "rotated 90 degrees [= 270 degrees]"
+        },
+        {
+            "variationSequence": [
                 "131EE",
                 "FE01"
             ],
@@ -1616,6 +1679,13 @@
                 "FE01"
             ],
             "description": "rotated 180 degrees"
+        },
+        {
+            "variationSequence": [
+                "1327B",
+                "FE00"
+            ],
+            "description": "rotated 90 degrees"
         },
         {
             "variationSequence": [
@@ -1871,10 +1941,17 @@
         },
         {
             "variationSequence": [
-                "1333B",
-                "FE00"
+                "13338",
+                "FE03"
             ],
-            "description": "rotated 90 degrees"
+            "description": "rotated approximately 30 degrees"
+        },
+        {
+            "variationSequence": [
+                "13338",
+                "FE06"
+            ],
+            "description": "rotated approximately 320 degrees [horizontal]"
         },
         {
             "variationSequence": [
@@ -1976,10 +2053,38 @@
         },
         {
             "variationSequence": [
+                "133DB",
+                "FE02"
+            ],
+            "description": "rotated 270 degrees"
+        },
+        {
+            "variationSequence": [
                 "133DD",
                 "FE02"
             ],
             "description": "rotated 270 degrees"
+        },
+        {
+            "variationSequence": [
+                "133E5",
+                "FE00"
+            ],
+            "description": "rotated 90 degrees [= 270 degrees]"
+        },
+        {
+            "variationSequence": [
+                "133E7",
+                "FE00"
+            ],
+            "description": "rotated 90 degrees [= 270 degrees]"
+        },
+        {
+            "variationSequence": [
+                "133E8",
+                "FE01"
+            ],
+            "description": "rotated 180 degrees"
         },
         {
             "variationSequence": [
@@ -1998,13 +2103,6 @@
         {
             "variationSequence": [
                 "133F6",
-                "FE00"
-            ],
-            "description": "rotated 90 degrees"
-        },
-        {
-            "variationSequence": [
-                "13403",
                 "FE00"
             ],
             "description": "rotated 90 degrees"

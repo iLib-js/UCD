@@ -1136,6 +1136,16 @@
             "type": "correction"
         },
         {
+            "codepoint": "12327",
+            "alias": "CUNEIFORM SIGN KALAM",
+            "type": "correction"
+        },
+        {
+            "codepoint": "1680B",
+            "alias": "BAMUM LETTER PHASE-A MAEMGBIEE",
+            "type": "correction"
+        },
+        {
             "codepoint": "16E56",
             "alias": "MEDEFAIDRIN CAPITAL LETTER H",
             "type": "correction"
@@ -1163,6 +1173,16 @@
         {
             "codepoint": "1D0C5",
             "alias": "BYZANTINE MUSICAL SYMBOL FTHORA SKLIRON CHROMA VASIS",
+            "type": "correction"
+        },
+        {
+            "codepoint": "1E899",
+            "alias": "MENDE KIKAKUI SYLLABLE M172 MBO",
+            "type": "correction"
+        },
+        {
+            "codepoint": "1E89A",
+            "alias": "MENDE KIKAKUI SYLLABLE M174 MBOO",
             "type": "correction"
         },
         {

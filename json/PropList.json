@@ -239,6 +239,12 @@
         },
         {
             "range": [
+                "10D6E"
+            ],
+            "property": "Dash"
+        },
+        {
+            "range": [
                 "10EAD"
             ],
             "property": "Dash"
@@ -577,6 +583,13 @@
         {
             "range": [
                 "0830",
+                "0835"
+            ],
+            "property": "Terminal_Punctuation"
+        },
+        {
+            "range": [
+                "0837",
                 "083E"
             ],
             "property": "Terminal_Punctuation"
@@ -691,6 +704,13 @@
         },
         {
             "range": [
+                "1B4E",
+                "1B4F"
+            ],
+            "property": "Terminal_Punctuation"
+        },
+        {
+            "range": [
                 "1B5A",
                 "1B5B"
             ],
@@ -706,7 +726,7 @@
         {
             "range": [
                 "1B7D",
-                "1B7E"
+                "1B7F"
             ],
             "property": "Terminal_Punctuation"
         },
@@ -726,6 +746,12 @@
         },
         {
             "range": [
+                "2024"
+            ],
+            "property": "Terminal_Punctuation"
+        },
+        {
+            "range": [
                 "203C",
                 "203D"
             ],
@@ -735,6 +761,13 @@
             "range": [
                 "2047",
                 "2049"
+            ],
+            "property": "Terminal_Punctuation"
+        },
+        {
+            "range": [
+                "2CF9",
+                "2CFB"
             ],
             "property": "Terminal_Punctuation"
         },
@@ -854,6 +887,19 @@
         {
             "range": [
                 "ABEB"
+            ],
+            "property": "Terminal_Punctuation"
+        },
+        {
+            "range": [
+                "FE12"
+            ],
+            "property": "Terminal_Punctuation"
+        },
+        {
+            "range": [
+                "FE15",
+                "FE16"
             ],
             "property": "Terminal_Punctuation"
         },
@@ -1036,6 +1082,13 @@
         },
         {
             "range": [
+                "113D4",
+                "113D5"
+            ],
+            "property": "Terminal_Punctuation"
+        },
+        {
+            "range": [
                 "1144B",
                 "1144D"
             ],
@@ -1166,6 +1219,13 @@
         {
             "range": [
                 "16B44"
+            ],
+            "property": "Terminal_Punctuation"
+        },
+        {
+            "range": [
+                "16D6E",
+                "16D6F"
             ],
             "property": "Terminal_Punctuation"
         },
@@ -2399,6 +2459,13 @@
         },
         {
             "range": [
+                "0363",
+                "036F"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
                 "05B0",
                 "05BD"
             ],
@@ -2529,6 +2596,12 @@
             "range": [
                 "0829",
                 "082C"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
+                "0897"
             ],
             "property": "Other_Alphabetic"
         },
@@ -3759,7 +3832,7 @@
         },
         {
             "range": [
-                "1DE7",
+                "1DD3",
                 "1DF4"
             ],
             "property": "Other_Alphabetic"
@@ -4123,8 +4196,20 @@
         },
         {
             "range": [
+                "10D69"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
                 "10EAB",
                 "10EAC"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
+                "10EFC"
             ],
             "property": "Other_Alphabetic"
         },
@@ -4407,6 +4492,46 @@
         },
         {
             "range": [
+                "113B8",
+                "113BA"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
+                "113BB",
+                "113C0"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
+                "113C2"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
+                "113C5"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
+                "113C7",
+                "113CA"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
+                "113CC",
+                "113CD"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
                 "11435",
                 "11437"
             ],
@@ -4599,7 +4724,18 @@
         },
         {
             "range": [
-                "1171D",
+                "1171D"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
+                "1171E"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
                 "1171F"
             ],
             "property": "Other_Alphabetic"
@@ -4979,6 +5115,27 @@
         },
         {
             "range": [
+                "1611E",
+                "16129"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
+                "1612A",
+                "1612C"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
+                "1612D",
+                "1612E"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
                 "16F4F"
             ],
             "property": "Other_Alphabetic"
@@ -5154,7 +5311,7 @@
         },
         {
             "range": [
-                "18D00",
+                "18CFF",
                 "18D08"
             ],
             "property": "Ideographic"
@@ -5664,6 +5821,12 @@
         },
         {
             "range": [
+                "0E3A"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
                 "0E47",
                 "0E4C"
             ],
@@ -5814,6 +5977,12 @@
         },
         {
             "range": [
+                "1734"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
                 "17C9",
                 "17D3"
             ],
@@ -5829,6 +5998,12 @@
             "range": [
                 "1939",
                 "193B"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
+                "1A60"
             ],
             "property": "Diacritic"
         },
@@ -5893,6 +6068,19 @@
         {
             "range": [
                 "1BAB"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
+                "1BE6"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
+                "1BF2",
+                "1BF3"
             ],
             "property": "Diacritic"
         },
@@ -6153,6 +6341,18 @@
         },
         {
             "range": [
+                "A806"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
+                "A82C"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
                 "A8C4"
             ],
             "property": "Diacritic"
@@ -6360,6 +6560,19 @@
         },
         {
             "range": [
+                "10A38",
+                "10A3A"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
+                "10A3F"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
                 "10AE5",
                 "10AE6"
             ],
@@ -6376,6 +6589,19 @@
             "range": [
                 "10D24",
                 "10D27"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
+                "10D4E"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
+                "10D69",
+                "10D6D"
             ],
             "property": "Diacritic"
         },
@@ -6466,6 +6692,7 @@
         },
         {
             "range": [
+                "1133B",
                 "1133C"
             ],
             "property": "Diacritic"
@@ -6487,6 +6714,43 @@
             "range": [
                 "11370",
                 "11374"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
+                "113CE"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
+                "113CF"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
+                "113D0"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
+                "113D2"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
+                "113D3"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
+                "113E1",
+                "113E2"
             ],
             "property": "Diacritic"
         },
@@ -6616,8 +6880,32 @@
         },
         {
             "range": [
+                "11F41"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
+                "11F42"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
+                "11F5A"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
                 "13447",
                 "13455"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
+                "1612F"
             ],
             "property": "Diacritic"
         },
@@ -6632,6 +6920,13 @@
             "range": [
                 "16B30",
                 "16B36"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
+                "16D6B",
+                "16D6C"
             ],
             "property": "Diacritic"
         },
@@ -6755,6 +7050,13 @@
         },
         {
             "range": [
+                "1E5EE",
+                "1E5EF"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
                 "1E8D0",
                 "1E8D6"
             ],
@@ -6796,6 +7098,18 @@
         {
             "range": [
                 "07FA"
+            ],
+            "property": "Extender"
+        },
+        {
+            "range": [
+                "0A71"
+            ],
+            "property": "Extender"
+        },
+        {
+            "range": [
+                "0AFB"
             ],
             "property": "Extender"
         },
@@ -6932,7 +7246,43 @@
         },
         {
             "range": [
+                "10D4E"
+            ],
+            "property": "Extender"
+        },
+        {
+            "range": [
+                "10D6A"
+            ],
+            "property": "Extender"
+        },
+        {
+            "range": [
+                "10D6F"
+            ],
+            "property": "Extender"
+        },
+        {
+            "range": [
+                "11237"
+            ],
+            "property": "Extender"
+        },
+        {
+            "range": [
                 "1135D"
+            ],
+            "property": "Extender"
+        },
+        {
+            "range": [
+                "113D2"
+            ],
+            "property": "Extender"
+        },
+        {
+            "range": [
+                "113D3"
             ],
             "property": "Extender"
         },
@@ -6973,6 +7323,12 @@
             "range": [
                 "1E13C",
                 "1E13D"
+            ],
+            "property": "Extender"
+        },
+        {
+            "range": [
+                "1E5EF"
             ],
             "property": "Extender"
         },
@@ -7367,7 +7723,27 @@
         },
         {
             "range": [
+                "0CC0"
+            ],
+            "property": "Other_Grapheme_Extend"
+        },
+        {
+            "range": [
                 "0CC2"
+            ],
+            "property": "Other_Grapheme_Extend"
+        },
+        {
+            "range": [
+                "0CC7",
+                "0CC8"
+            ],
+            "property": "Other_Grapheme_Extend"
+        },
+        {
+            "range": [
+                "0CCA",
+                "0CCB"
             ],
             "property": "Other_Grapheme_Extend"
         },
@@ -7404,7 +7780,51 @@
         },
         {
             "range": [
+                "1715"
+            ],
+            "property": "Other_Grapheme_Extend"
+        },
+        {
+            "range": [
+                "1734"
+            ],
+            "property": "Other_Grapheme_Extend"
+        },
+        {
+            "range": [
                 "1B35"
+            ],
+            "property": "Other_Grapheme_Extend"
+        },
+        {
+            "range": [
+                "1B3B"
+            ],
+            "property": "Other_Grapheme_Extend"
+        },
+        {
+            "range": [
+                "1B3D"
+            ],
+            "property": "Other_Grapheme_Extend"
+        },
+        {
+            "range": [
+                "1B43",
+                "1B44"
+            ],
+            "property": "Other_Grapheme_Extend"
+        },
+        {
+            "range": [
+                "1BAA"
+            ],
+            "property": "Other_Grapheme_Extend"
+        },
+        {
+            "range": [
+                "1BF2",
+                "1BF3"
             ],
             "property": "Other_Grapheme_Extend"
         },
@@ -7423,8 +7843,32 @@
         },
         {
             "range": [
+                "A953"
+            ],
+            "property": "Other_Grapheme_Extend"
+        },
+        {
+            "range": [
+                "A9C0"
+            ],
+            "property": "Other_Grapheme_Extend"
+        },
+        {
+            "range": [
                 "FF9E",
                 "FF9F"
+            ],
+            "property": "Other_Grapheme_Extend"
+        },
+        {
+            "range": [
+                "111C0"
+            ],
+            "property": "Other_Grapheme_Extend"
+        },
+        {
+            "range": [
+                "11235"
             ],
             "property": "Other_Grapheme_Extend"
         },
@@ -7436,7 +7880,44 @@
         },
         {
             "range": [
+                "1134D"
+            ],
+            "property": "Other_Grapheme_Extend"
+        },
+        {
+            "range": [
                 "11357"
+            ],
+            "property": "Other_Grapheme_Extend"
+        },
+        {
+            "range": [
+                "113B8"
+            ],
+            "property": "Other_Grapheme_Extend"
+        },
+        {
+            "range": [
+                "113C2"
+            ],
+            "property": "Other_Grapheme_Extend"
+        },
+        {
+            "range": [
+                "113C5"
+            ],
+            "property": "Other_Grapheme_Extend"
+        },
+        {
+            "range": [
+                "113C7",
+                "113C9"
+            ],
+            "property": "Other_Grapheme_Extend"
+        },
+        {
+            "range": [
+                "113CF"
             ],
             "property": "Other_Grapheme_Extend"
         },
@@ -7460,19 +7941,45 @@
         },
         {
             "range": [
+                "116B6"
+            ],
+            "property": "Other_Grapheme_Extend"
+        },
+        {
+            "range": [
                 "11930"
             ],
             "property": "Other_Grapheme_Extend"
         },
         {
             "range": [
-                "1D165"
+                "1193D"
             ],
             "property": "Other_Grapheme_Extend"
         },
         {
             "range": [
-                "1D16E",
+                "11F41"
+            ],
+            "property": "Other_Grapheme_Extend"
+        },
+        {
+            "range": [
+                "16FF0",
+                "16FF1"
+            ],
+            "property": "Other_Grapheme_Extend"
+        },
+        {
+            "range": [
+                "1D165",
+                "1D166"
+            ],
+            "property": "Other_Grapheme_Extend"
+        },
+        {
+            "range": [
+                "1D16D",
                 "1D172"
             ],
             "property": "Other_Grapheme_Extend"
@@ -8491,6 +8998,13 @@
         },
         {
             "range": [
+                "1B4E",
+                "1B4F"
+            ],
+            "property": "Sentence_Terminal"
+        },
+        {
+            "range": [
                 "1B5A",
                 "1B5B"
             ],
@@ -8506,7 +9020,7 @@
         {
             "range": [
                 "1B7D",
-                "1B7E"
+                "1B7F"
             ],
             "property": "Sentence_Terminal"
         },
@@ -8526,6 +9040,12 @@
         },
         {
             "range": [
+                "2024"
+            ],
+            "property": "Sentence_Terminal"
+        },
+        {
+            "range": [
                 "203C",
                 "203D"
             ],
@@ -8535,6 +9055,13 @@
             "range": [
                 "2047",
                 "2049"
+            ],
+            "property": "Sentence_Terminal"
+        },
+        {
+            "range": [
+                "2CF9",
+                "2CFB"
             ],
             "property": "Sentence_Terminal"
         },
@@ -8632,6 +9159,19 @@
         {
             "range": [
                 "ABEB"
+            ],
+            "property": "Sentence_Terminal"
+        },
+        {
+            "range": [
+                "FE12"
+            ],
+            "property": "Sentence_Terminal"
+        },
+        {
+            "range": [
+                "FE15",
+                "FE16"
             ],
             "property": "Sentence_Terminal"
         },
@@ -8756,6 +9296,13 @@
         },
         {
             "range": [
+                "113D4",
+                "113D5"
+            ],
+            "property": "Sentence_Terminal"
+        },
+        {
+            "range": [
                 "1144B",
                 "1144C"
             ],
@@ -8859,6 +9406,13 @@
         {
             "range": [
                 "16B44"
+            ],
+            "property": "Sentence_Terminal"
+        },
+        {
+            "range": [
+                "16D6E",
+                "16D6F"
             ],
             "property": "Sentence_Terminal"
         },
@@ -9549,13 +10103,13 @@
         {
             "range": [
                 "23E2",
-                "2426"
+                "2429"
             ],
             "property": "Pattern_Syntax"
         },
         {
             "range": [
-                "2427",
+                "242A",
                 "243F"
             ],
             "property": "Pattern_Syntax"
@@ -10618,6 +11172,64 @@
                 "1F1FF"
             ],
             "property": "Regional_Indicator"
+        },
+        {
+            "range": [
+                "0654",
+                "0655"
+            ],
+            "property": "Modifier_Combining_Mark"
+        },
+        {
+            "range": [
+                "0658"
+            ],
+            "property": "Modifier_Combining_Mark"
+        },
+        {
+            "range": [
+                "06DC"
+            ],
+            "property": "Modifier_Combining_Mark"
+        },
+        {
+            "range": [
+                "06E3"
+            ],
+            "property": "Modifier_Combining_Mark"
+        },
+        {
+            "range": [
+                "06E7",
+                "06E8"
+            ],
+            "property": "Modifier_Combining_Mark"
+        },
+        {
+            "range": [
+                "08CA",
+                "08CB"
+            ],
+            "property": "Modifier_Combining_Mark"
+        },
+        {
+            "range": [
+                "08CD",
+                "08CF"
+            ],
+            "property": "Modifier_Combining_Mark"
+        },
+        {
+            "range": [
+                "08D3"
+            ],
+            "property": "Modifier_Combining_Mark"
+        },
+        {
+            "range": [
+                "08F3"
+            ],
+            "property": "Modifier_Combining_Mark"
         }
     ]
 }

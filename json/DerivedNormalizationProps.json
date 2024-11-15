@@ -849,6 +849,188 @@
         },
         {
             "range": [
+                "1CCD6"
+            ],
+            "property": "FC_NFKC",
+            "normalized": "0061"
+        },
+        {
+            "range": [
+                "1CCD7"
+            ],
+            "property": "FC_NFKC",
+            "normalized": "0062"
+        },
+        {
+            "range": [
+                "1CCD8"
+            ],
+            "property": "FC_NFKC",
+            "normalized": "0063"
+        },
+        {
+            "range": [
+                "1CCD9"
+            ],
+            "property": "FC_NFKC",
+            "normalized": "0064"
+        },
+        {
+            "range": [
+                "1CCDA"
+            ],
+            "property": "FC_NFKC",
+            "normalized": "0065"
+        },
+        {
+            "range": [
+                "1CCDB"
+            ],
+            "property": "FC_NFKC",
+            "normalized": "0066"
+        },
+        {
+            "range": [
+                "1CCDC"
+            ],
+            "property": "FC_NFKC",
+            "normalized": "0067"
+        },
+        {
+            "range": [
+                "1CCDD"
+            ],
+            "property": "FC_NFKC",
+            "normalized": "0068"
+        },
+        {
+            "range": [
+                "1CCDE"
+            ],
+            "property": "FC_NFKC",
+            "normalized": "0069"
+        },
+        {
+            "range": [
+                "1CCDF"
+            ],
+            "property": "FC_NFKC",
+            "normalized": "006A"
+        },
+        {
+            "range": [
+                "1CCE0"
+            ],
+            "property": "FC_NFKC",
+            "normalized": "006B"
+        },
+        {
+            "range": [
+                "1CCE1"
+            ],
+            "property": "FC_NFKC",
+            "normalized": "006C"
+        },
+        {
+            "range": [
+                "1CCE2"
+            ],
+            "property": "FC_NFKC",
+            "normalized": "006D"
+        },
+        {
+            "range": [
+                "1CCE3"
+            ],
+            "property": "FC_NFKC",
+            "normalized": "006E"
+        },
+        {
+            "range": [
+                "1CCE4"
+            ],
+            "property": "FC_NFKC",
+            "normalized": "006F"
+        },
+        {
+            "range": [
+                "1CCE5"
+            ],
+            "property": "FC_NFKC",
+            "normalized": "0070"
+        },
+        {
+            "range": [
+                "1CCE6"
+            ],
+            "property": "FC_NFKC",
+            "normalized": "0071"
+        },
+        {
+            "range": [
+                "1CCE7"
+            ],
+            "property": "FC_NFKC",
+            "normalized": "0072"
+        },
+        {
+            "range": [
+                "1CCE8"
+            ],
+            "property": "FC_NFKC",
+            "normalized": "0073"
+        },
+        {
+            "range": [
+                "1CCE9"
+            ],
+            "property": "FC_NFKC",
+            "normalized": "0074"
+        },
+        {
+            "range": [
+                "1CCEA"
+            ],
+            "property": "FC_NFKC",
+            "normalized": "0075"
+        },
+        {
+            "range": [
+                "1CCEB"
+            ],
+            "property": "FC_NFKC",
+            "normalized": "0076"
+        },
+        {
+            "range": [
+                "1CCEC"
+            ],
+            "property": "FC_NFKC",
+            "normalized": "0077"
+        },
+        {
+            "range": [
+                "1CCED"
+            ],
+            "property": "FC_NFKC",
+            "normalized": "0078"
+        },
+        {
+            "range": [
+                "1CCEE"
+            ],
+            "property": "FC_NFKC",
+            "normalized": "0079"
+        },
+        {
+            "range": [
+                "1CCEF"
+            ],
+            "property": "FC_NFKC",
+            "normalized": "007A"
+        },
+        {
+            "range": [
                 "1D400"
             ],
             "property": "FC_NFKC",
@@ -6659,6 +6841,20 @@
         },
         {
             "range": [
+                "105C9"
+            ],
+            "property": "NFD_QC",
+            "normalized": "N"
+        },
+        {
+            "range": [
+                "105E4"
+            ],
+            "property": "NFD_QC",
+            "normalized": "N"
+        },
+        {
+            "range": [
                 "1109A"
             ],
             "property": "NFD_QC",
@@ -6696,6 +6892,49 @@
         },
         {
             "range": [
+                "11383"
+            ],
+            "property": "NFD_QC",
+            "normalized": "N"
+        },
+        {
+            "range": [
+                "11385"
+            ],
+            "property": "NFD_QC",
+            "normalized": "N"
+        },
+        {
+            "range": [
+                "1138E"
+            ],
+            "property": "NFD_QC",
+            "normalized": "N"
+        },
+        {
+            "range": [
+                "11391"
+            ],
+            "property": "NFD_QC",
+            "normalized": "N"
+        },
+        {
+            "range": [
+                "113C5"
+            ],
+            "property": "NFD_QC",
+            "normalized": "N"
+        },
+        {
+            "range": [
+                "113C7",
+                "113C8"
+            ],
+            "property": "NFD_QC",
+            "normalized": "N"
+        },
+        {
+            "range": [
                 "114BB",
                 "114BC"
             ],
@@ -6720,6 +6959,22 @@
         {
             "range": [
                 "11938"
+            ],
+            "property": "NFD_QC",
+            "normalized": "N"
+        },
+        {
+            "range": [
+                "16121",
+                "16128"
+            ],
+            "property": "NFD_QC",
+            "normalized": "N"
+        },
+        {
+            "range": [
+                "16D68",
+                "16D6A"
             ],
             "property": "NFD_QC",
             "normalized": "N"
@@ -7568,6 +7823,42 @@
         },
         {
             "range": [
+                "113B8"
+            ],
+            "property": "NFC_QC",
+            "normalized": "M"
+        },
+        {
+            "range": [
+                "113BB"
+            ],
+            "property": "NFC_QC",
+            "normalized": "M"
+        },
+        {
+            "range": [
+                "113C2"
+            ],
+            "property": "NFC_QC",
+            "normalized": "M"
+        },
+        {
+            "range": [
+                "113C5"
+            ],
+            "property": "NFC_QC",
+            "normalized": "M"
+        },
+        {
+            "range": [
+                "113C7",
+                "113C9"
+            ],
+            "property": "NFC_QC",
+            "normalized": "M"
+        },
+        {
+            "range": [
                 "114B0"
             ],
             "property": "NFC_QC",
@@ -7597,6 +7888,22 @@
         {
             "range": [
                 "11930"
+            ],
+            "property": "NFC_QC",
+            "normalized": "M"
+        },
+        {
+            "range": [
+                "1611E",
+                "16129"
+            ],
+            "property": "NFC_QC",
+            "normalized": "M"
+        },
+        {
+            "range": [
+                "16D67",
+                "16D68"
             ],
             "property": "NFC_QC",
             "normalized": "M"
@@ -10956,6 +11263,20 @@
         },
         {
             "range": [
+                "105C9"
+            ],
+            "property": "NFKD_QC",
+            "normalized": "N"
+        },
+        {
+            "range": [
+                "105E4"
+            ],
+            "property": "NFKD_QC",
+            "normalized": "N"
+        },
+        {
+            "range": [
                 "10781",
                 "10785"
             ],
@@ -11017,6 +11338,49 @@
         },
         {
             "range": [
+                "11383"
+            ],
+            "property": "NFKD_QC",
+            "normalized": "N"
+        },
+        {
+            "range": [
+                "11385"
+            ],
+            "property": "NFKD_QC",
+            "normalized": "N"
+        },
+        {
+            "range": [
+                "1138E"
+            ],
+            "property": "NFKD_QC",
+            "normalized": "N"
+        },
+        {
+            "range": [
+                "11391"
+            ],
+            "property": "NFKD_QC",
+            "normalized": "N"
+        },
+        {
+            "range": [
+                "113C5"
+            ],
+            "property": "NFKD_QC",
+            "normalized": "N"
+        },
+        {
+            "range": [
+                "113C7",
+                "113C8"
+            ],
+            "property": "NFKD_QC",
+            "normalized": "N"
+        },
+        {
+            "range": [
                 "114BB",
                 "114BC"
             ],
@@ -11041,6 +11405,38 @@
         {
             "range": [
                 "11938"
+            ],
+            "property": "NFKD_QC",
+            "normalized": "N"
+        },
+        {
+            "range": [
+                "16121",
+                "16128"
+            ],
+            "property": "NFKD_QC",
+            "normalized": "N"
+        },
+        {
+            "range": [
+                "16D68",
+                "16D6A"
+            ],
+            "property": "NFKD_QC",
+            "normalized": "N"
+        },
+        {
+            "range": [
+                "1CCD6",
+                "1CCEF"
+            ],
+            "property": "NFKD_QC",
+            "normalized": "N"
+        },
+        {
+            "range": [
+                "1CCF0",
+                "1CCF9"
             ],
             "property": "NFKD_QC",
             "normalized": "N"
@@ -13991,6 +14387,22 @@
         },
         {
             "range": [
+                "1CCD6",
+                "1CCEF"
+            ],
+            "property": "NFKC_QC",
+            "normalized": "N"
+        },
+        {
+            "range": [
+                "1CCF0",
+                "1CCF9"
+            ],
+            "property": "NFKC_QC",
+            "normalized": "N"
+        },
+        {
+            "range": [
                 "1D15E",
                 "1D164"
             ],
@@ -14942,6 +15354,42 @@
         },
         {
             "range": [
+                "113B8"
+            ],
+            "property": "NFKC_QC",
+            "normalized": "M"
+        },
+        {
+            "range": [
+                "113BB"
+            ],
+            "property": "NFKC_QC",
+            "normalized": "M"
+        },
+        {
+            "range": [
+                "113C2"
+            ],
+            "property": "NFKC_QC",
+            "normalized": "M"
+        },
+        {
+            "range": [
+                "113C5"
+            ],
+            "property": "NFKC_QC",
+            "normalized": "M"
+        },
+        {
+            "range": [
+                "113C7",
+                "113C9"
+            ],
+            "property": "NFKC_QC",
+            "normalized": "M"
+        },
+        {
+            "range": [
                 "114B0"
             ],
             "property": "NFKC_QC",
@@ -14971,6 +15419,22 @@
         {
             "range": [
                 "11930"
+            ],
+            "property": "NFKC_QC",
+            "normalized": "M"
+        },
+        {
+            "range": [
+                "1611E",
+                "16129"
+            ],
+            "property": "NFKC_QC",
+            "normalized": "M"
+        },
+        {
+            "range": [
+                "16D67",
+                "16D68"
             ],
             "property": "NFKC_QC",
             "normalized": "M"
@@ -16354,6 +16818,18 @@
         },
         {
             "range": [
+                "105C9"
+            ],
+            "property": "Expands_On_NFD"
+        },
+        {
+            "range": [
+                "105E4"
+            ],
+            "property": "Expands_On_NFD"
+        },
+        {
+            "range": [
                 "1109A"
             ],
             "property": "Expands_On_NFD"
@@ -16386,6 +16862,43 @@
         },
         {
             "range": [
+                "11383"
+            ],
+            "property": "Expands_On_NFD"
+        },
+        {
+            "range": [
+                "11385"
+            ],
+            "property": "Expands_On_NFD"
+        },
+        {
+            "range": [
+                "1138E"
+            ],
+            "property": "Expands_On_NFD"
+        },
+        {
+            "range": [
+                "11391"
+            ],
+            "property": "Expands_On_NFD"
+        },
+        {
+            "range": [
+                "113C5"
+            ],
+            "property": "Expands_On_NFD"
+        },
+        {
+            "range": [
+                "113C7",
+                "113C8"
+            ],
+            "property": "Expands_On_NFD"
+        },
+        {
+            "range": [
                 "114BB",
                 "114BC"
             ],
@@ -16407,6 +16920,20 @@
         {
             "range": [
                 "11938"
+            ],
+            "property": "Expands_On_NFD"
+        },
+        {
+            "range": [
+                "16121",
+                "16128"
+            ],
+            "property": "Expands_On_NFD"
+        },
+        {
+            "range": [
+                "16D68",
+                "16D6A"
             ],
             "property": "Expands_On_NFD"
         },
@@ -18517,6 +19044,18 @@
         },
         {
             "range": [
+                "105C9"
+            ],
+            "property": "Expands_On_NFKD"
+        },
+        {
+            "range": [
+                "105E4"
+            ],
+            "property": "Expands_On_NFKD"
+        },
+        {
+            "range": [
                 "1109A"
             ],
             "property": "Expands_On_NFKD"
@@ -18549,6 +19088,43 @@
         },
         {
             "range": [
+                "11383"
+            ],
+            "property": "Expands_On_NFKD"
+        },
+        {
+            "range": [
+                "11385"
+            ],
+            "property": "Expands_On_NFKD"
+        },
+        {
+            "range": [
+                "1138E"
+            ],
+            "property": "Expands_On_NFKD"
+        },
+        {
+            "range": [
+                "11391"
+            ],
+            "property": "Expands_On_NFKD"
+        },
+        {
+            "range": [
+                "113C5"
+            ],
+            "property": "Expands_On_NFKD"
+        },
+        {
+            "range": [
+                "113C7",
+                "113C8"
+            ],
+            "property": "Expands_On_NFKD"
+        },
+        {
+            "range": [
                 "114BB",
                 "114BC"
             ],
@@ -18570,6 +19146,20 @@
         {
             "range": [
                 "11938"
+            ],
+            "property": "Expands_On_NFKD"
+        },
+        {
+            "range": [
+                "16121",
+                "16128"
+            ],
+            "property": "Expands_On_NFKD"
+        },
+        {
+            "range": [
+                "16D68",
+                "16D6A"
             ],
             "property": "Expands_On_NFKD"
         },
@@ -23935,6 +24525,13 @@
             ],
             "property": "NFKC_CF",
             "normalized": "A64B"
+        },
+        {
+            "range": [
+                "1C89"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "1C8A"
         },
         {
             "range": [
@@ -36656,6 +37253,20 @@
         },
         {
             "range": [
+                "A7CB"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0264"
+        },
+        {
+            "range": [
+                "A7CC"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "A7CD"
+        },
+        {
+            "range": [
                 "A7D0"
             ],
             "property": "NFKC_CF",
@@ -36674,6 +37285,20 @@
             ],
             "property": "NFKC_CF",
             "normalized": "A7D9"
+        },
+        {
+            "range": [
+                "A7DA"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "A7DB"
+        },
+        {
+            "range": [
+                "A7DC"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "019B"
         },
         {
             "range": [
@@ -48301,6 +48926,160 @@
         },
         {
             "range": [
+                "10D50"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "10D70"
+        },
+        {
+            "range": [
+                "10D51"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "10D71"
+        },
+        {
+            "range": [
+                "10D52"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "10D72"
+        },
+        {
+            "range": [
+                "10D53"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "10D73"
+        },
+        {
+            "range": [
+                "10D54"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "10D74"
+        },
+        {
+            "range": [
+                "10D55"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "10D75"
+        },
+        {
+            "range": [
+                "10D56"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "10D76"
+        },
+        {
+            "range": [
+                "10D57"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "10D77"
+        },
+        {
+            "range": [
+                "10D58"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "10D78"
+        },
+        {
+            "range": [
+                "10D59"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "10D79"
+        },
+        {
+            "range": [
+                "10D5A"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "10D7A"
+        },
+        {
+            "range": [
+                "10D5B"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "10D7B"
+        },
+        {
+            "range": [
+                "10D5C"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "10D7C"
+        },
+        {
+            "range": [
+                "10D5D"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "10D7D"
+        },
+        {
+            "range": [
+                "10D5E"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "10D7E"
+        },
+        {
+            "range": [
+                "10D5F"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "10D7F"
+        },
+        {
+            "range": [
+                "10D60"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "10D80"
+        },
+        {
+            "range": [
+                "10D61"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "10D81"
+        },
+        {
+            "range": [
+                "10D62"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "10D82"
+        },
+        {
+            "range": [
+                "10D63"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "10D83"
+        },
+        {
+            "range": [
+                "10D64"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "10D84"
+        },
+        {
+            "range": [
+                "10D65"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "10D85"
+        },
+        {
+            "range": [
                 "118A0"
             ],
             "property": "NFKC_CF",
@@ -48753,6 +49532,258 @@
                 "1BCA3"
             ],
             "property": "NFKC_CF"
+        },
+        {
+            "range": [
+                "1CCD6"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0061"
+        },
+        {
+            "range": [
+                "1CCD7"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0062"
+        },
+        {
+            "range": [
+                "1CCD8"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0063"
+        },
+        {
+            "range": [
+                "1CCD9"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0064"
+        },
+        {
+            "range": [
+                "1CCDA"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0065"
+        },
+        {
+            "range": [
+                "1CCDB"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0066"
+        },
+        {
+            "range": [
+                "1CCDC"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0067"
+        },
+        {
+            "range": [
+                "1CCDD"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0068"
+        },
+        {
+            "range": [
+                "1CCDE"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0069"
+        },
+        {
+            "range": [
+                "1CCDF"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "006A"
+        },
+        {
+            "range": [
+                "1CCE0"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "006B"
+        },
+        {
+            "range": [
+                "1CCE1"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "006C"
+        },
+        {
+            "range": [
+                "1CCE2"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "006D"
+        },
+        {
+            "range": [
+                "1CCE3"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "006E"
+        },
+        {
+            "range": [
+                "1CCE4"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "006F"
+        },
+        {
+            "range": [
+                "1CCE5"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0070"
+        },
+        {
+            "range": [
+                "1CCE6"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0071"
+        },
+        {
+            "range": [
+                "1CCE7"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0072"
+        },
+        {
+            "range": [
+                "1CCE8"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0073"
+        },
+        {
+            "range": [
+                "1CCE9"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0074"
+        },
+        {
+            "range": [
+                "1CCEA"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0075"
+        },
+        {
+            "range": [
+                "1CCEB"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0076"
+        },
+        {
+            "range": [
+                "1CCEC"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0077"
+        },
+        {
+            "range": [
+                "1CCED"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0078"
+        },
+        {
+            "range": [
+                "1CCEE"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0079"
+        },
+        {
+            "range": [
+                "1CCEF"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "007A"
+        },
+        {
+            "range": [
+                "1CCF0"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0030"
+        },
+        {
+            "range": [
+                "1CCF1"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0031"
+        },
+        {
+            "range": [
+                "1CCF2"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0032"
+        },
+        {
+            "range": [
+                "1CCF3"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0033"
+        },
+        {
+            "range": [
+                "1CCF4"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0034"
+        },
+        {
+            "range": [
+                "1CCF5"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0035"
+        },
+        {
+            "range": [
+                "1CCF6"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0036"
+        },
+        {
+            "range": [
+                "1CCF7"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0037"
+        },
+        {
+            "range": [
+                "1CCF8"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0038"
+        },
+        {
+            "range": [
+                "1CCF9"
+            ],
+            "property": "NFKC_CF",
+            "normalized": "0039"
         },
         {
             "range": [
@@ -66691,6 +67722,13 @@
         },
         {
             "range": [
+                "1C89"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "1C8A"
+        },
+        {
+            "range": [
                 "1C90"
             ],
             "property": "NFKC_SCF",
@@ -79157,6 +80195,20 @@
         },
         {
             "range": [
+                "A7CB"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0264"
+        },
+        {
+            "range": [
+                "A7CC"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "A7CD"
+        },
+        {
+            "range": [
                 "A7D0"
             ],
             "property": "NFKC_SCF",
@@ -79175,6 +80227,20 @@
             ],
             "property": "NFKC_SCF",
             "normalized": "A7D9"
+        },
+        {
+            "range": [
+                "A7DA"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "A7DB"
+        },
+        {
+            "range": [
+                "A7DC"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "019B"
         },
         {
             "range": [
@@ -90802,6 +91868,160 @@
         },
         {
             "range": [
+                "10D50"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "10D70"
+        },
+        {
+            "range": [
+                "10D51"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "10D71"
+        },
+        {
+            "range": [
+                "10D52"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "10D72"
+        },
+        {
+            "range": [
+                "10D53"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "10D73"
+        },
+        {
+            "range": [
+                "10D54"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "10D74"
+        },
+        {
+            "range": [
+                "10D55"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "10D75"
+        },
+        {
+            "range": [
+                "10D56"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "10D76"
+        },
+        {
+            "range": [
+                "10D57"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "10D77"
+        },
+        {
+            "range": [
+                "10D58"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "10D78"
+        },
+        {
+            "range": [
+                "10D59"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "10D79"
+        },
+        {
+            "range": [
+                "10D5A"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "10D7A"
+        },
+        {
+            "range": [
+                "10D5B"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "10D7B"
+        },
+        {
+            "range": [
+                "10D5C"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "10D7C"
+        },
+        {
+            "range": [
+                "10D5D"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "10D7D"
+        },
+        {
+            "range": [
+                "10D5E"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "10D7E"
+        },
+        {
+            "range": [
+                "10D5F"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "10D7F"
+        },
+        {
+            "range": [
+                "10D60"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "10D80"
+        },
+        {
+            "range": [
+                "10D61"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "10D81"
+        },
+        {
+            "range": [
+                "10D62"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "10D82"
+        },
+        {
+            "range": [
+                "10D63"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "10D83"
+        },
+        {
+            "range": [
+                "10D64"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "10D84"
+        },
+        {
+            "range": [
+                "10D65"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "10D85"
+        },
+        {
+            "range": [
                 "118A0"
             ],
             "property": "NFKC_SCF",
@@ -91254,6 +92474,258 @@
                 "1BCA3"
             ],
             "property": "NFKC_SCF"
+        },
+        {
+            "range": [
+                "1CCD6"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0061"
+        },
+        {
+            "range": [
+                "1CCD7"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0062"
+        },
+        {
+            "range": [
+                "1CCD8"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0063"
+        },
+        {
+            "range": [
+                "1CCD9"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0064"
+        },
+        {
+            "range": [
+                "1CCDA"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0065"
+        },
+        {
+            "range": [
+                "1CCDB"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0066"
+        },
+        {
+            "range": [
+                "1CCDC"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0067"
+        },
+        {
+            "range": [
+                "1CCDD"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0068"
+        },
+        {
+            "range": [
+                "1CCDE"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0069"
+        },
+        {
+            "range": [
+                "1CCDF"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "006A"
+        },
+        {
+            "range": [
+                "1CCE0"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "006B"
+        },
+        {
+            "range": [
+                "1CCE1"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "006C"
+        },
+        {
+            "range": [
+                "1CCE2"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "006D"
+        },
+        {
+            "range": [
+                "1CCE3"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "006E"
+        },
+        {
+            "range": [
+                "1CCE4"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "006F"
+        },
+        {
+            "range": [
+                "1CCE5"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0070"
+        },
+        {
+            "range": [
+                "1CCE6"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0071"
+        },
+        {
+            "range": [
+                "1CCE7"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0072"
+        },
+        {
+            "range": [
+                "1CCE8"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0073"
+        },
+        {
+            "range": [
+                "1CCE9"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0074"
+        },
+        {
+            "range": [
+                "1CCEA"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0075"
+        },
+        {
+            "range": [
+                "1CCEB"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0076"
+        },
+        {
+            "range": [
+                "1CCEC"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0077"
+        },
+        {
+            "range": [
+                "1CCED"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0078"
+        },
+        {
+            "range": [
+                "1CCEE"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0079"
+        },
+        {
+            "range": [
+                "1CCEF"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "007A"
+        },
+        {
+            "range": [
+                "1CCF0"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0030"
+        },
+        {
+            "range": [
+                "1CCF1"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0031"
+        },
+        {
+            "range": [
+                "1CCF2"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0032"
+        },
+        {
+            "range": [
+                "1CCF3"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0033"
+        },
+        {
+            "range": [
+                "1CCF4"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0034"
+        },
+        {
+            "range": [
+                "1CCF5"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0035"
+        },
+        {
+            "range": [
+                "1CCF6"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0036"
+        },
+        {
+            "range": [
+                "1CCF7"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0037"
+        },
+        {
+            "range": [
+                "1CCF8"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0038"
+        },
+        {
+            "range": [
+                "1CCF9"
+            ],
+            "property": "NFKC_SCF",
+            "normalized": "0039"
         },
         {
             "range": [
@@ -106795,7 +108267,7 @@
         {
             "range": [
                 "1C80",
-                "1C88"
+                "1C89"
             ],
             "property": "Changes_When_NFKC_Casefolded"
         },
@@ -109459,6 +110931,13 @@
         },
         {
             "range": [
+                "A7CB",
+                "A7CC"
+            ],
+            "property": "Changes_When_NFKC_Casefolded"
+        },
+        {
+            "range": [
                 "A7D0"
             ],
             "property": "Changes_When_NFKC_Casefolded"
@@ -109472,6 +110951,18 @@
         {
             "range": [
                 "A7D8"
+            ],
+            "property": "Changes_When_NFKC_Casefolded"
+        },
+        {
+            "range": [
+                "A7DA"
+            ],
+            "property": "Changes_When_NFKC_Casefolded"
+        },
+        {
+            "range": [
+                "A7DC"
             ],
             "property": "Changes_When_NFKC_Casefolded"
         },
@@ -110378,6 +111869,13 @@
         },
         {
             "range": [
+                "10D50",
+                "10D65"
+            ],
+            "property": "Changes_When_NFKC_Casefolded"
+        },
+        {
+            "range": [
                 "118A0",
                 "118BF"
             ],
@@ -110394,6 +111892,20 @@
             "range": [
                 "1BCA0",
                 "1BCA3"
+            ],
+            "property": "Changes_When_NFKC_Casefolded"
+        },
+        {
+            "range": [
+                "1CCD6",
+                "1CCEF"
+            ],
+            "property": "Changes_When_NFKC_Casefolded"
+        },
+        {
+            "range": [
+                "1CCF0",
+                "1CCF9"
             ],
             "property": "Changes_When_NFKC_Casefolded"
         },
