@@ -1,6 +1,6 @@
 {
     "name": "ucd-full",
-    "version": "16.0.0",
+    "version": "16.0.1",
     "description": "Encoding the Unicode Character Database as json files",
     "license": "Apache-2.0",
     "keywords": [
@@ -26,6 +26,7 @@
     "files": [
         "README.md",
         "LICENSE",
+        "CHANGELOG.md",
         "**/*.json"
     ],
     "repository": {

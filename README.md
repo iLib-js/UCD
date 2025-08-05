@@ -11,7 +11,7 @@ In your `package.json`:
 ```
     devDependencies: {
         ...
-        "ucd-full": "^16.0.0",
+        "ucd-full": "^16.0.1",
         ...
     }
 ```
@@ -255,6 +255,7 @@ values mean, click on the link to read the original Unicode source txt files:
 | [json/PropertyValueAliases.json](https://www.unicode.org/Public/16.0.0/ucd/PropertyValueAliases.txt) | property, value1short, value1long, value2short, value2long |
 | [json/PropList.json](https://www.unicode.org/Public/16.0.0/ucd/PropList.txt) | range, property |
 | [json/ScriptExtensions.json](https://www.unicode.org/Public/16.0.0/ucd/ScriptExtensions.txt) | range, extension |
+| [json/ScriptInfo.json](https://www.unicode.org/iso15924/iso15924.txt) | code, number, englishName, frenchName, pva, unicodeVersion, date |
 | [json/Scripts.json](https://www.unicode.org/Public/16.0.0/ucd/Scripts.txt) | range, script |
 | [json/SpecialCasing.json](https://www.unicode.org/Public/16.0.0/ucd/SpecialCasing.txt) | codepoint, lowerSequence, titleSequence, upperSequence |
 | [json/StandardizedVariants.json](https://www.unicode.org/Public/16.0.0/ucd/StandardizedVariants.txt) | variationSequence, description |

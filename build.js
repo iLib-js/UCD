@@ -73,11 +73,18 @@ function processFiles(files, output, options) {
                 }
             });
             if (entry) {
-                entry.line = uf.getLine(j);
+                // Don't add line property for iso15924.txt
+                if (filename !== "iso15924.txt") {
+                    entry.line = uf.getLine(j);
+                }
                 result.push(entry);
             }
         }
         var outputFileName = path.join("json", dirname, base + ".json");
+        // Special case: rename iso15924.json to ScriptInfo.json
+        if (filename === "iso15924.txt") {
+            outputFileName = path.join("json", "ScriptInfo.json");
+        }
         output[outputFileName] = contents;
     }
 }
@@ -152,9 +159,13 @@ function postProcessSemiFiles(files) {
         var contents = files[filename];
         var property = path.basename(filename, ".json");
         var fields = contents[property];
-        for (var i = 0; i < fields.length; i++) {
-            var entry = fields[i];
-            entry.line = undefined;
+        if (fields && Array.isArray(fields)) {
+            for (var i = 0; i < fields.length; i++) {
+                var entry = fields[i];
+                if (entry && typeof entry === 'object') {
+                    delete entry.line;
+                }
+            }
         }
     }
 
