@@ -6,6 +6,15 @@
             "type",
             "joiningGroup"
         ],
+        "iso15924.txt": [
+            "code",
+            "number",
+            "englishName",
+            "frenchName",
+            "pva",
+            "unicodeVersion",
+            "date"
+        ],
         "auxiliary/GraphemeBreakProperty.txt": [
             "range",
             "property"
