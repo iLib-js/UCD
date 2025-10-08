@@ -82,13 +82,14 @@
         },
         {
             "range": [
-                "0294"
+                "0294",
+                "0295"
             ],
             "class": "L"
         },
         {
             "range": [
-                "0295",
+                "0296",
                 "02AF"
             ],
             "class": "L"
@@ -985,6 +986,7 @@
         },
         {
             "range": [
+                "0C5C",
                 "0C5D"
             ],
             "class": "L"
@@ -1123,7 +1125,7 @@
         },
         {
             "range": [
-                "0CDD",
+                "0CDC",
                 "0CDE"
             ],
             "class": "L"
@@ -3604,33 +3606,13 @@
         {
             "range": [
                 "A790",
-                "A7CD"
-            ],
-            "class": "L"
-        },
-        {
-            "range": [
-                "A7D0",
-                "A7D1"
-            ],
-            "class": "L"
-        },
-        {
-            "range": [
-                "A7D3"
-            ],
-            "class": "L"
-        },
-        {
-            "range": [
-                "A7D5",
                 "A7DC"
             ],
             "class": "L"
         },
         {
             "range": [
-                "A7F2",
+                "A7F1",
                 "A7F4"
             ],
             "class": "L"
@@ -5948,6 +5930,24 @@
         },
         {
             "range": [
+                "11B61"
+            ],
+            "class": "L"
+        },
+        {
+            "range": [
+                "11B65"
+            ],
+            "class": "L"
+        },
+        {
+            "range": [
+                "11B67"
+            ],
+            "class": "L"
+        },
+        {
+            "range": [
                 "11BC0",
                 "11BE0"
             ],
@@ -6142,6 +6142,33 @@
             "range": [
                 "11DA0",
                 "11DA9"
+            ],
+            "class": "L"
+        },
+        {
+            "range": [
+                "11DB0",
+                "11DD8"
+            ],
+            "class": "L"
+        },
+        {
+            "range": [
+                "11DD9"
+            ],
+            "class": "L"
+        },
+        {
+            "range": [
+                "11DDA",
+                "11DDB"
+            ],
+            "class": "L"
+        },
+        {
+            "range": [
+                "11DE0",
+                "11DE9"
             ],
             "class": "L"
         },
@@ -6524,6 +6551,20 @@
         },
         {
             "range": [
+                "16EA0",
+                "16EB8"
+            ],
+            "class": "L"
+        },
+        {
+            "range": [
+                "16EBB",
+                "16ED3"
+            ],
+            "class": "L"
+        },
+        {
+            "range": [
                 "16F00",
                 "16F4A"
             ],
@@ -6571,14 +6612,21 @@
         },
         {
             "range": [
-                "17000",
-                "187F7"
+                "16FF2",
+                "16FF3"
             ],
             "class": "L"
         },
         {
             "range": [
-                "18800",
+                "16FF4",
+                "16FF6"
+            ],
+            "class": "L"
+        },
+        {
+            "range": [
+                "17000",
                 "18CD5"
             ],
             "class": "L"
@@ -6586,7 +6634,14 @@
         {
             "range": [
                 "18CFF",
-                "18D08"
+                "18D1E"
+            ],
+            "class": "L"
+        },
+        {
+            "range": [
+                "18D80",
+                "18DF2"
             ],
             "class": "L"
         },
@@ -7174,6 +7229,53 @@
         },
         {
             "range": [
+                "1E6C0",
+                "1E6DE"
+            ],
+            "class": "L"
+        },
+        {
+            "range": [
+                "1E6E0",
+                "1E6E2"
+            ],
+            "class": "L"
+        },
+        {
+            "range": [
+                "1E6E4",
+                "1E6E5"
+            ],
+            "class": "L"
+        },
+        {
+            "range": [
+                "1E6E7",
+                "1E6ED"
+            ],
+            "class": "L"
+        },
+        {
+            "range": [
+                "1E6F0",
+                "1E6F4"
+            ],
+            "class": "L"
+        },
+        {
+            "range": [
+                "1E6FE"
+            ],
+            "class": "L"
+        },
+        {
+            "range": [
+                "1E6FF"
+            ],
+            "class": "L"
+        },
+        {
+            "range": [
                 "1E7E0",
                 "1E7E6"
             ],
@@ -7259,13 +7361,6 @@
         {
             "range": [
                 "2A700",
-                "2B739"
-            ],
-            "class": "L"
-        },
-        {
-            "range": [
-                "2B740",
                 "2B81D"
             ],
             "class": "L"
@@ -7273,7 +7368,7 @@
         {
             "range": [
                 "2B820",
-                "2CEA1"
+                "2CEAD"
             ],
             "class": "L"
         },
@@ -7308,7 +7403,7 @@
         {
             "range": [
                 "31350",
-                "323AF"
+                "33479"
             ],
             "class": "L"
         },
@@ -7643,6 +7738,13 @@
         {
             "range": [
                 "1093F"
+            ],
+            "class": "R"
+        },
+        {
+            "range": [
+                "10940",
+                "10959"
             ],
             "class": "R"
         },
@@ -8297,7 +8399,7 @@
         {
             "range": [
                 "20A0",
-                "20C0"
+                "20C1"
             ],
             "class": "ET"
         },
@@ -10210,13 +10312,6 @@
         {
             "range": [
                 "2B76",
-                "2B95"
-            ],
-            "class": "ON"
-        },
-        {
-            "range": [
-                "2B97",
                 "2BFF"
             ],
             "class": "ON"
@@ -10943,6 +11038,13 @@
         },
         {
             "range": [
+                "FBC3",
+                "FBD2"
+            ],
+            "class": "ON"
+        },
+        {
+            "range": [
                 "FD3E"
             ],
             "class": "ON"
@@ -10962,6 +11064,14 @@
         },
         {
             "range": [
+                "FD90",
+                "FD91"
+            ],
+            "class": "ON"
+        },
+        {
+            "range": [
+                "FDC8",
                 "FDCF"
             ],
             "class": "ON"
@@ -11509,6 +11619,19 @@
         },
         {
             "range": [
+                "10ED0"
+            ],
+            "class": "ON"
+        },
+        {
+            "range": [
+                "10ED1",
+                "10ED8"
+            ],
+            "class": "ON"
+        },
+        {
+            "range": [
                 "11052",
                 "11065"
             ],
@@ -11550,8 +11673,35 @@
         },
         {
             "range": [
+                "1CCFA",
+                "1CCFC"
+            ],
+            "class": "ON"
+        },
+        {
+            "range": [
                 "1CD00",
                 "1CEB3"
+            ],
+            "class": "ON"
+        },
+        {
+            "range": [
+                "1CEBA",
+                "1CED0"
+            ],
+            "class": "ON"
+        },
+        {
+            "range": [
+                "1CEE0",
+                "1CEEF"
+            ],
+            "class": "ON"
+        },
+        {
+            "range": [
+                "1CEF0"
             ],
             "class": "ON"
         },
@@ -11748,7 +11898,7 @@
         {
             "range": [
                 "1F400",
-                "1F6D7"
+                "1F6D8"
             ],
             "class": "ON"
         },
@@ -11769,13 +11919,6 @@
         {
             "range": [
                 "1F700",
-                "1F776"
-            ],
-            "class": "ON"
-        },
-        {
-            "range": [
-                "1F77B",
                 "1F7D9"
             ],
             "class": "ON"
@@ -11844,8 +11987,15 @@
         },
         {
             "range": [
+                "1F8D0",
+                "1F8D8"
+            ],
+            "class": "ON"
+        },
+        {
+            "range": [
                 "1F900",
-                "1FA53"
+                "1FA57"
             ],
             "class": "ON"
         },
@@ -11866,20 +12016,26 @@
         {
             "range": [
                 "1FA80",
-                "1FA89"
+                "1FA8A"
             ],
             "class": "ON"
         },
         {
             "range": [
-                "1FA8F",
+                "1FA8E",
                 "1FAC6"
             ],
             "class": "ON"
         },
         {
             "range": [
-                "1FACE",
+                "1FAC8"
+            ],
+            "class": "ON"
+        },
+        {
+            "range": [
+                "1FACD",
                 "1FADC"
             ],
             "class": "ON"
@@ -11887,13 +12043,13 @@
         {
             "range": [
                 "1FADF",
-                "1FAE9"
+                "1FAEA"
             ],
             "class": "ON"
         },
         {
             "range": [
-                "1FAF0",
+                "1FAEF",
                 "1FAF8"
             ],
             "class": "ON"
@@ -11909,6 +12065,12 @@
             "range": [
                 "1FB94",
                 "1FBEF"
+            ],
+            "class": "ON"
+        },
+        {
+            "range": [
+                "1FBFA"
             ],
             "class": "ON"
         },
@@ -13110,7 +13272,14 @@
         {
             "range": [
                 "1ABF",
-                "1ACE"
+                "1ADD"
+            ],
+            "class": "NSM"
+        },
+        {
+            "range": [
+                "1AE0",
+                "1AEB"
             ],
             "class": "NSM"
         },
@@ -13674,7 +13843,7 @@
         },
         {
             "range": [
-                "10EFC",
+                "10EFA",
                 "10EFF"
             ],
             "class": "NSM"
@@ -14180,6 +14349,25 @@
         },
         {
             "range": [
+                "11B60"
+            ],
+            "class": "NSM"
+        },
+        {
+            "range": [
+                "11B62",
+                "11B64"
+            ],
+            "class": "NSM"
+        },
+        {
+            "range": [
+                "11B66"
+            ],
+            "class": "NSM"
+        },
+        {
+            "range": [
                 "11C30",
                 "11C36"
             ],
@@ -14544,6 +14732,31 @@
         },
         {
             "range": [
+                "1E6E3"
+            ],
+            "class": "NSM"
+        },
+        {
+            "range": [
+                "1E6E6"
+            ],
+            "class": "NSM"
+        },
+        {
+            "range": [
+                "1E6EE",
+                "1E6EF"
+            ],
+            "class": "NSM"
+        },
+        {
+            "range": [
+                "1E6F5"
+            ],
+            "class": "NSM"
+        },
+        {
+            "range": [
                 "1E8D0",
                 "1E8D6"
             ],
@@ -14748,7 +14961,7 @@
         {
             "range": [
                 "0889",
-                "088E"
+                "088F"
             ],
             "class": "AL"
         },
@@ -14838,6 +15051,19 @@
             "range": [
                 "10EC2",
                 "10EC4"
+            ],
+            "class": "AL"
+        },
+        {
+            "range": [
+                "10EC5"
+            ],
+            "class": "AL"
+        },
+        {
+            "range": [
+                "10EC6",
+                "10EC7"
             ],
             "class": "AL"
         },

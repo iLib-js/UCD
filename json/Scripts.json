@@ -829,7 +829,7 @@
         {
             "range": [
                 "20A0",
-                "20C0"
+                "20C1"
             ],
             "script": "Common"
         },
@@ -1806,13 +1806,6 @@
         {
             "range": [
                 "2B76",
-                "2B95"
-            ],
-            "script": "Common"
-        },
-        {
-            "range": [
-                "2B97",
                 "2BFF"
             ],
             "script": "Common"
@@ -3191,8 +3184,35 @@
         },
         {
             "range": [
+                "1CCFA",
+                "1CCFC"
+            ],
+            "script": "Common"
+        },
+        {
+            "range": [
                 "1CD00",
                 "1CEB3"
+            ],
+            "script": "Common"
+        },
+        {
+            "range": [
+                "1CEBA",
+                "1CED0"
+            ],
+            "script": "Common"
+        },
+        {
+            "range": [
+                "1CEE0",
+                "1CEEF"
+            ],
+            "script": "Common"
+        },
+        {
+            "range": [
+                "1CEF0"
             ],
             "script": "Common"
         },
@@ -3743,7 +3763,7 @@
         {
             "range": [
                 "1F400",
-                "1F6D7"
+                "1F6D8"
             ],
             "script": "Common"
         },
@@ -3764,13 +3784,6 @@
         {
             "range": [
                 "1F700",
-                "1F776"
-            ],
-            "script": "Common"
-        },
-        {
-            "range": [
-                "1F77B",
                 "1F7D9"
             ],
             "script": "Common"
@@ -3839,8 +3852,15 @@
         },
         {
             "range": [
+                "1F8D0",
+                "1F8D8"
+            ],
+            "script": "Common"
+        },
+        {
+            "range": [
                 "1F900",
-                "1FA53"
+                "1FA57"
             ],
             "script": "Common"
         },
@@ -3861,20 +3881,26 @@
         {
             "range": [
                 "1FA80",
-                "1FA89"
+                "1FA8A"
             ],
             "script": "Common"
         },
         {
             "range": [
-                "1FA8F",
+                "1FA8E",
                 "1FAC6"
             ],
             "script": "Common"
         },
         {
             "range": [
-                "1FACE",
+                "1FAC8"
+            ],
+            "script": "Common"
+        },
+        {
+            "range": [
+                "1FACD",
                 "1FADC"
             ],
             "script": "Common"
@@ -3882,13 +3908,13 @@
         {
             "range": [
                 "1FADF",
-                "1FAE9"
+                "1FAEA"
             ],
             "script": "Common"
         },
         {
             "range": [
-                "1FAF0",
+                "1FAEF",
                 "1FAF8"
             ],
             "script": "Common"
@@ -3911,6 +3937,12 @@
             "range": [
                 "1FBF0",
                 "1FBF9"
+            ],
+            "script": "Common"
+        },
+        {
+            "range": [
+                "1FBFA"
             ],
             "script": "Common"
         },
@@ -4003,13 +4035,14 @@
         },
         {
             "range": [
-                "0294"
+                "0294",
+                "0295"
             ],
             "script": "Latin"
         },
         {
             "range": [
-                "0295",
+                "0296",
                 "02AF"
             ],
             "script": "Latin"
@@ -4193,33 +4226,13 @@
         {
             "range": [
                 "A790",
-                "A7CD"
-            ],
-            "script": "Latin"
-        },
-        {
-            "range": [
-                "A7D0",
-                "A7D1"
-            ],
-            "script": "Latin"
-        },
-        {
-            "range": [
-                "A7D3"
-            ],
-            "script": "Latin"
-        },
-        {
-            "range": [
-                "A7D5",
                 "A7DC"
             ],
             "script": "Latin"
         },
         {
             "range": [
-                "A7F2",
+                "A7F1",
                 "A7F4"
             ],
             "script": "Latin"
@@ -5314,7 +5327,7 @@
         {
             "range": [
                 "0889",
-                "088E"
+                "088F"
             ],
             "script": "Arabic"
         },
@@ -5375,6 +5388,13 @@
         },
         {
             "range": [
+                "FBC3",
+                "FBD2"
+            ],
+            "script": "Arabic"
+        },
+        {
+            "range": [
                 "FBD3",
                 "FD3D"
             ],
@@ -5396,6 +5416,13 @@
         },
         {
             "range": [
+                "FD90",
+                "FD91"
+            ],
+            "script": "Arabic"
+        },
+        {
+            "range": [
                 "FD92",
                 "FDC7"
             ],
@@ -5403,6 +5430,7 @@
         },
         {
             "range": [
+                "FDC8",
                 "FDCF"
             ],
             "script": "Arabic"
@@ -5457,7 +5485,33 @@
         },
         {
             "range": [
-                "10EFC",
+                "10EC5"
+            ],
+            "script": "Arabic"
+        },
+        {
+            "range": [
+                "10EC6",
+                "10EC7"
+            ],
+            "script": "Arabic"
+        },
+        {
+            "range": [
+                "10ED0"
+            ],
+            "script": "Arabic"
+        },
+        {
+            "range": [
+                "10ED1",
+                "10ED8"
+            ],
+            "script": "Arabic"
+        },
+        {
+            "range": [
+                "10EFA",
                 "10EFF"
             ],
             "script": "Arabic"
@@ -6913,6 +6967,7 @@
         },
         {
             "range": [
+                "0C5C",
                 "0C5D"
             ],
             "script": "Telugu"
@@ -7084,7 +7139,7 @@
         },
         {
             "range": [
-                "0CDD",
+                "0CDC",
                 "0CDE"
             ],
             "script": "Kannada"
@@ -9186,6 +9241,20 @@
         },
         {
             "range": [
+                "16FF2",
+                "16FF3"
+            ],
+            "script": "Han"
+        },
+        {
+            "range": [
+                "16FF4",
+                "16FF6"
+            ],
+            "script": "Han"
+        },
+        {
+            "range": [
                 "20000",
                 "2A6DF"
             ],
@@ -9194,13 +9263,6 @@
         {
             "range": [
                 "2A700",
-                "2B739"
-            ],
-            "script": "Han"
-        },
-        {
-            "range": [
-                "2B740",
                 "2B81D"
             ],
             "script": "Han"
@@ -9208,7 +9270,7 @@
         {
             "range": [
                 "2B820",
-                "2CEA1"
+                "2CEAD"
             ],
             "script": "Han"
         },
@@ -9243,7 +9305,7 @@
         {
             "range": [
                 "31350",
-                "323AF"
+                "33479"
             ],
             "script": "Han"
         },
@@ -9378,7 +9440,14 @@
         {
             "range": [
                 "1ABF",
-                "1ACE"
+                "1ADD"
+            ],
+            "script": "Inherited"
+        },
+        {
+            "range": [
+                "1AE0",
+                "1AEB"
             ],
             "script": "Inherited"
         },
@@ -12104,6 +12173,43 @@
         },
         {
             "range": [
+                "11B60"
+            ],
+            "script": "Sharada"
+        },
+        {
+            "range": [
+                "11B61"
+            ],
+            "script": "Sharada"
+        },
+        {
+            "range": [
+                "11B62",
+                "11B64"
+            ],
+            "script": "Sharada"
+        },
+        {
+            "range": [
+                "11B65"
+            ],
+            "script": "Sharada"
+        },
+        {
+            "range": [
+                "11B66"
+            ],
+            "script": "Sharada"
+        },
+        {
+            "range": [
+                "11B67"
+            ],
+            "script": "Sharada"
+        },
+        {
+            "range": [
                 "110D0",
                 "110E8"
             ],
@@ -13615,13 +13721,6 @@
         {
             "range": [
                 "17000",
-                "187F7"
-            ],
-            "script": "Tangut"
-        },
-        {
-            "range": [
-                "18800",
                 "18AFF"
             ],
             "script": "Tangut"
@@ -13629,7 +13728,14 @@
         {
             "range": [
                 "18D00",
-                "18D08"
+                "18D1E"
+            ],
+            "script": "Tangut"
+        },
+        {
+            "range": [
+                "18D80",
+                "18DF2"
             ],
             "script": "Tangut"
         },
@@ -14955,6 +15061,126 @@
                 "113E2"
             ],
             "script": "Tulu_Tigalari"
+        },
+        {
+            "range": [
+                "10940",
+                "10959"
+            ],
+            "script": "Sidetic"
+        },
+        {
+            "range": [
+                "1E6C0",
+                "1E6DE"
+            ],
+            "script": "Tai_Yo"
+        },
+        {
+            "range": [
+                "1E6E0",
+                "1E6E2"
+            ],
+            "script": "Tai_Yo"
+        },
+        {
+            "range": [
+                "1E6E3"
+            ],
+            "script": "Tai_Yo"
+        },
+        {
+            "range": [
+                "1E6E4",
+                "1E6E5"
+            ],
+            "script": "Tai_Yo"
+        },
+        {
+            "range": [
+                "1E6E6"
+            ],
+            "script": "Tai_Yo"
+        },
+        {
+            "range": [
+                "1E6E7",
+                "1E6ED"
+            ],
+            "script": "Tai_Yo"
+        },
+        {
+            "range": [
+                "1E6EE",
+                "1E6EF"
+            ],
+            "script": "Tai_Yo"
+        },
+        {
+            "range": [
+                "1E6F0",
+                "1E6F4"
+            ],
+            "script": "Tai_Yo"
+        },
+        {
+            "range": [
+                "1E6F5"
+            ],
+            "script": "Tai_Yo"
+        },
+        {
+            "range": [
+                "1E6FE"
+            ],
+            "script": "Tai_Yo"
+        },
+        {
+            "range": [
+                "1E6FF"
+            ],
+            "script": "Tai_Yo"
+        },
+        {
+            "range": [
+                "11DB0",
+                "11DD8"
+            ],
+            "script": "Tolong_Siki"
+        },
+        {
+            "range": [
+                "11DD9"
+            ],
+            "script": "Tolong_Siki"
+        },
+        {
+            "range": [
+                "11DDA",
+                "11DDB"
+            ],
+            "script": "Tolong_Siki"
+        },
+        {
+            "range": [
+                "11DE0",
+                "11DE9"
+            ],
+            "script": "Tolong_Siki"
+        },
+        {
+            "range": [
+                "16EA0",
+                "16EB8"
+            ],
+            "script": "Beria_Erfe"
+        },
+        {
+            "range": [
+                "16EBB",
+                "16ED3"
+            ],
+            "script": "Beria_Erfe"
         }
     ]
 }

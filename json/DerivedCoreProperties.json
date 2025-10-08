@@ -1062,6 +1062,12 @@
         },
         {
             "range": [
+                "1CEF0"
+            ],
+            "property": "Math"
+        },
+        {
+            "range": [
                 "1D400",
                 "1D454"
             ],
@@ -1558,6 +1564,13 @@
         },
         {
             "range": [
+                "1F8D0",
+                "1F8D8"
+            ],
+            "property": "Math"
+        },
+        {
+            "range": [
                 "0041",
                 "005A"
             ],
@@ -1638,13 +1651,14 @@
         },
         {
             "range": [
-                "0294"
+                "0294",
+                "0295"
             ],
             "property": "Alphabetic"
         },
         {
             "range": [
-                "0295",
+                "0296",
                 "02AF"
             ],
             "property": "Alphabetic"
@@ -2112,7 +2126,7 @@
         {
             "range": [
                 "0889",
-                "088E"
+                "088F"
             ],
             "property": "Alphabetic"
         },
@@ -3002,6 +3016,7 @@
         },
         {
             "range": [
+                "0C5C",
                 "0C5D"
             ],
             "property": "Alphabetic"
@@ -3134,7 +3149,7 @@
         },
         {
             "range": [
-                "0CDD",
+                "0CDC",
                 "0CDE"
             ],
             "property": "Alphabetic"
@@ -5394,33 +5409,13 @@
         {
             "range": [
                 "A790",
-                "A7CD"
-            ],
-            "property": "Alphabetic"
-        },
-        {
-            "range": [
-                "A7D0",
-                "A7D1"
-            ],
-            "property": "Alphabetic"
-        },
-        {
-            "range": [
-                "A7D3"
-            ],
-            "property": "Alphabetic"
-        },
-        {
-            "range": [
-                "A7D5",
                 "A7DC"
             ],
             "property": "Alphabetic"
         },
         {
             "range": [
-                "A7F2",
+                "A7F1",
                 "A7F4"
             ],
             "property": "Alphabetic"
@@ -6660,6 +6655,13 @@
         },
         {
             "range": [
+                "10940",
+                "10959"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
                 "10980",
                 "109B7"
             ],
@@ -6886,6 +6888,20 @@
         },
         {
             "range": [
+                "10EC5"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "10EC6",
+                "10EC7"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "10EFA",
                 "10EFC"
             ],
             "property": "Alphabetic"
@@ -8120,6 +8136,43 @@
         },
         {
             "range": [
+                "11B60"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "11B61"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "11B62",
+                "11B64"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "11B65"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "11B66"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "11B67"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
                 "11BC0",
                 "11BE0"
             ],
@@ -8347,6 +8400,26 @@
         {
             "range": [
                 "11D98"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "11DB0",
+                "11DD8"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "11DD9"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "11DDA",
+                "11DDB"
             ],
             "property": "Alphabetic"
         },
@@ -8607,6 +8680,20 @@
         },
         {
             "range": [
+                "16EA0",
+                "16EB8"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "16EBB",
+                "16ED3"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
                 "16F00",
                 "16F4A"
             ],
@@ -8667,14 +8754,21 @@
         },
         {
             "range": [
-                "17000",
-                "187F7"
+                "16FF2",
+                "16FF3"
             ],
             "property": "Alphabetic"
         },
         {
             "range": [
-                "18800",
+                "16FF4",
+                "16FF6"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "17000",
                 "18CD5"
             ],
             "property": "Alphabetic"
@@ -8682,7 +8776,14 @@
         {
             "range": [
                 "18CFF",
-                "18D08"
+                "18D1E"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "18D80",
+                "18DF2"
             ],
             "property": "Alphabetic"
         },
@@ -9125,6 +9226,78 @@
         },
         {
             "range": [
+                "1E6C0",
+                "1E6DE"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "1E6E0",
+                "1E6E2"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "1E6E3"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "1E6E4",
+                "1E6E5"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "1E6E6"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "1E6E7",
+                "1E6ED"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "1E6EE",
+                "1E6EF"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "1E6F0",
+                "1E6F4"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "1E6F5"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "1E6FE"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
+                "1E6FF"
+            ],
+            "property": "Alphabetic"
+        },
+        {
+            "range": [
                 "1E7E0",
                 "1E7E6"
             ],
@@ -9423,13 +9596,6 @@
         {
             "range": [
                 "2A700",
-                "2B739"
-            ],
-            "property": "Alphabetic"
-        },
-        {
-            "range": [
-                "2B740",
                 "2B81D"
             ],
             "property": "Alphabetic"
@@ -9437,7 +9603,7 @@
         {
             "range": [
                 "2B820",
-                "2CEA1"
+                "2CEAD"
             ],
             "property": "Alphabetic"
         },
@@ -9472,7 +9638,7 @@
         {
             "range": [
                 "31350",
-                "323AF"
+                "33479"
             ],
             "property": "Alphabetic"
         },
@@ -10376,7 +10542,7 @@
         },
         {
             "range": [
-                "0295",
+                "0296",
                 "02AF"
             ],
             "property": "Lowercase"
@@ -13304,6 +13470,12 @@
         },
         {
             "range": [
+                "A7CF"
+            ],
+            "property": "Lowercase"
+        },
+        {
+            "range": [
                 "A7D1"
             ],
             "property": "Lowercase"
@@ -13340,7 +13512,7 @@
         },
         {
             "range": [
-                "A7F2",
+                "A7F1",
                 "A7F4"
             ],
             "property": "Lowercase"
@@ -13513,6 +13685,13 @@
             "range": [
                 "16E60",
                 "16E7F"
+            ],
+            "property": "Lowercase"
+        },
+        {
+            "range": [
+                "16EBB",
+                "16ED3"
             ],
             "property": "Lowercase"
         },
@@ -17432,7 +17611,25 @@
         },
         {
             "range": [
+                "A7CE"
+            ],
+            "property": "Uppercase"
+        },
+        {
+            "range": [
                 "A7D0"
+            ],
+            "property": "Uppercase"
+        },
+        {
+            "range": [
+                "A7D2"
+            ],
+            "property": "Uppercase"
+        },
+        {
+            "range": [
+                "A7D4"
             ],
             "property": "Uppercase"
         },
@@ -17540,6 +17737,13 @@
             "range": [
                 "16E40",
                 "16E5F"
+            ],
+            "property": "Uppercase"
+        },
+        {
+            "range": [
+                "16EA0",
+                "16EB8"
             ],
             "property": "Uppercase"
         },
@@ -17853,7 +18057,7 @@
         },
         {
             "range": [
-                "0295",
+                "0296",
                 "02AF"
             ],
             "property": "Cased"
@@ -18458,33 +18662,13 @@
         {
             "range": [
                 "A790",
-                "A7CD"
-            ],
-            "property": "Cased"
-        },
-        {
-            "range": [
-                "A7D0",
-                "A7D1"
-            ],
-            "property": "Cased"
-        },
-        {
-            "range": [
-                "A7D3"
-            ],
-            "property": "Cased"
-        },
-        {
-            "range": [
-                "A7D5",
                 "A7DC"
             ],
             "property": "Cased"
         },
         {
             "range": [
-                "A7F2",
+                "A7F1",
                 "A7F4"
             ],
             "property": "Cased"
@@ -18714,6 +18898,20 @@
             "range": [
                 "16E40",
                 "16E7F"
+            ],
+            "property": "Cased"
+        },
+        {
+            "range": [
+                "16EA0",
+                "16EB8"
+            ],
+            "property": "Cased"
+        },
+        {
+            "range": [
+                "16EBB",
+                "16ED3"
             ],
             "property": "Cased"
         },
@@ -20260,7 +20458,14 @@
         {
             "range": [
                 "1ABF",
-                "1ACE"
+                "1ADD"
+            ],
+            "property": "Case_Ignorable"
+        },
+        {
+            "range": [
+                "1AE0",
+                "1AEB"
             ],
             "property": "Case_Ignorable"
         },
@@ -20792,7 +20997,7 @@
         },
         {
             "range": [
-                "A7F2",
+                "A7F1",
                 "A7F4"
             ],
             "property": "Case_Ignorable"
@@ -21285,7 +21490,13 @@
         },
         {
             "range": [
-                "10EFC",
+                "10EC5"
+            ],
+            "property": "Case_Ignorable"
+        },
+        {
+            "range": [
+                "10EFA",
                 "10EFF"
             ],
             "property": "Case_Ignorable"
@@ -21796,6 +22007,25 @@
         },
         {
             "range": [
+                "11B60"
+            ],
+            "property": "Case_Ignorable"
+        },
+        {
+            "range": [
+                "11B62",
+                "11B64"
+            ],
+            "property": "Case_Ignorable"
+        },
+        {
+            "range": [
+                "11B66"
+            ],
+            "property": "Case_Ignorable"
+        },
+        {
+            "range": [
                 "11C30",
                 "11C36"
             ],
@@ -21891,6 +22121,12 @@
         {
             "range": [
                 "11D97"
+            ],
+            "property": "Case_Ignorable"
+        },
+        {
+            "range": [
+                "11DD9"
             ],
             "property": "Case_Ignorable"
         },
@@ -22038,6 +22274,13 @@
         {
             "range": [
                 "16FE4"
+            ],
+            "property": "Case_Ignorable"
+        },
+        {
+            "range": [
+                "16FF2",
+                "16FF3"
             ],
             "property": "Case_Ignorable"
         },
@@ -22264,6 +22507,37 @@
             "range": [
                 "1E5EE",
                 "1E5EF"
+            ],
+            "property": "Case_Ignorable"
+        },
+        {
+            "range": [
+                "1E6E3"
+            ],
+            "property": "Case_Ignorable"
+        },
+        {
+            "range": [
+                "1E6E6"
+            ],
+            "property": "Case_Ignorable"
+        },
+        {
+            "range": [
+                "1E6EE",
+                "1E6EF"
+            ],
+            "property": "Case_Ignorable"
+        },
+        {
+            "range": [
+                "1E6F5"
+            ],
+            "property": "Case_Ignorable"
+        },
+        {
+            "range": [
+                "1E6FF"
             ],
             "property": "Case_Ignorable"
         },
@@ -25954,7 +26228,25 @@
         },
         {
             "range": [
+                "A7CE"
+            ],
+            "property": "Changes_When_Lowercased"
+        },
+        {
+            "range": [
                 "A7D0"
+            ],
+            "property": "Changes_When_Lowercased"
+        },
+        {
+            "range": [
+                "A7D2"
+            ],
+            "property": "Changes_When_Lowercased"
+        },
+        {
+            "range": [
+                "A7D4"
             ],
             "property": "Changes_When_Lowercased"
         },
@@ -26062,6 +26354,13 @@
             "range": [
                 "16E40",
                 "16E5F"
+            ],
+            "property": "Changes_When_Lowercased"
+        },
+        {
+            "range": [
+                "16EA0",
+                "16EB8"
             ],
             "property": "Changes_When_Lowercased"
         },
@@ -29787,7 +30086,25 @@
         },
         {
             "range": [
+                "A7CF"
+            ],
+            "property": "Changes_When_Uppercased"
+        },
+        {
+            "range": [
                 "A7D1"
+            ],
+            "property": "Changes_When_Uppercased"
+        },
+        {
+            "range": [
+                "A7D3"
+            ],
+            "property": "Changes_When_Uppercased"
+        },
+        {
+            "range": [
+                "A7D5"
             ],
             "property": "Changes_When_Uppercased"
         },
@@ -29916,6 +30233,13 @@
             "range": [
                 "16E60",
                 "16E7F"
+            ],
+            "property": "Changes_When_Uppercased"
+        },
+        {
+            "range": [
+                "16EBB",
+                "16ED3"
             ],
             "property": "Changes_When_Uppercased"
         },
@@ -33634,7 +33958,25 @@
         },
         {
             "range": [
+                "A7CF"
+            ],
+            "property": "Changes_When_Titlecased"
+        },
+        {
+            "range": [
                 "A7D1"
+            ],
+            "property": "Changes_When_Titlecased"
+        },
+        {
+            "range": [
+                "A7D3"
+            ],
+            "property": "Changes_When_Titlecased"
+        },
+        {
+            "range": [
+                "A7D5"
             ],
             "property": "Changes_When_Titlecased"
         },
@@ -33763,6 +34105,13 @@
             "range": [
                 "16E60",
                 "16E7F"
+            ],
+            "property": "Changes_When_Titlecased"
+        },
+        {
+            "range": [
+                "16EBB",
+                "16ED3"
             ],
             "property": "Changes_When_Titlecased"
         },
@@ -37475,7 +37824,25 @@
         },
         {
             "range": [
+                "A7CE"
+            ],
+            "property": "Changes_When_Casefolded"
+        },
+        {
+            "range": [
                 "A7D0"
+            ],
+            "property": "Changes_When_Casefolded"
+        },
+        {
+            "range": [
+                "A7D2"
+            ],
+            "property": "Changes_When_Casefolded"
+        },
+        {
+            "range": [
+                "A7D4"
             ],
             "property": "Changes_When_Casefolded"
         },
@@ -37604,6 +37971,13 @@
             "range": [
                 "16E40",
                 "16E5F"
+            ],
+            "property": "Changes_When_Casefolded"
+        },
+        {
+            "range": [
+                "16EA0",
+                "16EB8"
             ],
             "property": "Changes_When_Casefolded"
         },
@@ -38311,20 +38685,6 @@
         {
             "range": [
                 "A7B0",
-                "A7CD"
-            ],
-            "property": "Changes_When_Casemapped"
-        },
-        {
-            "range": [
-                "A7D0",
-                "A7D1"
-            ],
-            "property": "Changes_When_Casemapped"
-        },
-        {
-            "range": [
-                "A7D6",
                 "A7DC"
             ],
             "property": "Changes_When_Casemapped"
@@ -38498,6 +38858,20 @@
         },
         {
             "range": [
+                "16EA0",
+                "16EB8"
+            ],
+            "property": "Changes_When_Casemapped"
+        },
+        {
+            "range": [
+                "16EBB",
+                "16ED3"
+            ],
+            "property": "Changes_When_Casemapped"
+        },
+        {
+            "range": [
                 "1E900",
                 "1E943"
             ],
@@ -38585,13 +38959,14 @@
         },
         {
             "range": [
-                "0294"
+                "0294",
+                "0295"
             ],
             "property": "ID_Start"
         },
         {
             "range": [
-                "0295",
+                "0296",
                 "02AF"
             ],
             "property": "ID_Start"
@@ -38911,7 +39286,7 @@
         {
             "range": [
                 "0889",
-                "088E"
+                "088F"
             ],
             "property": "ID_Start"
         },
@@ -39368,6 +39743,7 @@
         },
         {
             "range": [
+                "0C5C",
                 "0C5D"
             ],
             "property": "ID_Start"
@@ -39428,7 +39804,7 @@
         },
         {
             "range": [
-                "0CDD",
+                "0CDC",
                 "0CDE"
             ],
             "property": "ID_Start"
@@ -40947,33 +41323,13 @@
         {
             "range": [
                 "A790",
-                "A7CD"
-            ],
-            "property": "ID_Start"
-        },
-        {
-            "range": [
-                "A7D0",
-                "A7D1"
-            ],
-            "property": "ID_Start"
-        },
-        {
-            "range": [
-                "A7D3"
-            ],
-            "property": "ID_Start"
-        },
-        {
-            "range": [
-                "A7D5",
                 "A7DC"
             ],
             "property": "ID_Start"
         },
         {
             "range": [
-                "A7F2",
+                "A7F1",
                 "A7F4"
             ],
             "property": "ID_Start"
@@ -41912,6 +42268,13 @@
         },
         {
             "range": [
+                "10940",
+                "10959"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
                 "10980",
                 "109B7"
             ],
@@ -42092,6 +42455,19 @@
             "range": [
                 "10EC2",
                 "10EC4"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "10EC5"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "10EC6",
+                "10EC7"
             ],
             "property": "ID_Start"
         },
@@ -42711,6 +43087,26 @@
         },
         {
             "range": [
+                "11DB0",
+                "11DD8"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "11DD9"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "11DDA",
+                "11DDB"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
                 "11EE0",
                 "11EF2"
             ],
@@ -42891,6 +43287,20 @@
         },
         {
             "range": [
+                "16EA0",
+                "16EB8"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "16EBB",
+                "16ED3"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
                 "16F00",
                 "16F4A"
             ],
@@ -42924,14 +43334,21 @@
         },
         {
             "range": [
-                "17000",
-                "187F7"
+                "16FF2",
+                "16FF3"
             ],
             "property": "ID_Start"
         },
         {
             "range": [
-                "18800",
+                "16FF4",
+                "16FF6"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "17000",
                 "18CD5"
             ],
             "property": "ID_Start"
@@ -42939,7 +43356,14 @@
         {
             "range": [
                 "18CFF",
-                "18D08"
+                "18D1E"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "18D80",
+                "18DF2"
             ],
             "property": "ID_Start"
         },
@@ -43335,6 +43759,53 @@
         },
         {
             "range": [
+                "1E6C0",
+                "1E6DE"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "1E6E0",
+                "1E6E2"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "1E6E4",
+                "1E6E5"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "1E6E7",
+                "1E6ED"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "1E6F0",
+                "1E6F4"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "1E6FE"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
+                "1E6FF"
+            ],
+            "property": "ID_Start"
+        },
+        {
+            "range": [
                 "1E7E0",
                 "1E7E6"
             ],
@@ -43606,13 +44077,6 @@
         {
             "range": [
                 "2A700",
-                "2B739"
-            ],
-            "property": "ID_Start"
-        },
-        {
-            "range": [
-                "2B740",
                 "2B81D"
             ],
             "property": "ID_Start"
@@ -43620,7 +44084,7 @@
         {
             "range": [
                 "2B820",
-                "2CEA1"
+                "2CEAD"
             ],
             "property": "ID_Start"
         },
@@ -43655,7 +44119,7 @@
         {
             "range": [
                 "31350",
-                "323AF"
+                "33479"
             ],
             "property": "ID_Start"
         },
@@ -43760,13 +44224,14 @@
         },
         {
             "range": [
-                "0294"
+                "0294",
+                "0295"
             ],
             "property": "ID_Continue"
         },
         {
             "range": [
-                "0295",
+                "0296",
                 "02AF"
             ],
             "property": "ID_Continue"
@@ -44276,7 +44741,7 @@
         {
             "range": [
                 "0889",
-                "088E"
+                "088F"
             ],
             "property": "ID_Continue"
         },
@@ -45275,6 +45740,7 @@
         },
         {
             "range": [
+                "0C5C",
                 "0C5D"
             ],
             "property": "ID_Continue"
@@ -45421,7 +45887,7 @@
         },
         {
             "range": [
-                "0CDD",
+                "0CDC",
                 "0CDE"
             ],
             "property": "ID_Continue"
@@ -46883,7 +47349,14 @@
         {
             "range": [
                 "1ABF",
-                "1ACE"
+                "1ADD"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "1AE0",
+                "1AEB"
             ],
             "property": "ID_Continue"
         },
@@ -48149,33 +48622,13 @@
         {
             "range": [
                 "A790",
-                "A7CD"
-            ],
-            "property": "ID_Continue"
-        },
-        {
-            "range": [
-                "A7D0",
-                "A7D1"
-            ],
-            "property": "ID_Continue"
-        },
-        {
-            "range": [
-                "A7D3"
-            ],
-            "property": "ID_Continue"
-        },
-        {
-            "range": [
-                "A7D5",
                 "A7DC"
             ],
             "property": "ID_Continue"
         },
         {
             "range": [
-                "A7F2",
+                "A7F1",
                 "A7F4"
             ],
             "property": "ID_Continue"
@@ -49575,6 +50028,13 @@
         },
         {
             "range": [
+                "10940",
+                "10959"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
                 "10980",
                 "109B7"
             ],
@@ -49836,7 +50296,20 @@
         },
         {
             "range": [
-                "10EFC",
+                "10EC5"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "10EC6",
+                "10EC7"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "10EFA",
                 "10EFF"
             ],
             "property": "ID_Continue"
@@ -51345,6 +51818,43 @@
         },
         {
             "range": [
+                "11B60"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "11B61"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "11B62",
+                "11B64"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "11B65"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "11B66"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "11B67"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
                 "11BC0",
                 "11BE0"
             ],
@@ -51606,6 +52116,33 @@
             "range": [
                 "11DA0",
                 "11DA9"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "11DB0",
+                "11DD8"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "11DD9"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "11DDA",
+                "11DDB"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "11DE0",
+                "11DE9"
             ],
             "property": "ID_Continue"
         },
@@ -51953,6 +52490,20 @@
         },
         {
             "range": [
+                "16EA0",
+                "16EB8"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "16EBB",
+                "16ED3"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
                 "16F00",
                 "16F4A"
             ],
@@ -52019,14 +52570,21 @@
         },
         {
             "range": [
-                "17000",
-                "187F7"
+                "16FF2",
+                "16FF3"
             ],
             "property": "ID_Continue"
         },
         {
             "range": [
-                "18800",
+                "16FF4",
+                "16FF6"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "17000",
                 "18CD5"
             ],
             "property": "ID_Continue"
@@ -52034,7 +52592,14 @@
         {
             "range": [
                 "18CFF",
-                "18D08"
+                "18D1E"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "18D80",
+                "18DF2"
             ],
             "property": "ID_Continue"
         },
@@ -52657,6 +53222,78 @@
         },
         {
             "range": [
+                "1E6C0",
+                "1E6DE"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "1E6E0",
+                "1E6E2"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "1E6E3"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "1E6E4",
+                "1E6E5"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "1E6E6"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "1E6E7",
+                "1E6ED"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "1E6EE",
+                "1E6EF"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "1E6F0",
+                "1E6F4"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "1E6F5"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "1E6FE"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
+                "1E6FF"
+            ],
+            "property": "ID_Continue"
+        },
+        {
+            "range": [
                 "1E7E0",
                 "1E7E6"
             ],
@@ -52956,13 +53593,6 @@
         {
             "range": [
                 "2A700",
-                "2B739"
-            ],
-            "property": "ID_Continue"
-        },
-        {
-            "range": [
-                "2B740",
                 "2B81D"
             ],
             "property": "ID_Continue"
@@ -52970,7 +53600,7 @@
         {
             "range": [
                 "2B820",
-                "2CEA1"
+                "2CEAD"
             ],
             "property": "ID_Continue"
         },
@@ -53005,7 +53635,7 @@
         {
             "range": [
                 "31350",
-                "323AF"
+                "33479"
             ],
             "property": "ID_Continue"
         },
@@ -53098,13 +53728,14 @@
         },
         {
             "range": [
-                "0294"
+                "0294",
+                "0295"
             ],
             "property": "XID_Start"
         },
         {
             "range": [
-                "0295",
+                "0296",
                 "02AF"
             ],
             "property": "XID_Start"
@@ -53418,7 +54049,7 @@
         {
             "range": [
                 "0889",
-                "088E"
+                "088F"
             ],
             "property": "XID_Start"
         },
@@ -53875,6 +54506,7 @@
         },
         {
             "range": [
+                "0C5C",
                 "0C5D"
             ],
             "property": "XID_Start"
@@ -53935,7 +54567,7 @@
         },
         {
             "range": [
-                "0CDD",
+                "0CDC",
                 "0CDE"
             ],
             "property": "XID_Start"
@@ -55445,33 +56077,13 @@
         {
             "range": [
                 "A790",
-                "A7CD"
-            ],
-            "property": "XID_Start"
-        },
-        {
-            "range": [
-                "A7D0",
-                "A7D1"
-            ],
-            "property": "XID_Start"
-        },
-        {
-            "range": [
-                "A7D3"
-            ],
-            "property": "XID_Start"
-        },
-        {
-            "range": [
-                "A7D5",
                 "A7DC"
             ],
             "property": "XID_Start"
         },
         {
             "range": [
-                "A7F2",
+                "A7F1",
                 "A7F4"
             ],
             "property": "XID_Start"
@@ -56439,6 +57051,13 @@
         },
         {
             "range": [
+                "10940",
+                "10959"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
                 "10980",
                 "109B7"
             ],
@@ -56619,6 +57238,19 @@
             "range": [
                 "10EC2",
                 "10EC4"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "10EC5"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "10EC6",
+                "10EC7"
             ],
             "property": "XID_Start"
         },
@@ -57238,6 +57870,26 @@
         },
         {
             "range": [
+                "11DB0",
+                "11DD8"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "11DD9"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "11DDA",
+                "11DDB"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
                 "11EE0",
                 "11EF2"
             ],
@@ -57418,6 +58070,20 @@
         },
         {
             "range": [
+                "16EA0",
+                "16EB8"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "16EBB",
+                "16ED3"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
                 "16F00",
                 "16F4A"
             ],
@@ -57451,14 +58117,21 @@
         },
         {
             "range": [
-                "17000",
-                "187F7"
+                "16FF2",
+                "16FF3"
             ],
             "property": "XID_Start"
         },
         {
             "range": [
-                "18800",
+                "16FF4",
+                "16FF6"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "17000",
                 "18CD5"
             ],
             "property": "XID_Start"
@@ -57466,7 +58139,14 @@
         {
             "range": [
                 "18CFF",
-                "18D08"
+                "18D1E"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "18D80",
+                "18DF2"
             ],
             "property": "XID_Start"
         },
@@ -57862,6 +58542,53 @@
         },
         {
             "range": [
+                "1E6C0",
+                "1E6DE"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "1E6E0",
+                "1E6E2"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "1E6E4",
+                "1E6E5"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "1E6E7",
+                "1E6ED"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "1E6F0",
+                "1E6F4"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "1E6FE"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
+                "1E6FF"
+            ],
+            "property": "XID_Start"
+        },
+        {
+            "range": [
                 "1E7E0",
                 "1E7E6"
             ],
@@ -58133,13 +58860,6 @@
         {
             "range": [
                 "2A700",
-                "2B739"
-            ],
-            "property": "XID_Start"
-        },
-        {
-            "range": [
-                "2B740",
                 "2B81D"
             ],
             "property": "XID_Start"
@@ -58147,7 +58867,7 @@
         {
             "range": [
                 "2B820",
-                "2CEA1"
+                "2CEAD"
             ],
             "property": "XID_Start"
         },
@@ -58182,7 +58902,7 @@
         {
             "range": [
                 "31350",
-                "323AF"
+                "33479"
             ],
             "property": "XID_Start"
         },
@@ -58287,13 +59007,14 @@
         },
         {
             "range": [
-                "0294"
+                "0294",
+                "0295"
             ],
             "property": "XID_Continue"
         },
         {
             "range": [
-                "0295",
+                "0296",
                 "02AF"
             ],
             "property": "XID_Continue"
@@ -58797,7 +59518,7 @@
         {
             "range": [
                 "0889",
-                "088E"
+                "088F"
             ],
             "property": "XID_Continue"
         },
@@ -59796,6 +60517,7 @@
         },
         {
             "range": [
+                "0C5C",
                 "0C5D"
             ],
             "property": "XID_Continue"
@@ -59942,7 +60664,7 @@
         },
         {
             "range": [
-                "0CDD",
+                "0CDC",
                 "0CDE"
             ],
             "property": "XID_Continue"
@@ -61404,7 +62126,14 @@
         {
             "range": [
                 "1ABF",
-                "1ACE"
+                "1ADD"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "1AE0",
+                "1AEB"
             ],
             "property": "XID_Continue"
         },
@@ -62663,33 +63392,13 @@
         {
             "range": [
                 "A790",
-                "A7CD"
-            ],
-            "property": "XID_Continue"
-        },
-        {
-            "range": [
-                "A7D0",
-                "A7D1"
-            ],
-            "property": "XID_Continue"
-        },
-        {
-            "range": [
-                "A7D3"
-            ],
-            "property": "XID_Continue"
-        },
-        {
-            "range": [
-                "A7D5",
                 "A7DC"
             ],
             "property": "XID_Continue"
         },
         {
             "range": [
-                "A7F2",
+                "A7F1",
                 "A7F4"
             ],
             "property": "XID_Continue"
@@ -64125,6 +64834,13 @@
         },
         {
             "range": [
+                "10940",
+                "10959"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
                 "10980",
                 "109B7"
             ],
@@ -64386,7 +65102,20 @@
         },
         {
             "range": [
-                "10EFC",
+                "10EC5"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "10EC6",
+                "10EC7"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "10EFA",
                 "10EFF"
             ],
             "property": "XID_Continue"
@@ -65895,6 +66624,43 @@
         },
         {
             "range": [
+                "11B60"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "11B61"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "11B62",
+                "11B64"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "11B65"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "11B66"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "11B67"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
                 "11BC0",
                 "11BE0"
             ],
@@ -66156,6 +66922,33 @@
             "range": [
                 "11DA0",
                 "11DA9"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "11DB0",
+                "11DD8"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "11DD9"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "11DDA",
+                "11DDB"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "11DE0",
+                "11DE9"
             ],
             "property": "XID_Continue"
         },
@@ -66503,6 +67296,20 @@
         },
         {
             "range": [
+                "16EA0",
+                "16EB8"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "16EBB",
+                "16ED3"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
                 "16F00",
                 "16F4A"
             ],
@@ -66569,14 +67376,21 @@
         },
         {
             "range": [
-                "17000",
-                "187F7"
+                "16FF2",
+                "16FF3"
             ],
             "property": "XID_Continue"
         },
         {
             "range": [
-                "18800",
+                "16FF4",
+                "16FF6"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "17000",
                 "18CD5"
             ],
             "property": "XID_Continue"
@@ -66584,7 +67398,14 @@
         {
             "range": [
                 "18CFF",
-                "18D08"
+                "18D1E"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "18D80",
+                "18DF2"
             ],
             "property": "XID_Continue"
         },
@@ -67207,6 +68028,78 @@
         },
         {
             "range": [
+                "1E6C0",
+                "1E6DE"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "1E6E0",
+                "1E6E2"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "1E6E3"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "1E6E4",
+                "1E6E5"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "1E6E6"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "1E6E7",
+                "1E6ED"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "1E6EE",
+                "1E6EF"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "1E6F0",
+                "1E6F4"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "1E6F5"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "1E6FE"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
+                "1E6FF"
+            ],
+            "property": "XID_Continue"
+        },
+        {
+            "range": [
                 "1E7E0",
                 "1E7E6"
             ],
@@ -67506,13 +68399,6 @@
         {
             "range": [
                 "2A700",
-                "2B739"
-            ],
-            "property": "XID_Continue"
-        },
-        {
-            "range": [
-                "2B740",
                 "2B81D"
             ],
             "property": "XID_Continue"
@@ -67520,7 +68406,7 @@
         {
             "range": [
                 "2B820",
-                "2CEA1"
+                "2CEAD"
             ],
             "property": "XID_Continue"
         },
@@ -67555,7 +68441,7 @@
         {
             "range": [
                 "31350",
-                "323AF"
+                "33479"
             ],
             "property": "XID_Continue"
         },
@@ -68805,7 +69691,14 @@
         {
             "range": [
                 "1ABF",
-                "1ACE"
+                "1ADD"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "1AE0",
+                "1AEB"
             ],
             "property": "Grapheme_Extend"
         },
@@ -69439,7 +70332,7 @@
         },
         {
             "range": [
-                "10EFC",
+                "10EFA",
                 "10EFF"
             ],
             "property": "Grapheme_Extend"
@@ -70035,6 +70928,25 @@
         },
         {
             "range": [
+                "11B60"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "11B62",
+                "11B64"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "11B66"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
                 "11C30",
                 "11C36"
             ],
@@ -70427,6 +71339,31 @@
             "range": [
                 "1E5EE",
                 "1E5EF"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "1E6E3"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "1E6E6"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "1E6EE",
+                "1E6EF"
+            ],
+            "property": "Grapheme_Extend"
+        },
+        {
+            "range": [
+                "1E6F5"
             ],
             "property": "Grapheme_Extend"
         },
@@ -70839,13 +71776,14 @@
         },
         {
             "range": [
-                "0294"
+                "0294",
+                "0295"
             ],
             "property": "Grapheme_Base"
         },
         {
             "range": [
-                "0295",
+                "0296",
                 "02AF"
             ],
             "property": "Grapheme_Base"
@@ -71445,7 +72383,7 @@
         {
             "range": [
                 "0889",
-                "088E"
+                "088F"
             ],
             "property": "Grapheme_Base"
         },
@@ -72214,6 +73152,7 @@
         },
         {
             "range": [
+                "0C5C",
                 "0C5D"
             ],
             "property": "Grapheme_Base"
@@ -72332,7 +73271,7 @@
         },
         {
             "range": [
-                "0CDD",
+                "0CDC",
                 "0CDE"
             ],
             "property": "Grapheme_Base"
@@ -74450,7 +75389,7 @@
         {
             "range": [
                 "20A0",
-                "20C0"
+                "20C1"
             ],
             "property": "Grapheme_Base"
         },
@@ -75460,13 +76399,6 @@
         {
             "range": [
                 "2B76",
-                "2B95"
-            ],
-            "property": "Grapheme_Base"
-        },
-        {
-            "range": [
-                "2B97",
                 "2BFF"
             ],
             "property": "Grapheme_Base"
@@ -76640,33 +77572,13 @@
         {
             "range": [
                 "A790",
-                "A7CD"
-            ],
-            "property": "Grapheme_Base"
-        },
-        {
-            "range": [
-                "A7D0",
-                "A7D1"
-            ],
-            "property": "Grapheme_Base"
-        },
-        {
-            "range": [
-                "A7D3"
-            ],
-            "property": "Grapheme_Base"
-        },
-        {
-            "range": [
-                "A7D5",
                 "A7DC"
             ],
             "property": "Grapheme_Base"
         },
         {
             "range": [
-                "A7F2",
+                "A7F1",
                 "A7F4"
             ],
             "property": "Grapheme_Base"
@@ -77447,6 +78359,13 @@
         },
         {
             "range": [
+                "FBC3",
+                "FBD2"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
                 "FBD3",
                 "FD3D"
             ],
@@ -77480,6 +78399,13 @@
         },
         {
             "range": [
+                "FD90",
+                "FD91"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
                 "FD92",
                 "FDC7"
             ],
@@ -77487,6 +78413,7 @@
         },
         {
             "range": [
+                "FDC8",
                 "FDCF"
             ],
             "property": "Grapheme_Base"
@@ -78653,6 +79580,13 @@
         },
         {
             "range": [
+                "10940",
+                "10959"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
                 "10980",
                 "109B7"
             ],
@@ -78990,6 +79924,32 @@
             "range": [
                 "10EC2",
                 "10EC4"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "10EC5"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "10EC6",
+                "10EC7"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "10ED0"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "10ED1",
+                "10ED8"
             ],
             "property": "Grapheme_Base"
         },
@@ -80230,6 +81190,24 @@
         },
         {
             "range": [
+                "11B61"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "11B65"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "11B67"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
                 "11BC0",
                 "11BE0"
             ],
@@ -80418,6 +81396,33 @@
             "range": [
                 "11DA0",
                 "11DA9"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "11DB0",
+                "11DD8"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "11DD9"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "11DDA",
+                "11DDB"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "11DE0",
+                "11DE9"
             ],
             "property": "Grapheme_Base"
         },
@@ -80808,6 +81813,20 @@
         },
         {
             "range": [
+                "16EA0",
+                "16EB8"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "16EBB",
+                "16ED3"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
                 "16F00",
                 "16F4A"
             ],
@@ -80854,14 +81873,21 @@
         },
         {
             "range": [
-                "17000",
-                "187F7"
+                "16FF2",
+                "16FF3"
             ],
             "property": "Grapheme_Base"
         },
         {
             "range": [
-                "18800",
+                "16FF4",
+                "16FF6"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "17000",
                 "18CD5"
             ],
             "property": "Grapheme_Base"
@@ -80869,7 +81895,14 @@
         {
             "range": [
                 "18CFF",
-                "18D08"
+                "18D1E"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "18D80",
+                "18DF2"
             ],
             "property": "Grapheme_Base"
         },
@@ -80990,8 +82023,35 @@
         },
         {
             "range": [
+                "1CCFA",
+                "1CCFC"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
                 "1CD00",
                 "1CEB3"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "1CEBA",
+                "1CED0"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "1CEE0",
+                "1CEEF"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "1CEF0"
             ],
             "property": "Grapheme_Base"
         },
@@ -81550,6 +82610,53 @@
         },
         {
             "range": [
+                "1E6C0",
+                "1E6DE"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "1E6E0",
+                "1E6E2"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "1E6E4",
+                "1E6E5"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "1E6E7",
+                "1E6ED"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "1E6F0",
+                "1E6F4"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "1E6FE"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "1E6FF"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
                 "1E7E0",
                 "1E7E6"
             ],
@@ -82000,7 +83107,7 @@
         {
             "range": [
                 "1F400",
-                "1F6D7"
+                "1F6D8"
             ],
             "property": "Grapheme_Base"
         },
@@ -82021,13 +83128,6 @@
         {
             "range": [
                 "1F700",
-                "1F776"
-            ],
-            "property": "Grapheme_Base"
-        },
-        {
-            "range": [
-                "1F77B",
                 "1F7D9"
             ],
             "property": "Grapheme_Base"
@@ -82096,8 +83196,15 @@
         },
         {
             "range": [
+                "1F8D0",
+                "1F8D8"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
                 "1F900",
-                "1FA53"
+                "1FA57"
             ],
             "property": "Grapheme_Base"
         },
@@ -82118,20 +83225,26 @@
         {
             "range": [
                 "1FA80",
-                "1FA89"
+                "1FA8A"
             ],
             "property": "Grapheme_Base"
         },
         {
             "range": [
-                "1FA8F",
+                "1FA8E",
                 "1FAC6"
             ],
             "property": "Grapheme_Base"
         },
         {
             "range": [
-                "1FACE",
+                "1FAC8"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
+                "1FACD",
                 "1FADC"
             ],
             "property": "Grapheme_Base"
@@ -82139,13 +83252,13 @@
         {
             "range": [
                 "1FADF",
-                "1FAE9"
+                "1FAEA"
             ],
             "property": "Grapheme_Base"
         },
         {
             "range": [
-                "1FAF0",
+                "1FAEF",
                 "1FAF8"
             ],
             "property": "Grapheme_Base"
@@ -82173,6 +83286,12 @@
         },
         {
             "range": [
+                "1FBFA"
+            ],
+            "property": "Grapheme_Base"
+        },
+        {
+            "range": [
                 "20000",
                 "2A6DF"
             ],
@@ -82181,13 +83300,6 @@
         {
             "range": [
                 "2A700",
-                "2B739"
-            ],
-            "property": "Grapheme_Base"
-        },
-        {
-            "range": [
-                "2B740",
                 "2B81D"
             ],
             "property": "Grapheme_Base"
@@ -82195,7 +83307,7 @@
         {
             "range": [
                 "2B820",
-                "2CEA1"
+                "2CEAD"
             ],
             "property": "Grapheme_Base"
         },
@@ -82230,7 +83342,7 @@
         {
             "range": [
                 "31350",
-                "323AF"
+                "33479"
             ],
             "property": "Grapheme_Base"
         },
@@ -82667,6 +83779,104 @@
         },
         {
             "range": [
+                "1039"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Linker"
+        },
+        {
+            "range": [
+                "17D2"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Linker"
+        },
+        {
+            "range": [
+                "1A60"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Linker"
+        },
+        {
+            "range": [
+                "1B44"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Linker"
+        },
+        {
+            "range": [
+                "1BAB"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Linker"
+        },
+        {
+            "range": [
+                "A9C0"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Linker"
+        },
+        {
+            "range": [
+                "AAF6"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Linker"
+        },
+        {
+            "range": [
+                "10A3F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Linker"
+        },
+        {
+            "range": [
+                "11133"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Linker"
+        },
+        {
+            "range": [
+                "113D0"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Linker"
+        },
+        {
+            "range": [
+                "1193E"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Linker"
+        },
+        {
+            "range": [
+                "11A47"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Linker"
+        },
+        {
+            "range": [
+                "11A99"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Linker"
+        },
+        {
+            "range": [
+                "11F42"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Linker"
+        },
+        {
+            "range": [
                 "0915",
                 "0939"
             ],
@@ -82864,6 +84074,394 @@
             "range": [
                 "0D15",
                 "0D3A"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "1000",
+                "102A"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "103F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "1050",
+                "1055"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "105A",
+                "105D"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "1061"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "1065",
+                "1066"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "106E",
+                "1070"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "1075",
+                "1081"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "108E"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "1780",
+                "17B3"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "1A20",
+                "1A54"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "1B0B",
+                "1B0C"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "1B13",
+                "1B33"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "1B45",
+                "1B4C"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "1B83",
+                "1BA0"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "1BAE",
+                "1BAF"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "1BBB",
+                "1BBD"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "A989",
+                "A98B"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "A98F",
+                "A9B2"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "A9E0",
+                "A9E4"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "A9E7",
+                "A9EF"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "A9FA",
+                "A9FE"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "AA60",
+                "AA6F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "AA71",
+                "AA73"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "AA7A"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "AA7E",
+                "AA7F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "AAE0",
+                "AAEA"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "ABC0",
+                "ABDA"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "10A00"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "10A10",
+                "10A13"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "10A15",
+                "10A17"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "10A19",
+                "10A35"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "11103",
+                "11126"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "11144"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "11147"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "11380",
+                "11389"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "1138B"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "1138E"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "11390",
+                "113B5"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "11900",
+                "11906"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "11909"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "1190C",
+                "11913"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "11915",
+                "11916"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "11918",
+                "1192F"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "11A00"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "11A0B",
+                "11A32"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "11A50"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "11A5C",
+                "11A83"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "11F04",
+                "11F10"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Consonant"
+        },
+        {
+            "range": [
+                "11F12",
+                "11F33"
             ],
             "property": "InCB",
             "syllabicCategory": "Consonant"
@@ -83750,7 +85348,6 @@
         },
         {
             "range": [
-                "1039",
                 "103A"
             ],
             "property": "InCB",
@@ -83897,6 +85494,13 @@
         {
             "range": [
                 "17C9",
+                "17D1"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
                 "17D3"
             ],
             "property": "InCB",
@@ -84002,13 +85606,6 @@
         },
         {
             "range": [
-                "1A60"
-            ],
-            "property": "InCB",
-            "syllabicCategory": "Extend"
-        },
-        {
-            "range": [
                 "1A62"
             ],
             "property": "InCB",
@@ -84055,7 +85652,15 @@
         {
             "range": [
                 "1ABF",
-                "1ACE"
+                "1ADD"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1AE0",
+                "1AEB"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -84120,8 +85725,7 @@
         },
         {
             "range": [
-                "1B43",
-                "1B44"
+                "1B43"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -84167,7 +85771,7 @@
         },
         {
             "range": [
-                "1BAB",
+                "1BAC",
                 "1BAD"
             ],
             "property": "InCB",
@@ -84528,13 +86132,6 @@
         },
         {
             "range": [
-                "A9C0"
-            ],
-            "property": "InCB",
-            "syllabicCategory": "Extend"
-        },
-        {
-            "range": [
                 "A9E5"
             ],
             "property": "InCB",
@@ -84627,13 +86224,6 @@
             "range": [
                 "AAEC",
                 "AAED"
-            ],
-            "property": "InCB",
-            "syllabicCategory": "Extend"
-        },
-        {
-            "range": [
-                "AAF6"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -84746,13 +86336,6 @@
         },
         {
             "range": [
-                "10A3F"
-            ],
-            "property": "InCB",
-            "syllabicCategory": "Extend"
-        },
-        {
-            "range": [
                 "10AE5",
                 "10AE6"
             ],
@@ -84785,7 +86368,7 @@
         },
         {
             "range": [
-                "10EFC",
+                "10EFA",
                 "10EFF"
             ],
             "property": "InCB",
@@ -84887,6 +86470,13 @@
         {
             "range": [
                 "1112D",
+                "11132"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
                 "11134"
             ],
             "property": "InCB",
@@ -85103,13 +86693,6 @@
         {
             "range": [
                 "113CF"
-            ],
-            "property": "InCB",
-            "syllabicCategory": "Extend"
-        },
-        {
-            "range": [
-                "113D0"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -85372,13 +86955,6 @@
         },
         {
             "range": [
-                "1193E"
-            ],
-            "property": "InCB",
-            "syllabicCategory": "Extend"
-        },
-        {
-            "range": [
                 "11943"
             ],
             "property": "InCB",
@@ -85433,13 +87009,6 @@
         },
         {
             "range": [
-                "11A47"
-            ],
-            "property": "InCB",
-            "syllabicCategory": "Extend"
-        },
-        {
-            "range": [
                 "11A51",
                 "11A56"
             ],
@@ -85464,8 +87033,29 @@
         },
         {
             "range": [
-                "11A98",
-                "11A99"
+                "11A98"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11B60"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11B62",
+                "11B64"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "11B66"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -85619,13 +87209,6 @@
         {
             "range": [
                 "11F41"
-            ],
-            "property": "InCB",
-            "syllabicCategory": "Extend"
-        },
-        {
-            "range": [
-                "11F42"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"
@@ -85922,6 +87505,35 @@
             "range": [
                 "1E5EE",
                 "1E5EF"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1E6E3"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1E6E6"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1E6EE",
+                "1E6EF"
+            ],
+            "property": "InCB",
+            "syllabicCategory": "Extend"
+        },
+        {
+            "range": [
+                "1E6F5"
             ],
             "property": "InCB",
             "syllabicCategory": "Extend"

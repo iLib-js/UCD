@@ -1561,7 +1561,14 @@
         {
             "range": [
                 "1ABF",
-                "1ACE"
+                "1ADD"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1AE0",
+                "1AEB"
             ],
             "property": "Extend"
         },
@@ -2393,7 +2400,7 @@
         },
         {
             "range": [
-                "10EFC",
+                "10EFA",
                 "10EFF"
             ],
             "property": "Extend"
@@ -3285,6 +3292,43 @@
         },
         {
             "range": [
+                "11B60"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11B61"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11B62",
+                "11B64"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11B65"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11B66"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11B67"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
                 "11C2F"
             ],
             "property": "Extend"
@@ -3773,6 +3817,31 @@
         },
         {
             "range": [
+                "1E6E3"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1E6E6"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1E6EE",
+                "1E6EF"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1E6F5"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
                 "1E8D0",
                 "1E8D6"
             ],
@@ -4055,6 +4124,12 @@
         },
         {
             "range": [
+                "00B8"
+            ],
+            "property": "ALetter"
+        },
+        {
+            "range": [
                 "00BA"
             ],
             "property": "ALetter"
@@ -4109,13 +4184,14 @@
         },
         {
             "range": [
-                "0294"
+                "0294",
+                "0295"
             ],
             "property": "ALetter"
         },
         {
             "range": [
-                "0295",
+                "0296",
                 "02AF"
             ],
             "property": "ALetter"
@@ -4493,7 +4569,7 @@
         {
             "range": [
                 "0889",
-                "088E"
+                "088F"
             ],
             "property": "ALetter"
         },
@@ -4950,6 +5026,7 @@
         },
         {
             "range": [
+                "0C5C",
                 "0C5D"
             ],
             "property": "ALetter"
@@ -5010,7 +5087,7 @@
         },
         {
             "range": [
-                "0CDD",
+                "0CDC",
                 "0CDE"
             ],
             "property": "ALetter"
@@ -6230,33 +6307,13 @@
         {
             "range": [
                 "A790",
-                "A7CD"
-            ],
-            "property": "ALetter"
-        },
-        {
-            "range": [
-                "A7D0",
-                "A7D1"
-            ],
-            "property": "ALetter"
-        },
-        {
-            "range": [
-                "A7D3"
-            ],
-            "property": "ALetter"
-        },
-        {
-            "range": [
-                "A7D5",
                 "A7DC"
             ],
             "property": "ALetter"
         },
         {
             "range": [
-                "A7F2",
+                "A7F1",
                 "A7F4"
             ],
             "property": "ALetter"
@@ -7008,6 +7065,13 @@
         },
         {
             "range": [
+                "10940",
+                "10959"
+            ],
+            "property": "ALetter"
+        },
+        {
+            "range": [
                 "10980",
                 "109B7"
             ],
@@ -7188,6 +7252,19 @@
             "range": [
                 "10EC2",
                 "10EC4"
+            ],
+            "property": "ALetter"
+        },
+        {
+            "range": [
+                "10EC5"
+            ],
+            "property": "ALetter"
+        },
+        {
+            "range": [
+                "10EC6",
+                "10EC7"
             ],
             "property": "ALetter"
         },
@@ -7793,6 +7870,26 @@
         },
         {
             "range": [
+                "11DB0",
+                "11DD8"
+            ],
+            "property": "ALetter"
+        },
+        {
+            "range": [
+                "11DD9"
+            ],
+            "property": "ALetter"
+        },
+        {
+            "range": [
+                "11DDA",
+                "11DDB"
+            ],
+            "property": "ALetter"
+        },
+        {
+            "range": [
                 "11EE0",
                 "11EF2"
             ],
@@ -7968,6 +8065,20 @@
             "range": [
                 "16E40",
                 "16E7F"
+            ],
+            "property": "ALetter"
+        },
+        {
+            "range": [
+                "16EA0",
+                "16EB8"
+            ],
+            "property": "ALetter"
+        },
+        {
+            "range": [
+                "16EBB",
+                "16ED3"
             ],
             "property": "ALetter"
         },
@@ -8330,6 +8441,53 @@
         {
             "range": [
                 "1E5F0"
+            ],
+            "property": "ALetter"
+        },
+        {
+            "range": [
+                "1E6C0",
+                "1E6DE"
+            ],
+            "property": "ALetter"
+        },
+        {
+            "range": [
+                "1E6E0",
+                "1E6E2"
+            ],
+            "property": "ALetter"
+        },
+        {
+            "range": [
+                "1E6E4",
+                "1E6E5"
+            ],
+            "property": "ALetter"
+        },
+        {
+            "range": [
+                "1E6E7",
+                "1E6ED"
+            ],
+            "property": "ALetter"
+        },
+        {
+            "range": [
+                "1E6F0",
+                "1E6F4"
+            ],
+            "property": "ALetter"
+        },
+        {
+            "range": [
+                "1E6FE"
+            ],
+            "property": "ALetter"
+        },
+        {
+            "range": [
+                "1E6FF"
             ],
             "property": "ALetter"
         },
@@ -9232,6 +9390,13 @@
             "range": [
                 "11DA0",
                 "11DA9"
+            ],
+            "property": "Numeric"
+        },
+        {
+            "range": [
+                "11DE0",
+                "11DE9"
             ],
             "property": "Numeric"
         },

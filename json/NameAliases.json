@@ -1146,6 +1146,26 @@
             "type": "correction"
         },
         {
+            "codepoint": "16881",
+            "alias": "BAMUM LETTER PHASE-B PUNGGAAM",
+            "type": "correction"
+        },
+        {
+            "codepoint": "1688E",
+            "alias": "BAMUM LETTER PHASE-B NGGOM",
+            "type": "correction"
+        },
+        {
+            "codepoint": "168DC",
+            "alias": "BAMUM LETTER PHASE-C SHETFON",
+            "type": "correction"
+        },
+        {
+            "codepoint": "1697D",
+            "alias": "BAMUM LETTER PHASE-E NGGOP",
+            "type": "correction"
+        },
+        {
             "codepoint": "16E56",
             "alias": "MEDEFAIDRIN CAPITAL LETTER H",
             "type": "correction"

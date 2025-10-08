@@ -1250,7 +1250,7 @@
         },
         {
             "codepoint": "U+34A8",
-            "kHanYu": "10239.060",
+            "kHanYu": "10239.050",
             "kIRGHanyuDaZidian": "10239.050",
             "kIRGKangXi": "0122.061",
             "kKangXi": "0122.061",
@@ -14442,12 +14442,11 @@
         {
             "codepoint": "U+3ADA",
             "kCihaiT": "635.104",
-            "kHanYu": "21493.030",
-            "kIRGHanyuDaZidian": "21493.030",
-            "kIRGKangXi": "0502.080",
-            "kKangXi": "0502.080",
+            "kHanYu": "21493.020",
+            "kIRGHanyuDaZidian": "21493.020",
+            "kIRGKangXi": "0492.020",
+            "kKangXi": "0492.020",
             "kMorohashi": "13813",
-            "kSBGY": "481.24",
             "kSMSZD2003Index": "290.06"
         },
         {
@@ -143421,11 +143420,12 @@
         {
             "codepoint": "U+66F6",
             "kCihaiT": "650.201",
-            "kHanYu": "21493.020",
-            "kIRGHanyuDaZidian": "21493.020",
-            "kIRGKangXi": "0492.020",
-            "kKangXi": "0492.020",
+            "kHanYu": "21493.030",
+            "kIRGHanyuDaZidian": "21493.030",
+            "kIRGKangXi": "0502.080",
+            "kKangXi": "0502.080",
             "kMorohashi": "14287",
+            "kSBGY": "481.24",
             "kSMSZD2003Index": "297.13"
         },
         {
@@ -339680,7 +339680,7 @@
         },
         {
             "codepoint": "U+20457",
-            "kHanYu": "10239.050",
+            "kHanYu": "10239.060",
             "kIRGHanyuDaZidian": "10239.060",
             "kIRGKangXi": "0121.390",
             "kKangXi": "0121.390",
@@ -636391,6 +636391,13 @@
         {
             "codepoint": "U+2CE76",
             "kCheungBauerIndex": "475.01"
+        },
+        {
+            "codepoint": "U+2CE9E",
+            "kCowles": "2059",
+            "kFennIndex": "272.04",
+            "kLau": "1028",
+            "kMeyerWempe": "1368*"
         },
         {
             "codepoint": "U+2CEC1",

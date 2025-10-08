@@ -151,6 +151,11 @@
         },
         {
             "property": "age",
+            "shortName": "17.0",
+            "longName": "V17_0"
+        },
+        {
+            "property": "age",
             "shortName": "NA",
             "longName": "Unassigned"
         },
@@ -464,6 +469,11 @@
         },
         {
             "property": "blk",
+            "shortName": "Beria_Erfe",
+            "longName": "Beria_Erfe"
+        },
+        {
+            "property": "blk",
             "shortName": "Bhaiksuki",
             "longName": "Bhaiksuki"
         },
@@ -621,6 +631,11 @@
             "property": "blk",
             "shortName": "CJK_Ext_I",
             "longName": "CJK_Unified_Ideographs_Extension_I"
+        },
+        {
+            "property": "blk",
+            "shortName": "CJK_Ext_J",
+            "longName": "CJK_Unified_Ideographs_Extension_J"
         },
         {
             "property": "blk",
@@ -1372,6 +1387,11 @@
         },
         {
             "property": "blk",
+            "shortName": "Misc_Symbols_Sup",
+            "longName": "Miscellaneous_Symbols_Supplement"
+        },
+        {
+            "property": "blk",
             "shortName": "Misc_Technical",
             "longName": "Miscellaneous_Technical"
         },
@@ -1668,6 +1688,11 @@
         },
         {
             "property": "blk",
+            "shortName": "Sharada_Sup",
+            "longName": "Sharada_Supplement"
+        },
+        {
+            "property": "blk",
             "shortName": "Shavian",
             "longName": "Shavian"
         },
@@ -1680,6 +1705,11 @@
             "property": "blk",
             "shortName": "Siddham",
             "longName": "Siddham"
+        },
+        {
+            "property": "blk",
+            "shortName": "Sidetic",
+            "longName": "Sidetic"
         },
         {
             "property": "blk",
@@ -1853,6 +1883,11 @@
         },
         {
             "property": "blk",
+            "shortName": "Tai_Yo",
+            "longName": "Tai_Yo"
+        },
+        {
+            "property": "blk",
             "shortName": "Takri",
             "longName": "Takri"
         },
@@ -1880,6 +1915,11 @@
             "property": "blk",
             "shortName": "Tangut_Components",
             "longName": "Tangut_Components"
+        },
+        {
+            "property": "blk",
+            "shortName": "Tangut_Components_Sup",
+            "longName": "Tangut_Components_Supplement"
         },
         {
             "property": "blk",
@@ -1920,6 +1960,11 @@
             "property": "blk",
             "shortName": "Todhri",
             "longName": "Todhri"
+        },
+        {
+            "property": "blk",
+            "shortName": "Tolong_Siki",
+            "longName": "Tolong_Siki"
         },
         {
             "property": "blk",
@@ -3407,7 +3452,7 @@
         {
             "property": "InPC",
             "shortName": "NA",
-            "longName": "NA"
+            "longName": "Not_Applicable"
         },
         {
             "property": "InPC",
@@ -4396,6 +4441,11 @@
         },
         {
             "property": "jg",
+            "shortName": "Thin_Noon",
+            "longName": "Thin_Noon"
+        },
+        {
+            "property": "jg",
             "shortName": "Thin_Yeh",
             "longName": "Thin_Yeh"
         },
@@ -4578,6 +4628,11 @@
             "property": "lb",
             "shortName": "H3",
             "longName": "H3"
+        },
+        {
+            "property": "lb",
+            "shortName": "HH",
+            "longName": "Unambiguous_Hyphen"
         },
         {
             "property": "lb",
@@ -5110,6 +5165,11 @@
             "property": "sc",
             "shortName": "Beng",
             "longName": "Bengali"
+        },
+        {
+            "property": "sc",
+            "shortName": "Berf",
+            "longName": "Beria_Erfe"
         },
         {
             "property": "sc",
@@ -5709,6 +5769,11 @@
         },
         {
             "property": "sc",
+            "shortName": "Sidt",
+            "longName": "Sidetic"
+        },
+        {
+            "property": "sc",
             "shortName": "Sind",
             "longName": "Khudawadi"
         },
@@ -5794,6 +5859,11 @@
         },
         {
             "property": "sc",
+            "shortName": "Tayo",
+            "longName": "Tai_Yo"
+        },
+        {
+            "property": "sc",
             "shortName": "Telu",
             "longName": "Telugu"
         },
@@ -5836,6 +5906,11 @@
             "property": "sc",
             "shortName": "Todr",
             "longName": "Todhri"
+        },
+        {
+            "property": "sc",
+            "shortName": "Tols",
+            "longName": "Tolong_Siki"
         },
         {
             "property": "sc",

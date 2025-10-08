@@ -12350,6 +12350,12 @@
         },
         {
             "range": [
+                "088F"
+            ],
+            "name": "ARABIC LETTER NOON WITH RING ABOVE"
+        },
+        {
+            "range": [
                 "0890"
             ],
             "name": "ARABIC POUND MARK ABOVE"
@@ -16796,6 +16802,12 @@
         },
         {
             "range": [
+                "0C5C"
+            ],
+            "name": "TELUGU ARCHAIC SHRII"
+        },
+        {
+            "range": [
                 "0C5D"
             ],
             "name": "TELUGU LETTER NAKAARA POLLU"
@@ -17369,6 +17381,12 @@
                 "0CD6"
             ],
             "name": "KANNADA AI LENGTH MARK"
+        },
+        {
+            "range": [
+                "0CDC"
+            ],
+            "name": "KANNADA ARCHAIC SHRII"
         },
         {
             "range": [
@@ -36446,6 +36464,168 @@
         },
         {
             "range": [
+                "1ACF"
+            ],
+            "name": "COMBINING DOUBLE CARON"
+        },
+        {
+            "range": [
+                "1AD0"
+            ],
+            "name": "COMBINING VERTICAL-LINE-ACUTE"
+        },
+        {
+            "range": [
+                "1AD1"
+            ],
+            "name": "COMBINING GRAVE-VERTICAL-LINE"
+        },
+        {
+            "range": [
+                "1AD2"
+            ],
+            "name": "COMBINING VERTICAL-LINE-GRAVE"
+        },
+        {
+            "range": [
+                "1AD3"
+            ],
+            "name": "COMBINING ACUTE-VERTICAL-LINE"
+        },
+        {
+            "range": [
+                "1AD4"
+            ],
+            "name": "COMBINING VERTICAL-LINE-MACRON"
+        },
+        {
+            "range": [
+                "1AD5"
+            ],
+            "name": "COMBINING MACRON-VERTICAL-LINE"
+        },
+        {
+            "range": [
+                "1AD6"
+            ],
+            "name": "COMBINING VERTICAL-LINE-ACUTE-GRAVE"
+        },
+        {
+            "range": [
+                "1AD7"
+            ],
+            "name": "COMBINING VERTICAL-LINE-GRAVE-ACUTE"
+        },
+        {
+            "range": [
+                "1AD8"
+            ],
+            "name": "COMBINING MACRON-ACUTE-GRAVE"
+        },
+        {
+            "range": [
+                "1AD9"
+            ],
+            "name": "COMBINING SHARP SIGN"
+        },
+        {
+            "range": [
+                "1ADA"
+            ],
+            "name": "COMBINING FLAT SIGN"
+        },
+        {
+            "range": [
+                "1ADB"
+            ],
+            "name": "COMBINING DOWN TACK ABOVE"
+        },
+        {
+            "range": [
+                "1ADC"
+            ],
+            "name": "COMBINING DIAERESIS WITH RAISED LEFT DOT"
+        },
+        {
+            "range": [
+                "1ADD"
+            ],
+            "name": "COMBINING DOT-AND-RING BELOW"
+        },
+        {
+            "range": [
+                "1AE0"
+            ],
+            "name": "COMBINING LEFT TACK ABOVE"
+        },
+        {
+            "range": [
+                "1AE1"
+            ],
+            "name": "COMBINING RIGHT TACK ABOVE"
+        },
+        {
+            "range": [
+                "1AE2"
+            ],
+            "name": "COMBINING MINUS SIGN ABOVE"
+        },
+        {
+            "range": [
+                "1AE3"
+            ],
+            "name": "COMBINING INVERTED BRIDGE ABOVE"
+        },
+        {
+            "range": [
+                "1AE4"
+            ],
+            "name": "COMBINING SQUARE ABOVE"
+        },
+        {
+            "range": [
+                "1AE5"
+            ],
+            "name": "COMBINING SEAGULL ABOVE"
+        },
+        {
+            "range": [
+                "1AE6"
+            ],
+            "name": "COMBINING DOUBLE ARCH BELOW"
+        },
+        {
+            "range": [
+                "1AE7"
+            ],
+            "name": "COMBINING DOUBLE ARCH ABOVE"
+        },
+        {
+            "range": [
+                "1AE8"
+            ],
+            "name": "COMBINING EQUALS SIGN ABOVE"
+        },
+        {
+            "range": [
+                "1AE9"
+            ],
+            "name": "COMBINING LEFT ANGLE CENTRED ABOVE"
+        },
+        {
+            "range": [
+                "1AEA"
+            ],
+            "name": "COMBINING UPWARDS ARROW ABOVE"
+        },
+        {
+            "range": [
+                "1AEB"
+            ],
+            "name": "COMBINING DOUBLE RIGHTWARDS ARROW ABOVE"
+        },
+        {
+            "range": [
                 "1B00"
             ],
             "name": "BALINESE SIGN ULU RICEM"
@@ -44891,6 +45071,12 @@
                 "20C0"
             ],
             "name": "SOM SIGN"
+        },
+        {
+            "range": [
+                "20C1"
+            ],
+            "name": "SAUDI RIYAL SIGN"
         },
         {
             "range": [
@@ -61055,6 +61241,12 @@
                 "2B95"
             ],
             "name": "RIGHTWARDS BLACK ARROW"
+        },
+        {
+            "range": [
+                "2B96"
+            ],
+            "name": "EQUALS SIGN WITH INFINITY ABOVE"
         },
         {
             "range": [
@@ -85258,6 +85450,18 @@
         },
         {
             "range": [
+                "A7CE"
+            ],
+            "name": "LATIN CAPITAL LETTER PHARYNGEAL VOICED FRICATIVE"
+        },
+        {
+            "range": [
+                "A7CF"
+            ],
+            "name": "LATIN SMALL LETTER PHARYNGEAL VOICED FRICATIVE"
+        },
+        {
+            "range": [
                 "A7D0"
             ],
             "name": "LATIN CAPITAL LETTER CLOSED INSULAR G"
@@ -85270,9 +85474,21 @@
         },
         {
             "range": [
+                "A7D2"
+            ],
+            "name": "LATIN CAPITAL LETTER DOUBLE THORN"
+        },
+        {
+            "range": [
                 "A7D3"
             ],
             "name": "LATIN SMALL LETTER DOUBLE THORN"
+        },
+        {
+            "range": [
+                "A7D4"
+            ],
+            "name": "LATIN CAPITAL LETTER DOUBLE WYNN"
         },
         {
             "range": [
@@ -85321,6 +85537,12 @@
                 "A7DC"
             ],
             "name": "LATIN CAPITAL LETTER LAMBDA WITH STROKE"
+        },
+        {
+            "range": [
+                "A7F1"
+            ],
+            "name": "MODIFIER LETTER CAPITAL S"
         },
         {
             "range": [
@@ -159318,6 +159540,102 @@
         },
         {
             "range": [
+                "FBC3"
+            ],
+            "name": "ARABIC LIGATURE JALLA WA-ALAA"
+        },
+        {
+            "range": [
+                "FBC4"
+            ],
+            "name": "ARABIC LIGATURE DAAMAT BARAKAATUHUM"
+        },
+        {
+            "range": [
+                "FBC5"
+            ],
+            "name": "ARABIC LIGATURE RAHMATU ALLAAHI TAAALAA ALAYH"
+        },
+        {
+            "range": [
+                "FBC6"
+            ],
+            "name": "ARABIC LIGATURE RAHMATU ALLAAHI ALAYHIM"
+        },
+        {
+            "range": [
+                "FBC7"
+            ],
+            "name": "ARABIC LIGATURE RAHMATU ALLAAHI ALAYHIMAA"
+        },
+        {
+            "range": [
+                "FBC8"
+            ],
+            "name": "ARABIC LIGATURE RAHIMAHUM ALLAAHU TAAALAA"
+        },
+        {
+            "range": [
+                "FBC9"
+            ],
+            "name": "ARABIC LIGATURE RAHIMAHUMAA ALLAAH"
+        },
+        {
+            "range": [
+                "FBCA"
+            ],
+            "name": "ARABIC LIGATURE RAHIMAHUMAA ALLAAHU TAAALAA"
+        },
+        {
+            "range": [
+                "FBCB"
+            ],
+            "name": "ARABIC LIGATURE RADI ALLAAHU TAAALAA ANHUM"
+        },
+        {
+            "range": [
+                "FBCC"
+            ],
+            "name": "ARABIC LIGATURE HAFIZAHU ALLAAH"
+        },
+        {
+            "range": [
+                "FBCD"
+            ],
+            "name": "ARABIC LIGATURE HAFIZAHU ALLAAHU TAAALAA"
+        },
+        {
+            "range": [
+                "FBCE"
+            ],
+            "name": "ARABIC LIGATURE HAFIZAHUM ALLAAHU TAAALAA"
+        },
+        {
+            "range": [
+                "FBCF"
+            ],
+            "name": "ARABIC LIGATURE HAFIZAHUMAA ALLAAHU TAAALAA"
+        },
+        {
+            "range": [
+                "FBD0"
+            ],
+            "name": "ARABIC LIGATURE SALLALLAAHU TAAALAA ALAYHI WA-SALLAM"
+        },
+        {
+            "range": [
+                "FBD1"
+            ],
+            "name": "ARABIC LIGATURE AJJAL ALLAAHU FARAJAHU ASH-SHAREEF"
+        },
+        {
+            "range": [
+                "FBD2"
+            ],
+            "name": "ARABIC LIGATURE ALAYHI AR-RAHMAH"
+        },
+        {
+            "range": [
                 "FBD3"
             ],
             "name": "ARABIC LETTER NG ISOLATED FORM"
@@ -161988,6 +162306,18 @@
         },
         {
             "range": [
+                "FD90"
+            ],
+            "name": "ARABIC LIGATURE RAHMATU ALLAAHI ALAYH"
+        },
+        {
+            "range": [
+                "FD91"
+            ],
+            "name": "ARABIC LIGATURE RAHMATU ALLAAHI ALAYHAA"
+        },
+        {
+            "range": [
                 "FD92"
             ],
             "name": "ARABIC LIGATURE MEEM WITH JEEM WITH KHAH INITIAL FORM"
@@ -162309,6 +162639,48 @@
                 "FDC7"
             ],
             "name": "ARABIC LIGATURE NOON WITH JEEM WITH YEH FINAL FORM"
+        },
+        {
+            "range": [
+                "FDC8"
+            ],
+            "name": "ARABIC LIGATURE RAHIMAHU ALLAAH TAAALAA"
+        },
+        {
+            "range": [
+                "FDC9"
+            ],
+            "name": "ARABIC LIGATURE RADI ALLAAHU TAAALAA ANH"
+        },
+        {
+            "range": [
+                "FDCA"
+            ],
+            "name": "ARABIC LIGATURE RADI ALLAAHU TAAALAA ANHAA"
+        },
+        {
+            "range": [
+                "FDCB"
+            ],
+            "name": "ARABIC LIGATURE RADI ALLAAHU TAAALAA ANHUMAA"
+        },
+        {
+            "range": [
+                "FDCC"
+            ],
+            "name": "ARABIC LIGATURE SALLALLAHU ALAYHI WA-ALAA AALIHEE WA-SALLAM"
+        },
+        {
+            "range": [
+                "FDCD"
+            ],
+            "name": "ARABIC LIGATURE AJJAL ALLAAHU TAAALAA FARAJAHU ASH-SHAREEF"
+        },
+        {
+            "range": [
+                "FDCE"
+            ],
+            "name": "ARABIC LIGATURE KARRAMA ALLAAHU WAJHAH"
         },
         {
             "range": [
@@ -176016,6 +176388,162 @@
         },
         {
             "range": [
+                "10940"
+            ],
+            "name": "SIDETIC LETTER N01"
+        },
+        {
+            "range": [
+                "10941"
+            ],
+            "name": "SIDETIC LETTER N02"
+        },
+        {
+            "range": [
+                "10942"
+            ],
+            "name": "SIDETIC LETTER N03"
+        },
+        {
+            "range": [
+                "10943"
+            ],
+            "name": "SIDETIC LETTER N04"
+        },
+        {
+            "range": [
+                "10944"
+            ],
+            "name": "SIDETIC LETTER N05"
+        },
+        {
+            "range": [
+                "10945"
+            ],
+            "name": "SIDETIC LETTER N06"
+        },
+        {
+            "range": [
+                "10946"
+            ],
+            "name": "SIDETIC LETTER N07"
+        },
+        {
+            "range": [
+                "10947"
+            ],
+            "name": "SIDETIC LETTER N08"
+        },
+        {
+            "range": [
+                "10948"
+            ],
+            "name": "SIDETIC LETTER N09"
+        },
+        {
+            "range": [
+                "10949"
+            ],
+            "name": "SIDETIC LETTER N10"
+        },
+        {
+            "range": [
+                "1094A"
+            ],
+            "name": "SIDETIC LETTER N11"
+        },
+        {
+            "range": [
+                "1094B"
+            ],
+            "name": "SIDETIC LETTER N12"
+        },
+        {
+            "range": [
+                "1094C"
+            ],
+            "name": "SIDETIC LETTER N13"
+        },
+        {
+            "range": [
+                "1094D"
+            ],
+            "name": "SIDETIC LETTER N14"
+        },
+        {
+            "range": [
+                "1094E"
+            ],
+            "name": "SIDETIC LETTER N15"
+        },
+        {
+            "range": [
+                "1094F"
+            ],
+            "name": "SIDETIC LETTER N16"
+        },
+        {
+            "range": [
+                "10950"
+            ],
+            "name": "SIDETIC LETTER N17"
+        },
+        {
+            "range": [
+                "10951"
+            ],
+            "name": "SIDETIC LETTER N18"
+        },
+        {
+            "range": [
+                "10952"
+            ],
+            "name": "SIDETIC LETTER N19"
+        },
+        {
+            "range": [
+                "10953"
+            ],
+            "name": "SIDETIC LETTER N20"
+        },
+        {
+            "range": [
+                "10954"
+            ],
+            "name": "SIDETIC LETTER N21"
+        },
+        {
+            "range": [
+                "10955"
+            ],
+            "name": "SIDETIC LETTER N22"
+        },
+        {
+            "range": [
+                "10956"
+            ],
+            "name": "SIDETIC LETTER N23"
+        },
+        {
+            "range": [
+                "10957"
+            ],
+            "name": "SIDETIC LETTER N24"
+        },
+        {
+            "range": [
+                "10958"
+            ],
+            "name": "SIDETIC LETTER N25"
+        },
+        {
+            "range": [
+                "10959"
+            ],
+            "name": "SIDETIC LETTER N26"
+        },
+        {
+            "range": [
                 "10980"
             ],
             "name": "MEROITIC HIEROGLYPHIC LETTER A"
@@ -181011,6 +181539,90 @@
                 "10EC4"
             ],
             "name": "ARABIC LETTER KAF WITH TWO DOTS VERTICALLY BELOW"
+        },
+        {
+            "range": [
+                "10EC5"
+            ],
+            "name": "ARABIC SMALL YEH BARREE WITH TWO DOTS BELOW"
+        },
+        {
+            "range": [
+                "10EC6"
+            ],
+            "name": "ARABIC LETTER THIN NOON"
+        },
+        {
+            "range": [
+                "10EC7"
+            ],
+            "name": "ARABIC LETTER YEH WITH FOUR DOTS BELOW"
+        },
+        {
+            "range": [
+                "10ED0"
+            ],
+            "name": "ARABIC BIBLICAL END OF VERSE"
+        },
+        {
+            "range": [
+                "10ED1"
+            ],
+            "name": "ARABIC LIGATURE ALAYHAA AS-SALAATU WAS-SALAAM"
+        },
+        {
+            "range": [
+                "10ED2"
+            ],
+            "name": "ARABIC LIGATURE ALAYHIM AS-SALAATU WAS-SALAAM"
+        },
+        {
+            "range": [
+                "10ED3"
+            ],
+            "name": "ARABIC LIGATURE ALAYHIMAA AS-SALAATU WAS-SALAAM"
+        },
+        {
+            "range": [
+                "10ED4"
+            ],
+            "name": "ARABIC LIGATURE QADDASA ALLAAHU SIRRAH"
+        },
+        {
+            "range": [
+                "10ED5"
+            ],
+            "name": "ARABIC LIGATURE QUDDISA SIRRUHUM"
+        },
+        {
+            "range": [
+                "10ED6"
+            ],
+            "name": "ARABIC LIGATURE QUDDISA SIRRUHUMAA"
+        },
+        {
+            "range": [
+                "10ED7"
+            ],
+            "name": "ARABIC LIGATURE QUDDISAT ASRAARUHUM"
+        },
+        {
+            "range": [
+                "10ED8"
+            ],
+            "name": "ARABIC LIGATURE NAWWARA ALLAAHU MARQADAH"
+        },
+        {
+            "range": [
+                "10EFA"
+            ],
+            "name": "ARABIC DOUBLE VERTICAL BAR BELOW"
+        },
+        {
+            "range": [
+                "10EFB"
+            ],
+            "name": "ARABIC SMALL LOW NOON"
         },
         {
             "range": [
@@ -192894,6 +193506,54 @@
         },
         {
             "range": [
+                "11B60"
+            ],
+            "name": "SHARADA VOWEL SIGN OE"
+        },
+        {
+            "range": [
+                "11B61"
+            ],
+            "name": "SHARADA VOWEL SIGN OOE"
+        },
+        {
+            "range": [
+                "11B62"
+            ],
+            "name": "SHARADA VOWEL SIGN UE"
+        },
+        {
+            "range": [
+                "11B63"
+            ],
+            "name": "SHARADA VOWEL SIGN UUE"
+        },
+        {
+            "range": [
+                "11B64"
+            ],
+            "name": "SHARADA VOWEL SIGN SHORT E"
+        },
+        {
+            "range": [
+                "11B65"
+            ],
+            "name": "SHARADA VOWEL SIGN SHORT O"
+        },
+        {
+            "range": [
+                "11B66"
+            ],
+            "name": "SHARADA VOWEL SIGN CANDRA E"
+        },
+        {
+            "range": [
+                "11B67"
+            ],
+            "name": "SHARADA VOWEL SIGN CANDRA O"
+        },
+        {
+            "range": [
                 "11BC0"
             ],
             "name": "SUNUWAR LETTER DEVI"
@@ -194973,6 +195633,330 @@
                 "11DA9"
             ],
             "name": "GUNJALA GONDI DIGIT NINE"
+        },
+        {
+            "range": [
+                "11DB0"
+            ],
+            "name": "TOLONG SIKI LETTER I"
+        },
+        {
+            "range": [
+                "11DB1"
+            ],
+            "name": "TOLONG SIKI LETTER E"
+        },
+        {
+            "range": [
+                "11DB2"
+            ],
+            "name": "TOLONG SIKI LETTER U"
+        },
+        {
+            "range": [
+                "11DB3"
+            ],
+            "name": "TOLONG SIKI LETTER O"
+        },
+        {
+            "range": [
+                "11DB4"
+            ],
+            "name": "TOLONG SIKI LETTER A"
+        },
+        {
+            "range": [
+                "11DB5"
+            ],
+            "name": "TOLONG SIKI LETTER AA"
+        },
+        {
+            "range": [
+                "11DB6"
+            ],
+            "name": "TOLONG SIKI LETTER P"
+        },
+        {
+            "range": [
+                "11DB7"
+            ],
+            "name": "TOLONG SIKI LETTER PH"
+        },
+        {
+            "range": [
+                "11DB8"
+            ],
+            "name": "TOLONG SIKI LETTER B"
+        },
+        {
+            "range": [
+                "11DB9"
+            ],
+            "name": "TOLONG SIKI LETTER BH"
+        },
+        {
+            "range": [
+                "11DBA"
+            ],
+            "name": "TOLONG SIKI LETTER M"
+        },
+        {
+            "range": [
+                "11DBB"
+            ],
+            "name": "TOLONG SIKI LETTER T"
+        },
+        {
+            "range": [
+                "11DBC"
+            ],
+            "name": "TOLONG SIKI LETTER TH"
+        },
+        {
+            "range": [
+                "11DBD"
+            ],
+            "name": "TOLONG SIKI LETTER D"
+        },
+        {
+            "range": [
+                "11DBE"
+            ],
+            "name": "TOLONG SIKI LETTER DH"
+        },
+        {
+            "range": [
+                "11DBF"
+            ],
+            "name": "TOLONG SIKI LETTER N"
+        },
+        {
+            "range": [
+                "11DC0"
+            ],
+            "name": "TOLONG SIKI LETTER TT"
+        },
+        {
+            "range": [
+                "11DC1"
+            ],
+            "name": "TOLONG SIKI LETTER TTH"
+        },
+        {
+            "range": [
+                "11DC2"
+            ],
+            "name": "TOLONG SIKI LETTER DD"
+        },
+        {
+            "range": [
+                "11DC3"
+            ],
+            "name": "TOLONG SIKI LETTER DDH"
+        },
+        {
+            "range": [
+                "11DC4"
+            ],
+            "name": "TOLONG SIKI LETTER NN"
+        },
+        {
+            "range": [
+                "11DC5"
+            ],
+            "name": "TOLONG SIKI LETTER C"
+        },
+        {
+            "range": [
+                "11DC6"
+            ],
+            "name": "TOLONG SIKI LETTER CH"
+        },
+        {
+            "range": [
+                "11DC7"
+            ],
+            "name": "TOLONG SIKI LETTER J"
+        },
+        {
+            "range": [
+                "11DC8"
+            ],
+            "name": "TOLONG SIKI LETTER JH"
+        },
+        {
+            "range": [
+                "11DC9"
+            ],
+            "name": "TOLONG SIKI LETTER NY"
+        },
+        {
+            "range": [
+                "11DCA"
+            ],
+            "name": "TOLONG SIKI LETTER K"
+        },
+        {
+            "range": [
+                "11DCB"
+            ],
+            "name": "TOLONG SIKI LETTER KH"
+        },
+        {
+            "range": [
+                "11DCC"
+            ],
+            "name": "TOLONG SIKI LETTER G"
+        },
+        {
+            "range": [
+                "11DCD"
+            ],
+            "name": "TOLONG SIKI LETTER GH"
+        },
+        {
+            "range": [
+                "11DCE"
+            ],
+            "name": "TOLONG SIKI LETTER NG"
+        },
+        {
+            "range": [
+                "11DCF"
+            ],
+            "name": "TOLONG SIKI LETTER Y"
+        },
+        {
+            "range": [
+                "11DD0"
+            ],
+            "name": "TOLONG SIKI LETTER R"
+        },
+        {
+            "range": [
+                "11DD1"
+            ],
+            "name": "TOLONG SIKI LETTER L"
+        },
+        {
+            "range": [
+                "11DD2"
+            ],
+            "name": "TOLONG SIKI LETTER V"
+        },
+        {
+            "range": [
+                "11DD3"
+            ],
+            "name": "TOLONG SIKI LETTER NNY"
+        },
+        {
+            "range": [
+                "11DD4"
+            ],
+            "name": "TOLONG SIKI LETTER S"
+        },
+        {
+            "range": [
+                "11DD5"
+            ],
+            "name": "TOLONG SIKI LETTER H"
+        },
+        {
+            "range": [
+                "11DD6"
+            ],
+            "name": "TOLONG SIKI LETTER X"
+        },
+        {
+            "range": [
+                "11DD7"
+            ],
+            "name": "TOLONG SIKI LETTER RR"
+        },
+        {
+            "range": [
+                "11DD8"
+            ],
+            "name": "TOLONG SIKI LETTER RRH"
+        },
+        {
+            "range": [
+                "11DD9"
+            ],
+            "name": "TOLONG SIKI SIGN SELA"
+        },
+        {
+            "range": [
+                "11DDA"
+            ],
+            "name": "TOLONG SIKI SIGN HECAKA"
+        },
+        {
+            "range": [
+                "11DDB"
+            ],
+            "name": "TOLONG SIKI UNGGA"
+        },
+        {
+            "range": [
+                "11DE0"
+            ],
+            "name": "TOLONG SIKI DIGIT ZERO"
+        },
+        {
+            "range": [
+                "11DE1"
+            ],
+            "name": "TOLONG SIKI DIGIT ONE"
+        },
+        {
+            "range": [
+                "11DE2"
+            ],
+            "name": "TOLONG SIKI DIGIT TWO"
+        },
+        {
+            "range": [
+                "11DE3"
+            ],
+            "name": "TOLONG SIKI DIGIT THREE"
+        },
+        {
+            "range": [
+                "11DE4"
+            ],
+            "name": "TOLONG SIKI DIGIT FOUR"
+        },
+        {
+            "range": [
+                "11DE5"
+            ],
+            "name": "TOLONG SIKI DIGIT FIVE"
+        },
+        {
+            "range": [
+                "11DE6"
+            ],
+            "name": "TOLONG SIKI DIGIT SIX"
+        },
+        {
+            "range": [
+                "11DE7"
+            ],
+            "name": "TOLONG SIKI DIGIT SEVEN"
+        },
+        {
+            "range": [
+                "11DE8"
+            ],
+            "name": "TOLONG SIKI DIGIT EIGHT"
+        },
+        {
+            "range": [
+                "11DE9"
+            ],
+            "name": "TOLONG SIKI DIGIT NINE"
         },
         {
             "range": [
@@ -220549,6 +221533,306 @@
         },
         {
             "range": [
+                "16EA0"
+            ],
+            "name": "BERIA ERFE CAPITAL LETTER ARKAB"
+        },
+        {
+            "range": [
+                "16EA1"
+            ],
+            "name": "BERIA ERFE CAPITAL LETTER BASIGNA"
+        },
+        {
+            "range": [
+                "16EA2"
+            ],
+            "name": "BERIA ERFE CAPITAL LETTER DARBAI"
+        },
+        {
+            "range": [
+                "16EA3"
+            ],
+            "name": "BERIA ERFE CAPITAL LETTER EH"
+        },
+        {
+            "range": [
+                "16EA4"
+            ],
+            "name": "BERIA ERFE CAPITAL LETTER FITKO"
+        },
+        {
+            "range": [
+                "16EA5"
+            ],
+            "name": "BERIA ERFE CAPITAL LETTER GOWAY"
+        },
+        {
+            "range": [
+                "16EA6"
+            ],
+            "name": "BERIA ERFE CAPITAL LETTER HIRDEABO"
+        },
+        {
+            "range": [
+                "16EA7"
+            ],
+            "name": "BERIA ERFE CAPITAL LETTER I"
+        },
+        {
+            "range": [
+                "16EA8"
+            ],
+            "name": "BERIA ERFE CAPITAL LETTER DJAI"
+        },
+        {
+            "range": [
+                "16EA9"
+            ],
+            "name": "BERIA ERFE CAPITAL LETTER KOBO"
+        },
+        {
+            "range": [
+                "16EAA"
+            ],
+            "name": "BERIA ERFE CAPITAL LETTER LAKKO"
+        },
+        {
+            "range": [
+                "16EAB"
+            ],
+            "name": "BERIA ERFE CAPITAL LETTER MERI"
+        },
+        {
+            "range": [
+                "16EAC"
+            ],
+            "name": "BERIA ERFE CAPITAL LETTER NINI"
+        },
+        {
+            "range": [
+                "16EAD"
+            ],
+            "name": "BERIA ERFE CAPITAL LETTER GNA"
+        },
+        {
+            "range": [
+                "16EAE"
+            ],
+            "name": "BERIA ERFE CAPITAL LETTER NGAY"
+        },
+        {
+            "range": [
+                "16EAF"
+            ],
+            "name": "BERIA ERFE CAPITAL LETTER OI"
+        },
+        {
+            "range": [
+                "16EB0"
+            ],
+            "name": "BERIA ERFE CAPITAL LETTER PI"
+        },
+        {
+            "range": [
+                "16EB1"
+            ],
+            "name": "BERIA ERFE CAPITAL LETTER ERIGO"
+        },
+        {
+            "range": [
+                "16EB2"
+            ],
+            "name": "BERIA ERFE CAPITAL LETTER ERIGO TAMURA"
+        },
+        {
+            "range": [
+                "16EB3"
+            ],
+            "name": "BERIA ERFE CAPITAL LETTER SERI"
+        },
+        {
+            "range": [
+                "16EB4"
+            ],
+            "name": "BERIA ERFE CAPITAL LETTER SHEP"
+        },
+        {
+            "range": [
+                "16EB5"
+            ],
+            "name": "BERIA ERFE CAPITAL LETTER TATASOUE"
+        },
+        {
+            "range": [
+                "16EB6"
+            ],
+            "name": "BERIA ERFE CAPITAL LETTER UI"
+        },
+        {
+            "range": [
+                "16EB7"
+            ],
+            "name": "BERIA ERFE CAPITAL LETTER WASSE"
+        },
+        {
+            "range": [
+                "16EB8"
+            ],
+            "name": "BERIA ERFE CAPITAL LETTER AY"
+        },
+        {
+            "range": [
+                "16EBB"
+            ],
+            "name": "BERIA ERFE SMALL LETTER ARKAB"
+        },
+        {
+            "range": [
+                "16EBC"
+            ],
+            "name": "BERIA ERFE SMALL LETTER BASIGNA"
+        },
+        {
+            "range": [
+                "16EBD"
+            ],
+            "name": "BERIA ERFE SMALL LETTER DARBAI"
+        },
+        {
+            "range": [
+                "16EBE"
+            ],
+            "name": "BERIA ERFE SMALL LETTER EH"
+        },
+        {
+            "range": [
+                "16EBF"
+            ],
+            "name": "BERIA ERFE SMALL LETTER FITKO"
+        },
+        {
+            "range": [
+                "16EC0"
+            ],
+            "name": "BERIA ERFE SMALL LETTER GOWAY"
+        },
+        {
+            "range": [
+                "16EC1"
+            ],
+            "name": "BERIA ERFE SMALL LETTER HIRDEABO"
+        },
+        {
+            "range": [
+                "16EC2"
+            ],
+            "name": "BERIA ERFE SMALL LETTER I"
+        },
+        {
+            "range": [
+                "16EC3"
+            ],
+            "name": "BERIA ERFE SMALL LETTER DJAI"
+        },
+        {
+            "range": [
+                "16EC4"
+            ],
+            "name": "BERIA ERFE SMALL LETTER KOBO"
+        },
+        {
+            "range": [
+                "16EC5"
+            ],
+            "name": "BERIA ERFE SMALL LETTER LAKKO"
+        },
+        {
+            "range": [
+                "16EC6"
+            ],
+            "name": "BERIA ERFE SMALL LETTER MERI"
+        },
+        {
+            "range": [
+                "16EC7"
+            ],
+            "name": "BERIA ERFE SMALL LETTER NINI"
+        },
+        {
+            "range": [
+                "16EC8"
+            ],
+            "name": "BERIA ERFE SMALL LETTER GNA"
+        },
+        {
+            "range": [
+                "16EC9"
+            ],
+            "name": "BERIA ERFE SMALL LETTER NGAY"
+        },
+        {
+            "range": [
+                "16ECA"
+            ],
+            "name": "BERIA ERFE SMALL LETTER OI"
+        },
+        {
+            "range": [
+                "16ECB"
+            ],
+            "name": "BERIA ERFE SMALL LETTER PI"
+        },
+        {
+            "range": [
+                "16ECC"
+            ],
+            "name": "BERIA ERFE SMALL LETTER ERIGO"
+        },
+        {
+            "range": [
+                "16ECD"
+            ],
+            "name": "BERIA ERFE SMALL LETTER ERIGO TAMURA"
+        },
+        {
+            "range": [
+                "16ECE"
+            ],
+            "name": "BERIA ERFE SMALL LETTER SERI"
+        },
+        {
+            "range": [
+                "16ECF"
+            ],
+            "name": "BERIA ERFE SMALL LETTER SHEP"
+        },
+        {
+            "range": [
+                "16ED0"
+            ],
+            "name": "BERIA ERFE SMALL LETTER TATASOUE"
+        },
+        {
+            "range": [
+                "16ED1"
+            ],
+            "name": "BERIA ERFE SMALL LETTER UI"
+        },
+        {
+            "range": [
+                "16ED2"
+            ],
+            "name": "BERIA ERFE SMALL LETTER WASSE"
+        },
+        {
+            "range": [
+                "16ED3"
+            ],
+            "name": "BERIA ERFE SMALL LETTER AY"
+        },
+        {
+            "range": [
                 "16F00"
             ],
             "name": "MIAO LETTER PA"
@@ -221485,8 +222769,38 @@
         },
         {
             "range": [
+                "16FF2"
+            ],
+            "name": "CHINESE SMALL SIMPLIFIED ER"
+        },
+        {
+            "range": [
+                "16FF3"
+            ],
+            "name": "CHINESE SMALL TRADITIONAL ER"
+        },
+        {
+            "range": [
+                "16FF4"
+            ],
+            "name": "YANGQIN SIGN SLOW ONE BEAT"
+        },
+        {
+            "range": [
+                "16FF5"
+            ],
+            "name": "YANGQIN SIGN SLOW THREE HALF BEATS"
+        },
+        {
+            "range": [
+                "16FF6"
+            ],
+            "name": "YANGQIN SIGN SLOW TWO BEATS"
+        },
+        {
+            "range": [
                 "17000",
-                "187F7"
+                "187FF"
             ],
             "name": "TANGUT IDEOGRAPH-*"
         },
@@ -226114,9 +227428,699 @@
         {
             "range": [
                 "18D00",
-                "18D08"
+                "18D1E"
             ],
             "name": "TANGUT IDEOGRAPH-*"
+        },
+        {
+            "range": [
+                "18D80"
+            ],
+            "name": "TANGUT COMPONENT-769"
+        },
+        {
+            "range": [
+                "18D81"
+            ],
+            "name": "TANGUT COMPONENT-770"
+        },
+        {
+            "range": [
+                "18D82"
+            ],
+            "name": "TANGUT COMPONENT-771"
+        },
+        {
+            "range": [
+                "18D83"
+            ],
+            "name": "TANGUT COMPONENT-772"
+        },
+        {
+            "range": [
+                "18D84"
+            ],
+            "name": "TANGUT COMPONENT-773"
+        },
+        {
+            "range": [
+                "18D85"
+            ],
+            "name": "TANGUT COMPONENT-774"
+        },
+        {
+            "range": [
+                "18D86"
+            ],
+            "name": "TANGUT COMPONENT-775"
+        },
+        {
+            "range": [
+                "18D87"
+            ],
+            "name": "TANGUT COMPONENT-776"
+        },
+        {
+            "range": [
+                "18D88"
+            ],
+            "name": "TANGUT COMPONENT-777"
+        },
+        {
+            "range": [
+                "18D89"
+            ],
+            "name": "TANGUT COMPONENT-778"
+        },
+        {
+            "range": [
+                "18D8A"
+            ],
+            "name": "TANGUT COMPONENT-779"
+        },
+        {
+            "range": [
+                "18D8B"
+            ],
+            "name": "TANGUT COMPONENT-780"
+        },
+        {
+            "range": [
+                "18D8C"
+            ],
+            "name": "TANGUT COMPONENT-781"
+        },
+        {
+            "range": [
+                "18D8D"
+            ],
+            "name": "TANGUT COMPONENT-782"
+        },
+        {
+            "range": [
+                "18D8E"
+            ],
+            "name": "TANGUT COMPONENT-783"
+        },
+        {
+            "range": [
+                "18D8F"
+            ],
+            "name": "TANGUT COMPONENT-784"
+        },
+        {
+            "range": [
+                "18D90"
+            ],
+            "name": "TANGUT COMPONENT-785"
+        },
+        {
+            "range": [
+                "18D91"
+            ],
+            "name": "TANGUT COMPONENT-786"
+        },
+        {
+            "range": [
+                "18D92"
+            ],
+            "name": "TANGUT COMPONENT-787"
+        },
+        {
+            "range": [
+                "18D93"
+            ],
+            "name": "TANGUT COMPONENT-788"
+        },
+        {
+            "range": [
+                "18D94"
+            ],
+            "name": "TANGUT COMPONENT-789"
+        },
+        {
+            "range": [
+                "18D95"
+            ],
+            "name": "TANGUT COMPONENT-790"
+        },
+        {
+            "range": [
+                "18D96"
+            ],
+            "name": "TANGUT COMPONENT-791"
+        },
+        {
+            "range": [
+                "18D97"
+            ],
+            "name": "TANGUT COMPONENT-792"
+        },
+        {
+            "range": [
+                "18D98"
+            ],
+            "name": "TANGUT COMPONENT-793"
+        },
+        {
+            "range": [
+                "18D99"
+            ],
+            "name": "TANGUT COMPONENT-794"
+        },
+        {
+            "range": [
+                "18D9A"
+            ],
+            "name": "TANGUT COMPONENT-795"
+        },
+        {
+            "range": [
+                "18D9B"
+            ],
+            "name": "TANGUT COMPONENT-796"
+        },
+        {
+            "range": [
+                "18D9C"
+            ],
+            "name": "TANGUT COMPONENT-797"
+        },
+        {
+            "range": [
+                "18D9D"
+            ],
+            "name": "TANGUT COMPONENT-798"
+        },
+        {
+            "range": [
+                "18D9E"
+            ],
+            "name": "TANGUT COMPONENT-799"
+        },
+        {
+            "range": [
+                "18D9F"
+            ],
+            "name": "TANGUT COMPONENT-800"
+        },
+        {
+            "range": [
+                "18DA0"
+            ],
+            "name": "TANGUT COMPONENT-801"
+        },
+        {
+            "range": [
+                "18DA1"
+            ],
+            "name": "TANGUT COMPONENT-802"
+        },
+        {
+            "range": [
+                "18DA2"
+            ],
+            "name": "TANGUT COMPONENT-803"
+        },
+        {
+            "range": [
+                "18DA3"
+            ],
+            "name": "TANGUT COMPONENT-804"
+        },
+        {
+            "range": [
+                "18DA4"
+            ],
+            "name": "TANGUT COMPONENT-805"
+        },
+        {
+            "range": [
+                "18DA5"
+            ],
+            "name": "TANGUT COMPONENT-806"
+        },
+        {
+            "range": [
+                "18DA6"
+            ],
+            "name": "TANGUT COMPONENT-807"
+        },
+        {
+            "range": [
+                "18DA7"
+            ],
+            "name": "TANGUT COMPONENT-808"
+        },
+        {
+            "range": [
+                "18DA8"
+            ],
+            "name": "TANGUT COMPONENT-809"
+        },
+        {
+            "range": [
+                "18DA9"
+            ],
+            "name": "TANGUT COMPONENT-810"
+        },
+        {
+            "range": [
+                "18DAA"
+            ],
+            "name": "TANGUT COMPONENT-811"
+        },
+        {
+            "range": [
+                "18DAB"
+            ],
+            "name": "TANGUT COMPONENT-812"
+        },
+        {
+            "range": [
+                "18DAC"
+            ],
+            "name": "TANGUT COMPONENT-813"
+        },
+        {
+            "range": [
+                "18DAD"
+            ],
+            "name": "TANGUT COMPONENT-814"
+        },
+        {
+            "range": [
+                "18DAE"
+            ],
+            "name": "TANGUT COMPONENT-815"
+        },
+        {
+            "range": [
+                "18DAF"
+            ],
+            "name": "TANGUT COMPONENT-816"
+        },
+        {
+            "range": [
+                "18DB0"
+            ],
+            "name": "TANGUT COMPONENT-817"
+        },
+        {
+            "range": [
+                "18DB1"
+            ],
+            "name": "TANGUT COMPONENT-818"
+        },
+        {
+            "range": [
+                "18DB2"
+            ],
+            "name": "TANGUT COMPONENT-819"
+        },
+        {
+            "range": [
+                "18DB3"
+            ],
+            "name": "TANGUT COMPONENT-820"
+        },
+        {
+            "range": [
+                "18DB4"
+            ],
+            "name": "TANGUT COMPONENT-821"
+        },
+        {
+            "range": [
+                "18DB5"
+            ],
+            "name": "TANGUT COMPONENT-822"
+        },
+        {
+            "range": [
+                "18DB6"
+            ],
+            "name": "TANGUT COMPONENT-823"
+        },
+        {
+            "range": [
+                "18DB7"
+            ],
+            "name": "TANGUT COMPONENT-824"
+        },
+        {
+            "range": [
+                "18DB8"
+            ],
+            "name": "TANGUT COMPONENT-825"
+        },
+        {
+            "range": [
+                "18DB9"
+            ],
+            "name": "TANGUT COMPONENT-826"
+        },
+        {
+            "range": [
+                "18DBA"
+            ],
+            "name": "TANGUT COMPONENT-827"
+        },
+        {
+            "range": [
+                "18DBB"
+            ],
+            "name": "TANGUT COMPONENT-828"
+        },
+        {
+            "range": [
+                "18DBC"
+            ],
+            "name": "TANGUT COMPONENT-829"
+        },
+        {
+            "range": [
+                "18DBD"
+            ],
+            "name": "TANGUT COMPONENT-830"
+        },
+        {
+            "range": [
+                "18DBE"
+            ],
+            "name": "TANGUT COMPONENT-831"
+        },
+        {
+            "range": [
+                "18DBF"
+            ],
+            "name": "TANGUT COMPONENT-832"
+        },
+        {
+            "range": [
+                "18DC0"
+            ],
+            "name": "TANGUT COMPONENT-833"
+        },
+        {
+            "range": [
+                "18DC1"
+            ],
+            "name": "TANGUT COMPONENT-834"
+        },
+        {
+            "range": [
+                "18DC2"
+            ],
+            "name": "TANGUT COMPONENT-835"
+        },
+        {
+            "range": [
+                "18DC3"
+            ],
+            "name": "TANGUT COMPONENT-836"
+        },
+        {
+            "range": [
+                "18DC4"
+            ],
+            "name": "TANGUT COMPONENT-837"
+        },
+        {
+            "range": [
+                "18DC5"
+            ],
+            "name": "TANGUT COMPONENT-838"
+        },
+        {
+            "range": [
+                "18DC6"
+            ],
+            "name": "TANGUT COMPONENT-839"
+        },
+        {
+            "range": [
+                "18DC7"
+            ],
+            "name": "TANGUT COMPONENT-840"
+        },
+        {
+            "range": [
+                "18DC8"
+            ],
+            "name": "TANGUT COMPONENT-841"
+        },
+        {
+            "range": [
+                "18DC9"
+            ],
+            "name": "TANGUT COMPONENT-842"
+        },
+        {
+            "range": [
+                "18DCA"
+            ],
+            "name": "TANGUT COMPONENT-843"
+        },
+        {
+            "range": [
+                "18DCB"
+            ],
+            "name": "TANGUT COMPONENT-844"
+        },
+        {
+            "range": [
+                "18DCC"
+            ],
+            "name": "TANGUT COMPONENT-845"
+        },
+        {
+            "range": [
+                "18DCD"
+            ],
+            "name": "TANGUT COMPONENT-846"
+        },
+        {
+            "range": [
+                "18DCE"
+            ],
+            "name": "TANGUT COMPONENT-847"
+        },
+        {
+            "range": [
+                "18DCF"
+            ],
+            "name": "TANGUT COMPONENT-848"
+        },
+        {
+            "range": [
+                "18DD0"
+            ],
+            "name": "TANGUT COMPONENT-849"
+        },
+        {
+            "range": [
+                "18DD1"
+            ],
+            "name": "TANGUT COMPONENT-850"
+        },
+        {
+            "range": [
+                "18DD2"
+            ],
+            "name": "TANGUT COMPONENT-851"
+        },
+        {
+            "range": [
+                "18DD3"
+            ],
+            "name": "TANGUT COMPONENT-852"
+        },
+        {
+            "range": [
+                "18DD4"
+            ],
+            "name": "TANGUT COMPONENT-853"
+        },
+        {
+            "range": [
+                "18DD5"
+            ],
+            "name": "TANGUT COMPONENT-854"
+        },
+        {
+            "range": [
+                "18DD6"
+            ],
+            "name": "TANGUT COMPONENT-855"
+        },
+        {
+            "range": [
+                "18DD7"
+            ],
+            "name": "TANGUT COMPONENT-856"
+        },
+        {
+            "range": [
+                "18DD8"
+            ],
+            "name": "TANGUT COMPONENT-857"
+        },
+        {
+            "range": [
+                "18DD9"
+            ],
+            "name": "TANGUT COMPONENT-858"
+        },
+        {
+            "range": [
+                "18DDA"
+            ],
+            "name": "TANGUT COMPONENT-859"
+        },
+        {
+            "range": [
+                "18DDB"
+            ],
+            "name": "TANGUT COMPONENT-860"
+        },
+        {
+            "range": [
+                "18DDC"
+            ],
+            "name": "TANGUT COMPONENT-861"
+        },
+        {
+            "range": [
+                "18DDD"
+            ],
+            "name": "TANGUT COMPONENT-862"
+        },
+        {
+            "range": [
+                "18DDE"
+            ],
+            "name": "TANGUT COMPONENT-863"
+        },
+        {
+            "range": [
+                "18DDF"
+            ],
+            "name": "TANGUT COMPONENT-864"
+        },
+        {
+            "range": [
+                "18DE0"
+            ],
+            "name": "TANGUT COMPONENT-865"
+        },
+        {
+            "range": [
+                "18DE1"
+            ],
+            "name": "TANGUT COMPONENT-866"
+        },
+        {
+            "range": [
+                "18DE2"
+            ],
+            "name": "TANGUT COMPONENT-867"
+        },
+        {
+            "range": [
+                "18DE3"
+            ],
+            "name": "TANGUT COMPONENT-868"
+        },
+        {
+            "range": [
+                "18DE4"
+            ],
+            "name": "TANGUT COMPONENT-869"
+        },
+        {
+            "range": [
+                "18DE5"
+            ],
+            "name": "TANGUT COMPONENT-870"
+        },
+        {
+            "range": [
+                "18DE6"
+            ],
+            "name": "TANGUT COMPONENT-871"
+        },
+        {
+            "range": [
+                "18DE7"
+            ],
+            "name": "TANGUT COMPONENT-872"
+        },
+        {
+            "range": [
+                "18DE8"
+            ],
+            "name": "TANGUT COMPONENT-873"
+        },
+        {
+            "range": [
+                "18DE9"
+            ],
+            "name": "TANGUT COMPONENT-874"
+        },
+        {
+            "range": [
+                "18DEA"
+            ],
+            "name": "TANGUT COMPONENT-875"
+        },
+        {
+            "range": [
+                "18DEB"
+            ],
+            "name": "TANGUT COMPONENT-876"
+        },
+        {
+            "range": [
+                "18DEC"
+            ],
+            "name": "TANGUT COMPONENT-877"
+        },
+        {
+            "range": [
+                "18DED"
+            ],
+            "name": "TANGUT COMPONENT-878"
+        },
+        {
+            "range": [
+                "18DEE"
+            ],
+            "name": "TANGUT COMPONENT-879"
+        },
+        {
+            "range": [
+                "18DEF"
+            ],
+            "name": "TANGUT COMPONENT-880"
+        },
+        {
+            "range": [
+                "18DF0"
+            ],
+            "name": "TANGUT COMPONENT-881"
+        },
+        {
+            "range": [
+                "18DF1"
+            ],
+            "name": "TANGUT COMPONENT-882"
+        },
+        {
+            "range": [
+                "18DF2"
+            ],
+            "name": "TANGUT COMPONENT-883"
         },
         {
             "range": [
@@ -230387,6 +232391,24 @@
         },
         {
             "range": [
+                "1CCFA"
+            ],
+            "name": "SNAKE SYMBOL"
+        },
+        {
+            "range": [
+                "1CCFB"
+            ],
+            "name": "FLYING SAUCER SYMBOL"
+        },
+        {
+            "range": [
+                "1CCFC"
+            ],
+            "name": "NOSE SYMBOL"
+        },
+        {
+            "range": [
                 "1CD00"
             ],
             "name": "BLOCK OCTANT-3"
@@ -233000,6 +235022,246 @@
                 "1CEB3"
             ],
             "name": "BLACK RIGHT TRIANGLE CARET"
+        },
+        {
+            "range": [
+                "1CEBA"
+            ],
+            "name": "FRAGILE SYMBOL"
+        },
+        {
+            "range": [
+                "1CEBB"
+            ],
+            "name": "OFFICE BUILDING SYMBOL"
+        },
+        {
+            "range": [
+                "1CEBC"
+            ],
+            "name": "TREE SYMBOL"
+        },
+        {
+            "range": [
+                "1CEBD"
+            ],
+            "name": "APPLE SYMBOL"
+        },
+        {
+            "range": [
+                "1CEBE"
+            ],
+            "name": "CHERRY SYMBOL"
+        },
+        {
+            "range": [
+                "1CEBF"
+            ],
+            "name": "STRAWBERRY SYMBOL"
+        },
+        {
+            "range": [
+                "1CEC0"
+            ],
+            "name": "HEBE"
+        },
+        {
+            "range": [
+                "1CEC1"
+            ],
+            "name": "IRIS"
+        },
+        {
+            "range": [
+                "1CEC2"
+            ],
+            "name": "FLORA"
+        },
+        {
+            "range": [
+                "1CEC3"
+            ],
+            "name": "METIS"
+        },
+        {
+            "range": [
+                "1CEC4"
+            ],
+            "name": "PARTHENOPE"
+        },
+        {
+            "range": [
+                "1CEC5"
+            ],
+            "name": "VICTORIA"
+        },
+        {
+            "range": [
+                "1CEC6"
+            ],
+            "name": "EGERIA"
+        },
+        {
+            "range": [
+                "1CEC7"
+            ],
+            "name": "IRENE"
+        },
+        {
+            "range": [
+                "1CEC8"
+            ],
+            "name": "EUNOMIA"
+        },
+        {
+            "range": [
+                "1CEC9"
+            ],
+            "name": "PSYCHE"
+        },
+        {
+            "range": [
+                "1CECA"
+            ],
+            "name": "THETIS"
+        },
+        {
+            "range": [
+                "1CECB"
+            ],
+            "name": "MELPOMENE"
+        },
+        {
+            "range": [
+                "1CECC"
+            ],
+            "name": "FORTUNA"
+        },
+        {
+            "range": [
+                "1CECD"
+            ],
+            "name": "ASTRONOMICAL SYMBOL FOR ASTEROID PROSERPINA"
+        },
+        {
+            "range": [
+                "1CECE"
+            ],
+            "name": "BELLONA"
+        },
+        {
+            "range": [
+                "1CECF"
+            ],
+            "name": "AMPHITRITE"
+        },
+        {
+            "range": [
+                "1CED0"
+            ],
+            "name": "LEUKOTHEA"
+        },
+        {
+            "range": [
+                "1CEE0"
+            ],
+            "name": "GEOMANTIC FIGURE POPULUS"
+        },
+        {
+            "range": [
+                "1CEE1"
+            ],
+            "name": "GEOMANTIC FIGURE TRISTITIA"
+        },
+        {
+            "range": [
+                "1CEE2"
+            ],
+            "name": "GEOMANTIC FIGURE ALBUS"
+        },
+        {
+            "range": [
+                "1CEE3"
+            ],
+            "name": "GEOMANTIC FIGURE FORTUNA MAJOR"
+        },
+        {
+            "range": [
+                "1CEE4"
+            ],
+            "name": "GEOMANTIC FIGURE RUBEUS"
+        },
+        {
+            "range": [
+                "1CEE5"
+            ],
+            "name": "GEOMANTIC FIGURE ACQUISITIO"
+        },
+        {
+            "range": [
+                "1CEE6"
+            ],
+            "name": "GEOMANTIC FIGURE CONJUNCTIO"
+        },
+        {
+            "range": [
+                "1CEE7"
+            ],
+            "name": "GEOMANTIC FIGURE CAPUT DRACONIS"
+        },
+        {
+            "range": [
+                "1CEE8"
+            ],
+            "name": "GEOMANTIC FIGURE LAETITIA"
+        },
+        {
+            "range": [
+                "1CEE9"
+            ],
+            "name": "GEOMANTIC FIGURE CARCER"
+        },
+        {
+            "range": [
+                "1CEEA"
+            ],
+            "name": "GEOMANTIC FIGURE AMISSIO"
+        },
+        {
+            "range": [
+                "1CEEB"
+            ],
+            "name": "GEOMANTIC FIGURE PUELLA"
+        },
+        {
+            "range": [
+                "1CEEC"
+            ],
+            "name": "GEOMANTIC FIGURE FORTUNA MINOR"
+        },
+        {
+            "range": [
+                "1CEED"
+            ],
+            "name": "GEOMANTIC FIGURE PUER"
+        },
+        {
+            "range": [
+                "1CEEE"
+            ],
+            "name": "GEOMANTIC FIGURE CAUDA DRACONIS"
+        },
+        {
+            "range": [
+                "1CEEF"
+            ],
+            "name": "GEOMANTIC FIGURE VIA"
+        },
+        {
+            "range": [
+                "1CEF0"
+            ],
+            "name": "MEDIUM SMALL WHITE CIRCLE WITH HORIZONTAL BAR"
         },
         {
             "range": [
@@ -250637,6 +252899,336 @@
         },
         {
             "range": [
+                "1E6C0"
+            ],
+            "name": "TAI YO LETTER LOW KO"
+        },
+        {
+            "range": [
+                "1E6C1"
+            ],
+            "name": "TAI YO LETTER HIGH KO"
+        },
+        {
+            "range": [
+                "1E6C2"
+            ],
+            "name": "TAI YO LETTER LOW KHO"
+        },
+        {
+            "range": [
+                "1E6C3"
+            ],
+            "name": "TAI YO LETTER HIGH KHO"
+        },
+        {
+            "range": [
+                "1E6C4"
+            ],
+            "name": "TAI YO LETTER GO"
+        },
+        {
+            "range": [
+                "1E6C5"
+            ],
+            "name": "TAI YO LETTER NGO"
+        },
+        {
+            "range": [
+                "1E6C6"
+            ],
+            "name": "TAI YO LETTER CO"
+        },
+        {
+            "range": [
+                "1E6C7"
+            ],
+            "name": "TAI YO LETTER LOW XO"
+        },
+        {
+            "range": [
+                "1E6C8"
+            ],
+            "name": "TAI YO LETTER HIGH XO"
+        },
+        {
+            "range": [
+                "1E6C9"
+            ],
+            "name": "TAI YO LETTER LOW NYO"
+        },
+        {
+            "range": [
+                "1E6CA"
+            ],
+            "name": "TAI YO LETTER HIGH NYO"
+        },
+        {
+            "range": [
+                "1E6CB"
+            ],
+            "name": "TAI YO LETTER DO"
+        },
+        {
+            "range": [
+                "1E6CC"
+            ],
+            "name": "TAI YO LETTER LOW TO"
+        },
+        {
+            "range": [
+                "1E6CD"
+            ],
+            "name": "TAI YO LETTER HIGH TO"
+        },
+        {
+            "range": [
+                "1E6CE"
+            ],
+            "name": "TAI YO LETTER THO"
+        },
+        {
+            "range": [
+                "1E6CF"
+            ],
+            "name": "TAI YO LETTER NO"
+        },
+        {
+            "range": [
+                "1E6D0"
+            ],
+            "name": "TAI YO LETTER BO"
+        },
+        {
+            "range": [
+                "1E6D1"
+            ],
+            "name": "TAI YO LETTER LOW PO"
+        },
+        {
+            "range": [
+                "1E6D2"
+            ],
+            "name": "TAI YO LETTER HIGH PO"
+        },
+        {
+            "range": [
+                "1E6D3"
+            ],
+            "name": "TAI YO LETTER PHO"
+        },
+        {
+            "range": [
+                "1E6D4"
+            ],
+            "name": "TAI YO LETTER LOW FO"
+        },
+        {
+            "range": [
+                "1E6D5"
+            ],
+            "name": "TAI YO LETTER HIGH FO"
+        },
+        {
+            "range": [
+                "1E6D6"
+            ],
+            "name": "TAI YO LETTER MO"
+        },
+        {
+            "range": [
+                "1E6D7"
+            ],
+            "name": "TAI YO LETTER YO"
+        },
+        {
+            "range": [
+                "1E6D8"
+            ],
+            "name": "TAI YO LETTER LO"
+        },
+        {
+            "range": [
+                "1E6D9"
+            ],
+            "name": "TAI YO LETTER VO"
+        },
+        {
+            "range": [
+                "1E6DA"
+            ],
+            "name": "TAI YO LETTER LOW HO"
+        },
+        {
+            "range": [
+                "1E6DB"
+            ],
+            "name": "TAI YO LETTER HIGH HO"
+        },
+        {
+            "range": [
+                "1E6DC"
+            ],
+            "name": "TAI YO LETTER QO"
+        },
+        {
+            "range": [
+                "1E6DD"
+            ],
+            "name": "TAI YO LETTER LOW KVO"
+        },
+        {
+            "range": [
+                "1E6DE"
+            ],
+            "name": "TAI YO LETTER HIGH KVO"
+        },
+        {
+            "range": [
+                "1E6E0"
+            ],
+            "name": "TAI YO LETTER AA"
+        },
+        {
+            "range": [
+                "1E6E1"
+            ],
+            "name": "TAI YO LETTER I"
+        },
+        {
+            "range": [
+                "1E6E2"
+            ],
+            "name": "TAI YO LETTER UE"
+        },
+        {
+            "range": [
+                "1E6E3"
+            ],
+            "name": "TAI YO SIGN UE"
+        },
+        {
+            "range": [
+                "1E6E4"
+            ],
+            "name": "TAI YO LETTER U"
+        },
+        {
+            "range": [
+                "1E6E5"
+            ],
+            "name": "TAI YO LETTER AE"
+        },
+        {
+            "range": [
+                "1E6E6"
+            ],
+            "name": "TAI YO SIGN AU"
+        },
+        {
+            "range": [
+                "1E6E7"
+            ],
+            "name": "TAI YO LETTER O"
+        },
+        {
+            "range": [
+                "1E6E8"
+            ],
+            "name": "TAI YO LETTER E"
+        },
+        {
+            "range": [
+                "1E6E9"
+            ],
+            "name": "TAI YO LETTER IA"
+        },
+        {
+            "range": [
+                "1E6EA"
+            ],
+            "name": "TAI YO LETTER UEA"
+        },
+        {
+            "range": [
+                "1E6EB"
+            ],
+            "name": "TAI YO LETTER UA"
+        },
+        {
+            "range": [
+                "1E6EC"
+            ],
+            "name": "TAI YO LETTER OO"
+        },
+        {
+            "range": [
+                "1E6ED"
+            ],
+            "name": "TAI YO LETTER AUE"
+        },
+        {
+            "range": [
+                "1E6EE"
+            ],
+            "name": "TAI YO SIGN AY"
+        },
+        {
+            "range": [
+                "1E6EF"
+            ],
+            "name": "TAI YO SIGN ANG"
+        },
+        {
+            "range": [
+                "1E6F0"
+            ],
+            "name": "TAI YO LETTER AN"
+        },
+        {
+            "range": [
+                "1E6F1"
+            ],
+            "name": "TAI YO LETTER AM"
+        },
+        {
+            "range": [
+                "1E6F2"
+            ],
+            "name": "TAI YO LETTER AK"
+        },
+        {
+            "range": [
+                "1E6F3"
+            ],
+            "name": "TAI YO LETTER AT"
+        },
+        {
+            "range": [
+                "1E6F4"
+            ],
+            "name": "TAI YO LETTER AP"
+        },
+        {
+            "range": [
+                "1E6F5"
+            ],
+            "name": "TAI YO SIGN OM"
+        },
+        {
+            "range": [
+                "1E6FE"
+            ],
+            "name": "TAI YO SYMBOL MUEANG"
+        },
+        {
+            "range": [
+                "1E6FF"
+            ],
+            "name": "TAI YO XAM LAI"
+        },
+        {
+            "range": [
                 "1E7E0"
             ],
             "name": "ETHIOPIC SYLLABLE HHYA"
@@ -263087,6 +265679,12 @@
         },
         {
             "range": [
+                "1F6D8"
+            ],
+            "name": "LANDSLIDE"
+        },
+        {
+            "range": [
                 "1F6DC"
             ],
             "name": "WIRELESS"
@@ -263978,6 +266576,30 @@
                 "1F776"
             ],
             "name": "LUNAR ECLIPSE"
+        },
+        {
+            "range": [
+                "1F777"
+            ],
+            "name": "VESTA FORM TWO"
+        },
+        {
+            "range": [
+                "1F778"
+            ],
+            "name": "ASTRAEA FORM TWO"
+        },
+        {
+            "range": [
+                "1F779"
+            ],
+            "name": "HYGIEA FORM TWO"
+        },
+        {
+            "range": [
+                "1F77A"
+            ],
+            "name": "PARTHENOPE FORM TWO"
         },
         {
             "range": [
@@ -265598,6 +268220,60 @@
                 "1F8C1"
             ],
             "name": "RIGHTWARDS ARROW FROM DOWNWARDS ARROW"
+        },
+        {
+            "range": [
+                "1F8D0"
+            ],
+            "name": "LONG RIGHTWARDS ARROW OVER LONG LEFTWARDS ARROW"
+        },
+        {
+            "range": [
+                "1F8D1"
+            ],
+            "name": "LONG RIGHTWARDS HARPOON OVER LONG LEFTWARDS HARPOON"
+        },
+        {
+            "range": [
+                "1F8D2"
+            ],
+            "name": "LONG RIGHTWARDS HARPOON ABOVE SHORT LEFTWARDS HARPOON"
+        },
+        {
+            "range": [
+                "1F8D3"
+            ],
+            "name": "SHORT RIGHTWARDS HARPOON ABOVE LONG LEFTWARDS HARPOON"
+        },
+        {
+            "range": [
+                "1F8D4"
+            ],
+            "name": "LONG LEFTWARDS HARPOON ABOVE SHORT RIGHTWARDS HARPOON"
+        },
+        {
+            "range": [
+                "1F8D5"
+            ],
+            "name": "SHORT LEFTWARDS HARPOON ABOVE LONG RIGHTWARDS HARPOON"
+        },
+        {
+            "range": [
+                "1F8D6"
+            ],
+            "name": "LONG RIGHTWARDS ARROW THROUGH X"
+        },
+        {
+            "range": [
+                "1F8D7"
+            ],
+            "name": "LONG RIGHTWARDS ARROW WITH DOUBLE SLASH"
+        },
+        {
+            "range": [
+                "1F8D8"
+            ],
+            "name": "LONG LEFT RIGHT ARROW WITH DEPENDENT LOBE"
         },
         {
             "range": [
@@ -267641,6 +270317,30 @@
         },
         {
             "range": [
+                "1FA54"
+            ],
+            "name": "WHITE CHESS FERZ"
+        },
+        {
+            "range": [
+                "1FA55"
+            ],
+            "name": "WHITE CHESS ALFIL"
+        },
+        {
+            "range": [
+                "1FA56"
+            ],
+            "name": "BLACK CHESS FERZ"
+        },
+        {
+            "range": [
+                "1FA57"
+            ],
+            "name": "BLACK CHESS ALFIL"
+        },
+        {
+            "range": [
                 "1FA60"
             ],
             "name": "XIANGQI RED GENERAL"
@@ -267860,6 +270560,18 @@
                 "1FA89"
             ],
             "name": "HARP"
+        },
+        {
+            "range": [
+                "1FA8A"
+            ],
+            "name": "TROMBONE"
+        },
+        {
+            "range": [
+                "1FA8E"
+            ],
+            "name": "TREASURE CHEST"
         },
         {
             "range": [
@@ -268199,6 +270911,18 @@
         },
         {
             "range": [
+                "1FAC8"
+            ],
+            "name": "HAIRY CREATURE"
+        },
+        {
+            "range": [
+                "1FACD"
+            ],
+            "name": "ORCA"
+        },
+        {
+            "range": [
                 "1FACE"
             ],
             "name": "MOOSE"
@@ -268352,6 +271076,18 @@
                 "1FAE9"
             ],
             "name": "FACE WITH BAGS UNDER EYES"
+        },
+        {
+            "range": [
+                "1FAEA"
+            ],
+            "name": "DISTORTED FACE"
+        },
+        {
+            "range": [
+                "1FAEF"
+            ],
+            "name": "FIGHT CLOUD"
         },
         {
             "range": [
@@ -269903,6 +272639,12 @@
         },
         {
             "range": [
+                "1FBFA"
+            ],
+            "name": "ALARM BELL SYMBOL"
+        },
+        {
+            "range": [
                 "20000",
                 "2A6DF"
             ],
@@ -269911,13 +272653,6 @@
         {
             "range": [
                 "2A700",
-                "2B739"
-            ],
-            "name": "CJK UNIFIED IDEOGRAPH-*"
-        },
-        {
-            "range": [
-                "2B740",
                 "2B81D"
             ],
             "name": "CJK UNIFIED IDEOGRAPH-*"
@@ -269925,7 +272660,7 @@
         {
             "range": [
                 "2B820",
-                "2CEA1"
+                "2CEAD"
             ],
             "name": "CJK UNIFIED IDEOGRAPH-*"
         },
@@ -269960,7 +272695,7 @@
         {
             "range": [
                 "31350",
-                "323AF"
+                "33479"
             ],
             "name": "CJK UNIFIED IDEOGRAPH-*"
         },

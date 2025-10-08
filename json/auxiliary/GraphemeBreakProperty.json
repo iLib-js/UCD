@@ -77,12 +77,6 @@
         },
         {
             "range": [
-                "11A3A"
-            ],
-            "property": "Prepend"
-        },
-        {
-            "range": [
                 "11A84",
                 "11A89"
             ],
@@ -1345,7 +1339,14 @@
         {
             "range": [
                 "1ABF",
-                "1ACE"
+                "1ADD"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1AE0",
+                "1AEB"
             ],
             "property": "Extend"
         },
@@ -1979,7 +1980,7 @@
         },
         {
             "range": [
-                "10EFC",
+                "10EFA",
                 "10EFF"
             ],
             "property": "Extend"
@@ -2575,6 +2576,25 @@
         },
         {
             "range": [
+                "11B60"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11B62",
+                "11B64"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "11B66"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
                 "11C30",
                 "11C36"
             ],
@@ -2967,6 +2987,31 @@
             "range": [
                 "1E5EE",
                 "1E5EF"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1E6E3"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1E6E6"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1E6EE",
+                "1E6EF"
+            ],
+            "property": "Extend"
+        },
+        {
+            "range": [
+                "1E6F5"
             ],
             "property": "Extend"
         },
@@ -3940,6 +3985,24 @@
         {
             "range": [
                 "11A97"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11B61"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11B65"
+            ],
+            "property": "SpacingMark"
+        },
+        {
+            "range": [
+                "11B67"
             ],
             "property": "SpacingMark"
         },

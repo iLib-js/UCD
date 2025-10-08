@@ -5916,9 +5916,24 @@
             "mapping": "A7CD"
         },
         {
+            "codepoint": "A7CE",
+            "status": "C",
+            "mapping": "A7CF"
+        },
+        {
             "codepoint": "A7D0",
             "status": "C",
             "mapping": "A7D1"
+        },
+        {
+            "codepoint": "A7D2",
+            "status": "C",
+            "mapping": "A7D3"
+        },
+        {
+            "codepoint": "A7D4",
+            "status": "C",
+            "mapping": "A7D5"
         },
         {
             "codepoint": "A7D6",
@@ -7779,6 +7794,131 @@
             "codepoint": "16E5F",
             "status": "C",
             "mapping": "16E7F"
+        },
+        {
+            "codepoint": "16EA0",
+            "status": "C",
+            "mapping": "16EBB"
+        },
+        {
+            "codepoint": "16EA1",
+            "status": "C",
+            "mapping": "16EBC"
+        },
+        {
+            "codepoint": "16EA2",
+            "status": "C",
+            "mapping": "16EBD"
+        },
+        {
+            "codepoint": "16EA3",
+            "status": "C",
+            "mapping": "16EBE"
+        },
+        {
+            "codepoint": "16EA4",
+            "status": "C",
+            "mapping": "16EBF"
+        },
+        {
+            "codepoint": "16EA5",
+            "status": "C",
+            "mapping": "16EC0"
+        },
+        {
+            "codepoint": "16EA6",
+            "status": "C",
+            "mapping": "16EC1"
+        },
+        {
+            "codepoint": "16EA7",
+            "status": "C",
+            "mapping": "16EC2"
+        },
+        {
+            "codepoint": "16EA8",
+            "status": "C",
+            "mapping": "16EC3"
+        },
+        {
+            "codepoint": "16EA9",
+            "status": "C",
+            "mapping": "16EC4"
+        },
+        {
+            "codepoint": "16EAA",
+            "status": "C",
+            "mapping": "16EC5"
+        },
+        {
+            "codepoint": "16EAB",
+            "status": "C",
+            "mapping": "16EC6"
+        },
+        {
+            "codepoint": "16EAC",
+            "status": "C",
+            "mapping": "16EC7"
+        },
+        {
+            "codepoint": "16EAD",
+            "status": "C",
+            "mapping": "16EC8"
+        },
+        {
+            "codepoint": "16EAE",
+            "status": "C",
+            "mapping": "16EC9"
+        },
+        {
+            "codepoint": "16EAF",
+            "status": "C",
+            "mapping": "16ECA"
+        },
+        {
+            "codepoint": "16EB0",
+            "status": "C",
+            "mapping": "16ECB"
+        },
+        {
+            "codepoint": "16EB1",
+            "status": "C",
+            "mapping": "16ECC"
+        },
+        {
+            "codepoint": "16EB2",
+            "status": "C",
+            "mapping": "16ECD"
+        },
+        {
+            "codepoint": "16EB3",
+            "status": "C",
+            "mapping": "16ECE"
+        },
+        {
+            "codepoint": "16EB4",
+            "status": "C",
+            "mapping": "16ECF"
+        },
+        {
+            "codepoint": "16EB5",
+            "status": "C",
+            "mapping": "16ED0"
+        },
+        {
+            "codepoint": "16EB6",
+            "status": "C",
+            "mapping": "16ED1"
+        },
+        {
+            "codepoint": "16EB7",
+            "status": "C",
+            "mapping": "16ED2"
+        },
+        {
+            "codepoint": "16EB8",
+            "status": "C",
+            "mapping": "16ED3"
         },
         {
             "codepoint": "1E900",

@@ -2361,7 +2361,8 @@
         },
         {
             "sourceId": "UTC-00258",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32F28",
             "radicalStrokeCount": "140.11",
             "IDS": "⿰艹⿵大雨",
             "source": "kSBGY 469.01",
@@ -2555,7 +2556,8 @@
         },
         {
             "sourceId": "UTC-00281",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32BAE",
             "radicalStrokeCount": "94.10",
             "IDS": "⿰隺犬",
             "source": "kSBGY 466.33",
@@ -2983,7 +2985,8 @@
         },
         {
             "sourceId": "UTC-00328",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+325C5",
             "radicalStrokeCount": "30.13",
             "IDS": "⿰口隘",
             "source": "kCowles 15*kMeyerWempe 11*kCheungBauerIndex 383.06",
@@ -2991,7 +2994,8 @@
         },
         {
             "sourceId": "UTC-00329",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+328C8",
             "radicalStrokeCount": "64.14",
             "IDS": "⿰扌裳",
             "source": "kLau 186a"
@@ -3017,9 +3021,10 @@
         },
         {
             "sourceId": "UTC-00332",
-            "status": "WS-2021",
+            "status": "Variant",
+            "codepoint": "U+5557",
             "radicalStrokeCount": "30.7",
-            "IDS": "⿰口⿱力皿",
+            "IDS": "⿰口𥁀",
             "source": "kLau 458a"
         },
         {
@@ -3041,11 +3046,13 @@
         },
         {
             "sourceId": "UTC-00335",
-            "status": "Variant",
-            "codepoint": "U+4E80",
-            "radicalStrokeCount": "5.9",
+            "status": "ExtE",
+            "codepoint": "U+2CE9E",
+            "radicalStrokeCount": "213'.0",
             "IDS": "⿱𠮥⿻日乚",
-            "source": "kLau 1028a kCowles 2059*kMeyerWempe 1368*kFennIndex 272.04"
+            "source": "kLau 1028 kCowles 2059 kMeyerWempe 1368* kFennIndex 272.04",
+            "totalStrokes": "10",
+            "firstResidualStroke": "0"
         },
         {
             "sourceId": "UTC-00336",
@@ -3071,8 +3078,8 @@
         },
         {
             "sourceId": "UTC-00339",
-            "status": "WS-2021",
-            "codepoint": "U+9019",
+            "status": "ExtJ",
+            "codepoint": "U+33117",
             "radicalStrokeCount": "162.3",
             "IDS": "⿺辶才",
             "source": "kLau 1371a,1372a*kFennIndex 22.11"
@@ -3120,7 +3127,8 @@
         },
         {
             "sourceId": "UTC-00345",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32E98",
             "radicalStrokeCount": "130.8",
             "IDS": "⿰月枕",
             "source": "kMeyerWempe 140*kCheungBauerIndex 452.08",
@@ -3239,7 +3247,7 @@
         },
         {
             "sourceId": "UTC-00358",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "codepoint": "U+627B",
             "radicalStrokeCount": "64.7",
             "IDS": "⿰扌坎",
@@ -3249,7 +3257,8 @@
         },
         {
             "sourceId": "UTC-00359",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32551",
             "radicalStrokeCount": "30.8",
             "IDS": "⿰口炕",
             "source": "kCowles 1184*kMeyerWempe 795*kCheungBauerIndex 362.07",
@@ -3306,7 +3315,8 @@
         },
         {
             "sourceId": "UTC-00365",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+328C4",
             "radicalStrokeCount": "64.13",
             "IDS": "⿰扌經",
             "source": "kCowles 1481*kMeyerWempe 979a",
@@ -3341,11 +3351,13 @@
         },
         {
             "sourceId": "UTC-00369",
-            "status": "Variant",
-            "codepoint": "U+69EA",
-            "radicalStrokeCount": "75.11",
+            "status": "URO",
+            "codepoint": "U+69E9",
+            "radicalStrokeCount": "75.10",
             "IDS": "⿱既木",
-            "source": "kMeyerWempe 1212"
+            "source": "kMeyerWempe 1212",
+            "totalStrokes": "13",
+            "firstResidualStroke": "5"
         },
         {
             "sourceId": "UTC-00370",
@@ -3366,7 +3378,8 @@
         },
         {
             "sourceId": "UTC-00372",
-            "status": "WS-2021",
+            "status": "Variant",
+            "codepoint": "U+210E4",
             "radicalStrokeCount": "30.16",
             "IDS": "⿰口頼",
             "source": "kCowles 2155*kMeyerWempe 1432",
@@ -3375,7 +3388,7 @@
         },
         {
             "sourceId": "UTC-00373",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "117.12",
             "IDS": "⿰立集",
             "source": "kMeyerWempe 1489*kCheungBauerIndex 449.03,449.04",
@@ -3441,7 +3454,8 @@
         },
         {
             "sourceId": "UTC-00380",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+3259C",
             "radicalStrokeCount": "30.12",
             "IDS": "⿰口揖",
             "source": "kCheungBauerIndex 380.02,383.05*kCowles 3033*kLau 2339,2340*kMeyerWempe 2044"
@@ -3481,7 +3495,8 @@
         },
         {
             "sourceId": "UTC-00385",
-            "status": "WS-2021",
+            "status": "Variant",
+            "codepoint": "U+203B9",
             "radicalStrokeCount": "9.12",
             "IDS": "⿰亻⿱忠夂",
             "source": "kMeyerWempe 2146a",
@@ -3526,7 +3541,8 @@
         },
         {
             "sourceId": "UTC-00390",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32582",
             "radicalStrokeCount": "30.11",
             "IDS": "⿰口桻",
             "source": "kMeyerWempe 2240*kCowles 3194",
@@ -3559,7 +3575,8 @@
         },
         {
             "sourceId": "UTC-00394",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+328D9",
             "radicalStrokeCount": "64.15",
             "IDS": "⿰扌劈",
             "source": "kMeyerWempe 2339*kCowles 3476"
@@ -3591,7 +3608,8 @@
         },
         {
             "sourceId": "UTC-00398",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32B2A",
             "radicalStrokeCount": "86.13",
             "IDS": "⿰火𧛱",
             "source": "kMeyerWempe 2403*kCowles 3326*kCheungBauerIndex 438.02"
@@ -3606,7 +3624,8 @@
         },
         {
             "sourceId": "UTC-00400",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+3253F",
             "radicalStrokeCount": "30.8",
             "IDS": "⿰口抱",
             "source": "kMeyerWempe 2431*kCowles 3523.5"
@@ -3623,7 +3642,8 @@
         },
         {
             "sourceId": "UTC-00402",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+329D6",
             "radicalStrokeCount": "75.15",
             "IDS": "⿲木兵咅",
             "source": "kMeyerWempe 2458*kCowles 3366*kCheungBauerIndex 431.07",
@@ -3631,7 +3651,8 @@
         },
         {
             "sourceId": "UTC-00403",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+325AA",
             "radicalStrokeCount": "30.12",
             "IDS": "⿰口焙",
             "source": "kCowles 3383*kMeyerWempe 2480*kCheungBauerIndex 381.02",
@@ -3649,7 +3670,8 @@
         },
         {
             "sourceId": "UTC-00405",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32C87",
             "radicalStrokeCount": "30.8",
             "IDS": "⿰皮合",
             "source": "kCowles 3559*kMeyerWempe 2511*kCheungBauerIndex 364.01",
@@ -3752,7 +3774,8 @@
         },
         {
             "sourceId": "UTC-00416",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+325E7",
             "radicalStrokeCount": "30.15",
             "IDS": "⿰口𦂥",
             "source": "kMeyerWempe 3001*kCowles 4088*kCheungBauerIndex 388.05"
@@ -3817,7 +3840,8 @@
         },
         {
             "sourceId": "UTC-00423",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+328DA",
             "radicalStrokeCount": "64.15",
             "IDS": "⿰扌熨",
             "source": "kLau 3115*kCowles 4434*kMeyerWempe 3216*kCheungBauerIndex 427.03",
@@ -3852,7 +3876,8 @@
         },
         {
             "sourceId": "UTC-00427",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+325EF",
             "radicalStrokeCount": "30.16",
             "IDS": "⿰口蕉",
             "source": "kCowles 4582*kMeyerWempe 3397"
@@ -3887,7 +3912,8 @@
         },
         {
             "sourceId": "UTC-00431",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+3256E",
             "radicalStrokeCount": "30.9",
             "IDS": "⿰口洞",
             "source": "kCowles 4279*kMeyerWempe 3602"
@@ -4012,7 +4038,8 @@
         },
         {
             "sourceId": "UTC-00445",
-            "status": "WS-2021",
+            "status": "Variant",
+            "codepoint": "U+50ED",
             "radicalStrokeCount": "9.14",
             "IDS": "⿰亻㬱",
             "source": "kCowles 456",
@@ -4021,7 +4048,8 @@
         },
         {
             "sourceId": "UTC-00446",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+3258C",
             "radicalStrokeCount": "30.11",
             "IDS": "⿰口笞",
             "source": "kCowles 515*kMeyerWempe 253"
@@ -4055,7 +4083,8 @@
         },
         {
             "sourceId": "UTC-00450",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32FEE",
             "radicalStrokeCount": "142.12",
             "IDS": "⿰虫琴",
             "source": "kCowles 1915*kMeyerWempe 1026"
@@ -4093,14 +4122,16 @@
         },
         {
             "sourceId": "UTC-00455",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32583",
             "radicalStrokeCount": "30.11",
             "IDS": "⿰口掹",
             "source": "kCowles 2632*kMeyerWempe 1787*kCheungBauerIndex 377.09"
         },
         {
             "sourceId": "UTC-00456",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32A3F",
             "radicalStrokeCount": "85.5",
             "IDS": "⿰氵𠕄",
             "source": "kCowles 2862",
@@ -4125,7 +4156,8 @@
         },
         {
             "sourceId": "UTC-00459",
-            "status": "WS-2021",
+            "status": "Variant",
+            "codepoint": "U+22D15",
             "radicalStrokeCount": "64.11",
             "IDS": "⿰扌𡨴",
             "source": "kCowles 2896,2903*kMeyerWempe 2090*kCheungBauerIndex 421.05,421.06",
@@ -4307,7 +4339,8 @@
         },
         {
             "sourceId": "UTC-00481",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+3288A",
             "radicalStrokeCount": "64.10",
             "IDS": "⿰扌晒",
             "source": "kLau 2592*kCheungBauerIndex 418.06",
@@ -4445,7 +4478,8 @@
         },
         {
             "sourceId": "UTC-00498",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32451",
             "radicalStrokeCount": "9.11",
             "IDS": "⿰亻隆",
             "source": "kCheungBauerIndex 340.11",
@@ -4795,8 +4829,8 @@
         },
         {
             "sourceId": "UTC-00536",
-            "status": "WS-2021",
-            "codepoint": "U+203F9",
+            "status": "ExtJ",
+            "codepoint": "U+32466",
             "radicalStrokeCount": "9.17",
             "IDS": "⿰亻⿱覀國",
             "source": "kFennIndex 139.03",
@@ -5044,7 +5078,8 @@
         },
         {
             "sourceId": "UTC-00563",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+325AE",
             "radicalStrokeCount": "30.12",
             "IDS": "⿰口絞",
             "source": "kCheungBauerIndex 381.08",
@@ -5072,7 +5107,8 @@
         },
         {
             "sourceId": "UTC-00566",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+325B3",
             "radicalStrokeCount": "30.13",
             "IDS": "⿰口逼",
             "source": "kCheungBauerIndex 383.08",
@@ -5275,11 +5311,13 @@
         },
         {
             "sourceId": "UTC-00588",
-            "status": "Rejected",
+            "status": "ExtJ",
+            "codepoint": "U+32DE8",
             "radicalStrokeCount": "119.23",
             "IDS": "⿰米戀",
             "source": "kFennIndex 321.10,325.08",
-            "firstResidualStroke": "3"
+            "totalStrokes": "29",
+            "firstResidualStroke": "4"
         },
         {
             "sourceId": "UTC-00589",
@@ -5409,7 +5447,8 @@
         },
         {
             "sourceId": "UTC-00602",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+3261D",
             "radicalStrokeCount": "30.27",
             "IDS": "⿰口鑾",
             "source": "kCheungBauerIndex 394.05",
@@ -5473,7 +5512,8 @@
         },
         {
             "sourceId": "UTC-00609",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32E8B",
             "radicalStrokeCount": "130.5",
             "IDS": "⿱左月",
             "source": "kFennIndex 530.05",
@@ -5602,7 +5642,8 @@
         },
         {
             "sourceId": "UTC-00623",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32708",
             "radicalStrokeCount": "39.14",
             "IDS": "⿰孑蜚",
             "source": "kCheungBauerIndex 400.04",
@@ -5620,7 +5661,8 @@
         },
         {
             "sourceId": "UTC-00625",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32726",
             "radicalStrokeCount": "41.14",
             "IDS": "⿰尋未",
             "source": "kCheungBauerIndex 400.08",
@@ -5663,7 +5705,8 @@
         },
         {
             "sourceId": "UTC-00630",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32828",
             "radicalStrokeCount": "61.12",
             "IDS": "⿱跋心",
             "source": "kCheungBauerIndex 404.03",
@@ -5671,7 +5714,8 @@
         },
         {
             "sourceId": "UTC-00631",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32832",
             "radicalStrokeCount": "61.13",
             "IDS": "⿰忄盟",
             "source": "kCheungBauerIndex 404.05",
@@ -5679,7 +5723,8 @@
         },
         {
             "sourceId": "UTC-00632",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32842",
             "radicalStrokeCount": "61.15",
             "IDS": "⿱論心",
             "source": "kCheungBauerIndex 404.07",
@@ -5687,7 +5732,8 @@
         },
         {
             "sourceId": "UTC-00633",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32844",
             "radicalStrokeCount": "61.16",
             "IDS": "⿱錫心",
             "source": "kCheungBauerIndex 405.01",
@@ -5715,7 +5761,8 @@
         },
         {
             "sourceId": "UTC-00636",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+3285B",
             "radicalStrokeCount": "64.4",
             "IDS": "⿱切手",
             "source": "kCheungBauerIndex 406.09",
@@ -5723,7 +5770,8 @@
         },
         {
             "sourceId": "UTC-00637",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32867",
             "radicalStrokeCount": "64.5",
             "IDS": "⿱弗手",
             "source": "kCheungBauerIndex 407.05",
@@ -5731,7 +5779,8 @@
         },
         {
             "sourceId": "UTC-00638",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32860",
             "radicalStrokeCount": "64.5",
             "IDS": "⿰扌卉",
             "source": "kCheungBauerIndex 407.06",
@@ -5812,7 +5861,8 @@
         },
         {
             "sourceId": "UTC-00647",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+3289F",
             "radicalStrokeCount": "64.11",
             "IDS": "⿰扌庵",
             "source": "kCheungBauerIndex 419.07",
@@ -5848,7 +5898,8 @@
         },
         {
             "sourceId": "UTC-00651",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+328B6",
             "radicalStrokeCount": "64.12",
             "IDS": "⿱隊手",
             "source": "kCheungBauerIndex 422.06",
@@ -5856,7 +5907,8 @@
         },
         {
             "sourceId": "UTC-00652",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+328AB",
             "radicalStrokeCount": "64.12",
             "IDS": "⿰扌幂",
             "source": "kCheungBauerIndex 423.01",
@@ -5864,7 +5916,8 @@
         },
         {
             "sourceId": "UTC-00653",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+328B9",
             "radicalStrokeCount": "64.13",
             "IDS": "⿰扌罨",
             "source": "kCheungBauerIndex 423.04",
@@ -5891,15 +5944,17 @@
         },
         {
             "sourceId": "UTC-00656",
-            "status": "WS-2021",
+            "status": "Variant",
+            "codepoint": "U+64EA",
             "radicalStrokeCount": "64.13",
-            "IDS": "⿱⿸厂⿰肙犬手",
+            "IDS": "⿱⿸厂𤞣手",
             "source": "kCheungBauerIndex 424.04",
             "firstResidualStroke": "3"
         },
         {
             "sourceId": "UTC-00657",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+328D3",
             "radicalStrokeCount": "64.15",
             "IDS": "⿲扌兵咅",
             "source": "kCheungBauerIndex 425.08",
@@ -5916,7 +5971,8 @@
         },
         {
             "sourceId": "UTC-00659",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+328CF",
             "radicalStrokeCount": "64.15",
             "IDS": "⿰扌厲",
             "source": "kCheungBauerIndex 427.01",
@@ -5924,7 +5980,8 @@
         },
         {
             "sourceId": "UTC-00660",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+328E4",
             "radicalStrokeCount": "64.17",
             "IDS": "⿰扌甕",
             "source": "kCheungBauerIndex 427.07",
@@ -5932,7 +5989,8 @@
         },
         {
             "sourceId": "UTC-00661",
-            "status": "WS-2021",
+            "status": "Variant",
+            "codepoint": "U+650B",
             "radicalStrokeCount": "64.17",
             "IDS": "⿲扌束員",
             "source": "kCheungBauerIndex 427.08",
@@ -5940,7 +5998,8 @@
         },
         {
             "sourceId": "UTC-00662",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+328D7",
             "radicalStrokeCount": "64.15",
             "IDS": "⿱論手",
             "source": "kCheungBauerIndex 427.02",
@@ -5956,7 +6015,8 @@
         },
         {
             "sourceId": "UTC-00664",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+328FB",
             "radicalStrokeCount": "67.14",
             "IDS": "⿰文盡",
             "source": "kCheungBauerIndex 429.04",
@@ -5964,7 +6024,8 @@
         },
         {
             "sourceId": "UTC-00665",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+3290B",
             "radicalStrokeCount": "70.20",
             "IDS": "⿰方罌",
             "source": "kCheungBauerIndex 429.05",
@@ -5982,7 +6043,8 @@
         },
         {
             "sourceId": "UTC-00667",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32945",
             "radicalStrokeCount": "72.12",
             "IDS": "⿰日禽",
             "source": "kCheungBauerIndex 429.08",
@@ -6018,7 +6080,8 @@
         },
         {
             "sourceId": "UTC-00671",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+329AC",
             "radicalStrokeCount": "75.11",
             "IDS": "⿰木窒",
             "source": "kCheungBauerIndex 431.01",
@@ -6112,7 +6175,8 @@
         },
         {
             "sourceId": "UTC-00682",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32A0C",
             "radicalStrokeCount": "82.7",
             "IDS": "⿱冷毛",
             "source": "kCheungBauerIndex 432.06",
@@ -6130,7 +6194,8 @@
         },
         {
             "sourceId": "UTC-00684",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32A2F",
             "radicalStrokeCount": "84.19",
             "IDS": "⿹气羅",
             "source": "kCheungBauerIndex 432.09",
@@ -6147,7 +6212,8 @@
         },
         {
             "sourceId": "UTC-00686",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32A52",
             "radicalStrokeCount": "85.7",
             "IDS": "⿱泥入",
             "source": "kCheungBauerIndex 433.09",
@@ -6172,7 +6238,8 @@
         },
         {
             "sourceId": "UTC-00689",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32A64",
             "radicalStrokeCount": "85.9",
             "IDS": "⿱削水",
             "source": "kCheungBauerIndex 434.04",
@@ -6199,7 +6266,8 @@
         },
         {
             "sourceId": "UTC-00692",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+328D8",
             "radicalStrokeCount": "64.15",
             "IDS": "⿱潑手",
             "source": "kCheungBauerIndex 435.04",
@@ -6247,7 +6315,8 @@
         },
         {
             "sourceId": "UTC-00697",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32B23",
             "radicalStrokeCount": "86.14",
             "IDS": "⿱辣灬",
             "source": "kCheungBauerIndex 438.01",
@@ -6265,7 +6334,8 @@
         },
         {
             "sourceId": "UTC-00699",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32B3B",
             "radicalStrokeCount": "87.6",
             "IDS": "⿺爪圭",
             "source": "kCheungBauerIndex 438.06",
@@ -6283,7 +6353,8 @@
         },
         {
             "sourceId": "UTC-00701",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32B47",
             "radicalStrokeCount": "97.4",
             "IDS": "⿰爿瓜",
             "source": "kCheungBauerIndex 439.04",
@@ -6301,7 +6372,8 @@
         },
         {
             "sourceId": "UTC-00703",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32C65",
             "radicalStrokeCount": "104.9",
             "IDS": "⿸疒背",
             "source": "kCheungBauerIndex 440.06",
@@ -6309,7 +6381,8 @@
         },
         {
             "sourceId": "UTC-00704",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32C67",
             "radicalStrokeCount": "104.10",
             "IDS": "⿸疒烕",
             "source": "kCheungBauerIndex 441.01",
@@ -6317,7 +6390,8 @@
         },
         {
             "sourceId": "UTC-00705",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32C68",
             "radicalStrokeCount": "104.10",
             "IDS": "⿸疒麥",
             "source": "kCheungBauerIndex 441.02",
@@ -6355,7 +6429,8 @@
         },
         {
             "sourceId": "UTC-00709",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32C89",
             "radicalStrokeCount": "107.8",
             "IDS": "⿰皮奄",
             "source": "kCheungBauerIndex 442.06",
@@ -6373,7 +6448,8 @@
         },
         {
             "sourceId": "UTC-00711",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32C8B",
             "radicalStrokeCount": "107.11",
             "IDS": "⿰皮巢",
             "source": "kCheungBauerIndex 442.08",
@@ -6381,7 +6457,8 @@
         },
         {
             "sourceId": "UTC-00712",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32C9A",
             "radicalStrokeCount": "109.2",
             "IDS": "⿰目乃",
             "source": "kCheungBauerIndex 443.05",
@@ -6399,7 +6476,8 @@
         },
         {
             "sourceId": "UTC-00714",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32CB4",
             "radicalStrokeCount": "109.13",
             "IDS": "⿰目𡕰",
             "source": "kCheungBauerIndex 446.01",
@@ -6427,7 +6505,8 @@
         },
         {
             "sourceId": "UTC-00717",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32D20",
             "radicalStrokeCount": "112.21",
             "IDS": "⿰石鶯",
             "source": "kCheungBauerIndex 448.01",
@@ -6481,7 +6560,8 @@
         },
         {
             "sourceId": "UTC-00723",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32E0D",
             "radicalStrokeCount": "120.10",
             "IDS": "⿱能糸",
             "source": "kCheungBauerIndex 450.04",
@@ -6619,7 +6699,8 @@
         },
         {
             "sourceId": "UTC-00738",
-            "status": "WS-2021",
+            "status": "Variant",
+            "codepoint": "U+4490",
             "radicalStrokeCount": "139.12",
             "IDS": "⿰𣊔色",
             "source": "kCheungBauerIndex 455.09",
@@ -6637,11 +6718,12 @@
         },
         {
             "sourceId": "UTC-00740",
-            "status": "WS-2021",
-            "radicalStrokeCount": "140.11",
+            "status": "ExtJ",
+            "codepoint": "U+332AE",
+            "radicalStrokeCount": "180.6",
             "IDS": "⿱𫇦音",
             "source": "kCheungBauerIndex 456.07",
-            "firstResidualStroke": "3"
+            "firstResidualStroke": "1"
         },
         {
             "sourceId": "UTC-00741",
@@ -6655,7 +6737,8 @@
         },
         {
             "sourceId": "UTC-00742",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32F82",
             "radicalStrokeCount": "141.5",
             "IDS": "⿺虎下",
             "source": "kCheungBauerIndex 457.08",
@@ -6889,7 +6972,8 @@
         },
         {
             "sourceId": "UTC-00766",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32B0C",
             "radicalStrokeCount": "86.13",
             "IDS": "⿱隆灬",
             "source": "kCheungBauerIndex 470.05",
@@ -6907,7 +6991,8 @@
         },
         {
             "sourceId": "UTC-00768",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+328B7",
             "radicalStrokeCount": "64.13",
             "IDS": "⿱靴手",
             "source": "kCheungBauerIndex 471.02",
@@ -6925,7 +7010,8 @@
         },
         {
             "sourceId": "UTC-00770",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+332E3",
             "radicalStrokeCount": "184.11",
             "IDS": "⿰飠庵",
             "source": "kCheungBauerIndex 472.04",
@@ -6991,7 +7077,7 @@
         },
         {
             "sourceId": "UTC-00777",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "85.10",
             "IDS": "⿰氵玆",
             "source": "kHanYu 31707.010, KP1-52B4, UTCDoc L2/21-178 1",
@@ -7001,7 +7087,8 @@
         },
         {
             "sourceId": "UTC-00778",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+324D2",
             "radicalStrokeCount": "20.7",
             "IDS": "⿱勿正",
             "source": "kCheungBauerIndex 345.05",
@@ -7083,7 +7170,8 @@
         },
         {
             "sourceId": "UTC-00787",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+328BF",
             "radicalStrokeCount": "64.13",
             "IDS": "⿰扌鼠",
             "source": "kCheungBauerIndex 425.03",
@@ -7129,7 +7217,7 @@
         },
         {
             "sourceId": "UTC-00792",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "codepoint": "U+8F66",
             "radicalStrokeCount": "159'.0",
             "IDS": "车",
@@ -8094,7 +8182,7 @@
         },
         {
             "sourceId": "UTC-00910",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "30.15",
             "IDS": "⿰口劈",
             "source": "Adobe-CNS1 C+17329",
@@ -11458,7 +11546,7 @@
         },
         {
             "sourceId": "UTC-01257",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "85.17",
             "IDS": "⿰氵𣫑",
             "source": "UTCDoc L2/15-177 56",
@@ -11894,7 +11982,7 @@
         },
         {
             "sourceId": "UTC-01301",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "167.9",
             "IDS": "⿰金朐",
             "source": "UTCDoc L2/15-177 100",
@@ -13258,7 +13346,8 @@
         },
         {
             "sourceId": "UK-01441",
-            "status": "NoAction",
+            "status": "ExtI",
+            "codepoint": "U+2EC43",
             "radicalStrokeCount": "38.6",
             "IDS": "⿰女回",
             "source": "UTCDoc L2/15-260 129",
@@ -30058,7 +30147,7 @@
         },
         {
             "sourceId": "UTC-03116",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "codepoint": "U+2A01A",
             "radicalStrokeCount": "196.6",
             "IDS": "⿰戎鳥",
@@ -30558,7 +30647,8 @@
         },
         {
             "sourceId": "UTC-03167",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32F9D",
             "radicalStrokeCount": "142.6",
             "IDS": "⿱⿰丬夕虫",
             "source": "UTCDoc L2/18-045",
@@ -30567,7 +30657,8 @@
         },
         {
             "sourceId": "UTC-03168",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32CD3",
             "radicalStrokeCount": "112.5",
             "IDS": "⿰石东",
             "source": "UTCDoc L2/18-064 1",
@@ -30576,7 +30667,8 @@
         },
         {
             "sourceId": "UTC-03169",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32CF1",
             "radicalStrokeCount": "112.9",
             "IDS": "⿰石柬",
             "source": "UTCDoc L2/18-064 2",
@@ -30585,7 +30677,8 @@
         },
         {
             "sourceId": "UTC-03170",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+3248F",
             "radicalStrokeCount": "15.7",
             "IDS": "⿰冫更",
             "source": "UTCDoc L2/18-097 1",
@@ -30594,7 +30687,8 @@
         },
         {
             "sourceId": "UTC-03171",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32800",
             "radicalStrokeCount": "61.6",
             "IDS": "⿱她心",
             "source": "UTCDoc L2/18-097 2",
@@ -30603,7 +30697,8 @@
         },
         {
             "sourceId": "UTC-03172",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32CDD",
             "radicalStrokeCount": "112.6",
             "IDS": "⿰石安",
             "source": "UTCDoc L2/18-097 3",
@@ -30612,7 +30707,8 @@
         },
         {
             "sourceId": "UTC-03173",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32D31",
             "radicalStrokeCount": "113.9",
             "IDS": "⿰礻𫨻",
             "source": "UTCDoc L2/18-097 4",
@@ -30621,7 +30717,8 @@
         },
         {
             "sourceId": "UTC-03174",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32E4B",
             "radicalStrokeCount": "123.8",
             "IDS": "⿰羊帛",
             "source": "UTCDoc L2/18-097 5",
@@ -30640,7 +30737,8 @@
         },
         {
             "sourceId": "UTC-03176",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+3274F",
             "radicalStrokeCount": "46.5",
             "IDS": "⿰山庂",
             "source": "UTCDoc L2/18-097 7",
@@ -30649,7 +30747,8 @@
         },
         {
             "sourceId": "UTC-03177",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32C13",
             "radicalStrokeCount": "96.17",
             "IDS": "⿰王賽",
             "source": "UTCDoc L2/18-097 8",
@@ -30658,7 +30757,8 @@
         },
         {
             "sourceId": "UTC-03178",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32CE1",
             "radicalStrokeCount": "112.7",
             "IDS": "⿰石酉",
             "source": "UTCDoc L2/18-097 9",
@@ -30667,7 +30767,8 @@
         },
         {
             "sourceId": "UTC-03179",
-            "status": "WS-2021",
+            "status": "Variant",
+            "codepoint": "U+2D409",
             "radicalStrokeCount": "85.16",
             "IDS": "⿰氵⿸廌土",
             "source": "UTCDoc L2/18-288 1",
@@ -30676,7 +30777,8 @@
         },
         {
             "sourceId": "UTC-03180",
-            "status": "WS-2021",
+            "status": "Variant",
+            "codepoint": "U+95D1",
             "radicalStrokeCount": "169.11",
             "IDS": "⿵門⿱自夲",
             "source": "UTCDoc L2/18-288 2",
@@ -30685,7 +30787,8 @@
         },
         {
             "sourceId": "UTC-03181",
-            "status": "WS-2021",
+            "status": "Variant",
+            "codepoint": "U+6183",
             "radicalStrokeCount": "61.11",
             "IDS": "⿱⿵𡗗⿱丿罒心",
             "source": "UTCDoc L2/18-288 3",
@@ -30694,7 +30797,8 @@
         },
         {
             "sourceId": "UTC-03182",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32F8B",
             "radicalStrokeCount": "142.3",
             "IDS": "⿰虫千",
             "source": "UTCDoc L2/18-288 4",
@@ -30703,7 +30807,8 @@
         },
         {
             "sourceId": "UTC-03183",
-            "status": "WS-2021",
+            "status": "Variant",
+            "codepoint": "U+8C7B",
             "radicalStrokeCount": "153.3",
             "IDS": "⿰豸千",
             "source": "UTCDoc L2/18-288 5",
@@ -30712,7 +30817,8 @@
         },
         {
             "sourceId": "UTC-03184",
-            "status": "WS-2021",
+            "status": "Variant",
+            "codepoint": "U+9B46",
             "radicalStrokeCount": "194.5",
             "IDS": "⿺鬼戊",
             "source": "UTCDoc L2/18-288 6",
@@ -30721,7 +30827,8 @@
         },
         {
             "sourceId": "UTC-03185",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+33363",
             "radicalStrokeCount": "195.9",
             "IDS": "⿰魚𪾋",
             "source": "UTCDoc L2/18-288 7",
@@ -30730,7 +30837,8 @@
         },
         {
             "sourceId": "UTC-03186",
-            "status": "WS-2021",
+            "status": "Variant",
+            "codepoint": "U+730A",
             "radicalStrokeCount": "94.8",
             "IDS": "⿰犭𫤘",
             "source": "UTCDoc L2/18-288 8",
@@ -30739,7 +30847,8 @@
         },
         {
             "sourceId": "UTC-03187",
-            "status": "WS-2021",
+            "status": "Variant",
+            "codepoint": "U+8B6D",
             "radicalStrokeCount": "149.13",
             "IDS": "⿲訁⿳丿罒工殳",
             "source": "UTCDoc L2/18-288 9",
@@ -30748,7 +30857,8 @@
         },
         {
             "sourceId": "UTC-03188",
-            "status": "WS-2021",
+            "status": "Variant",
+            "codepoint": "U+506D",
             "radicalStrokeCount": "9.8",
             "IDS": "⿰亻靣",
             "source": "UTCDoc L2/18-288 10",
@@ -30767,7 +30877,8 @@
         },
         {
             "sourceId": "UTC-03190",
-            "status": "WS-2021",
+            "status": "Variant",
+            "codepoint": "U+58ED",
             "radicalStrokeCount": "32.2",
             "IDS": "⿱土𰆊",
             "source": "UTCDoc L2/18-288 12",
@@ -30776,7 +30887,8 @@
         },
         {
             "sourceId": "UTC-03191",
-            "status": "WS-2021",
+            "status": "Variant",
+            "codepoint": "U+5381",
             "radicalStrokeCount": "26.11",
             "IDS": "⿱斜㔾",
             "source": "UTCDoc L2/18-288 13",
@@ -30785,7 +30897,8 @@
         },
         {
             "sourceId": "UTC-03192",
-            "status": "WS-2021",
+            "status": "Variant",
+            "codepoint": "U+95AA",
             "radicalStrokeCount": "169.7",
             "IDS": "⿵門⿱一曲",
             "source": "UTCDoc L2/18-288 14",
@@ -30794,7 +30907,8 @@
         },
         {
             "sourceId": "UTC-03193",
-            "status": "WS-2021",
+            "status": "Variant",
+            "codepoint": "U+7233",
             "radicalStrokeCount": "87.10",
             "IDS": "⿱爲𰆊",
             "source": "UTCDoc L2/18-288 15",
@@ -30803,7 +30917,8 @@
         },
         {
             "sourceId": "UTC-03194",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32C6C",
             "radicalStrokeCount": "104.11",
             "IDS": "⿸疒粒",
             "source": "UTCDoc L2/18-290 1",
@@ -30813,7 +30928,8 @@
         },
         {
             "sourceId": "UTC-03195",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+3331E",
             "radicalStrokeCount": "157.7",
             "IDS": "⿱⿳亠口冖足",
             "source": "UTCDoc L2/18-290 2",
@@ -30823,7 +30939,8 @@
         },
         {
             "sourceId": "UTC-03196",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32B61",
             "radicalStrokeCount": "93.8",
             "IDS": "⿰牛周",
             "source": "UTCDoc L2/18-290 3",
@@ -30833,7 +30950,8 @@
         },
         {
             "sourceId": "UTC-03197",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32516",
             "radicalStrokeCount": "30.5",
             "IDS": "⿰口毋",
             "source": "UTCDoc L2/18-290 4",
@@ -30843,7 +30961,8 @@
         },
         {
             "sourceId": "UTC-03198",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32F0A",
             "radicalStrokeCount": "140.8",
             "IDS": "⿱艹帕",
             "source": "UTCDoc L2/18-290 5",
@@ -30853,7 +30972,8 @@
         },
         {
             "sourceId": "UTC-03199",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32EF9",
             "radicalStrokeCount": "140.6",
             "IDS": "⿱艹吐",
             "source": "UTCDoc L2/18-290 6",
@@ -30863,7 +30983,8 @@
         },
         {
             "sourceId": "UTC-03200",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+324D6",
             "radicalStrokeCount": "20.15",
             "IDS": "⿰勿愛",
             "source": "UTCDoc L2/18-290 7",
@@ -30873,7 +30994,8 @@
         },
         {
             "sourceId": "UTC-03201",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32A85",
             "radicalStrokeCount": "85.10",
             "IDS": "⿰氵都",
             "source": "UTCDoc L2/18-290 8",
@@ -30883,7 +31005,8 @@
         },
         {
             "sourceId": "UTC-03202",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32B5D",
             "radicalStrokeCount": "93.4",
             "IDS": "⿰牜公",
             "source": "UTCDoc L2/18-290 9",
@@ -30893,7 +31016,8 @@
         },
         {
             "sourceId": "UTC-03203",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32EBC",
             "radicalStrokeCount": "74.14",
             "IDS": "⿰月赫",
             "source": "UTCDoc L2/18-290 10",
@@ -30903,7 +31027,8 @@
         },
         {
             "sourceId": "UTC-03204",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32ED1",
             "radicalStrokeCount": "135.4",
             "IDS": "⿰舌丹",
             "source": "UTCDoc L2/18-290 11",
@@ -30913,7 +31038,8 @@
         },
         {
             "sourceId": "UTC-03205",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32410",
             "radicalStrokeCount": "8.10",
             "IDS": "⿱亠宮",
             "source": "UTCDoc L2/19-089 1",
@@ -30922,7 +31048,8 @@
         },
         {
             "sourceId": "UTC-03206",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32413",
             "radicalStrokeCount": "8.15",
             "IDS": "⿱亠徵",
             "source": "UTCDoc L2/19-089 2",
@@ -30931,7 +31058,8 @@
         },
         {
             "sourceId": "UTC-03207",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+323B0",
             "radicalStrokeCount": "1.2",
             "IDS": "⿻丅𠃍",
             "source": "UTCDoc L2/19-089 3",
@@ -30940,7 +31068,8 @@
         },
         {
             "sourceId": "UTC-03208",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32415",
             "radicalStrokeCount": "9.2",
             "IDS": "⿰亻丅",
             "source": "UTCDoc L2/19-089 4",
@@ -30949,7 +31078,8 @@
         },
         {
             "sourceId": "UTC-03209",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32D4F",
             "radicalStrokeCount": "115.8",
             "IDS": "⿰禾斉",
             "source": "UTCDoc L2/19-043",
@@ -30959,7 +31089,8 @@
         },
         {
             "sourceId": "UTC-03210",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+324F9",
             "radicalStrokeCount": "29.9",
             "IDS": "⿱叙𰆊",
             "source": "UTCDoc L2/19-011",
@@ -30969,7 +31100,8 @@
         },
         {
             "sourceId": "UTC-03211",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32403",
             "radicalStrokeCount": "7.6",
             "IDS": "⿱二百",
             "source": "UTCDoc L2/20-074 1",
@@ -30979,7 +31111,8 @@
         },
         {
             "sourceId": "UTC-03212",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+3275B",
             "radicalStrokeCount": "46.7",
             "IDS": "⿰山赤",
             "source": "UTCDoc L2/20-074 2",
@@ -30989,7 +31122,8 @@
         },
         {
             "sourceId": "UTC-03213",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+3290D",
             "radicalStrokeCount": "71.3",
             "IDS": "⿱旡夊",
             "source": "UTCDoc L2/20-074 3",
@@ -30999,7 +31133,8 @@
         },
         {
             "sourceId": "UTC-03214",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+33143",
             "radicalStrokeCount": "162.36",
             "IDS": "⿺辶⿳⿲日日日⿲日日日⿲日日日",
             "source": "UTCDoc L2/20-074 4",
@@ -31009,7 +31144,8 @@
         },
         {
             "sourceId": "UTC-03215",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+3255C",
             "radicalStrokeCount": "30.9",
             "IDS": "⿰口剋",
             "source": "UTCDoc L2/20-093 1",
@@ -31030,7 +31166,8 @@
         },
         {
             "sourceId": "UTC-03217",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+3259D",
             "radicalStrokeCount": "30.12",
             "IDS": "⿰口揼",
             "source": "UTCDoc L2/20-093 3",
@@ -31040,7 +31177,8 @@
         },
         {
             "sourceId": "UTC-03218",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+325FB",
             "radicalStrokeCount": "30.16",
             "IDS": "⿰口壁",
             "source": "UTCDoc L2/20-093 4",
@@ -31050,7 +31188,8 @@
         },
         {
             "sourceId": "UTC-03219",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+323C0",
             "radicalStrokeCount": "4.5",
             "IDS": "⿸𠂝丶",
             "source": "kFennIndex 110.04",
@@ -31071,7 +31210,8 @@
         },
         {
             "sourceId": "UTC-03221",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32501",
             "radicalStrokeCount": "27.54",
             "IDS": "⿸厂⿳⿲有有有⿲有有有⿲有有有",
             "source": "UTCDoc L2/20-126 2",
@@ -31081,7 +31221,8 @@
         },
         {
             "sourceId": "UTC-03222",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32486",
             "radicalStrokeCount": "13.10",
             "IDS": "⿵冂書",
             "source": "UTCDoc L2/20-139 1",
@@ -31089,7 +31230,8 @@
         },
         {
             "sourceId": "UTC-03223",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32485",
             "radicalStrokeCount": "13.6",
             "IDS": "⿻冂合",
             "source": "UTCDoc L2/20-139 2",
@@ -31098,7 +31240,7 @@
         },
         {
             "sourceId": "UTC-03224",
-            "status": "WS-2021",
+            "status": "Rejected",
             "radicalStrokeCount": "66.12",
             "IDS": "⿱敕令",
             "source": "UTCDoc L2/20-139 3",
@@ -31107,7 +31249,8 @@
         },
         {
             "sourceId": "UTC-03225",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+323B1",
             "radicalStrokeCount": "1.2",
             "IDS": "⿻一𠃏",
             "source": "UTCDoc L2/20-145 1",
@@ -31117,7 +31260,8 @@
         },
         {
             "sourceId": "UTC-03226",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32A34",
             "radicalStrokeCount": "85.2",
             "IDS": "⿰氵𬼁",
             "source": "UTCDoc L2/20-145 2",
@@ -31127,7 +31271,8 @@
         },
         {
             "sourceId": "UTC-03227",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32A37",
             "radicalStrokeCount": "85.3",
             "IDS": "⿰氵𬼄",
             "source": "UTCDoc L2/20-145 3",
@@ -31137,7 +31282,8 @@
         },
         {
             "sourceId": "UTC-03228",
-            "status": "WS-2021",
+            "status": "Variant",
+            "codepoint": "U+2BBB0",
             "radicalStrokeCount": "32.15",
             "IDS": "⿰土𮧌",
             "source": "UTCDoc L2/20-206 1",
@@ -31147,7 +31293,8 @@
         },
         {
             "sourceId": "UTC-03229",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+3276B",
             "radicalStrokeCount": "46.8",
             "IDS": "⿰山定",
             "source": "UTCDoc L2/20-206 2",
@@ -31157,7 +31304,8 @@
         },
         {
             "sourceId": "UTC-03230",
-            "status": "WS-2021",
+            "status": "Variant",
+            "codepoint": "+2B756",
             "radicalStrokeCount": "53.9",
             "IDS": "⿱𠂊⿸广?",
             "source": "UTCDoc L2/20-206 3",
@@ -31167,7 +31315,8 @@
         },
         {
             "sourceId": "UTC-03231",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+3286B",
             "radicalStrokeCount": "64.6",
             "IDS": "⿰扌込",
             "source": "UTCDoc L2/20-206 4",
@@ -31177,7 +31326,8 @@
         },
         {
             "sourceId": "UTC-03232",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32B6C",
             "radicalStrokeCount": "94.2",
             "IDS": "⿰犭又",
             "source": "UTCDoc L2/20-206 5",
@@ -31187,8 +31337,8 @@
         },
         {
             "sourceId": "UTC-03233",
-            "status": "WS-2021",
-            "codepoint": "U+9B29",
+            "status": "ExtJ",
+            "codepoint": "U+331FE",
             "radicalStrokeCount": "169.7",
             "IDS": "⿵門児",
             "source": "UTCDoc L2/20-206 6",
@@ -31208,7 +31358,8 @@
         },
         {
             "sourceId": "UTC-03235",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+3248B",
             "radicalStrokeCount": "15.3",
             "IDS": "⿰冫夕",
             "source": "UTCDoc L2/21-025 1",
@@ -31218,7 +31369,8 @@
         },
         {
             "sourceId": "UTC-03236",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32633",
             "radicalStrokeCount": "32.3",
             "IDS": "⿰土夕",
             "source": "UTCDoc L2/21-025 2",
@@ -31227,7 +31379,8 @@
         },
         {
             "sourceId": "UTC-03237",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+32B09",
             "radicalStrokeCount": "86.12",
             "IDS": "⿱晶灬",
             "source": "UTCDoc L2/21-025 3",
@@ -31237,7 +31390,8 @@
         },
         {
             "sourceId": "UTC-03238",
-            "status": "WS-2021",
+            "status": "ExtJ",
+            "codepoint": "U+33142",
             "radicalStrokeCount": "162.27",
             "IDS": "⿺辶𰆂",
             "source": "UTCDoc L2/21-025 4",
@@ -31268,7 +31422,7 @@
         },
         {
             "sourceId": "UTC-03241",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "codepoint": "U+2E99B",
             "radicalStrokeCount": "173.10",
             "IDS": "⿱雨流",
@@ -31279,7 +31433,7 @@
         },
         {
             "sourceId": "UTC-03242",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "codepoint": "U+4FDD",
             "radicalStrokeCount": "113.7",
             "IDS": "⿰礻呆",
@@ -31290,7 +31444,7 @@
         },
         {
             "sourceId": "UTC-03243",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "codepoint": "U+973A",
             "radicalStrokeCount": "173.13",
             "IDS": "⿱雨𪫕",
@@ -31301,7 +31455,7 @@
         },
         {
             "sourceId": "UTC-03244",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "codepoint": "U+5E79 U+2D16A",
             "radicalStrokeCount": "37.11",
             "IDS": "⿰𠦝夸",
@@ -31312,7 +31466,7 @@
         },
         {
             "sourceId": "UTC-03245",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "codepoint": "U+7E20",
             "radicalStrokeCount": "120.9",
             "IDS": "⿰⿳士冖糸殳",
@@ -31323,7 +31477,7 @@
         },
         {
             "sourceId": "UTC-03246",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "codepoint": "U+7E3F",
             "radicalStrokeCount": "120.13",
             "IDS": "⿰糸𭆤",
@@ -31334,7 +31488,7 @@
         },
         {
             "sourceId": "UTC-03247",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "codepoint": "U+84AD",
             "radicalStrokeCount": "140.6",
             "IDS": "⿱艹𢑑",
@@ -31345,7 +31499,7 @@
         },
         {
             "sourceId": "UTC-03248",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "codepoint": "U+807F",
             "radicalStrokeCount": "129.0",
             "IDS": "⿱𦘒一",
@@ -31355,7 +31509,7 @@
         },
         {
             "sourceId": "UTC-03249",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "120.8",
             "IDS": "⿰糹東",
             "source": "KP1-671B, UTCDoc L2/21-178 2",
@@ -31364,7 +31518,7 @@
         },
         {
             "sourceId": "UTC-03250",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "75.5",
             "IDS": "⿰木朮",
             "source": "KP1-4B26, UTCDoc L2/21-178 3",
@@ -31373,7 +31527,7 @@
         },
         {
             "sourceId": "UTC-03251",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "58.0",
             "IDS": "⿻⿱𠃍一一",
             "source": "UTCDoc L2/21-179 1",
@@ -31382,7 +31536,7 @@
         },
         {
             "sourceId": "UTC-03252",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "147.14",
             "IDS": "⿱見覞",
             "source": "UTCDoc L2/22-009 1",
@@ -31391,7 +31545,7 @@
         },
         {
             "sourceId": "UTC-03253",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "147.7",
             "IDS": "⿺見⿿見",
             "source": "UTCDoc L2/22-009 2",
@@ -31401,7 +31555,7 @@
         },
         {
             "sourceId": "UTC-03254",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "147.21",
             "IDS": "⿺⿺見見⿿⿺見見",
             "source": "UTCDoc L2/22-009 3",
@@ -31410,7 +31564,7 @@
         },
         {
             "sourceId": "UTC-03255",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "85.13",
             "IDS": "⿰氵嵩",
             "source": "UTCDoc L2/22-040 1",
@@ -31419,7 +31573,7 @@
         },
         {
             "sourceId": "UTC-03256",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "85.12",
             "IDS": "⿰氵裁",
             "source": "UTCDoc L2/22-040 2",
@@ -31428,7 +31582,7 @@
         },
         {
             "sourceId": "UTC-03257",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "85.7",
             "IDS": "⿰汖攵",
             "source": "UTCDoc L2/22-040 3",
@@ -31457,7 +31611,7 @@
         },
         {
             "sourceId": "UTC-03260",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "85.10",
             "IDS": "⿰氵⿱罒永",
             "source": "UTCDoc L2/22-040 6",
@@ -31466,7 +31620,7 @@
         },
         {
             "sourceId": "UTC-03261",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "86.3",
             "IDS": "⿰火巳",
             "source": "UTCDoc L2/22-040 7",
@@ -31485,7 +31639,7 @@
         },
         {
             "sourceId": "UTC-03263",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "32.9",
             "IDS": "⿰土耍",
             "source": "UTCDoc L2/22-040 9",
@@ -31514,7 +31668,7 @@
         },
         {
             "sourceId": "UTC-03266",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "123.8",
             "IDS": "⿰羊隹",
             "source": "UTCDoc L2/22-040 12",
@@ -31533,7 +31687,7 @@
         },
         {
             "sourceId": "UTC-03268",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "167.7",
             "IDS": "⿰金⿸厂㐱",
             "source": "UTCDoc L2/22-040 14",
@@ -31542,7 +31696,7 @@
         },
         {
             "sourceId": "UTC-03269",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "167.8",
             "IDS": "⿱⿰土正金",
             "source": "UTCDoc L2/22-040 15",
@@ -31551,7 +31705,7 @@
         },
         {
             "sourceId": "UTC-03270",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "167.3",
             "IDS": "⿱宀金",
             "source": "UTCDoc L2/22-040 16",
@@ -31560,7 +31714,7 @@
         },
         {
             "sourceId": "UTC-03271",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "167.5",
             "IDS": "⿰田金",
             "source": "UTCDoc L2/22-040 17",
@@ -31569,7 +31723,7 @@
         },
         {
             "sourceId": "UTC-03272",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "167.8",
             "IDS": "⿱泊金",
             "source": "UTCDoc L2/22-040 18",
@@ -31578,7 +31732,7 @@
         },
         {
             "sourceId": "UTC-03273",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "85.21",
             "IDS": "⿱雨濩",
             "source": "UTCDoc L2/22-040 19",
@@ -31587,7 +31741,7 @@
         },
         {
             "sourceId": "UTC-03274",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "167.6",
             "IDS": "⿰金芝",
             "source": "UTCDoc L2/22-040 20",
@@ -31596,7 +31750,7 @@
         },
         {
             "sourceId": "UTC-03275",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "86.4",
             "IDS": "⿰火今",
             "source": "UTCDoc L2/22-040 21",
@@ -31615,7 +31769,7 @@
         },
         {
             "sourceId": "UTC-03277",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "75.7",
             "IDS": "⿱艹𣏹",
             "source": "UTCDoc L2/22-040 23",
@@ -31624,7 +31778,7 @@
         },
         {
             "sourceId": "UTC-03278",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "75.8",
             "IDS": "⿰木受",
             "source": "UTCDoc L2/22-040 24",
@@ -31633,7 +31787,7 @@
         },
         {
             "sourceId": "UTC-03279",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "75.10",
             "IDS": "⿰木扆",
             "source": "UTCDoc L2/22-040 25",
@@ -31642,7 +31796,7 @@
         },
         {
             "sourceId": "UTC-03280",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "85.9",
             "IDS": "⿱𤱄木",
             "source": "UTCDoc L2/22-040 26",
@@ -31651,7 +31805,7 @@
         },
         {
             "sourceId": "UTC-03281",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "167.7",
             "IDS": "⿱金坐",
             "source": "UTCDoc L2/22-040 27",
@@ -31660,7 +31814,7 @@
         },
         {
             "sourceId": "UTC-03282",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "167.8",
             "IDS": "⿱⿰王巨金",
             "source": "UTCDoc L2/22-040 28",
@@ -31669,7 +31823,7 @@
         },
         {
             "sourceId": "UTC-03283",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "75.11",
             "IDS": "⿰木野",
             "source": "UTCDoc L2/22-040 29",
@@ -31678,7 +31832,7 @@
         },
         {
             "sourceId": "UTC-03284",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "86.27",
             "IDS": "⿰革⿳亠⿱⿴𦥑同冖灭",
             "source": "UTCDoc L2/22-040 30",
@@ -31687,7 +31841,7 @@
         },
         {
             "sourceId": "UTC-03285",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "167.11",
             "IDS": "⿰金進",
             "source": "UTCDoc L2/22-040 31",
@@ -31706,7 +31860,7 @@
         },
         {
             "sourceId": "UTC-03287",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "167.6",
             "IDS": "⿰金此",
             "source": "UTCDoc L2/22-040 33",
@@ -31715,7 +31869,7 @@
         },
         {
             "sourceId": "UTC-03288",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "75.12",
             "IDS": "⿰木欻",
             "source": "UTCDoc L2/22-040 34",
@@ -31724,7 +31878,7 @@
         },
         {
             "sourceId": "UTC-03289",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "85.10",
             "IDS": "⿰氵紋",
             "source": "UTCDoc L2/22-040 35",
@@ -31733,7 +31887,7 @@
         },
         {
             "sourceId": "UTC-03290",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "75.30",
             "IDS": "⿰木鸞",
             "source": "UTCDoc L2/22-040 36",
@@ -31742,7 +31896,7 @@
         },
         {
             "sourceId": "UTC-03291",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "codepoint": "U+27E29",
             "radicalStrokeCount": "154'.14",
             "IDS": "⿰贝睿",
@@ -31753,7 +31907,7 @@
         },
         {
             "sourceId": "UTC-03292",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "codepoint": "U+30A37",
             "radicalStrokeCount": "113.11",
             "IDS": "⿰礻密",
@@ -31764,7 +31918,7 @@
         },
         {
             "sourceId": "UTC-03293",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "113.11",
             "IDS": "⿰礻規",
             "source": "UTCDoc L2/22-040 39",
@@ -31774,7 +31928,7 @@
         },
         {
             "sourceId": "UTC-03294",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "113.8",
             "IDS": "⿰礻规",
             "source": "UTCDoc L2/22-040 40",
@@ -31784,7 +31938,7 @@
         },
         {
             "sourceId": "UTC-03295",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "codepoint": "U+31FC3",
             "radicalStrokeCount": "140.5",
             "IDS": "⿱花一",
@@ -31794,7 +31948,7 @@
         },
         {
             "sourceId": "UTC-03296",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "codepoint": "U+20BC7",
             "radicalStrokeCount": "30.3",
             "IDS": "⿰口己",
@@ -31805,7 +31959,7 @@
         },
         {
             "sourceId": "UTC-03297",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "codepoint": "U+25426",
             "radicalStrokeCount": "112.3",
             "IDS": "⿰石己",
@@ -31816,7 +31970,7 @@
         },
         {
             "sourceId": "UTC-03298",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "2.12",
             "IDS": "⿱⿰中人𭠀",
             "source": "UTCDoc L2/22-206 1",
@@ -31825,7 +31979,7 @@
         },
         {
             "sourceId": "UTC-03299",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "9.3",
             "IDS": "⿰亻凢",
             "source": "UTCDoc L2/22-206 2",
@@ -31834,7 +31988,7 @@
         },
         {
             "sourceId": "UTC-03300",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "15.3",
             "IDS": "⿰冫上",
             "source": "UTCDoc L2/22-206 3",
@@ -31843,7 +31997,7 @@
         },
         {
             "sourceId": "UTC-03301",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "15.4",
             "IDS": "⿰冫五",
             "source": "UTCDoc L2/22-206 4",
@@ -31852,7 +32006,7 @@
         },
         {
             "sourceId": "UTC-03302",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "15.4",
             "IDS": "⿰冫六",
             "source": "UTCDoc L2/22-206 5",
@@ -31861,7 +32015,7 @@
         },
         {
             "sourceId": "UTC-03303",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "15.5",
             "IDS": "⿰冫四",
             "source": "UTCDoc L2/22-206 6",
@@ -31870,7 +32024,7 @@
         },
         {
             "sourceId": "UTC-03304",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "24.11",
             "IDS": "⿰南太",
             "source": "UTCDoc L2/22-206 7",
@@ -31879,7 +32033,7 @@
         },
         {
             "sourceId": "UTC-03305",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "26.6",
             "IDS": "〾⿱[P5-02]五",
             "source": "UTCDoc L2/22-206 8",
@@ -31888,7 +32042,7 @@
         },
         {
             "sourceId": "UTC-03306",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "30.11",
             "IDS": "⿰古南",
             "source": "UTCDoc L2/22-206 9",
@@ -31897,7 +32051,7 @@
         },
         {
             "sourceId": "UTC-03307",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "38.6",
             "IDS": "⿳一巛𠕷",
             "source": "UTCDoc L2/22-206 10",
@@ -31906,16 +32060,16 @@
         },
         {
             "sourceId": "UTC-03308",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "38.6",
-            "IDS": "⿱爪𠕷",
+            "IDS": "⿱爫𠕷",
             "source": "UTCDoc L2/22-206 11",
             "totalStrokes": "9",
             "firstResidualStroke": "3"
         },
         {
             "sourceId": "UTC-03309",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "53.4",
             "IDS": "⿸广五",
             "source": "UTCDoc L2/22-206 12",
@@ -31924,7 +32078,7 @@
         },
         {
             "sourceId": "UTC-03310",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "59.2",
             "IDS": "⿰⿱丿彳一",
             "source": "UTCDoc L2/22-206 13",
@@ -31933,7 +32087,7 @@
         },
         {
             "sourceId": "UTC-03311",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "59.2",
             "IDS": "⿰⿱丿彳乙",
             "source": "UTCDoc L2/22-206 14",
@@ -31942,7 +32096,7 @@
         },
         {
             "sourceId": "UTC-03312",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "59.4",
             "IDS": "⿰⿱丿彳上",
             "source": "UTCDoc L2/22-206 15",
@@ -31951,7 +32105,7 @@
         },
         {
             "sourceId": "UTC-03313",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "59.4",
             "IDS": "⿰⿱丿彳工",
             "source": "UTCDoc L2/22-206 16",
@@ -31960,7 +32114,7 @@
         },
         {
             "sourceId": "UTC-03314",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "59.4",
             "IDS": "⿰⿱丿彳凢",
             "source": "UTCDoc L2/22-206 17",
@@ -31969,7 +32123,7 @@
         },
         {
             "sourceId": "UTC-03315",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "59.4",
             "IDS": "⿰⿱丿彳凡",
             "source": "UTCDoc L2/22-206 18",
@@ -31978,7 +32132,7 @@
         },
         {
             "sourceId": "UTC-03316",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "59.5",
             "IDS": "⿰⿱丿彳尺",
             "source": "UTCDoc L2/22-206 19",
@@ -31987,7 +32141,7 @@
         },
         {
             "sourceId": "UTC-03317",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "59.5",
             "IDS": "⿰⿱丿彳六",
             "source": "UTCDoc L2/22-206 20",
@@ -31996,7 +32150,7 @@
         },
         {
             "sourceId": "UTC-03318",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "59.5",
             "IDS": "⿰⿱丿彳五",
             "source": "UTCDoc L2/22-206 21",
@@ -32005,7 +32159,7 @@
         },
         {
             "sourceId": "UTC-03319",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "60.1",
             "IDS": "⿰彳一",
             "source": "UTCDoc L2/22-206 22",
@@ -32014,7 +32168,7 @@
         },
         {
             "sourceId": "UTC-03320",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "60.3",
             "IDS": "⿰彳凢",
             "source": "UTCDoc L2/22-206 23",
@@ -32023,7 +32177,7 @@
         },
         {
             "sourceId": "UTC-03321",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "60.5",
             "IDS": "⿰彳四",
             "source": "UTCDoc L2/22-206 24",
@@ -32032,7 +32186,7 @@
         },
         {
             "sourceId": "UTC-03322",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "63.1",
             "IDS": "⿸戸一",
             "source": "UTCDoc L2/22-206 25",
@@ -32041,7 +32195,7 @@
         },
         {
             "sourceId": "UTC-03323",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "63.3",
             "IDS": "⿸戸三",
             "source": "UTCDoc L2/22-206 26",
@@ -32050,7 +32204,7 @@
         },
         {
             "sourceId": "UTC-03324",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "63.4",
             "IDS": "⿸戸五",
             "source": "UTCDoc L2/22-206 27",
@@ -32059,7 +32213,7 @@
         },
         {
             "sourceId": "UTC-03325",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "63.4",
             "IDS": "⿸戸⿱幺一",
             "source": "UTCDoc L2/22-206 28",
@@ -32068,7 +32222,7 @@
         },
         {
             "sourceId": "UTC-03326",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "63.5",
             "IDS": "⿸戸⿳一巛一",
             "source": "UTCDoc L2/22-206 29",
@@ -32077,7 +32231,7 @@
         },
         {
             "sourceId": "UTC-03327",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "63.5",
             "IDS": "⿸戸四",
             "source": "UTCDoc L2/22-206 30",
@@ -32086,7 +32240,7 @@
         },
         {
             "sourceId": "UTC-03328",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "63.5",
             "IDS": "⿸戸⿱爫一",
             "source": "UTCDoc L2/22-206 31",
@@ -32095,7 +32249,7 @@
         },
         {
             "sourceId": "UTC-03329",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "63.5",
             "IDS": "⿸戸氐",
             "source": "UTCDoc L2/22-206 32",
@@ -32104,7 +32258,7 @@
         },
         {
             "sourceId": "UTC-03330",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "63.7",
             "IDS": "⿱⿰戸人右",
             "source": "UTCDoc L2/22-206 33",
@@ -32113,7 +32267,7 @@
         },
         {
             "sourceId": "UTC-03331",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "64.4",
             "IDS": "⿱才六",
             "source": "UTCDoc L2/22-206 34",
@@ -32132,7 +32286,7 @@
         },
         {
             "sourceId": "UTC-03333",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "85.3",
             "IDS": "⿰氵士",
             "source": "UTCDoc L2/22-206 36",
@@ -32141,7 +32295,7 @@
         },
         {
             "sourceId": "UTC-03334",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "85.4",
             "IDS": "⿰氵五",
             "source": "UTCDoc L2/22-206 37",
@@ -32150,7 +32304,7 @@
         },
         {
             "sourceId": "UTC-03335",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "85.4",
             "IDS": "⿰氵六",
             "source": "UTCDoc L2/22-206 38",
@@ -32159,7 +32313,7 @@
         },
         {
             "sourceId": "UTC-03336",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.8",
             "IDS": "⿰鱼孟",
             "source": "UTCDoc L2/22-282",
@@ -32169,7 +32323,7 @@
         },
         {
             "sourceId": "UTC-03337",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "44.19",
             "IDS": "⿸尸醮",
             "source": "UTCDoc L2/23-110 1",
@@ -32188,7 +32342,7 @@
         },
         {
             "sourceId": "UTC-03339",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "86.8",
             "IDS": "⿰火奈",
             "source": "UTCDoc L2/23-124",
@@ -32198,7 +32352,7 @@
         },
         {
             "sourceId": "UTC-03340",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "74.52",
             "IDS": "⿰月⿹⿶戈丶⿳⿲糹⿱二口糹⿲長馬長心",
             "source": "UTCDoc L2/23-126 1",
@@ -32207,7 +32361,7 @@
         },
         {
             "sourceId": "UTC-03341",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "74.31",
             "IDS": "⿰月⿹⿶戈丶⿳⿲纟⿱二口纟⿲长马长心",
             "source": "UTCDoc L2/23-126 2",
@@ -32216,7 +32370,7 @@
         },
         {
             "sourceId": "UTC-03342",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "74.53",
             "IDS": "⿲月⿳亠⿲糹⿱二口糹⿱⿲長馬長心戈",
             "source": "UTCDoc L2/23-126 3",
@@ -32225,7 +32379,7 @@
         },
         {
             "sourceId": "UTC-03343",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "74.32",
             "IDS": "⿲月⿳亠⿲糹⿱二口糹⿱⿲長馬長心戈",
             "source": "UTCDoc L2/23-126 4",
@@ -32234,7 +32388,7 @@
         },
         {
             "sourceId": "UTC-03344",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "8.60",
             "IDS": "⿳亠⿲月⿳⿲糹⿱二口糹一⿲長馬長戔心",
             "source": "UTCDoc L2/23-126 5",
@@ -32243,7 +32397,7 @@
         },
         {
             "sourceId": "UTC-03345",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "61.46",
             "IDS": "⿳䜌⿲長馬長必",
             "source": "UTCDoc L2/23-126 6",
@@ -32252,7 +32406,7 @@
         },
         {
             "sourceId": "UTC-03346",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "46.52",
             "IDS": "⿹⿶戈⿱山丶⿳⿲糹⿱二口糹⿲長馬長灬",
             "source": "UTCDoc L2/23-126 7",
@@ -32261,7 +32415,7 @@
         },
         {
             "sourceId": "UTC-03347",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "8.27",
             "IDS": "⿳亠⿲幺⿱二口幺⿱⿲月贝戈心",
             "source": "UTCDoc L2/23-126 8",
@@ -32270,7 +32424,7 @@
         },
         {
             "sourceId": "UTC-03348",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "74.32",
             "IDS": "⿰月⿵⿶戈⿲纟言纟⿱⿲长马长心",
             "source": "UTCDoc L2/23-126 9",
@@ -32279,7 +32433,7 @@
         },
         {
             "sourceId": "UTC-03349",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "62.52",
             "IDS": "⿰⿸广⿳⿲糹言糹⿲長馬長心戈",
             "source": "UTCDoc L2/23-126 10",
@@ -32288,7 +32442,7 @@
         },
         {
             "sourceId": "UTC-03350",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "85.6",
             "IDS": "⿰氵𠧗",
             "source": "UTCDoc L2/23-130 1",
@@ -32298,7 +32452,7 @@
         },
         {
             "sourceId": "UTC-03351",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "93.4",
             "IDS": "⿰牛化",
             "source": "UTCDoc L2/23-130 2",
@@ -32308,7 +32462,7 @@
         },
         {
             "sourceId": "UTC-03352",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "75.7",
             "IDS": "⿰木励",
             "source": "UTCDoc L2/23-130 3",
@@ -32318,7 +32472,7 @@
         },
         {
             "sourceId": "UTC-03353",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "140.7",
             "IDS": "⿳艹从干",
             "source": "UTCDoc L2/23-130 4",
@@ -32328,7 +32482,7 @@
         },
         {
             "sourceId": "UTC-03354",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "75.9",
             "IDS": "⿰木⿱艹𡧃",
             "source": "UTCDoc L2/23-130 5",
@@ -32338,7 +32492,7 @@
         },
         {
             "sourceId": "UTC-03355",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "85.9",
             "IDS": "⿰氵神",
             "source": "UTCDoc L2/23-130 6",
@@ -32348,7 +32502,7 @@
         },
         {
             "sourceId": "UTC-03356",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "46.3",
             "IDS": "〾⿰山川",
             "source": "UTCDoc L2/23-130 7",
@@ -32358,7 +32512,7 @@
         },
         {
             "sourceId": "UTC-03357",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "75.13",
             "IDS": "⿰木蒔",
             "source": "UTCDoc L2/23-130 8",
@@ -32368,7 +32522,7 @@
         },
         {
             "sourceId": "UTC-03358",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "115.5",
             "IDS": "⿰禾⿱千又",
             "source": "UTCDoc L2/23-130 9",
@@ -32378,7 +32532,7 @@
         },
         {
             "sourceId": "UTC-03359",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "64.6",
             "IDS": "〾⿰扌年",
             "source": "UTCDoc L2/23-130 10",
@@ -32388,7 +32542,7 @@
         },
         {
             "sourceId": "UTC-03360",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "64.9",
             "IDS": "〾⿰扌乗",
             "source": "UTCDoc L2/23-130 11",
@@ -32398,7 +32552,7 @@
         },
         {
             "sourceId": "UTC-03361",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "140.13",
             "IDS": "⿱艹⿰身瓜",
             "source": "UTCDoc L2/23-130 12",
@@ -32408,7 +32562,7 @@
         },
         {
             "sourceId": "UTC-03362",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "94.4",
             "IDS": "⿰犭丒",
             "source": "UTCDoc L2/23-130 13",
@@ -32418,7 +32572,7 @@
         },
         {
             "sourceId": "UTC-03363",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "128.10",
             "IDS": "⿱𬔜耳",
             "source": "UTCDoc L2/23-130 14",
@@ -32427,7 +32581,7 @@
         },
         {
             "sourceId": "UTC-03364",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "116.11",
             "IDS": "⿱穴堀",
             "source": "UTCDoc L2/23-130 15",
@@ -32437,7 +32591,7 @@
         },
         {
             "sourceId": "UTC-03365",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "38.14",
             "IDS": "⿱皷女",
             "source": "UTCDoc L2/23-130 16",
@@ -32447,7 +32601,7 @@
         },
         {
             "sourceId": "UTC-03366",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "46.9",
             "IDS": "⿱山段",
             "source": "UTCDoc L2/23-130 17",
@@ -32457,7 +32611,7 @@
         },
         {
             "sourceId": "UTC-03367",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "75.1",
             "IDS": "⿰木畔",
             "source": "UTCDoc L2/23-130 18",
@@ -32467,7 +32621,7 @@
         },
         {
             "sourceId": "UTC-03368",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "75.2",
             "IDS": "⿰木㐅",
             "source": "UTCDoc L2/23-130 19",
@@ -32477,7 +32631,7 @@
         },
         {
             "sourceId": "UTC-03369",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "140.9",
             "IDS": "⿳艹冖⿺元⿱⺊又",
             "source": "UTCDoc L2/23-130 20",
@@ -32487,7 +32641,7 @@
         },
         {
             "sourceId": "UTC-03370",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "46.7",
             "IDS": "⿰山花",
             "source": "UTCDoc L2/23-130 21",
@@ -32497,7 +32651,7 @@
         },
         {
             "sourceId": "UTC-03371",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "142.5",
             "IDS": "⿰虫矢",
             "source": "UTCDoc L2/23-130 22",
@@ -32507,7 +32661,7 @@
         },
         {
             "sourceId": "UTC-03372",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "142.16",
             "IDS": "⿳𠫓罒⿲月虫丸",
             "source": "UTCDoc L2/23-130 24",
@@ -32517,7 +32671,7 @@
         },
         {
             "sourceId": "UTC-03373",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "46.12",
             "IDS": "⿱山𪿢",
             "source": "UTCDoc L2/23-130 25",
@@ -32527,7 +32681,7 @@
         },
         {
             "sourceId": "UTC-03374",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "75.8",
             "IDS": "⿰木⿱止⿱丷八",
             "source": "UTCDoc L2/23-130 26",
@@ -32537,7 +32691,7 @@
         },
         {
             "sourceId": "UTC-03375",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "75.7",
             "IDS": "⿰木⿱且八",
             "source": "UTCDoc L2/23-130 27",
@@ -32547,7 +32701,7 @@
         },
         {
             "sourceId": "UTC-03376",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "142.15",
             "IDS": "⿳亡罒⿲月虫卂",
             "source": "UTCDoc L2/23-130 28",
@@ -32557,7 +32711,7 @@
         },
         {
             "sourceId": "UTC-03377",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "48.0",
             "IDS": "⿱𠃍一",
             "source": "UTCDoc L2/23-130 29",
@@ -32577,7 +32731,7 @@
         },
         {
             "sourceId": "UTC-03379",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195.9",
             "IDS": "⿰魚砂",
             "source": "UTCDoc L2/23-130 31",
@@ -32587,7 +32741,7 @@
         },
         {
             "sourceId": "UTC-03380",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "140.14",
             "IDS": "⿱艹廣",
             "source": "UTCDoc L2/23-130 32",
@@ -32596,7 +32750,7 @@
         },
         {
             "sourceId": "UTC-03381",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "46.6",
             "IDS": "⿰山㦮",
             "source": "UTCDoc L2/23-130 33",
@@ -32606,7 +32760,7 @@
         },
         {
             "sourceId": "UTC-03382",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "30.6",
             "IDS": "⿰口成",
             "source": "UTCDoc L2/23-130 34",
@@ -32616,7 +32770,7 @@
         },
         {
             "sourceId": "UTC-03383",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "75.5",
             "IDS": "⿱平木",
             "source": "UTCDoc L2/23-130 35",
@@ -32626,7 +32780,7 @@
         },
         {
             "sourceId": "UTC-03384",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "112.9",
             "IDS": "⿰石飛",
             "source": "UTCDoc L2/23-130 36",
@@ -32636,7 +32790,7 @@
         },
         {
             "sourceId": "UTC-03385",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "53.2",
             "IDS": "⿸广龴",
             "source": "UTCDoc L2/23-139R 1",
@@ -32646,7 +32800,7 @@
         },
         {
             "sourceId": "UTC-03386",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "18.6",
             "IDS": "⿰虍刂",
             "source": "UTCDoc L2/23-139R 2",
@@ -32656,7 +32810,7 @@
         },
         {
             "sourceId": "UTC-03387",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "75.9",
             "IDS": "⿰木⿱𭕄⿹戈人",
             "source": "UTCDoc L2/23-139R 3",
@@ -32666,7 +32820,7 @@
         },
         {
             "sourceId": "UTC-03388",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "75.10",
             "IDS": "⿰木⿵⿱丷八⿹戈人",
             "source": "UTCDoc L2/23-139R 4",
@@ -32676,7 +32830,7 @@
         },
         {
             "sourceId": "UTC-03389",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "162.9",
             "IDS": "⿺辶⿱𭕄共",
             "source": "UTCDoc L2/23-139R 5",
@@ -32686,7 +32840,7 @@
         },
         {
             "sourceId": "UTC-03390",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "44.2",
             "IDS": "⿸尸丷",
             "source": "UTCDoc L2/23-139R 6",
@@ -32696,7 +32850,7 @@
         },
         {
             "sourceId": "UTC-03391",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "53.5",
             "IDS": "⿸广⿱夕力",
             "source": "UTCDoc L2/23-139R 7",
@@ -32706,7 +32860,7 @@
         },
         {
             "sourceId": "UTC-03392",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "140.6",
             "IDS": "⿱艹𦘱",
             "source": "UTCDoc L2/23-139R 8",
@@ -32716,7 +32870,7 @@
         },
         {
             "sourceId": "UTC-03393",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "31.1",
             "IDS": "⿴囗丶",
             "source": "UTCDoc L2/23-139R 9",
@@ -32726,7 +32880,7 @@
         },
         {
             "sourceId": "UTC-03394",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "5.6",
             "IDS": "⿺九未",
             "source": "UTCDoc L2/23-202",
@@ -32736,7 +32890,7 @@
         },
         {
             "sourceId": "UTC-03395",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "196'.9",
             "IDS": "⿰春鸟",
             "source": "UTCDoc L2/23-213",
@@ -32746,7 +32900,7 @@
         },
         {
             "sourceId": "UTC-03396",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "1.2",
             "IDS": "⿻十丿",
             "source": "UTCDoc L2/23-214",
@@ -32756,7 +32910,7 @@
         },
         {
             "sourceId": "UTC-03397",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.7",
             "IDS": "⿰鱼希",
             "source": "UTCDoc L2/23-226",
@@ -32766,7 +32920,7 @@
         },
         {
             "sourceId": "UTC-03398",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "119.7",
             "IDS": "⿰米达",
             "source": "UTCDoc L2/23-285",
@@ -32776,7 +32930,7 @@
         },
         {
             "sourceId": "UTC-03399",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "30.15",
             "IDS": "⿰口蔭",
             "source": "UTCDoc L2/24-041 1",
@@ -32786,7 +32940,7 @@
         },
         {
             "sourceId": "UTC-03400",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "30.13",
             "IDS": "⿰口毁",
             "source": "UTCDoc L2/24-041 2",
@@ -32796,7 +32950,7 @@
         },
         {
             "sourceId": "UTC-03401",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "64.8",
             "IDS": "⿰扌迎",
             "source": "UTCDoc L2/24-041 3",
@@ -32806,7 +32960,7 @@
         },
         {
             "sourceId": "UTC-03402",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "118.5",
             "IDS": "⿱𥫗石",
             "source": "UTCDoc L2/24-041 4",
@@ -32816,7 +32970,7 @@
         },
         {
             "sourceId": "UTC-03403",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "30.15",
             "IDS": "⿰口輝",
             "source": "UTCDoc L2/24-041 5",
@@ -32826,7 +32980,7 @@
         },
         {
             "sourceId": "UTC-03404",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "30.13",
             "IDS": "⿰口粲",
             "source": "UTCDoc L2/24-041 6",
@@ -32836,7 +32990,7 @@
         },
         {
             "sourceId": "UTC-03405",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "30.17",
             "IDS": "⿰口薑",
             "source": "UTCDoc L2/24-041 7",
@@ -32846,7 +33000,7 @@
         },
         {
             "sourceId": "UTC-03406",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "44.5",
             "IDS": "⿸尸瓦",
             "source": "UTCDoc L2/24-041 8",
@@ -32856,7 +33010,7 @@
         },
         {
             "sourceId": "UTC-03407",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "30.11",
             "IDS": "⿰口勘",
             "source": "UTCDoc L2/24-041 9",
@@ -32866,7 +33020,7 @@
         },
         {
             "sourceId": "UTC-03408",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "9.9",
             "IDS": "⿰亻看",
             "source": "UTCDoc L2/24-041 10",
@@ -32875,7 +33029,7 @@
         },
         {
             "sourceId": "UTC-03409",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.4",
             "IDS": "⿰鱼友",
             "source": "UTCDoc L2/24-047 1",
@@ -32885,7 +33039,7 @@
         },
         {
             "sourceId": "UTC-03410",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.4",
             "IDS": "⿰鱼今",
             "source": "UTCDoc L2/24-047 2",
@@ -32895,7 +33049,7 @@
         },
         {
             "sourceId": "UTC-03411",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.4",
             "IDS": "⿰鱼公",
             "source": "UTCDoc L2/24-047 3",
@@ -32905,7 +33059,7 @@
         },
         {
             "sourceId": "UTC-03412",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.4",
             "IDS": "⿰鱼勿",
             "source": "UTCDoc L2/24-047 4",
@@ -32915,7 +33069,7 @@
         },
         {
             "sourceId": "UTC-03413",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.6",
             "IDS": "⿰鱼产",
             "source": "UTCDoc L2/24-047 5",
@@ -32925,7 +33079,7 @@
         },
         {
             "sourceId": "UTC-03414",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.4",
             "IDS": "⿰鱼历",
             "source": "UTCDoc L2/24-047 6",
@@ -32935,7 +33089,7 @@
         },
         {
             "sourceId": "UTC-03415",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.2",
             "IDS": "⿰鱼力",
             "source": "UTCDoc L2/24-047 7",
@@ -32945,7 +33099,7 @@
         },
         {
             "sourceId": "UTC-03416",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.4",
             "IDS": "⿰鱼户",
             "source": "UTCDoc L2/24-047 8",
@@ -32955,7 +33109,7 @@
         },
         {
             "sourceId": "UTC-03417",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.9",
             "IDS": "⿰鱼若",
             "source": "UTCDoc L2/24-047 9",
@@ -32965,7 +33119,7 @@
         },
         {
             "sourceId": "UTC-03418",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.13",
             "IDS": "⿰鱼辟",
             "source": "UTCDoc L2/24-047 10",
@@ -32975,7 +33129,7 @@
         },
         {
             "sourceId": "UTC-03419",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.8",
             "IDS": "⿰鱼定",
             "source": "UTCDoc L2/24-047 11",
@@ -32985,7 +33139,7 @@
         },
         {
             "sourceId": "UTC-03420",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.8",
             "IDS": "⿰鱼卖",
             "source": "UTCDoc L2/24-047 12",
@@ -32995,7 +33149,7 @@
         },
         {
             "sourceId": "UTC-03421",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.3",
             "IDS": "⿰鱼子",
             "source": "UTCDoc L2/24-047 13",
@@ -33005,7 +33159,7 @@
         },
         {
             "sourceId": "UTC-03422",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.6",
             "IDS": "⿰鱼匡",
             "source": "UTCDoc L2/24-047 14",
@@ -33014,7 +33168,7 @@
         },
         {
             "sourceId": "UTC-03423",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.6",
             "IDS": "⿰鱼光",
             "source": "UTCDoc L2/24-047 15",
@@ -33024,7 +33178,7 @@
         },
         {
             "sourceId": "UTC-03424",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.7",
             "IDS": "⿰鱼每",
             "source": "UTCDoc L2/24-047 16",
@@ -33034,7 +33188,7 @@
         },
         {
             "sourceId": "UTC-03425",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.6",
             "IDS": "⿰鱼舌",
             "source": "UTCDoc L2/24-047 17",
@@ -33044,7 +33198,7 @@
         },
         {
             "sourceId": "UTC-03426",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.10",
             "IDS": "⿰鱼桀",
             "source": "UTCDoc L2/24-047 18",
@@ -33054,7 +33208,7 @@
         },
         {
             "sourceId": "UTC-03427",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.9",
             "IDS": "⿰鱼厚",
             "source": "UTCDoc L2/24-047 19",
@@ -33064,7 +33218,7 @@
         },
         {
             "sourceId": "UTC-03428",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.5",
             "IDS": "⿰鱼巨",
             "source": "UTCDoc L2/24-047 20",
@@ -33074,7 +33228,7 @@
         },
         {
             "sourceId": "UTC-03429",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.5",
             "IDS": "⿰鱼尔",
             "source": "UTCDoc L2/24-047 21",
@@ -33084,7 +33238,7 @@
         },
         {
             "sourceId": "UTC-03430",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.9",
             "IDS": "⿰鱼带",
             "source": "UTCDoc L2/24-047 22",
@@ -33094,7 +33248,7 @@
         },
         {
             "sourceId": "UTC-03431",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.11",
             "IDS": "⿰鱼常",
             "source": "UTCDoc L2/24-047 23",
@@ -33104,7 +33258,7 @@
         },
         {
             "sourceId": "UTC-03432",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.9",
             "IDS": "⿰鱼迪",
             "source": "UTCDoc L2/24-047 24",
@@ -33113,7 +33267,7 @@
         },
         {
             "sourceId": "UTC-03433",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.7",
             "IDS": "⿰鱼攸",
             "source": "UTCDoc L2/24-047 25",
@@ -33123,7 +33277,7 @@
         },
         {
             "sourceId": "UTC-03434",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.5",
             "IDS": "⿰鱼厉",
             "source": "UTCDoc L2/24-047 26",
@@ -33133,7 +33287,7 @@
         },
         {
             "sourceId": "UTC-03435",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.10",
             "IDS": "⿰鱼资",
             "source": "UTCDoc L2/24-047 27",
@@ -33143,7 +33297,7 @@
         },
         {
             "sourceId": "UTC-03436",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.8",
             "IDS": "⿰鱼苍",
             "source": "UTCDoc L2/24-047 28",
@@ -33153,7 +33307,7 @@
         },
         {
             "sourceId": "UTC-03437",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.4",
             "IDS": "⿰鱼文",
             "source": "UTCDoc L2/24-047 29",
@@ -33163,7 +33317,7 @@
         },
         {
             "sourceId": "UTC-03438",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.12",
             "IDS": "⿰鱼逮",
             "source": "UTCDoc L2/24-047 30",
@@ -33173,7 +33327,7 @@
         },
         {
             "sourceId": "UTC-03439",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.9",
             "IDS": "⿰鱼建",
             "source": "UTCDoc L2/24-047 31",
@@ -33183,7 +33337,7 @@
         },
         {
             "sourceId": "UTC-03440",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.7",
             "IDS": "⿰鱼孛",
             "source": "UTCDoc L2/24-047 32",
@@ -33193,7 +33347,7 @@
         },
         {
             "sourceId": "UTC-03441",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.10",
             "IDS": "⿰鱼唐",
             "source": "UTCDoc L2/24-047 33",
@@ -33203,7 +33357,7 @@
         },
         {
             "sourceId": "UTC-03442",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.4",
             "IDS": "⿰鱼区",
             "source": "UTCDoc L2/24-047 34",
@@ -33213,7 +33367,7 @@
         },
         {
             "sourceId": "UTC-03443",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "159'.4",
             "IDS": "⿰车允",
             "source": "UTCDoc L2/24-056 1",
@@ -33223,7 +33377,7 @@
         },
         {
             "sourceId": "UTC-03444",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "130.6",
             "IDS": "⿰月夺",
             "source": "UTCDoc L2/24-056 2",
@@ -33233,7 +33387,7 @@
         },
         {
             "sourceId": "UTC-03445",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "30.10",
             "IDS": "⿰口挛",
             "source": "UTCDoc L2/24-056 3",
@@ -33243,7 +33397,7 @@
         },
         {
             "sourceId": "UTC-03446",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "30.10",
             "IDS": "⿰口紧",
             "source": "UTCDoc L2/24-075",
@@ -33253,7 +33407,7 @@
         },
         {
             "sourceId": "UTC-03447",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "187.5",
             "IDS": "⿰馬占",
             "source": "UTCDoc L2/24-076 1",
@@ -33263,7 +33417,7 @@
         },
         {
             "sourceId": "UTC-03448",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "96.9",
             "IDS": "⿰王品",
             "source": "UTCDoc L2/24-076 2",
@@ -33272,7 +33426,7 @@
         },
         {
             "sourceId": "UTC-03449",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "159.5",
             "IDS": "⿰車丘",
             "source": "UTCDoc L2/24-076 3",
@@ -33282,7 +33436,7 @@
         },
         {
             "sourceId": "UTC-03450",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "46.6",
             "IDS": "⿱山虫",
             "source": "UTCDoc L2/24-092 1",
@@ -33292,7 +33446,7 @@
         },
         {
             "sourceId": "UTC-03451",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "75.10",
             "IDS": "⿰木宵",
             "source": "UTCDoc L2/24-092 2",
@@ -33302,7 +33456,7 @@
         },
         {
             "sourceId": "UTC-03452",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "94.12",
             "IDS": "⿰犭颉",
             "source": "UTCDoc L2/24-092 3",
@@ -33312,7 +33466,7 @@
         },
         {
             "sourceId": "UTC-03453",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "115.4",
             "IDS": "⿱禾龰",
             "source": "UTCDoc L2/24-092 4",
@@ -33322,7 +33476,7 @@
         },
         {
             "sourceId": "UTC-03454",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "118.9",
             "IDS": "⿱𥫗俛",
             "source": "UTCDoc L2/24-092 5",
@@ -33332,7 +33486,7 @@
         },
         {
             "sourceId": "UTC-03455",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "118.9",
             "IDS": "⿱𥫗绝",
             "source": "UTCDoc L2/24-092 6",
@@ -33342,7 +33496,7 @@
         },
         {
             "sourceId": "UTC-03456",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "119.9",
             "IDS": "⿰米费",
             "source": "UTCDoc L2/24-092 7",
@@ -33352,7 +33506,7 @@
         },
         {
             "sourceId": "UTC-03457",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "120'.8",
             "IDS": "⿰纟昔",
             "source": "UTCDoc L2/24-092 8",
@@ -33362,7 +33516,7 @@
         },
         {
             "sourceId": "UTC-03458",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "123.5",
             "IDS": "⿰羊东",
             "source": "UTCDoc L2/24-092 9",
@@ -33372,7 +33526,7 @@
         },
         {
             "sourceId": "UTC-03459",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "142.5",
             "IDS": "⿰虫鸟",
             "source": "UTCDoc L2/24-092 10",
@@ -33382,7 +33536,7 @@
         },
         {
             "sourceId": "UTC-03460",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "159'.9",
             "IDS": "⿰车扁",
             "source": "UTCDoc L2/24-092 11",
@@ -33392,7 +33546,7 @@
         },
         {
             "sourceId": "UTC-03461",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "169'.8",
             "IDS": "⿵门豖",
             "source": "UTCDoc L2/24-092 12",
@@ -33402,7 +33556,7 @@
         },
         {
             "sourceId": "UTC-03462",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "187'.9",
             "IDS": "⿰马𱅑",
             "source": "UTCDoc L2/24-092 13",
@@ -33412,7 +33566,7 @@
         },
         {
             "sourceId": "UTC-03463",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.10",
             "IDS": "⿰鱼尃",
             "source": "UTCDoc L2/24-092 15",
@@ -33422,7 +33576,7 @@
         },
         {
             "sourceId": "UTC-03464",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "195'.11",
             "IDS": "⿰鱼巢",
             "source": "UTCDoc L2/24-092 16",
@@ -33432,7 +33586,7 @@
         },
         {
             "sourceId": "UTC-03465",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "196'.3",
             "IDS": "⿰鸟大",
             "source": "UTCDoc L2/24-092 17",
@@ -33442,7 +33596,7 @@
         },
         {
             "sourceId": "UTC-03466",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "196'.5",
             "IDS": "⿰乐鸟",
             "source": "UTCDoc L2/24-092 18",
@@ -33452,7 +33606,7 @@
         },
         {
             "sourceId": "UTC-03467",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "196'.5",
             "IDS": "⿰丘鸟",
             "source": "UTCDoc L2/24-092 19",
@@ -33462,7 +33616,7 @@
         },
         {
             "sourceId": "UTC-03468",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "196'.6",
             "IDS": "⿱次鸟",
             "source": "UTCDoc L2/24-092 20",
@@ -33472,7 +33626,7 @@
         },
         {
             "sourceId": "UTC-03469",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "196'.8",
             "IDS": "⿹㇯鸟一宛",
             "source": "UTCDoc L2/24-092 21",
@@ -33482,7 +33636,7 @@
         },
         {
             "sourceId": "UTC-03470",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "196'.10",
             "IDS": "⿰贲鸟",
             "source": "UTCDoc L2/24-092 22",
@@ -33492,7 +33646,7 @@
         },
         {
             "sourceId": "UTC-03471",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "196'.10",
             "IDS": "⿱般鸟",
             "source": "UTCDoc L2/24-092 23",
@@ -33502,7 +33656,7 @@
         },
         {
             "sourceId": "UTC-03472",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "196'.11",
             "IDS": "⿰習鸟",
             "source": "UTCDoc L2/24-092 24",
@@ -33512,7 +33666,7 @@
         },
         {
             "sourceId": "UTC-03473",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "196'.13",
             "IDS": "⿰鸟蜀",
             "source": "UTCDoc L2/24-092 25",
@@ -33522,7 +33676,7 @@
         },
         {
             "sourceId": "UTC-03474",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "196'.13",
             "IDS": "⿰詹鸟",
             "source": "UTCDoc L2/24-092 26",
@@ -33532,7 +33686,7 @@
         },
         {
             "sourceId": "UTC-03475",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "196'.13",
             "IDS": "⿰叠鸟",
             "source": "UTCDoc L2/24-092 27",
@@ -33542,7 +33696,7 @@
         },
         {
             "sourceId": "UTC-03476",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "196'.16",
             "IDS": "⿰薨鸟",
             "source": "UTCDoc L2/24-092 28",
@@ -33552,7 +33706,7 @@
         },
         {
             "sourceId": "UTC-03477",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "27.9",
             "IDS": "⿸厂畐",
             "source": "UTCDoc L2/24-095",
@@ -33562,7 +33716,7 @@
         },
         {
             "sourceId": "UTC-03478",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "109.16",
             "IDS": "⿰目⿱⿻王冖𰤷",
             "source": "UTCDoc L2/24-099 1",
@@ -33572,7 +33726,7 @@
         },
         {
             "sourceId": "UTC-03479",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "157.14",
             "IDS": "⿰𧾷𠪨",
             "source": "UTCDoc L2/24-099 2",
@@ -33582,7 +33736,7 @@
         },
         {
             "sourceId": "UTC-03480",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "169.3",
             "IDS": "⿵門兀",
             "source": "UTCDoc L2/24-099 3",
@@ -33591,7 +33745,7 @@
         },
         {
             "sourceId": "UTC-03481",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "187.19",
             "IDS": "⿰馬羅",
             "source": "UTCDoc L2/24-099 4",
@@ -33600,7 +33754,7 @@
         },
         {
             "sourceId": "UTC-03482",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "123.7",
             "IDS": "⿰羊𭥐",
             "source": "UTCDoc L2/24-099 5",
@@ -33609,7 +33763,7 @@
         },
         {
             "sourceId": "UTC-03483",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "196.13",
             "IDS": "⿰窟鳥",
             "source": "UTCDoc L2/24-099 6",
@@ -33618,7 +33772,7 @@
         },
         {
             "sourceId": "UTC-03484",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "196.7",
             "IDS": "⿰克鳥",
             "source": "UTCDoc L2/24-099 7",
@@ -33627,7 +33781,7 @@
         },
         {
             "sourceId": "UTC-03485",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "208.9",
             "IDS": "⿺鼠革",
             "source": "UTCDoc L2/24-099 8",
@@ -33636,7 +33790,7 @@
         },
         {
             "sourceId": "UTC-03486",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "208.9",
             "IDS": "⿺𣆨𮧓",
             "source": "UTCDoc L2/24-099 9",
@@ -33645,13 +33799,1075 @@
         },
         {
             "sourceId": "UTC-03487",
-            "status": "FutureWS",
+            "status": "WS-2024",
             "radicalStrokeCount": "208.16",
             "IDS": "⿺𣆨⿸⿻丅⿸⿱乛丿二𰤷",
             "source": "UTCDoc L2/24-099 10",
             "comments": "U+2A58C",
             "totalStrokes": "26",
             "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03488",
+            "status": "FutureWS",
+            "radicalStrokeCount": "137.10",
+            "IDS": "⿰舟离",
+            "source": "UTCDoc L2/24-127",
+            "comments": "kKorean I LI",
+            "totalStrokes": "16",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03489",
+            "status": "FutureWS",
+            "radicalStrokeCount": "194.29",
+            "IDS": "⿱龸⿺鬼鑫",
+            "source": "UTCDoc L2/24-179 1",
+            "comments": "Related to 金, which is one of the five elements",
+            "totalStrokes": "37",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03490",
+            "status": "FutureWS",
+            "radicalStrokeCount": "194.17",
+            "IDS": "⿱龸⿺鬼森",
+            "source": "UTCDoc L2/24-179 2",
+            "comments": "Related to 木, which is one of the five elements",
+            "totalStrokes": "25",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03491",
+            "status": "FutureWS",
+            "radicalStrokeCount": "194.25",
+            "IDS": "⿱龸⿺鬼⿱淼沝",
+            "source": "UTCDoc L2/24-179 3",
+            "comments": "Related to 水, which is one of the five elements",
+            "totalStrokes": "33",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03492",
+            "status": "FutureWS",
+            "radicalStrokeCount": "194.25",
+            "IDS": "⿱龸⿺鬼⿱焱炏",
+            "source": "UTCDoc L2/24-179 4",
+            "comments": "Related to 火, which is one of the five elements",
+            "totalStrokes": "33",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03493",
+            "status": "FutureWS",
+            "radicalStrokeCount": "194.14",
+            "IDS": "⿱龸⿺鬼垚",
+            "source": "UTCDoc L2/24-179 5",
+            "comments": "Related to 土, which is one of the five elements",
+            "totalStrokes": "22",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03494",
+            "status": "FutureWS",
+            "radicalStrokeCount": "194.16",
+            "IDS": "⿱龸⿺鬼⿱宫儿",
+            "source": "UTCDoc L2/24-179 6",
+            "comments": "Related to 宫, which is one of the five ancient Chinese tones (五音)",
+            "totalStrokes": "26",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03495",
+            "status": "FutureWS",
+            "radicalStrokeCount": "194.19",
+            "IDS": "⿱龸⿺鬼⿱商上",
+            "source": "UTCDoc L2/24-179 7",
+            "comments": "Related to 商, which is one of the five ancient Chinese tones (五音)",
+            "totalStrokes": "29",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03496",
+            "status": "FutureWS",
+            "radicalStrokeCount": "194.12",
+            "IDS": "⿱龸⿺鬼角",
+            "source": "UTCDoc L2/24-179 8",
+            "comments": "Related to 角, which is one of the five ancient Chinese tones (五音)",
+            "totalStrokes": "20",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03497",
+            "status": "FutureWS",
+            "radicalStrokeCount": "194.23",
+            "IDS": "⿱龸⿺鬼⿳山⿰犭玫火",
+            "source": "UTCDoc L2/24-179 9",
+            "comments": "Related to 徵, which is one of The five ancient Chinese tones(五音):⿱山⿰犭玫 is variant of 徵.",
+            "totalStrokes": "31",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03498",
+            "status": "FutureWS",
+            "radicalStrokeCount": "194.15",
+            "IDS": "⿱龸⿺鬼⿱羽旡",
+            "source": "UTCDoc L2/24-179 10",
+            "comments": "Related to 羽, which is one of the five ancient Chinese tones (五音):炁体 is a term used by the Daoist, so 旡 is a reasonable shape",
+            "totalStrokes": "23",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03499",
+            "status": "FutureWS",
+            "radicalStrokeCount": "194.18",
+            "IDS": "⿱龸⿺鬼⿱啇⿴〇丶",
+            "source": "UTCDoc L2/24-179 11",
+            "comments": "Used to cure 耳聾 (deafness) and 耳鳴 (tinnitus)",
+            "totalStrokes": "26",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03500",
+            "status": "FutureWS",
+            "radicalStrokeCount": "173.14",
+            "IDS": "⿱雨⿺鬼𢆶",
+            "source": "UTCDoc L2/24-179 12",
+            "comments": "Used to cure diseases about 小腹 (underbelly)",
+            "totalStrokes": "22",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03501",
+            "status": "FutureWS",
+            "radicalStrokeCount": "173.26",
+            "IDS": "⿱雨⿺鬼⿱⿰木林⿲乂乂乂",
+            "source": "UTCDoc L2/24-179 13",
+            "comments": "Used to cure diseases about 臍 (navel)",
+            "totalStrokes": "34",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03502",
+            "status": "FutureWS",
+            "radicalStrokeCount": "173.16",
+            "IDS": "⿱雨⿺鬼⿱王灬",
+            "source": "UTCDoc L2/24-179 14",
+            "comments": "Used to cure diseases about 腸 (intestines)",
+            "totalStrokes": "24",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03503",
+            "status": "FutureWS",
+            "radicalStrokeCount": "173.14",
+            "IDS": "⿱雨⿺鬼劦",
+            "source": "UTCDoc L2/24-179 15",
+            "comments": "Used to cure diseases about 腰 (waist)",
+            "totalStrokes": "22",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03504",
+            "status": "FutureWS",
+            "radicalStrokeCount": "173.15",
+            "IDS": "⿱雨⿺鬼⿱工木",
+            "source": "UTCDoc L2/24-179 16",
+            "comments": "Used to cure diseases about 背 (back)",
+            "totalStrokes": "23",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03505",
+            "status": "FutureWS",
+            "radicalStrokeCount": "173.20",
+            "IDS": "⿱雨⿺鬼⿱⿲乂乂乂⿲乂乂乂",
+            "source": "UTCDoc L2/24-179 17",
+            "comments": "Used to cure diseases about 液 (fluid)",
+            "totalStrokes": "28",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03506",
+            "status": "FutureWS",
+            "radicalStrokeCount": "173.19",
+            "IDS": "⿱雨⿺鬼⿲彡目⿾彡",
+            "source": "UTCDoc L2/24-179 18",
+            "comments": "Used to cure 淋症 (stranguria)",
+            "totalStrokes": "27",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03507",
+            "status": "FutureWS",
+            "radicalStrokeCount": "173.18",
+            "IDS": "⿱雨⿺鬼⿰巠彡",
+            "source": "UTCDoc L2/24-179 19",
+            "comments": "Used to cure 风症 (a concept used by traditional Chinese medical science)",
+            "totalStrokes": "26",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03508",
+            "status": "FutureWS",
+            "radicalStrokeCount": "173.16",
+            "IDS": "⿱雨⿺鬼⿰⿳〇〇二⿳〇〇二",
+            "source": "UTCDoc L2/24-179 20",
+            "comments": "Used to cure 寒症 (a concept used by traditional Chinese medical science)",
+            "totalStrokes": "24",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03509",
+            "status": "FutureWS",
+            "radicalStrokeCount": "194.58",
+            "IDS": "⿱尚⿰⿳鬼鬼鬼⿳鬼鬼鬼",
+            "source": "UTCDoc L2/24-179 21",
+            "comments": "Used to cure 寒热病 (疟疾, malaria)",
+            "totalStrokes": "68",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03510",
+            "status": "FutureWS",
+            "radicalStrokeCount": "173.19",
+            "IDS": "⿱雨⿺鬼⿱日光",
+            "source": "UTCDoc L2/24-179 22",
+            "comments": "Used to a ritual called 開光點眼 (also called 開光點睛, some people believe that this can help them understand the way that the world works and so be wise):日光 means the light of sun, and the character is used to open (開) your left eye",
+            "totalStrokes": "27",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03511",
+            "status": "FutureWS",
+            "radicalStrokeCount": "173.19",
+            "IDS": "⿱雨⿺鬼⿱月光",
+            "source": "UTCDoc L2/24-179 23",
+            "comments": "Used to a ritual called 開光點眼 (also called 開光點睛, some people believe that this can help them understand the way that the world works and so be wise):月光 means the light of moon, and the character is used to open (開) your right eye",
+            "totalStrokes": "27",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03512",
+            "status": "FutureWS",
+            "radicalStrokeCount": "46.9",
+            "IDS": "⿵𡶔𡭕",
+            "source": "UTCDoc L2/24-181",
+            "comments": "U+6B72 U+21ED5",
+            "totalStrokes": "12",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03513",
+            "status": "FutureWS",
+            "radicalStrokeCount": "122.6",
+            "IDS": "⿱罒⿰纟马",
+            "source": "UTCDoc L2/24-206",
+            "comments": "kMandarin jī",
+            "totalStrokes": "11",
+            "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03514",
+            "status": "FutureWS",
+            "radicalStrokeCount": "30.17",
+            "IDS": "⿰口龠",
+            "source": "UTCDoc L2/24-212 1",
+            "comments": "kKorean YAK",
+            "totalStrokes": "20",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03515",
+            "status": "FutureWS",
+            "radicalStrokeCount": "46.6",
+            "IDS": "⿱山夷",
+            "source": "UTCDoc L2/24-212 2",
+            "comments": "kKorean I",
+            "totalStrokes": "9",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03516",
+            "status": "FutureWS",
+            "radicalStrokeCount": "5.12",
+            "IDS": "⿱都乙",
+            "source": "UTCDoc L2/24-212 3",
+            "comments": "kKorean TOL",
+            "totalStrokes": "13",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03517",
+            "status": "FutureWS",
+            "radicalStrokeCount": "30.12",
+            "IDS": "⿱時𠮟",
+            "source": "UTCDoc L2/24-212 4",
+            "comments": "kKorean SIS",
+            "totalStrokes": "15",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03518",
+            "status": "FutureWS",
+            "radicalStrokeCount": "30.10",
+            "IDS": "⿱阿𠮟",
+            "source": "UTCDoc L2/24-212 5",
+            "comments": "kKorean AS",
+            "totalStrokes": "13",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03519",
+            "status": "FutureWS",
+            "radicalStrokeCount": "30.15",
+            "IDS": "⿱會𠮟",
+            "source": "UTCDoc L2/24-212 6",
+            "comments": "kKorean HOIS",
+            "totalStrokes": "18",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03520",
+            "status": "FutureWS",
+            "radicalStrokeCount": "7.7",
+            "IDS": "⿽⿹弋贝二",
+            "source": "UTCDoc L2/24-208 1",
+            "comments": "kTraditionalVariant U+8CB3:kMandarin èr",
+            "totalStrokes": "9",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03521",
+            "status": "FutureWS",
+            "radicalStrokeCount": "7.10",
+            "IDS": "⿽𧴮二",
+            "source": "UTCDoc L2/24-208 2",
+            "comments": "kTraditionalVariant U+8CB3:kMandarin èr",
+            "totalStrokes": "12",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03522",
+            "status": "FutureWS",
+            "radicalStrokeCount": "124.1",
+            "IDS": "⿱羽乙",
+            "source": "UTCDoc L2/24-208 3",
+            "comments": "kTraditionalVariant U+7FFC:kMandarin yì",
+            "totalStrokes": "7",
+            "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03523",
+            "status": "FutureWS",
+            "radicalStrokeCount": "93.9",
+            "IDS": "⿰午前",
+            "source": "UTCDoc L2/24-208 4",
+            "totalStrokes": "13",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03524",
+            "status": "FutureWS",
+            "radicalStrokeCount": "159.4",
+            "IDS": "⿰車气",
+            "source": "UTCDoc L2/24-208 5",
+            "totalStrokes": "11",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03525",
+            "status": "FutureWS",
+            "radicalStrokeCount": "75.7",
+            "IDS": "⿰木⿱五土",
+            "source": "UTCDoc L2/24-208 6",
+            "totalStrokes": "11",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03526",
+            "status": "FutureWS",
+            "radicalStrokeCount": "169'.2",
+            "IDS": "⿵门丅",
+            "source": "UTCDoc L2/24-208 7",
+            "totalStrokes": "5",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03527",
+            "status": "FutureWS",
+            "radicalStrokeCount": "169.2",
+            "IDS": "⿵門丅",
+            "source": "UTCDoc L2/24-208 8",
+            "totalStrokes": "10",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03528",
+            "status": "FutureWS",
+            "radicalStrokeCount": "36.7",
+            "IDS": "⿱夗央",
+            "source": "UTCDoc L2/24-208 9",
+            "totalStrokes": "10",
+            "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03529",
+            "status": "FutureWS",
+            "radicalStrokeCount": "31.5",
+            "IDS": "⿴囗示",
+            "source": "UTCDoc L2/24-208 10",
+            "totalStrokes": "8",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03530",
+            "status": "FutureWS",
+            "radicalStrokeCount": "86.12",
+            "IDS": "⿰火⿱林止",
+            "source": "UTCDoc L2/24-208 11",
+            "totalStrokes": "16",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03531",
+            "status": "FutureWS",
+            "radicalStrokeCount": "8.7",
+            "IDS": "⿳亠丷⿱冖义",
+            "source": "UTCDoc L2/24-208 12",
+            "totalStrokes": "9",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03532",
+            "status": "FutureWS",
+            "radicalStrokeCount": "145.5",
+            "IDS": "⿰衤⿸厂及",
+            "source": "UTCDoc L2/24-208 13",
+            "totalStrokes": "11",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03533",
+            "status": "FutureWS",
+            "radicalStrokeCount": "149.6",
+            "IDS": "⿰設十",
+            "source": "UTCDoc L2/24-208 14",
+            "totalStrokes": "13",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03534",
+            "status": "FutureWS",
+            "radicalStrokeCount": "27.5",
+            "IDS": "⿸厂史",
+            "source": "UTCDoc L2/24-208 15",
+            "totalStrokes": "7",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03535",
+            "status": "FutureWS",
+            "radicalStrokeCount": "93.6",
+            "IDS": "⿰午后",
+            "source": "UTCDoc L2/24-208 16",
+            "totalStrokes": "10",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03536",
+            "status": "FutureWS",
+            "radicalStrokeCount": "159.13",
+            "IDS": "⿰車電",
+            "source": "UTCDoc L2/24-208 17",
+            "totalStrokes": "20",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03537",
+            "status": "FutureWS",
+            "radicalStrokeCount": "173.9",
+            "IDS": "⿰電𠬝",
+            "source": "UTCDoc L2/24-208 18",
+            "totalStrokes": "17",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03538",
+            "status": "FutureWS",
+            "radicalStrokeCount": "113.3",
+            "IDS": "⿰示义",
+            "source": "UTCDoc L2/24-208 19",
+            "totalStrokes": "8",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03539",
+            "status": "FutureWS",
+            "radicalStrokeCount": "4.10",
+            "IDS": "⿳𠂉卌⿱一及",
+            "source": "UTCDoc L2/24-208 20",
+            "totalStrokes": "11",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03540",
+            "status": "FutureWS",
+            "radicalStrokeCount": "15.7",
+            "IDS": "⿱次及",
+            "source": "UTCDoc L2/24-208 21",
+            "totalStrokes": "9",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03541",
+            "status": "FutureWS",
+            "radicalStrokeCount": "1.8",
+            "IDS": "⿱廿叩",
+            "source": "UTCDoc L2/24-208 22",
+            "totalStrokes": "9",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03542",
+            "status": "FutureWS",
+            "radicalStrokeCount": "140.7",
+            "IDS": "⿱艹𰆘",
+            "source": "UTCDoc L2/24-208 23",
+            "totalStrokes": "11",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03543",
+            "status": "FutureWS",
+            "radicalStrokeCount": "61.5",
+            "IDS": "⿱仝心",
+            "source": "UTCDoc L2/24-208 24",
+            "totalStrokes": "9",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03544",
+            "status": "FutureWS",
+            "radicalStrokeCount": "107.6",
+            "IDS": "⿰皮夹",
+            "source": "UTCDoc L2/24-208 25",
+            "comments": "kMandarin piā",
+            "totalStrokes": "11",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03545",
+            "status": "FutureWS",
+            "radicalStrokeCount": "30.9",
+            "IDS": "⿰口⿱比由",
+            "source": "UTCDoc L2/24-208 26",
+            "comments": "kMandarin biu",
+            "totalStrokes": "12",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03546",
+            "status": "FutureWS",
+            "radicalStrokeCount": "137.4",
+            "IDS": "⿰舟气",
+            "source": "UTCDoc L2/24-208 27",
+            "totalStrokes": "10",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03547",
+            "status": "FutureWS",
+            "radicalStrokeCount": "30.13",
+            "IDS": "⿰口電",
+            "source": "UTCDoc L2/24-208 28",
+            "totalStrokes": "16",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03548",
+            "status": "FutureWS",
+            "radicalStrokeCount": "120.13",
+            "IDS": "⿰糸電",
+            "source": "UTCDoc L2/24-208 29",
+            "totalStrokes": "19",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03549",
+            "status": "FutureWS",
+            "radicalStrokeCount": "31.6",
+            "IDS": "⿴囗众",
+            "source": "UTCDoc L2/24-208 30",
+            "comments": "kTraditionalVariant U+570B:kMandarin guó",
+            "totalStrokes": "9",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03550",
+            "status": "FutureWS",
+            "radicalStrokeCount": "1.11",
+            "IDS": "⿱𠮛⿴囗龱",
+            "source": "UTCDoc L2/24-208 31",
+            "comments": "kTraditionalVariant U+798F:kMandarin fú",
+            "totalStrokes": "12",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03551",
+            "status": "FutureWS",
+            "radicalStrokeCount": "142.2",
+            "IDS": "⿰虫了",
+            "source": "UTCDoc L2/24-208 32",
+            "comments": "kMandarin liǎo",
+            "totalStrokes": "8",
+            "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03552",
+            "status": "FutureWS",
+            "radicalStrokeCount": "149'.6",
+            "IDS": "⿰讠夸",
+            "source": "UTCDoc L2/24-208 33",
+            "comments": "kTraditionalVariant U+8A87:kMandarin kuā",
+            "totalStrokes": "8",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03553",
+            "status": "FutureWS",
+            "radicalStrokeCount": "86.12",
+            "IDS": "⿰火阑",
+            "source": "UTCDoc L2/24-208 34",
+            "comments": "kTraditionalVariant U+721B:kMandarin làn",
+            "totalStrokes": "16",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03554",
+            "status": "FutureWS",
+            "radicalStrokeCount": "23.2",
+            "IDS": "⿷匸又",
+            "source": "UTCDoc L2/24-208 35",
+            "comments": "kTraditionalVariant U+5340",
+            "totalStrokes": "4",
+            "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03555",
+            "status": "FutureWS",
+            "radicalStrokeCount": "60.6",
+            "IDS": "⿰彳贞",
+            "source": "UTCDoc L2/24-208 36",
+            "comments": "kTraditionalVariant U+22524",
+            "totalStrokes": "9",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03556",
+            "status": "FutureWS",
+            "radicalStrokeCount": "30.10",
+            "IDS": "⿰口罢",
+            "source": "UTCDoc L2/24-208 37",
+            "comments": "kTraditionalVariant U+2BB18",
+            "totalStrokes": "13",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03557",
+            "status": "FutureWS",
+            "radicalStrokeCount": "64.8",
+            "IDS": "⿰扌⿵门东",
+            "source": "UTCDoc L2/24-208 38",
+            "comments": "kTraditionalVariant U+6514:kMandarin làn",
+            "totalStrokes": "11",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03558",
+            "status": "FutureWS",
+            "radicalStrokeCount": "30.6",
+            "IDS": "⿰口穵",
+            "source": "UTCDoc L2/24-208 39",
+            "totalStrokes": "9",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03559",
+            "status": "FutureWS",
+            "radicalStrokeCount": "9.0",
+            "IDS": "⿿人",
+            "source": "UTCDoc L2/24-208 40",
+            "comments": "kMandarin rén",
+            "totalStrokes": "2",
+            "firstResidualStroke": "0"
+        },
+        {
+            "sourceId": "UTC-03560",
+            "status": "FutureWS",
+            "radicalStrokeCount": "86.8",
+            "IDS": "⿰火⿵门东",
+            "source": "UTCDoc L2/24-208 41",
+            "comments": "kTraditionalVariant U+721B:kMandarin làn",
+            "totalStrokes": "12",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03561",
+            "status": "FutureWS",
+            "radicalStrokeCount": "9.8",
+            "IDS": "⿰亻忝",
+            "source": "UTCDoc L2/24-208 42",
+            "comments": "kTraditionalVariant U+6DFB:kMandarin tiān",
+            "totalStrokes": "10",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03562",
+            "status": "FutureWS",
+            "radicalStrokeCount": "18.15",
+            "IDS": "⿰⿱𥫗韭刂",
+            "source": "UTCDoc L2/24-208 43",
+            "totalStrokes": "17",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03563",
+            "status": "FutureWS",
+            "radicalStrokeCount": "108.4",
+            "IDS": "⿱天皿",
+            "source": "UTCDoc L2/24-208 44",
+            "totalStrokes": "9",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03564",
+            "status": "FutureWS",
+            "radicalStrokeCount": "209.4",
+            "IDS": "⿰鼻匀",
+            "source": "UTCDoc L2/24-208 45",
+            "totalStrokes": "18",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03565",
+            "status": "FutureWS",
+            "radicalStrokeCount": "8.13",
+            "IDS": "⿰亭匠",
+            "source": "UTCDoc L2/24-208 47",
+            "comments": "kMandarin tāng",
+            "totalStrokes": "15",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03566",
+            "status": "FutureWS",
+            "radicalStrokeCount": "118.13",
+            "IDS": "⿱⺮愚",
+            "source": "UTCDoc L2/24-263",
+            "comments": "kJapanese ばかむら",
+            "totalStrokes": "19",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03567",
+            "status": "FutureWS",
+            "radicalStrokeCount": "53.3",
+            "IDS": "⿸广Ｋ",
+            "source": "UTCDoc L2/24-266 1",
+            "comments": "kJapanese ケイ よろこぶ:kSemanticVariant U+6176",
+            "totalStrokes": "6",
+            "firstResidualStroke": "0"
+        },
+        {
+            "sourceId": "UTC-03568",
+            "status": "FutureWS",
+            "radicalStrokeCount": "53.1",
+            "IDS": "⿸广Ｏ",
+            "source": "UTCDoc L2/24-266 2",
+            "comments": "kJapanese オウ:kSemanticVariant U+61C9",
+            "totalStrokes": "4",
+            "firstResidualStroke": "0"
+        },
+        {
+            "sourceId": "UTC-03569",
+            "status": "FutureWS",
+            "radicalStrokeCount": "78.6",
+            "IDS": "⿰歹亥",
+            "source": "UTCDoc L2/24-269 1",
+            "comments": "U+5B69:kMandarin hái",
+            "totalStrokes": "10",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03570",
+            "status": "FutureWS",
+            "radicalStrokeCount": "82.13",
+            "IDS": "⿺毛準",
+            "source": "UTCDoc L2/24-269 2",
+            "comments": "U+23BCD:kMandarin rǔn",
+            "totalStrokes": "14",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03571",
+            "status": "FutureWS",
+            "radicalStrokeCount": "86.2",
+            "IDS": "⿰火几",
+            "source": "UTCDoc L2/24-276 1",
+            "comments": "kJapanese ホ:kSemanticVariant U+5E06",
+            "totalStrokes": "6",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03572",
+            "status": "FutureWS",
+            "radicalStrokeCount": "64.4",
+            "IDS": "⿰扌⿱𠃋口",
+            "source": "UTCDoc L2/24-276 2",
+            "comments": "kJapanese ム",
+            "totalStrokes": "7",
+            "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03573",
+            "status": "FutureWS",
+            "radicalStrokeCount": "140.13",
+            "IDS": "⿱艹⿺夌玉",
+            "source": "UTCDoc L2/24-276 3",
+            "comments": "kJapanese か:kSemanticVariant U+26F06",
+            "totalStrokes": "17",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03574",
+            "status": "FutureWS",
+            "radicalStrokeCount": "9.10",
+            "IDS": "⿱神人",
+            "source": "UTCDoc L2/24-276 4",
+            "comments": "kJapanese ジン",
+            "totalStrokes": "12",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03575",
+            "status": "FutureWS",
+            "radicalStrokeCount": "16.2",
+            "IDS": "⿵𠘨⺀",
+            "source": "UTCDoc L2/24-276 5",
+            "comments": "kJapanese かぜ:kSemanticVariant U+98A8 U+322C4",
+            "totalStrokes": "4",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03576",
+            "status": "FutureWS",
+            "radicalStrokeCount": "149.4",
+            "IDS": "⿰言仑",
+            "source": "UTCDoc L2/24-276 6",
+            "comments": "kJapanese ロン:kSemanticVariant U+8AD6",
+            "totalStrokes": "11",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03577",
+            "status": "FutureWS",
+            "radicalStrokeCount": "4.1",
+            "IDS": "⿰厂𠃉",
+            "source": "UTCDoc L2/24-276 7",
+            "comments": "kJapanese かぜ:kSemanticVariant U+98A8 U+322C4",
+            "totalStrokes": "2",
+            "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03578",
+            "status": "FutureWS",
+            "radicalStrokeCount": "199.4",
+            "IDS": "⿺麥方",
+            "source": "UTCDoc L2/24-276 8",
+            "comments": "kSimplifiedVariant WS2024-04636",
+            "totalStrokes": "15",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03579",
+            "status": "FutureWS",
+            "radicalStrokeCount": "119.7",
+            "IDS": "⿰米佥",
+            "source": "UTCDoc L2/24-278R 1",
+            "comments": "kTraditionalVariant U+25F4B:kMandarin jiǎn:Xiapu keiŋ⁴²",
+            "totalStrokes": "13",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03580",
+            "status": "FutureWS",
+            "radicalStrokeCount": "130.15",
+            "IDS": "⿰月賞",
+            "source": "UTCDoc L2/24-278R 2",
+            "comments": "kMandarin shǎng:kCantonese soeng2",
+            "totalStrokes": "19",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03581",
+            "status": "FutureWS",
+            "radicalStrokeCount": "130.12",
+            "IDS": "⿰月赏",
+            "source": "UTCDoc L2/24-278R 3",
+            "comments": "kMandarin shǎng:kCantonese soeng2",
+            "totalStrokes": "16",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03582",
+            "status": "FutureWS",
+            "radicalStrokeCount": "196.6",
+            "IDS": "⿰向鳥",
+            "source": "UTCDoc L2/25-053",
+            "comments": "kJapanese ひよ",
+            "totalStrokes": "17",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03583",
+            "status": "FutureWS",
+            "radicalStrokeCount": "30.4",
+            "IDS": "⿱口⿰口𡿨",
+            "source": "UTCDoc L2/25-056 1",
+            "comments": "kJapanese ヒン ホン しな:kSemanticVariant U+54C1",
+            "totalStrokes": "7",
+            "firstResidualStroke": "2"
+        },
+        {
+            "sourceId": "UTC-03584",
+            "status": "FutureWS",
+            "radicalStrokeCount": "30.5",
+            "IDS": "⿱口⿲丶丶口",
+            "source": "UTCDoc L2/25-056 2",
+            "comments": "kJapanese ヒン ホン しな:kSemanticVariant U+54C1",
+            "totalStrokes": "8",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03585",
+            "status": "FutureWS",
+            "radicalStrokeCount": "24.5",
+            "IDS": "⿰十⿱力⿰力𡿨",
+            "source": "UTCDoc L2/25-056 3",
+            "comments": "kJapanese キョウ かなう:kSemanticVariant U+5354",
+            "totalStrokes": "7",
+            "firstResidualStroke": "5"
+        },
+        {
+            "sourceId": "UTC-03586",
+            "status": "FutureWS",
+            "radicalStrokeCount": "85.6",
+            "IDS": "⿰氵𰆖",
+            "source": "UTCDoc L2/25-070 1",
+            "comments": "kMandarin yuán:kSemanticVariant U+6E90",
+            "totalStrokes": "9",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03587",
+            "status": "FutureWS",
+            "radicalStrokeCount": "54.4",
+            "IDS": "⿺廴介",
+            "source": "UTCDoc L2/25-070 2",
+            "comments": "kMandarin jiàn:kSemanticVariant U+5EFA",
+            "totalStrokes": "7",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03588",
+            "status": "FutureWS",
+            "radicalStrokeCount": "140.13",
+            "IDS": "⿱艹稣",
+            "source": "UTCDoc L2/25-070 3",
+            "comments": "kMandarin sū:kSemanticVariant U+8607",
+            "totalStrokes": "17",
+            "firstResidualStroke": "3"
+        },
+        {
+            "sourceId": "UTC-03589",
+            "status": "FutureWS",
+            "radicalStrokeCount": "120'.7",
+            "IDS": "⿰纟巠",
+            "source": "UTCDoc L2/25-070 4",
+            "comments": "kMandarin jīng:kJapanese ケイ:kSemanticVariant U+7D93",
+            "totalStrokes": "10",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03590",
+            "status": "FutureWS",
+            "radicalStrokeCount": "1.4",
+            "IDS": "⿱犬一",
+            "source": "UTCDoc L2/25-070 5",
+            "comments": "kMandarin rán:kSemanticVariant U+7136",
+            "totalStrokes": "5",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03591",
+            "status": "FutureWS",
+            "radicalStrokeCount": "24.5",
+            "IDS": "⿱正十",
+            "source": "UTCDoc L2/25-070 6",
+            "comments": "kMandarin zhǔn:kSemanticVariant U+51D6",
+            "totalStrokes": "7",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03592",
+            "status": "FutureWS",
+            "radicalStrokeCount": "55.2",
+            "IDS": "⿹⿺㇉一廾",
+            "source": "UTCDoc L2/25-070 7",
+            "comments": "kMandarin yǔ:kSemanticVariant U+8207",
+            "totalStrokes": "5",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03593",
+            "status": "FutureWS",
+            "radicalStrokeCount": "4.5",
+            "IDS": "⿳丿车一",
+            "source": "UTCDoc L2/25-070 8",
+            "comments": "kMandarin zhòng chóng:kSemanticVariant U+91CD",
+            "totalStrokes": "6",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03594",
+            "status": "FutureWS",
+            "radicalStrokeCount": "37.3",
+            "IDS": "⿸厂下",
+            "source": "UTCDoc L2/25-070 9",
+            "comments": "kMandarin xià:kSemanticVariant U+5EC8",
+            "totalStrokes": "5",
+            "firstResidualStroke": "1"
+        },
+        {
+            "sourceId": "UTC-03595",
+            "status": "FutureWS",
+            "radicalStrokeCount": "27.5",
+            "IDS": "⿸厂头",
+            "source": "UTCDoc L2/25-070 10",
+            "comments": "kMandarin xià:kSemanticVariant U+5EC8",
+            "totalStrokes": "7",
+            "firstResidualStroke": "4"
+        },
+        {
+            "sourceId": "UTC-03596",
+            "status": "FutureWS",
+            "radicalStrokeCount": "75.4",
+            "IDS": "⿱木⿰冫⿱丿丶",
+            "source": "UTCDoc L2/25-070 11",
+            "comments": "kMandarin sēn:kJapanese もり:kSemanticVariant U+68EE",
+            "totalStrokes": "8",
+            "firstResidualStroke": "4"
         }
     ]
 }

@@ -506,6 +506,13 @@
         },
         {
             "range": [
+                "11DE0"
+            ],
+            "decimalValue": "0.0",
+            "whole": "0"
+        },
+        {
+            "range": [
                 "11F50"
             ],
             "decimalValue": "0.0",
@@ -1241,6 +1248,13 @@
             "range": [
                 "11FD1",
                 "11FD2"
+            ],
+            "decimalValue": "0.5",
+            "whole": "1/2"
+        },
+        {
+            "range": [
+                "12226"
             ],
             "decimalValue": "0.5",
             "whole": "1/2"
@@ -2228,7 +2242,36 @@
         },
         {
             "range": [
+                "11DE1"
+            ],
+            "decimalValue": "1.0",
+            "whole": "1"
+        },
+        {
+            "range": [
                 "11F51"
+            ],
+            "decimalValue": "1.0",
+            "whole": "1"
+        },
+        {
+            "range": [
+                "12038",
+                "12039"
+            ],
+            "decimalValue": "1.0",
+            "whole": "1"
+        },
+        {
+            "range": [
+                "12079"
+            ],
+            "decimalValue": "1.0",
+            "whole": "1"
+        },
+        {
+            "range": [
+                "1230B"
             ],
             "decimalValue": "1.0",
             "whole": "1"
@@ -2320,6 +2363,13 @@
         {
             "range": [
                 "16E94"
+            ],
+            "decimalValue": "1.0",
+            "whole": "1"
+        },
+        {
+            "range": [
+                "16FF4"
             ],
             "decimalValue": "1.0",
             "whole": "1"
@@ -2495,6 +2545,13 @@
         {
             "range": [
                 "0F2B"
+            ],
+            "decimalValue": "1.5",
+            "whole": "3/2"
+        },
+        {
+            "range": [
+                "16FF5"
             ],
             "decimalValue": "1.5",
             "whole": "3/2"
@@ -3265,7 +3322,28 @@
         },
         {
             "range": [
+                "11DE2"
+            ],
+            "decimalValue": "2.0",
+            "whole": "2"
+        },
+        {
+            "range": [
                 "11F52"
+            ],
+            "decimalValue": "2.0",
+            "whole": "2"
+        },
+        {
+            "range": [
+                "1222B"
+            ],
+            "decimalValue": "2.0",
+            "whole": "2"
+        },
+        {
+            "range": [
+                "12399"
             ],
             "decimalValue": "2.0",
             "whole": "2"
@@ -3385,6 +3463,13 @@
         {
             "range": [
                 "16E95"
+            ],
+            "decimalValue": "2.0",
+            "whole": "2"
+        },
+        {
+            "range": [
+                "16FF6"
             ],
             "decimalValue": "2.0",
             "whole": "2"
@@ -4267,7 +4352,21 @@
         },
         {
             "range": [
+                "11DE3"
+            ],
+            "decimalValue": "3.0",
+            "whole": "3"
+        },
+        {
+            "range": [
                 "11F53"
+            ],
+            "decimalValue": "3.0",
+            "whole": "3"
+        },
+        {
+            "range": [
+                "1230D"
             ],
             "decimalValue": "3.0",
             "whole": "3"
@@ -5246,6 +5345,13 @@
         {
             "range": [
                 "11DA4"
+            ],
+            "decimalValue": "4.0",
+            "whole": "4"
+        },
+        {
+            "range": [
+                "11DE4"
             ],
             "decimalValue": "4.0",
             "whole": "4"
@@ -6255,6 +6361,13 @@
         },
         {
             "range": [
+                "11DE5"
+            ],
+            "decimalValue": "5.0",
+            "whole": "5"
+        },
+        {
+            "range": [
                 "11F55"
             ],
             "decimalValue": "5.0",
@@ -7173,6 +7286,13 @@
         },
         {
             "range": [
+                "11DE6"
+            ],
+            "decimalValue": "6.0",
+            "whole": "6"
+        },
+        {
+            "range": [
                 "11F56"
             ],
             "decimalValue": "6.0",
@@ -8048,6 +8168,13 @@
         },
         {
             "range": [
+                "11DE7"
+            ],
+            "decimalValue": "7.0",
+            "whole": "7"
+        },
+        {
+            "range": [
                 "11F57"
             ],
             "decimalValue": "7.0",
@@ -8890,6 +9017,13 @@
         {
             "range": [
                 "11DA8"
+            ],
+            "decimalValue": "8.0",
+            "whole": "8"
+        },
+        {
+            "range": [
+                "11DE8"
             ],
             "decimalValue": "8.0",
             "whole": "8"
@@ -9752,6 +9886,13 @@
         {
             "range": [
                 "11DA9"
+            ],
+            "decimalValue": "9.0",
+            "whole": "9"
+        },
+        {
+            "range": [
+                "11DE9"
             ],
             "decimalValue": "9.0",
             "whole": "9"
@@ -13669,13 +13810,6 @@
         },
         {
             "range": [
-                "5146"
-            ],
-            "decimalValue": "1000000.0",
-            "whole": "1000000"
-        },
-        {
-            "range": [
                 "16B5E"
             ],
             "decimalValue": "1000000.0",
@@ -13729,6 +13863,13 @@
             ],
             "decimalValue": "10000000000.0",
             "whole": "10000000000"
+        },
+        {
+            "range": [
+                "5146"
+            ],
+            "decimalValue": "1000000000000.0",
+            "whole": "1000000000000"
         },
         {
             "range": [

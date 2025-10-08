@@ -130,10 +130,22 @@
             "longName": "kIRG_VSource"
         },
         {
+            "shortName": "cjkMandarin",
+            "longName": "kMandarin"
+        },
+        {
             "shortName": "cjkRSUnicode",
             "longName": "kRSUnicode",
             "alternate": "Unicode_Radical_Stroke",
             "alternateShort": "URS"
+        },
+        {
+            "shortName": "cjkTotalStrokes",
+            "longName": "kTotalStrokes"
+        },
+        {
+            "shortName": "cjkUnihanCore2020",
+            "longName": "kUnihanCore2020"
         },
         {
             "shortName": "isc",

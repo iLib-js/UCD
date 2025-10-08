@@ -11922,6 +11922,319 @@
                 "1FBEF"
             ],
             "unicodeVersion": "16.0"
+        },
+        {
+            "range": [
+                "088F"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "0C5C"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "0CDC"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "1ACF",
+                "1ADD"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "1AE0",
+                "1AEB"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "20C1"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "2B96"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "A7CE",
+                "A7CF"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "A7D2"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "A7D4"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "A7F1"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "FBC3",
+                "FBD2"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "FD90",
+                "FD91"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "FDC8",
+                "FDCE"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "10940",
+                "10959"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "10EC5",
+                "10EC7"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "10ED0",
+                "10ED8"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "10EFA",
+                "10EFB"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "11B60",
+                "11B67"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "11DB0",
+                "11DDB"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "11DE0",
+                "11DE9"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "16EA0",
+                "16EB8"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "16EBB",
+                "16ED3"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "16FF2",
+                "16FF6"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "187F8",
+                "187FF"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "18D09",
+                "18D1E"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "18D80",
+                "18DF2"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "1CCFA",
+                "1CCFC"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "1CEBA",
+                "1CED0"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "1CEE0",
+                "1CEF0"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "1E6C0",
+                "1E6DE"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "1E6E0",
+                "1E6F5"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "1E6FE",
+                "1E6FF"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "1F6D8"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "1F777",
+                "1F77A"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "1F8D0",
+                "1F8D8"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "1FA54",
+                "1FA57"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "1FA8A"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "1FA8E"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "1FAC8"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "1FACD"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "1FAEA"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "1FAEF"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "1FBFA"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "2B73A",
+                "2B73F"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "2CEA2",
+                "2CEAD"
+            ],
+            "unicodeVersion": "17.0"
+        },
+        {
+            "range": [
+                "323B0",
+                "33479"
+            ],
+            "unicodeVersion": "17.0"
         }
     ]
 }

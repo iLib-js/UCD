@@ -2048,6 +2048,12 @@
         },
         {
             "range": [
+                "1F6D8"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
                 "1F6DC"
             ],
             "property": "Emoji"
@@ -2502,6 +2508,18 @@
         },
         {
             "range": [
+                "1FA8A"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1FA8E"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
                 "1FA8F"
             ],
             "property": "Emoji"
@@ -2589,6 +2607,18 @@
         },
         {
             "range": [
+                "1FAC8"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1FACD"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
                 "1FACE",
                 "1FACF"
             ],
@@ -2643,6 +2673,18 @@
         {
             "range": [
                 "1FAE9"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1FAEA"
+            ],
+            "property": "Emoji"
+        },
+        {
+            "range": [
+                "1FAEF"
             ],
             "property": "Emoji"
         },
@@ -3962,6 +4004,12 @@
         },
         {
             "range": [
+                "1F6D8"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
                 "1F6DC"
             ],
             "property": "Emoji_Presentation"
@@ -4391,6 +4439,18 @@
         },
         {
             "range": [
+                "1FA8A"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1FA8E"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
                 "1FA8F"
             ],
             "property": "Emoji_Presentation"
@@ -4478,6 +4538,18 @@
         },
         {
             "range": [
+                "1FAC8"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1FACD"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
                 "1FACE",
                 "1FACF"
             ],
@@ -4532,6 +4604,18 @@
         {
             "range": [
                 "1FAE9"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1FAEA"
+            ],
+            "property": "Emoji_Presentation"
+        },
+        {
+            "range": [
+                "1FAEF"
             ],
             "property": "Emoji_Presentation"
         },
@@ -5012,12 +5096,6 @@
         },
         {
             "range": [
-                "2388"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "23CF"
             ],
             "property": "Extended_Pictographic"
@@ -5122,39 +5200,13 @@
         },
         {
             "range": [
-                "2605"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "2607",
-                "260D"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "260E"
             ],
             "property": "Extended_Pictographic"
         },
         {
             "range": [
-                "260F",
-                "2610"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "2611"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "2612"
             ],
             "property": "Extended_Pictographic"
         },
@@ -5167,21 +5219,7 @@
         },
         {
             "range": [
-                "2616",
-                "2617"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "2618"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "2619",
-                "261C"
             ],
             "property": "Extended_Pictographic"
         },
@@ -5193,20 +5231,7 @@
         },
         {
             "range": [
-                "261E",
-                "261F"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "2620"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "2621"
             ],
             "property": "Extended_Pictographic"
         },
@@ -5219,34 +5244,13 @@
         },
         {
             "range": [
-                "2624",
-                "2625"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "2626"
             ],
             "property": "Extended_Pictographic"
         },
         {
             "range": [
-                "2627",
-                "2629"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "262A"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "262B",
-                "262D"
             ],
             "property": "Extended_Pictographic"
         },
@@ -5259,13 +5263,6 @@
         {
             "range": [
                 "262F"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "2630",
-                "2637"
             ],
             "property": "Extended_Pictographic"
         },
@@ -5284,20 +5281,7 @@
         },
         {
             "range": [
-                "263B",
-                "263F"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "2640"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "2641"
             ],
             "property": "Extended_Pictographic"
         },
@@ -5309,22 +5293,8 @@
         },
         {
             "range": [
-                "2643",
-                "2647"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "2648",
                 "2653"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "2654",
-                "265E"
             ],
             "property": "Extended_Pictographic"
         },
@@ -5342,20 +5312,7 @@
         },
         {
             "range": [
-                "2661",
-                "2662"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "2663"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "2664"
             ],
             "property": "Extended_Pictographic"
         },
@@ -5368,33 +5325,13 @@
         },
         {
             "range": [
-                "2667"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "2668"
             ],
             "property": "Extended_Pictographic"
         },
         {
             "range": [
-                "2669",
-                "267A"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "267B"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "267C",
-                "267D"
             ],
             "property": "Extended_Pictographic"
         },
@@ -5407,20 +5344,6 @@
         {
             "range": [
                 "267F"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "2680",
-                "2685"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "2690",
-                "2691"
             ],
             "property": "Extended_Pictographic"
         },
@@ -5457,19 +5380,7 @@
         },
         {
             "range": [
-                "2698"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "2699"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "269A"
             ],
             "property": "Extended_Pictographic"
         },
@@ -5482,13 +5393,6 @@
         },
         {
             "range": [
-                "269D",
-                "269F"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "26A0",
                 "26A1"
             ],
@@ -5496,21 +5400,7 @@
         },
         {
             "range": [
-                "26A2",
-                "26A6"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "26A7"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "26A8",
-                "26A9"
             ],
             "property": "Extended_Pictographic"
         },
@@ -5523,22 +5413,8 @@
         },
         {
             "range": [
-                "26AC",
-                "26AF"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "26B0",
                 "26B1"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "26B2",
-                "26BC"
             ],
             "property": "Extended_Pictographic"
         },
@@ -5551,13 +5427,6 @@
         },
         {
             "range": [
-                "26BF",
-                "26C3"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "26C4",
                 "26C5"
             ],
@@ -5565,21 +5434,7 @@
         },
         {
             "range": [
-                "26C6",
-                "26C7"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "26C8"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "26C9",
-                "26CD"
             ],
             "property": "Extended_Pictographic"
         },
@@ -5597,19 +5452,7 @@
         },
         {
             "range": [
-                "26D0"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "26D1"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "26D2"
             ],
             "property": "Extended_Pictographic"
         },
@@ -5627,13 +5470,6 @@
         },
         {
             "range": [
-                "26D5",
-                "26E8"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "26E9"
             ],
             "property": "Extended_Pictographic"
@@ -5641,13 +5477,6 @@
         {
             "range": [
                 "26EA"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "26EB",
-                "26EF"
             ],
             "property": "Extended_Pictographic"
         },
@@ -5679,12 +5508,6 @@
         },
         {
             "range": [
-                "26F6"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "26F7",
                 "26F9"
             ],
@@ -5698,34 +5521,13 @@
         },
         {
             "range": [
-                "26FB",
-                "26FC"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "26FD"
             ],
             "property": "Extended_Pictographic"
         },
         {
             "range": [
-                "26FE",
-                "2701"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "2702"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "2703",
-                "2704"
             ],
             "property": "Extended_Pictographic"
         },
@@ -5750,20 +5552,7 @@
         },
         {
             "range": [
-                "270E"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "270F"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "2710",
-                "2711"
             ],
             "property": "Extended_Pictographic"
         },
@@ -5861,13 +5650,6 @@
         },
         {
             "range": [
-                "2765",
-                "2767"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "2795",
                 "2797"
             ],
@@ -5950,21 +5732,34 @@
         },
         {
             "range": [
-                "1F000",
-                "1F003"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "1F004"
             ],
             "property": "Extended_Pictographic"
         },
         {
             "range": [
-                "1F005",
-                "1F0CE"
+                "1F02C",
+                "1F02F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F094",
+                "1F09F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F0AF",
+                "1F0B0"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F0C0"
             ],
             "property": "Extended_Pictographic"
         },
@@ -5976,28 +5771,14 @@
         },
         {
             "range": [
-                "1F0D0",
+                "1F0D0"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F0F6",
                 "1F0FF"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "1F10D",
-                "1F10F"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "1F12F"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "1F16C",
-                "1F16F"
             ],
             "property": "Extended_Pictographic"
         },
@@ -6030,7 +5811,7 @@
         },
         {
             "range": [
-                "1F1AD",
+                "1F1AE",
                 "1F1E5"
             ],
             "property": "Extended_Pictographic"
@@ -6092,6 +5873,13 @@
         {
             "range": [
                 "1F252",
+                "1F25F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F266",
                 "1F2FF"
             ],
             "property": "Extended_Pictographic"
@@ -6189,13 +5977,6 @@
         {
             "range": [
                 "1F321"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "1F322",
-                "1F323"
             ],
             "property": "Extended_Pictographic"
         },
@@ -6301,13 +6082,6 @@
         },
         {
             "range": [
-                "1F394",
-                "1F395"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "1F396",
                 "1F397"
             ],
@@ -6315,21 +6089,8 @@
         },
         {
             "range": [
-                "1F398"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "1F399",
                 "1F39B"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "1F39C",
-                "1F39D"
             ],
             "property": "Extended_Pictographic"
         },
@@ -6426,13 +6187,6 @@
         },
         {
             "range": [
-                "1F3F1",
-                "1F3F2"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "1F3F3"
             ],
             "property": "Extended_Pictographic"
@@ -6446,12 +6200,6 @@
         {
             "range": [
                 "1F3F5"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "1F3F6"
             ],
             "property": "Extended_Pictographic"
         },
@@ -6692,12 +6440,6 @@
         },
         {
             "range": [
-                "1F4FE"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "1F4FF",
                 "1F502"
             ],
@@ -6764,13 +6506,6 @@
         },
         {
             "range": [
-                "1F546",
-                "1F548"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "1F549",
                 "1F54A"
             ],
@@ -6780,12 +6515,6 @@
             "range": [
                 "1F54B",
                 "1F54E"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "1F54F"
             ],
             "property": "Extended_Pictographic"
         },
@@ -6805,22 +6534,8 @@
         },
         {
             "range": [
-                "1F568",
-                "1F56E"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "1F56F",
                 "1F570"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "1F571",
-                "1F572"
             ],
             "property": "Extended_Pictographic"
         },
@@ -6839,21 +6554,7 @@
         },
         {
             "range": [
-                "1F57B",
-                "1F586"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "1F587"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "1F588",
-                "1F589"
             ],
             "property": "Extended_Pictographic"
         },
@@ -6866,21 +6567,7 @@
         },
         {
             "range": [
-                "1F58E",
-                "1F58F"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "1F590"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "1F591",
-                "1F594"
             ],
             "property": "Extended_Pictographic"
         },
@@ -6888,13 +6575,6 @@
             "range": [
                 "1F595",
                 "1F596"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "1F597",
-                "1F5A3"
             ],
             "property": "Extended_Pictographic"
         },
@@ -6912,21 +6592,7 @@
         },
         {
             "range": [
-                "1F5A6",
-                "1F5A7"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "1F5A8"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "1F5A9",
-                "1F5B0"
             ],
             "property": "Extended_Pictographic"
         },
@@ -6939,21 +6605,7 @@
         },
         {
             "range": [
-                "1F5B3",
-                "1F5BB"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "1F5BC"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "1F5BD",
-                "1F5C1"
             ],
             "property": "Extended_Pictographic"
         },
@@ -6966,22 +6618,8 @@
         },
         {
             "range": [
-                "1F5C5",
-                "1F5D0"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "1F5D1",
                 "1F5D3"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "1F5D4",
-                "1F5DB"
             ],
             "property": "Extended_Pictographic"
         },
@@ -6994,20 +6632,7 @@
         },
         {
             "range": [
-                "1F5DF",
-                "1F5E0"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "1F5E1"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "1F5E2"
             ],
             "property": "Extended_Pictographic"
         },
@@ -7019,21 +6644,7 @@
         },
         {
             "range": [
-                "1F5E4",
-                "1F5E7"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "1F5E8"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "1F5E9",
-                "1F5EE"
             ],
             "property": "Extended_Pictographic"
         },
@@ -7045,21 +6656,7 @@
         },
         {
             "range": [
-                "1F5F0",
-                "1F5F2"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "1F5F3"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "1F5F4",
-                "1F5F9"
             ],
             "property": "Extended_Pictographic"
         },
@@ -7500,13 +7097,6 @@
         },
         {
             "range": [
-                "1F6C6",
-                "1F6CA"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "1F6CB"
             ],
             "property": "Extended_Pictographic"
@@ -7539,13 +7129,6 @@
         },
         {
             "range": [
-                "1F6D3",
-                "1F6D4"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "1F6D5"
             ],
             "property": "Extended_Pictographic"
@@ -7559,7 +7142,13 @@
         },
         {
             "range": [
-                "1F6D8",
+                "1F6D8"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F6D9",
                 "1F6DB"
             ],
             "property": "Extended_Pictographic"
@@ -7586,20 +7175,7 @@
         },
         {
             "range": [
-                "1F6E6",
-                "1F6E8"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
                 "1F6E9"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "1F6EA"
             ],
             "property": "Extended_Pictographic"
         },
@@ -7620,13 +7196,6 @@
         {
             "range": [
                 "1F6F0"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "1F6F1",
-                "1F6F2"
             ],
             "property": "Extended_Pictographic"
         },
@@ -7678,14 +7247,7 @@
         },
         {
             "range": [
-                "1F774",
-                "1F77F"
-            ],
-            "property": "Extended_Pictographic"
-        },
-        {
-            "range": [
-                "1F7D5",
+                "1F7DA",
                 "1F7DF"
             ],
             "property": "Extended_Pictographic"
@@ -7748,6 +7310,27 @@
         {
             "range": [
                 "1F8AE",
+                "1F8AF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F8BC",
+                "1F8BF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F8C2",
+                "1F8CF"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1F8D9",
                 "1F8FF"
             ],
             "property": "Extended_Pictographic"
@@ -8056,7 +7639,14 @@
         },
         {
             "range": [
-                "1FA00",
+                "1FA58",
+                "1FA5F"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FA6E",
                 "1FA6F"
             ],
             "property": "Extended_Pictographic"
@@ -8131,7 +7721,19 @@
         },
         {
             "range": [
-                "1FA8A",
+                "1FA8A"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FA8B",
+                "1FA8D"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
                 "1FA8E"
             ],
             "property": "Extended_Pictographic"
@@ -8225,7 +7827,25 @@
         },
         {
             "range": [
-                "1FAC7",
+                "1FAC7"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FAC8"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FAC9",
+                "1FACC"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
                 "1FACD"
             ],
             "property": "Extended_Pictographic"
@@ -8298,7 +7918,19 @@
         },
         {
             "range": [
-                "1FAEA",
+                "1FAEA"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
+                "1FAEB",
+                "1FAEE"
+            ],
+            "property": "Extended_Pictographic"
+        },
+        {
+            "range": [
                 "1FAEF"
             ],
             "property": "Extended_Pictographic"
