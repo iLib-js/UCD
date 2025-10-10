@@ -6733,7 +6733,7 @@
         {
             "codepoint": "0295",
             "name": "LATIN LETTER PHARYNGEAL VOICED FRICATIVE",
-            "category": "Ll",
+            "category": "Lo",
             "canonicalCombiningClass": "0",
             "bidirectionalCategory": "L",
             "mirrored": "N",
@@ -19746,6 +19746,14 @@
             "mirrored": "N"
         },
         {
+            "codepoint": "088F",
+            "name": "ARABIC LETTER NOON WITH RING ABOVE",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "AL",
+            "mirrored": "N"
+        },
+        {
             "codepoint": "0890",
             "name": "ARABIC POUND MARK ABOVE",
             "category": "Cf",
@@ -25902,6 +25910,14 @@
             "mirrored": "N"
         },
         {
+            "codepoint": "0C5C",
+            "name": "TELUGU ARCHAIC SHRII",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
             "codepoint": "0C5D",
             "name": "TELUGU LETTER NAKAARA POLLU",
             "category": "Lo",
@@ -26707,6 +26723,14 @@
             "codepoint": "0CD6",
             "name": "KANNADA AI LENGTH MARK",
             "category": "Mc",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "0CDC",
+            "name": "KANNADA ARCHAIC SHRII",
+            "category": "Lo",
             "canonicalCombiningClass": "0",
             "bidirectionalCategory": "L",
             "mirrored": "N"
@@ -53040,6 +53064,222 @@
             "mirrored": "N"
         },
         {
+            "codepoint": "1ACF",
+            "name": "COMBINING DOUBLE CARON",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1AD0",
+            "name": "COMBINING VERTICAL-LINE-ACUTE",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1AD1",
+            "name": "COMBINING GRAVE-VERTICAL-LINE",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1AD2",
+            "name": "COMBINING VERTICAL-LINE-GRAVE",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1AD3",
+            "name": "COMBINING ACUTE-VERTICAL-LINE",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1AD4",
+            "name": "COMBINING VERTICAL-LINE-MACRON",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1AD5",
+            "name": "COMBINING MACRON-VERTICAL-LINE",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1AD6",
+            "name": "COMBINING VERTICAL-LINE-ACUTE-GRAVE",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1AD7",
+            "name": "COMBINING VERTICAL-LINE-GRAVE-ACUTE",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1AD8",
+            "name": "COMBINING MACRON-ACUTE-GRAVE",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1AD9",
+            "name": "COMBINING SHARP SIGN",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1ADA",
+            "name": "COMBINING FLAT SIGN",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1ADB",
+            "name": "COMBINING DOWN TACK ABOVE",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1ADC",
+            "name": "COMBINING DIAERESIS WITH RAISED LEFT DOT",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1ADD",
+            "name": "COMBINING DOT-AND-RING BELOW",
+            "category": "Mn",
+            "canonicalCombiningClass": "220",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1AE0",
+            "name": "COMBINING LEFT TACK ABOVE",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1AE1",
+            "name": "COMBINING RIGHT TACK ABOVE",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1AE2",
+            "name": "COMBINING MINUS SIGN ABOVE",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1AE3",
+            "name": "COMBINING INVERTED BRIDGE ABOVE",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1AE4",
+            "name": "COMBINING SQUARE ABOVE",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1AE5",
+            "name": "COMBINING SEAGULL ABOVE",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1AE6",
+            "name": "COMBINING DOUBLE ARCH BELOW",
+            "category": "Mn",
+            "canonicalCombiningClass": "220",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1AE7",
+            "name": "COMBINING DOUBLE ARCH ABOVE",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1AE8",
+            "name": "COMBINING EQUALS SIGN ABOVE",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1AE9",
+            "name": "COMBINING LEFT ANGLE CENTRED ABOVE",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1AEA",
+            "name": "COMBINING UPWARDS ARROW ABOVE",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1AEB",
+            "name": "COMBINING DOUBLE RIGHTWARDS ARROW ABOVE",
+            "category": "Mn",
+            "canonicalCombiningClass": "234",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
             "codepoint": "1B00",
             "name": "BALINESE SIGN ULU RICEM",
             "category": "Mn",
@@ -65883,6 +66123,14 @@
         {
             "codepoint": "20C0",
             "name": "SOM SIGN",
+            "category": "Sc",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ET",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "20C1",
+            "name": "SAUDI RIYAL SIGN",
             "category": "Sc",
             "canonicalCombiningClass": "0",
             "bidirectionalCategory": "ET",
@@ -88582,6 +88830,14 @@
         {
             "codepoint": "2B95",
             "name": "RIGHTWARDS BLACK ARROW",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "2B96",
+            "name": "EQUALS SIGN WITH INFINITY ABOVE",
             "category": "So",
             "canonicalCombiningClass": "0",
             "bidirectionalCategory": "ON",
@@ -122972,6 +123228,25 @@
             "title": "A7CC"
         },
         {
+            "codepoint": "A7CE",
+            "name": "LATIN CAPITAL LETTER PHARYNGEAL VOICED FRICATIVE",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "A7CF"
+        },
+        {
+            "codepoint": "A7CF",
+            "name": "LATIN SMALL LETTER PHARYNGEAL VOICED FRICATIVE",
+            "category": "Ll",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "upper": "A7CE",
+            "title": "A7CE"
+        },
+        {
             "codepoint": "A7D0",
             "name": "LATIN CAPITAL LETTER CLOSED INSULAR G",
             "category": "Lu",
@@ -122991,12 +123266,32 @@
             "title": "A7D0"
         },
         {
+            "codepoint": "A7D2",
+            "name": "LATIN CAPITAL LETTER DOUBLE THORN",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "A7D3"
+        },
+        {
             "codepoint": "A7D3",
             "name": "LATIN SMALL LETTER DOUBLE THORN",
             "category": "Ll",
             "canonicalCombiningClass": "0",
             "bidirectionalCategory": "L",
-            "mirrored": "N"
+            "mirrored": "N",
+            "upper": "A7D2",
+            "title": "A7D2"
+        },
+        {
+            "codepoint": "A7D4",
+            "name": "LATIN CAPITAL LETTER DOUBLE WYNN",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "A7D5"
         },
         {
             "codepoint": "A7D5",
@@ -123004,7 +123299,9 @@
             "category": "Ll",
             "canonicalCombiningClass": "0",
             "bidirectionalCategory": "L",
-            "mirrored": "N"
+            "mirrored": "N",
+            "upper": "A7D4",
+            "title": "A7D4"
         },
         {
             "codepoint": "A7D6",
@@ -123071,6 +123368,15 @@
             "bidirectionalCategory": "L",
             "mirrored": "N",
             "lower": "019B"
+        },
+        {
+            "codepoint": "A7F1",
+            "name": "MODIFIER LETTER CAPITAL S",
+            "category": "Lm",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "characterDecompositionMapping": "<super> 0053",
+            "mirrored": "N"
         },
         {
             "codepoint": "A7F2",
@@ -137177,6 +137483,134 @@
             "mirrored": "N"
         },
         {
+            "codepoint": "FBC3",
+            "name": "ARABIC LIGATURE JALLA WA-ALAA",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "FBC4",
+            "name": "ARABIC LIGATURE DAAMAT BARAKAATUHUM",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "FBC5",
+            "name": "ARABIC LIGATURE RAHMATU ALLAAHI TAAALAA ALAYH",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "FBC6",
+            "name": "ARABIC LIGATURE RAHMATU ALLAAHI ALAYHIM",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "FBC7",
+            "name": "ARABIC LIGATURE RAHMATU ALLAAHI ALAYHIMAA",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "FBC8",
+            "name": "ARABIC LIGATURE RAHIMAHUM ALLAAHU TAAALAA",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "FBC9",
+            "name": "ARABIC LIGATURE RAHIMAHUMAA ALLAAH",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "FBCA",
+            "name": "ARABIC LIGATURE RAHIMAHUMAA ALLAAHU TAAALAA",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "FBCB",
+            "name": "ARABIC LIGATURE RADI ALLAAHU TAAALAA ANHUM",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "FBCC",
+            "name": "ARABIC LIGATURE HAFIZAHU ALLAAH",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "FBCD",
+            "name": "ARABIC LIGATURE HAFIZAHU ALLAAHU TAAALAA",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "FBCE",
+            "name": "ARABIC LIGATURE HAFIZAHUM ALLAAHU TAAALAA",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "FBCF",
+            "name": "ARABIC LIGATURE HAFIZAHUMAA ALLAAHU TAAALAA",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "FBD0",
+            "name": "ARABIC LIGATURE SALLALLAAHU TAAALAA ALAYHI WA-SALLAM",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "FBD1",
+            "name": "ARABIC LIGATURE AJJAL ALLAAHU FARAJAHU ASH-SHAREEF",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "FBD2",
+            "name": "ARABIC LIGATURE ALAYHI AR-RAHMAH",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
             "codepoint": "FBD3",
             "name": "ARABIC LETTER NG ISOLATED FORM",
             "category": "Lo",
@@ -141164,6 +141598,22 @@
             "mirrored": "N"
         },
         {
+            "codepoint": "FD90",
+            "name": "ARABIC LIGATURE RAHMATU ALLAAHI ALAYH",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "FD91",
+            "name": "ARABIC LIGATURE RAHMATU ALLAAHI ALAYHAA",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
             "codepoint": "FD92",
             "name": "ARABIC LIGATURE MEEM WITH JEEM WITH KHAH INITIAL FORM",
             "category": "Lo",
@@ -141647,6 +142097,62 @@
             "canonicalCombiningClass": "0",
             "bidirectionalCategory": "AL",
             "characterDecompositionMapping": "<final> 0646 062C 064A",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "FDC8",
+            "name": "ARABIC LIGATURE RAHIMAHU ALLAAH TAAALAA",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "FDC9",
+            "name": "ARABIC LIGATURE RADI ALLAAHU TAAALAA ANH",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "FDCA",
+            "name": "ARABIC LIGATURE RADI ALLAAHU TAAALAA ANHAA",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "FDCB",
+            "name": "ARABIC LIGATURE RADI ALLAAHU TAAALAA ANHUMAA",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "FDCC",
+            "name": "ARABIC LIGATURE SALLALLAHU ALAYHI WA-ALAA AALIHEE WA-SALLAM",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "FDCD",
+            "name": "ARABIC LIGATURE AJJAL ALLAAHU TAAALAA FARAJAHU ASH-SHAREEF",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "FDCE",
+            "name": "ARABIC LIGATURE KARRAMA ALLAAHU WAJHAH",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
             "mirrored": "N"
         },
         {
@@ -161294,6 +161800,214 @@
             "mirrored": "N"
         },
         {
+            "codepoint": "10940",
+            "name": "SIDETIC LETTER N01",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "R",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10941",
+            "name": "SIDETIC LETTER N02",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "R",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10942",
+            "name": "SIDETIC LETTER N03",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "R",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10943",
+            "name": "SIDETIC LETTER N04",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "R",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10944",
+            "name": "SIDETIC LETTER N05",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "R",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10945",
+            "name": "SIDETIC LETTER N06",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "R",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10946",
+            "name": "SIDETIC LETTER N07",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "R",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10947",
+            "name": "SIDETIC LETTER N08",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "R",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10948",
+            "name": "SIDETIC LETTER N09",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "R",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10949",
+            "name": "SIDETIC LETTER N10",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "R",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1094A",
+            "name": "SIDETIC LETTER N11",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "R",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1094B",
+            "name": "SIDETIC LETTER N12",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "R",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1094C",
+            "name": "SIDETIC LETTER N13",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "R",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1094D",
+            "name": "SIDETIC LETTER N14",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "R",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1094E",
+            "name": "SIDETIC LETTER N15",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "R",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1094F",
+            "name": "SIDETIC LETTER N16",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "R",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10950",
+            "name": "SIDETIC LETTER N17",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "R",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10951",
+            "name": "SIDETIC LETTER N18",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "R",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10952",
+            "name": "SIDETIC LETTER N19",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "R",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10953",
+            "name": "SIDETIC LETTER N20",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "R",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10954",
+            "name": "SIDETIC LETTER N21",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "R",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10955",
+            "name": "SIDETIC LETTER N22",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "R",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10956",
+            "name": "SIDETIC LETTER N23",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "R",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10957",
+            "name": "SIDETIC LETTER N24",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "R",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10958",
+            "name": "SIDETIC LETTER N25",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "R",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10959",
+            "name": "SIDETIC LETTER N26",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "R",
+            "mirrored": "N"
+        },
+        {
             "codepoint": "10980",
             "name": "MEROITIC HIEROGLYPHIC LETTER A",
             "category": "Lo",
@@ -168390,6 +169104,118 @@
             "category": "Lo",
             "canonicalCombiningClass": "0",
             "bidirectionalCategory": "AL",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10EC5",
+            "name": "ARABIC SMALL YEH BARREE WITH TWO DOTS BELOW",
+            "category": "Lm",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "AL",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10EC6",
+            "name": "ARABIC LETTER THIN NOON",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "AL",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10EC7",
+            "name": "ARABIC LETTER YEH WITH FOUR DOTS BELOW",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "AL",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10ED0",
+            "name": "ARABIC BIBLICAL END OF VERSE",
+            "category": "Po",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10ED1",
+            "name": "ARABIC LIGATURE ALAYHAA AS-SALAATU WAS-SALAAM",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10ED2",
+            "name": "ARABIC LIGATURE ALAYHIM AS-SALAATU WAS-SALAAM",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10ED3",
+            "name": "ARABIC LIGATURE ALAYHIMAA AS-SALAATU WAS-SALAAM",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10ED4",
+            "name": "ARABIC LIGATURE QADDASA ALLAAHU SIRRAH",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10ED5",
+            "name": "ARABIC LIGATURE QUDDISA SIRRUHUM",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10ED6",
+            "name": "ARABIC LIGATURE QUDDISA SIRRUHUMAA",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10ED7",
+            "name": "ARABIC LIGATURE QUDDISAT ASRAARUHUM",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10ED8",
+            "name": "ARABIC LIGATURE NAWWARA ALLAAHU MARQADAH",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10EFA",
+            "name": "ARABIC DOUBLE VERTICAL BAR BELOW",
+            "category": "Mn",
+            "canonicalCombiningClass": "220",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "10EFB",
+            "name": "ARABIC SMALL LOW NOON",
+            "category": "Mn",
+            "canonicalCombiningClass": "220",
+            "bidirectionalCategory": "NSM",
             "mirrored": "N"
         },
         {
@@ -184850,6 +185676,70 @@
             "mirrored": "N"
         },
         {
+            "codepoint": "11B60",
+            "name": "SHARADA VOWEL SIGN OE",
+            "category": "Mn",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11B61",
+            "name": "SHARADA VOWEL SIGN OOE",
+            "category": "Mc",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11B62",
+            "name": "SHARADA VOWEL SIGN UE",
+            "category": "Mn",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11B63",
+            "name": "SHARADA VOWEL SIGN UUE",
+            "category": "Mn",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11B64",
+            "name": "SHARADA VOWEL SIGN SHORT E",
+            "category": "Mn",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11B65",
+            "name": "SHARADA VOWEL SIGN SHORT O",
+            "category": "Mc",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11B66",
+            "name": "SHARADA VOWEL SIGN CANDRA E",
+            "category": "Mn",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11B67",
+            "name": "SHARADA VOWEL SIGN CANDRA O",
+            "category": "Mc",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
             "codepoint": "11BC0",
             "name": "SUNUWAR LETTER DEVI",
             "category": "Lo",
@@ -187765,6 +188655,468 @@
             "mirrored": "N"
         },
         {
+            "codepoint": "11DB0",
+            "name": "TOLONG SIKI LETTER I",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DB1",
+            "name": "TOLONG SIKI LETTER E",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DB2",
+            "name": "TOLONG SIKI LETTER U",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DB3",
+            "name": "TOLONG SIKI LETTER O",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DB4",
+            "name": "TOLONG SIKI LETTER A",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DB5",
+            "name": "TOLONG SIKI LETTER AA",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DB6",
+            "name": "TOLONG SIKI LETTER P",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DB7",
+            "name": "TOLONG SIKI LETTER PH",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DB8",
+            "name": "TOLONG SIKI LETTER B",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DB9",
+            "name": "TOLONG SIKI LETTER BH",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DBA",
+            "name": "TOLONG SIKI LETTER M",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DBB",
+            "name": "TOLONG SIKI LETTER T",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DBC",
+            "name": "TOLONG SIKI LETTER TH",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DBD",
+            "name": "TOLONG SIKI LETTER D",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DBE",
+            "name": "TOLONG SIKI LETTER DH",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DBF",
+            "name": "TOLONG SIKI LETTER N",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DC0",
+            "name": "TOLONG SIKI LETTER TT",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DC1",
+            "name": "TOLONG SIKI LETTER TTH",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DC2",
+            "name": "TOLONG SIKI LETTER DD",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DC3",
+            "name": "TOLONG SIKI LETTER DDH",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DC4",
+            "name": "TOLONG SIKI LETTER NN",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DC5",
+            "name": "TOLONG SIKI LETTER C",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DC6",
+            "name": "TOLONG SIKI LETTER CH",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DC7",
+            "name": "TOLONG SIKI LETTER J",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DC8",
+            "name": "TOLONG SIKI LETTER JH",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DC9",
+            "name": "TOLONG SIKI LETTER NY",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DCA",
+            "name": "TOLONG SIKI LETTER K",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DCB",
+            "name": "TOLONG SIKI LETTER KH",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DCC",
+            "name": "TOLONG SIKI LETTER G",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DCD",
+            "name": "TOLONG SIKI LETTER GH",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DCE",
+            "name": "TOLONG SIKI LETTER NG",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DCF",
+            "name": "TOLONG SIKI LETTER Y",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DD0",
+            "name": "TOLONG SIKI LETTER R",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DD1",
+            "name": "TOLONG SIKI LETTER L",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DD2",
+            "name": "TOLONG SIKI LETTER V",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DD3",
+            "name": "TOLONG SIKI LETTER NNY",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DD4",
+            "name": "TOLONG SIKI LETTER S",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DD5",
+            "name": "TOLONG SIKI LETTER H",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DD6",
+            "name": "TOLONG SIKI LETTER X",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DD7",
+            "name": "TOLONG SIKI LETTER RR",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DD8",
+            "name": "TOLONG SIKI LETTER RRH",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DD9",
+            "name": "TOLONG SIKI SIGN SELA",
+            "category": "Lm",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DDA",
+            "name": "TOLONG SIKI SIGN HECAKA",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DDB",
+            "name": "TOLONG SIKI UNGGA",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DE0",
+            "name": "TOLONG SIKI DIGIT ZERO",
+            "category": "Nd",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "decimalDigitValue": "0",
+            "digitValue": "0",
+            "numericValue": "0",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DE1",
+            "name": "TOLONG SIKI DIGIT ONE",
+            "category": "Nd",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "decimalDigitValue": "1",
+            "digitValue": "1",
+            "numericValue": "1",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DE2",
+            "name": "TOLONG SIKI DIGIT TWO",
+            "category": "Nd",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "decimalDigitValue": "2",
+            "digitValue": "2",
+            "numericValue": "2",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DE3",
+            "name": "TOLONG SIKI DIGIT THREE",
+            "category": "Nd",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "decimalDigitValue": "3",
+            "digitValue": "3",
+            "numericValue": "3",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DE4",
+            "name": "TOLONG SIKI DIGIT FOUR",
+            "category": "Nd",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "decimalDigitValue": "4",
+            "digitValue": "4",
+            "numericValue": "4",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DE5",
+            "name": "TOLONG SIKI DIGIT FIVE",
+            "category": "Nd",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "decimalDigitValue": "5",
+            "digitValue": "5",
+            "numericValue": "5",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DE6",
+            "name": "TOLONG SIKI DIGIT SIX",
+            "category": "Nd",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "decimalDigitValue": "6",
+            "digitValue": "6",
+            "numericValue": "6",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DE7",
+            "name": "TOLONG SIKI DIGIT SEVEN",
+            "category": "Nd",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "decimalDigitValue": "7",
+            "digitValue": "7",
+            "numericValue": "7",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DE8",
+            "name": "TOLONG SIKI DIGIT EIGHT",
+            "category": "Nd",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "decimalDigitValue": "8",
+            "digitValue": "8",
+            "numericValue": "8",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "11DE9",
+            "name": "TOLONG SIKI DIGIT NINE",
+            "category": "Nd",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "decimalDigitValue": "9",
+            "digitValue": "9",
+            "numericValue": "9",
+            "mirrored": "N"
+        },
+        {
             "codepoint": "11EE0",
             "name": "MAKASAR LETTER KA",
             "category": "Lo",
@@ -189581,6 +190933,7 @@
             "category": "Lo",
             "canonicalCombiningClass": "0",
             "bidirectionalCategory": "L",
+            "numericValue": "1",
             "mirrored": "N"
         },
         {
@@ -189589,6 +190942,7 @@
             "category": "Lo",
             "canonicalCombiningClass": "0",
             "bidirectionalCategory": "L",
+            "numericValue": "1",
             "mirrored": "N"
         },
         {
@@ -190101,6 +191455,7 @@
             "category": "Lo",
             "canonicalCombiningClass": "0",
             "bidirectionalCategory": "L",
+            "numericValue": "1",
             "mirrored": "N"
         },
         {
@@ -193533,6 +194888,7 @@
             "category": "Lo",
             "canonicalCombiningClass": "0",
             "bidirectionalCategory": "L",
+            "numericValue": "1/2",
             "mirrored": "N"
         },
         {
@@ -193573,6 +194929,7 @@
             "category": "Lo",
             "canonicalCombiningClass": "0",
             "bidirectionalCategory": "L",
+            "numericValue": "2",
             "mirrored": "N"
         },
         {
@@ -195365,6 +196722,7 @@
             "category": "Lo",
             "canonicalCombiningClass": "0",
             "bidirectionalCategory": "L",
+            "numericValue": "1",
             "mirrored": "N"
         },
         {
@@ -195381,6 +196739,7 @@
             "category": "Lo",
             "canonicalCombiningClass": "0",
             "bidirectionalCategory": "L",
+            "numericValue": "3",
             "mirrored": "N"
         },
         {
@@ -196501,6 +197860,7 @@
             "category": "Lo",
             "canonicalCombiningClass": "0",
             "bidirectionalCategory": "L",
+            "numericValue": "2",
             "mirrored": "N"
         },
         {
@@ -254262,6 +255622,481 @@
             "mirrored": "N"
         },
         {
+            "codepoint": "16EA0",
+            "name": "BERIA ERFE CAPITAL LETTER ARKAB",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "16EBB"
+        },
+        {
+            "codepoint": "16EA1",
+            "name": "BERIA ERFE CAPITAL LETTER BASIGNA",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "16EBC"
+        },
+        {
+            "codepoint": "16EA2",
+            "name": "BERIA ERFE CAPITAL LETTER DARBAI",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "16EBD"
+        },
+        {
+            "codepoint": "16EA3",
+            "name": "BERIA ERFE CAPITAL LETTER EH",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "16EBE"
+        },
+        {
+            "codepoint": "16EA4",
+            "name": "BERIA ERFE CAPITAL LETTER FITKO",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "16EBF"
+        },
+        {
+            "codepoint": "16EA5",
+            "name": "BERIA ERFE CAPITAL LETTER GOWAY",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "16EC0"
+        },
+        {
+            "codepoint": "16EA6",
+            "name": "BERIA ERFE CAPITAL LETTER HIRDEABO",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "16EC1"
+        },
+        {
+            "codepoint": "16EA7",
+            "name": "BERIA ERFE CAPITAL LETTER I",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "16EC2"
+        },
+        {
+            "codepoint": "16EA8",
+            "name": "BERIA ERFE CAPITAL LETTER DJAI",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "16EC3"
+        },
+        {
+            "codepoint": "16EA9",
+            "name": "BERIA ERFE CAPITAL LETTER KOBO",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "16EC4"
+        },
+        {
+            "codepoint": "16EAA",
+            "name": "BERIA ERFE CAPITAL LETTER LAKKO",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "16EC5"
+        },
+        {
+            "codepoint": "16EAB",
+            "name": "BERIA ERFE CAPITAL LETTER MERI",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "16EC6"
+        },
+        {
+            "codepoint": "16EAC",
+            "name": "BERIA ERFE CAPITAL LETTER NINI",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "16EC7"
+        },
+        {
+            "codepoint": "16EAD",
+            "name": "BERIA ERFE CAPITAL LETTER GNA",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "16EC8"
+        },
+        {
+            "codepoint": "16EAE",
+            "name": "BERIA ERFE CAPITAL LETTER NGAY",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "16EC9"
+        },
+        {
+            "codepoint": "16EAF",
+            "name": "BERIA ERFE CAPITAL LETTER OI",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "16ECA"
+        },
+        {
+            "codepoint": "16EB0",
+            "name": "BERIA ERFE CAPITAL LETTER PI",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "16ECB"
+        },
+        {
+            "codepoint": "16EB1",
+            "name": "BERIA ERFE CAPITAL LETTER ERIGO",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "16ECC"
+        },
+        {
+            "codepoint": "16EB2",
+            "name": "BERIA ERFE CAPITAL LETTER ERIGO TAMURA",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "16ECD"
+        },
+        {
+            "codepoint": "16EB3",
+            "name": "BERIA ERFE CAPITAL LETTER SERI",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "16ECE"
+        },
+        {
+            "codepoint": "16EB4",
+            "name": "BERIA ERFE CAPITAL LETTER SHEP",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "16ECF"
+        },
+        {
+            "codepoint": "16EB5",
+            "name": "BERIA ERFE CAPITAL LETTER TATASOUE",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "16ED0"
+        },
+        {
+            "codepoint": "16EB6",
+            "name": "BERIA ERFE CAPITAL LETTER UI",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "16ED1"
+        },
+        {
+            "codepoint": "16EB7",
+            "name": "BERIA ERFE CAPITAL LETTER WASSE",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "16ED2"
+        },
+        {
+            "codepoint": "16EB8",
+            "name": "BERIA ERFE CAPITAL LETTER AY",
+            "category": "Lu",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "lower": "16ED3"
+        },
+        {
+            "codepoint": "16EBB",
+            "name": "BERIA ERFE SMALL LETTER ARKAB",
+            "category": "Ll",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "upper": "16EA0",
+            "title": "16EA0"
+        },
+        {
+            "codepoint": "16EBC",
+            "name": "BERIA ERFE SMALL LETTER BASIGNA",
+            "category": "Ll",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "upper": "16EA1",
+            "title": "16EA1"
+        },
+        {
+            "codepoint": "16EBD",
+            "name": "BERIA ERFE SMALL LETTER DARBAI",
+            "category": "Ll",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "upper": "16EA2",
+            "title": "16EA2"
+        },
+        {
+            "codepoint": "16EBE",
+            "name": "BERIA ERFE SMALL LETTER EH",
+            "category": "Ll",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "upper": "16EA3",
+            "title": "16EA3"
+        },
+        {
+            "codepoint": "16EBF",
+            "name": "BERIA ERFE SMALL LETTER FITKO",
+            "category": "Ll",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "upper": "16EA4",
+            "title": "16EA4"
+        },
+        {
+            "codepoint": "16EC0",
+            "name": "BERIA ERFE SMALL LETTER GOWAY",
+            "category": "Ll",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "upper": "16EA5",
+            "title": "16EA5"
+        },
+        {
+            "codepoint": "16EC1",
+            "name": "BERIA ERFE SMALL LETTER HIRDEABO",
+            "category": "Ll",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "upper": "16EA6",
+            "title": "16EA6"
+        },
+        {
+            "codepoint": "16EC2",
+            "name": "BERIA ERFE SMALL LETTER I",
+            "category": "Ll",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "upper": "16EA7",
+            "title": "16EA7"
+        },
+        {
+            "codepoint": "16EC3",
+            "name": "BERIA ERFE SMALL LETTER DJAI",
+            "category": "Ll",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "upper": "16EA8",
+            "title": "16EA8"
+        },
+        {
+            "codepoint": "16EC4",
+            "name": "BERIA ERFE SMALL LETTER KOBO",
+            "category": "Ll",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "upper": "16EA9",
+            "title": "16EA9"
+        },
+        {
+            "codepoint": "16EC5",
+            "name": "BERIA ERFE SMALL LETTER LAKKO",
+            "category": "Ll",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "upper": "16EAA",
+            "title": "16EAA"
+        },
+        {
+            "codepoint": "16EC6",
+            "name": "BERIA ERFE SMALL LETTER MERI",
+            "category": "Ll",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "upper": "16EAB",
+            "title": "16EAB"
+        },
+        {
+            "codepoint": "16EC7",
+            "name": "BERIA ERFE SMALL LETTER NINI",
+            "category": "Ll",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "upper": "16EAC",
+            "title": "16EAC"
+        },
+        {
+            "codepoint": "16EC8",
+            "name": "BERIA ERFE SMALL LETTER GNA",
+            "category": "Ll",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "upper": "16EAD",
+            "title": "16EAD"
+        },
+        {
+            "codepoint": "16EC9",
+            "name": "BERIA ERFE SMALL LETTER NGAY",
+            "category": "Ll",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "upper": "16EAE",
+            "title": "16EAE"
+        },
+        {
+            "codepoint": "16ECA",
+            "name": "BERIA ERFE SMALL LETTER OI",
+            "category": "Ll",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "upper": "16EAF",
+            "title": "16EAF"
+        },
+        {
+            "codepoint": "16ECB",
+            "name": "BERIA ERFE SMALL LETTER PI",
+            "category": "Ll",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "upper": "16EB0",
+            "title": "16EB0"
+        },
+        {
+            "codepoint": "16ECC",
+            "name": "BERIA ERFE SMALL LETTER ERIGO",
+            "category": "Ll",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "upper": "16EB1",
+            "title": "16EB1"
+        },
+        {
+            "codepoint": "16ECD",
+            "name": "BERIA ERFE SMALL LETTER ERIGO TAMURA",
+            "category": "Ll",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "upper": "16EB2",
+            "title": "16EB2"
+        },
+        {
+            "codepoint": "16ECE",
+            "name": "BERIA ERFE SMALL LETTER SERI",
+            "category": "Ll",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "upper": "16EB3",
+            "title": "16EB3"
+        },
+        {
+            "codepoint": "16ECF",
+            "name": "BERIA ERFE SMALL LETTER SHEP",
+            "category": "Ll",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "upper": "16EB4",
+            "title": "16EB4"
+        },
+        {
+            "codepoint": "16ED0",
+            "name": "BERIA ERFE SMALL LETTER TATASOUE",
+            "category": "Ll",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "upper": "16EB5",
+            "title": "16EB5"
+        },
+        {
+            "codepoint": "16ED1",
+            "name": "BERIA ERFE SMALL LETTER UI",
+            "category": "Ll",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "upper": "16EB6",
+            "title": "16EB6"
+        },
+        {
+            "codepoint": "16ED2",
+            "name": "BERIA ERFE SMALL LETTER WASSE",
+            "category": "Ll",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "upper": "16EB7",
+            "title": "16EB7"
+        },
+        {
+            "codepoint": "16ED3",
+            "name": "BERIA ERFE SMALL LETTER AY",
+            "category": "Ll",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N",
+            "upper": "16EB8",
+            "title": "16EB8"
+        },
+        {
             "codepoint": "16F00",
             "name": "MIAO LETTER PA",
             "category": "Lo",
@@ -255510,6 +257345,49 @@
             "mirrored": "N"
         },
         {
+            "codepoint": "16FF2",
+            "name": "CHINESE SMALL SIMPLIFIED ER",
+            "category": "Lm",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "16FF3",
+            "name": "CHINESE SMALL TRADITIONAL ER",
+            "category": "Lm",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "16FF4",
+            "name": "YANGQIN SIGN SLOW ONE BEAT",
+            "category": "Nl",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "numericValue": "1",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "16FF5",
+            "name": "YANGQIN SIGN SLOW THREE HALF BEATS",
+            "category": "Nl",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "numericValue": "3/2",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "16FF6",
+            "name": "YANGQIN SIGN SLOW TWO BEATS",
+            "category": "Nl",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "numericValue": "2",
+            "mirrored": "N"
+        },
+        {
             "codepoint": "17000",
             "name": "<Tangut Ideograph, First>",
             "category": "Lo",
@@ -255518,7 +257396,7 @@
             "mirrored": "N"
         },
         {
-            "codepoint": "187F7",
+            "codepoint": "187FF",
             "name": "<Tangut Ideograph, Last>",
             "category": "Lo",
             "canonicalCombiningClass": "0",
@@ -265446,8 +267324,928 @@
             "mirrored": "N"
         },
         {
-            "codepoint": "18D08",
+            "codepoint": "18D1E",
             "name": "<Tangut Ideograph Supplement, Last>",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D80",
+            "name": "TANGUT COMPONENT-769",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D81",
+            "name": "TANGUT COMPONENT-770",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D82",
+            "name": "TANGUT COMPONENT-771",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D83",
+            "name": "TANGUT COMPONENT-772",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D84",
+            "name": "TANGUT COMPONENT-773",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D85",
+            "name": "TANGUT COMPONENT-774",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D86",
+            "name": "TANGUT COMPONENT-775",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D87",
+            "name": "TANGUT COMPONENT-776",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D88",
+            "name": "TANGUT COMPONENT-777",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D89",
+            "name": "TANGUT COMPONENT-778",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D8A",
+            "name": "TANGUT COMPONENT-779",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D8B",
+            "name": "TANGUT COMPONENT-780",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D8C",
+            "name": "TANGUT COMPONENT-781",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D8D",
+            "name": "TANGUT COMPONENT-782",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D8E",
+            "name": "TANGUT COMPONENT-783",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D8F",
+            "name": "TANGUT COMPONENT-784",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D90",
+            "name": "TANGUT COMPONENT-785",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D91",
+            "name": "TANGUT COMPONENT-786",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D92",
+            "name": "TANGUT COMPONENT-787",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D93",
+            "name": "TANGUT COMPONENT-788",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D94",
+            "name": "TANGUT COMPONENT-789",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D95",
+            "name": "TANGUT COMPONENT-790",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D96",
+            "name": "TANGUT COMPONENT-791",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D97",
+            "name": "TANGUT COMPONENT-792",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D98",
+            "name": "TANGUT COMPONENT-793",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D99",
+            "name": "TANGUT COMPONENT-794",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D9A",
+            "name": "TANGUT COMPONENT-795",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D9B",
+            "name": "TANGUT COMPONENT-796",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D9C",
+            "name": "TANGUT COMPONENT-797",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D9D",
+            "name": "TANGUT COMPONENT-798",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D9E",
+            "name": "TANGUT COMPONENT-799",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18D9F",
+            "name": "TANGUT COMPONENT-800",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DA0",
+            "name": "TANGUT COMPONENT-801",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DA1",
+            "name": "TANGUT COMPONENT-802",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DA2",
+            "name": "TANGUT COMPONENT-803",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DA3",
+            "name": "TANGUT COMPONENT-804",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DA4",
+            "name": "TANGUT COMPONENT-805",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DA5",
+            "name": "TANGUT COMPONENT-806",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DA6",
+            "name": "TANGUT COMPONENT-807",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DA7",
+            "name": "TANGUT COMPONENT-808",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DA8",
+            "name": "TANGUT COMPONENT-809",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DA9",
+            "name": "TANGUT COMPONENT-810",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DAA",
+            "name": "TANGUT COMPONENT-811",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DAB",
+            "name": "TANGUT COMPONENT-812",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DAC",
+            "name": "TANGUT COMPONENT-813",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DAD",
+            "name": "TANGUT COMPONENT-814",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DAE",
+            "name": "TANGUT COMPONENT-815",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DAF",
+            "name": "TANGUT COMPONENT-816",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DB0",
+            "name": "TANGUT COMPONENT-817",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DB1",
+            "name": "TANGUT COMPONENT-818",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DB2",
+            "name": "TANGUT COMPONENT-819",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DB3",
+            "name": "TANGUT COMPONENT-820",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DB4",
+            "name": "TANGUT COMPONENT-821",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DB5",
+            "name": "TANGUT COMPONENT-822",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DB6",
+            "name": "TANGUT COMPONENT-823",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DB7",
+            "name": "TANGUT COMPONENT-824",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DB8",
+            "name": "TANGUT COMPONENT-825",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DB9",
+            "name": "TANGUT COMPONENT-826",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DBA",
+            "name": "TANGUT COMPONENT-827",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DBB",
+            "name": "TANGUT COMPONENT-828",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DBC",
+            "name": "TANGUT COMPONENT-829",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DBD",
+            "name": "TANGUT COMPONENT-830",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DBE",
+            "name": "TANGUT COMPONENT-831",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DBF",
+            "name": "TANGUT COMPONENT-832",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DC0",
+            "name": "TANGUT COMPONENT-833",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DC1",
+            "name": "TANGUT COMPONENT-834",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DC2",
+            "name": "TANGUT COMPONENT-835",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DC3",
+            "name": "TANGUT COMPONENT-836",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DC4",
+            "name": "TANGUT COMPONENT-837",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DC5",
+            "name": "TANGUT COMPONENT-838",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DC6",
+            "name": "TANGUT COMPONENT-839",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DC7",
+            "name": "TANGUT COMPONENT-840",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DC8",
+            "name": "TANGUT COMPONENT-841",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DC9",
+            "name": "TANGUT COMPONENT-842",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DCA",
+            "name": "TANGUT COMPONENT-843",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DCB",
+            "name": "TANGUT COMPONENT-844",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DCC",
+            "name": "TANGUT COMPONENT-845",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DCD",
+            "name": "TANGUT COMPONENT-846",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DCE",
+            "name": "TANGUT COMPONENT-847",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DCF",
+            "name": "TANGUT COMPONENT-848",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DD0",
+            "name": "TANGUT COMPONENT-849",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DD1",
+            "name": "TANGUT COMPONENT-850",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DD2",
+            "name": "TANGUT COMPONENT-851",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DD3",
+            "name": "TANGUT COMPONENT-852",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DD4",
+            "name": "TANGUT COMPONENT-853",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DD5",
+            "name": "TANGUT COMPONENT-854",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DD6",
+            "name": "TANGUT COMPONENT-855",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DD7",
+            "name": "TANGUT COMPONENT-856",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DD8",
+            "name": "TANGUT COMPONENT-857",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DD9",
+            "name": "TANGUT COMPONENT-858",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DDA",
+            "name": "TANGUT COMPONENT-859",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DDB",
+            "name": "TANGUT COMPONENT-860",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DDC",
+            "name": "TANGUT COMPONENT-861",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DDD",
+            "name": "TANGUT COMPONENT-862",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DDE",
+            "name": "TANGUT COMPONENT-863",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DDF",
+            "name": "TANGUT COMPONENT-864",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DE0",
+            "name": "TANGUT COMPONENT-865",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DE1",
+            "name": "TANGUT COMPONENT-866",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DE2",
+            "name": "TANGUT COMPONENT-867",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DE3",
+            "name": "TANGUT COMPONENT-868",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DE4",
+            "name": "TANGUT COMPONENT-869",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DE5",
+            "name": "TANGUT COMPONENT-870",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DE6",
+            "name": "TANGUT COMPONENT-871",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DE7",
+            "name": "TANGUT COMPONENT-872",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DE8",
+            "name": "TANGUT COMPONENT-873",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DE9",
+            "name": "TANGUT COMPONENT-874",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DEA",
+            "name": "TANGUT COMPONENT-875",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DEB",
+            "name": "TANGUT COMPONENT-876",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DEC",
+            "name": "TANGUT COMPONENT-877",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DED",
+            "name": "TANGUT COMPONENT-878",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DEE",
+            "name": "TANGUT COMPONENT-879",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DEF",
+            "name": "TANGUT COMPONENT-880",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DF0",
+            "name": "TANGUT COMPONENT-881",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DF1",
+            "name": "TANGUT COMPONENT-882",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "18DF2",
+            "name": "TANGUT COMPONENT-883",
             "category": "Lo",
             "canonicalCombiningClass": "0",
             "bidirectionalCategory": "L",
@@ -274368,6 +277166,30 @@
             "mirrored": "N"
         },
         {
+            "codepoint": "1CCFA",
+            "name": "SNAKE SYMBOL",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CCFB",
+            "name": "FLYING SAUCER SYMBOL",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CCFC",
+            "name": "NOSE SYMBOL",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
             "codepoint": "1CD00",
             "name": "BLOCK OCTANT-3",
             "category": "So",
@@ -277851,6 +280673,326 @@
             "codepoint": "1CEB3",
             "name": "BLACK RIGHT TRIANGLE CARET",
             "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEBA",
+            "name": "FRAGILE SYMBOL",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEBB",
+            "name": "OFFICE BUILDING SYMBOL",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEBC",
+            "name": "TREE SYMBOL",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEBD",
+            "name": "APPLE SYMBOL",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEBE",
+            "name": "CHERRY SYMBOL",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEBF",
+            "name": "STRAWBERRY SYMBOL",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEC0",
+            "name": "HEBE",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEC1",
+            "name": "IRIS",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEC2",
+            "name": "FLORA",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEC3",
+            "name": "METIS",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEC4",
+            "name": "PARTHENOPE",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEC5",
+            "name": "VICTORIA",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEC6",
+            "name": "EGERIA",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEC7",
+            "name": "IRENE",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEC8",
+            "name": "EUNOMIA",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEC9",
+            "name": "PSYCHE",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CECA",
+            "name": "THETIS",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CECB",
+            "name": "MELPOMENE",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CECC",
+            "name": "FORTUNA",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CECD",
+            "name": "ASTRONOMICAL SYMBOL FOR ASTEROID PROSERPINA",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CECE",
+            "name": "BELLONA",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CECF",
+            "name": "AMPHITRITE",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CED0",
+            "name": "LEUKOTHEA",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEE0",
+            "name": "GEOMANTIC FIGURE POPULUS",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEE1",
+            "name": "GEOMANTIC FIGURE TRISTITIA",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEE2",
+            "name": "GEOMANTIC FIGURE ALBUS",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEE3",
+            "name": "GEOMANTIC FIGURE FORTUNA MAJOR",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEE4",
+            "name": "GEOMANTIC FIGURE RUBEUS",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEE5",
+            "name": "GEOMANTIC FIGURE ACQUISITIO",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEE6",
+            "name": "GEOMANTIC FIGURE CONJUNCTIO",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEE7",
+            "name": "GEOMANTIC FIGURE CAPUT DRACONIS",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEE8",
+            "name": "GEOMANTIC FIGURE LAETITIA",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEE9",
+            "name": "GEOMANTIC FIGURE CARCER",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEEA",
+            "name": "GEOMANTIC FIGURE AMISSIO",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEEB",
+            "name": "GEOMANTIC FIGURE PUELLA",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEEC",
+            "name": "GEOMANTIC FIGURE FORTUNA MINOR",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEED",
+            "name": "GEOMANTIC FIGURE PUER",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEEE",
+            "name": "GEOMANTIC FIGURE CAUDA DRACONIS",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEEF",
+            "name": "GEOMANTIC FIGURE VIA",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1CEF0",
+            "name": "MEDIUM SMALL WHITE CIRCLE WITH HORIZONTAL BAR",
+            "category": "Sm",
             "canonicalCombiningClass": "0",
             "bidirectionalCategory": "ON",
             "mirrored": "N"
@@ -302774,6 +305916,446 @@
             "mirrored": "N"
         },
         {
+            "codepoint": "1E6C0",
+            "name": "TAI YO LETTER LOW KO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6C1",
+            "name": "TAI YO LETTER HIGH KO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6C2",
+            "name": "TAI YO LETTER LOW KHO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6C3",
+            "name": "TAI YO LETTER HIGH KHO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6C4",
+            "name": "TAI YO LETTER GO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6C5",
+            "name": "TAI YO LETTER NGO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6C6",
+            "name": "TAI YO LETTER CO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6C7",
+            "name": "TAI YO LETTER LOW XO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6C8",
+            "name": "TAI YO LETTER HIGH XO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6C9",
+            "name": "TAI YO LETTER LOW NYO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6CA",
+            "name": "TAI YO LETTER HIGH NYO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6CB",
+            "name": "TAI YO LETTER DO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6CC",
+            "name": "TAI YO LETTER LOW TO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6CD",
+            "name": "TAI YO LETTER HIGH TO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6CE",
+            "name": "TAI YO LETTER THO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6CF",
+            "name": "TAI YO LETTER NO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6D0",
+            "name": "TAI YO LETTER BO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6D1",
+            "name": "TAI YO LETTER LOW PO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6D2",
+            "name": "TAI YO LETTER HIGH PO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6D3",
+            "name": "TAI YO LETTER PHO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6D4",
+            "name": "TAI YO LETTER LOW FO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6D5",
+            "name": "TAI YO LETTER HIGH FO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6D6",
+            "name": "TAI YO LETTER MO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6D7",
+            "name": "TAI YO LETTER YO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6D8",
+            "name": "TAI YO LETTER LO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6D9",
+            "name": "TAI YO LETTER VO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6DA",
+            "name": "TAI YO LETTER LOW HO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6DB",
+            "name": "TAI YO LETTER HIGH HO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6DC",
+            "name": "TAI YO LETTER QO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6DD",
+            "name": "TAI YO LETTER LOW KVO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6DE",
+            "name": "TAI YO LETTER HIGH KVO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6E0",
+            "name": "TAI YO LETTER AA",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6E1",
+            "name": "TAI YO LETTER I",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6E2",
+            "name": "TAI YO LETTER UE",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6E3",
+            "name": "TAI YO SIGN UE",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6E4",
+            "name": "TAI YO LETTER U",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6E5",
+            "name": "TAI YO LETTER AE",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6E6",
+            "name": "TAI YO SIGN AU",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6E7",
+            "name": "TAI YO LETTER O",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6E8",
+            "name": "TAI YO LETTER E",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6E9",
+            "name": "TAI YO LETTER IA",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6EA",
+            "name": "TAI YO LETTER UEA",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6EB",
+            "name": "TAI YO LETTER UA",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6EC",
+            "name": "TAI YO LETTER OO",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6ED",
+            "name": "TAI YO LETTER AUE",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6EE",
+            "name": "TAI YO SIGN AY",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6EF",
+            "name": "TAI YO SIGN ANG",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6F0",
+            "name": "TAI YO LETTER AN",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6F1",
+            "name": "TAI YO LETTER AM",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6F2",
+            "name": "TAI YO LETTER AK",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6F3",
+            "name": "TAI YO LETTER AT",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6F4",
+            "name": "TAI YO LETTER AP",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6F5",
+            "name": "TAI YO SIGN OM",
+            "category": "Mn",
+            "canonicalCombiningClass": "230",
+            "bidirectionalCategory": "NSM",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6FE",
+            "name": "TAI YO SYMBOL MUEANG",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1E6FF",
+            "name": "TAI YO XAM LAI",
+            "category": "Lm",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
             "codepoint": "1E7E0",
             "name": "ETHIOPIC SYLLABLE HHYA",
             "category": "Lo",
@@ -319942,6 +323524,14 @@
             "mirrored": "N"
         },
         {
+            "codepoint": "1F6D8",
+            "name": "LANDSLIDE",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
             "codepoint": "1F6DC",
             "name": "WIRELESS",
             "category": "So",
@@ -321128,6 +324718,38 @@
         {
             "codepoint": "1F776",
             "name": "LUNAR ECLIPSE",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1F777",
+            "name": "VESTA FORM TWO",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1F778",
+            "name": "ASTRAEA FORM TWO",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1F779",
+            "name": "HYGIEA FORM TWO",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1F77A",
+            "name": "PARTHENOPE FORM TWO",
             "category": "So",
             "canonicalCombiningClass": "0",
             "bidirectionalCategory": "ON",
@@ -323289,6 +326911,78 @@
             "codepoint": "1F8C1",
             "name": "RIGHTWARDS ARROW FROM DOWNWARDS ARROW",
             "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1F8D0",
+            "name": "LONG RIGHTWARDS ARROW OVER LONG LEFTWARDS ARROW",
+            "category": "Sm",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1F8D1",
+            "name": "LONG RIGHTWARDS HARPOON OVER LONG LEFTWARDS HARPOON",
+            "category": "Sm",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1F8D2",
+            "name": "LONG RIGHTWARDS HARPOON ABOVE SHORT LEFTWARDS HARPOON",
+            "category": "Sm",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1F8D3",
+            "name": "SHORT RIGHTWARDS HARPOON ABOVE LONG LEFTWARDS HARPOON",
+            "category": "Sm",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1F8D4",
+            "name": "LONG LEFTWARDS HARPOON ABOVE SHORT RIGHTWARDS HARPOON",
+            "category": "Sm",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1F8D5",
+            "name": "SHORT LEFTWARDS HARPOON ABOVE LONG RIGHTWARDS HARPOON",
+            "category": "Sm",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1F8D6",
+            "name": "LONG RIGHTWARDS ARROW THROUGH X",
+            "category": "Sm",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1F8D7",
+            "name": "LONG RIGHTWARDS ARROW WITH DOUBLE SLASH",
+            "category": "Sm",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1F8D8",
+            "name": "LONG LEFT RIGHT ARROW WITH DEPENDENT LOBE",
+            "category": "Sm",
             "canonicalCombiningClass": "0",
             "bidirectionalCategory": "ON",
             "mirrored": "N"
@@ -326014,6 +329708,38 @@
             "mirrored": "N"
         },
         {
+            "codepoint": "1FA54",
+            "name": "WHITE CHESS FERZ",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1FA55",
+            "name": "WHITE CHESS ALFIL",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1FA56",
+            "name": "BLACK CHESS FERZ",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1FA57",
+            "name": "BLACK CHESS ALFIL",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
             "codepoint": "1FA60",
             "name": "XIANGQI RED GENERAL",
             "category": "So",
@@ -326304,6 +330030,22 @@
         {
             "codepoint": "1FA89",
             "name": "HARP",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1FA8A",
+            "name": "TROMBONE",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1FA8E",
+            "name": "TREASURE CHEST",
             "category": "So",
             "canonicalCombiningClass": "0",
             "bidirectionalCategory": "ON",
@@ -326758,6 +330500,22 @@
             "mirrored": "N"
         },
         {
+            "codepoint": "1FAC8",
+            "name": "HAIRY CREATURE",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1FACD",
+            "name": "ORCA",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
             "codepoint": "1FACE",
             "name": "MOOSE",
             "category": "So",
@@ -326960,6 +330718,22 @@
         {
             "codepoint": "1FAE9",
             "name": "FACE WITH BAGS UNDER EYES",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1FAEA",
+            "name": "DISTORTED FACE",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "1FAEF",
+            "name": "FIGHT CLOUD",
             "category": "So",
             "canonicalCombiningClass": "0",
             "bidirectionalCategory": "ON",
@@ -329070,6 +332844,14 @@
             "mirrored": "N"
         },
         {
+            "codepoint": "1FBFA",
+            "name": "ALARM BELL SYMBOL",
+            "category": "So",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "ON",
+            "mirrored": "N"
+        },
+        {
             "codepoint": "20000",
             "name": "<CJK Ideograph Extension B, First>",
             "category": "Lo",
@@ -329094,7 +332876,7 @@
             "mirrored": "N"
         },
         {
-            "codepoint": "2B739",
+            "codepoint": "2B73F",
             "name": "<CJK Ideograph Extension C, Last>",
             "category": "Lo",
             "canonicalCombiningClass": "0",
@@ -329126,7 +332908,7 @@
             "mirrored": "N"
         },
         {
-            "codepoint": "2CEA1",
+            "codepoint": "2CEAD",
             "name": "<CJK Ideograph Extension E, Last>",
             "category": "Lo",
             "canonicalCombiningClass": "0",
@@ -334071,6 +337853,22 @@
         {
             "codepoint": "323AF",
             "name": "<CJK Ideograph Extension H, Last>",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "323B0",
+            "name": "<CJK Ideograph Extension J, First>",
+            "category": "Lo",
+            "canonicalCombiningClass": "0",
+            "bidirectionalCategory": "L",
+            "mirrored": "N"
+        },
+        {
+            "codepoint": "33479",
+            "name": "<CJK Ideograph Extension J, Last>",
             "category": "Lo",
             "canonicalCombiningClass": "0",
             "bidirectionalCategory": "L",

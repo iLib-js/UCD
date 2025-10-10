@@ -4209,6 +4209,7 @@
         },
         {
             "range": [
+                "10EFA",
                 "10EFC"
             ],
             "property": "Other_Alphabetic"
@@ -4917,6 +4918,43 @@
         },
         {
             "range": [
+                "11B60"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
+                "11B61"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
+                "11B62",
+                "11B64"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
+                "11B65"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
+                "11B66"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
+                "11B67"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
                 "11C2F"
             ],
             "property": "Other_Alphabetic"
@@ -5210,6 +5248,31 @@
         },
         {
             "range": [
+                "1E6E3"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
+                "1E6E6"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
+                "1E6EE",
+                "1E6EF"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
+                "1E6F5"
+            ],
+            "property": "Other_Alphabetic"
+        },
+        {
+            "range": [
                 "1E947"
             ],
             "property": "Other_Alphabetic"
@@ -5297,14 +5360,21 @@
         },
         {
             "range": [
-                "17000",
-                "187F7"
+                "16FF2",
+                "16FF3"
             ],
             "property": "Ideographic"
         },
         {
             "range": [
-                "18800",
+                "16FF4",
+                "16FF6"
+            ],
+            "property": "Ideographic"
+        },
+        {
+            "range": [
+                "17000",
                 "18CD5"
             ],
             "property": "Ideographic"
@@ -5312,7 +5382,14 @@
         {
             "range": [
                 "18CFF",
-                "18D08"
+                "18D1E"
+            ],
+            "property": "Ideographic"
+        },
+        {
+            "range": [
+                "18D80",
+                "18DF2"
             ],
             "property": "Ideographic"
         },
@@ -5333,13 +5410,6 @@
         {
             "range": [
                 "2A700",
-                "2B739"
-            ],
-            "property": "Ideographic"
-        },
-        {
-            "range": [
-                "2B740",
                 "2B81D"
             ],
             "property": "Ideographic"
@@ -5347,7 +5417,7 @@
         {
             "range": [
                 "2B820",
-                "2CEA1"
+                "2CEAD"
             ],
             "property": "Ideographic"
         },
@@ -5382,7 +5452,7 @@
         {
             "range": [
                 "31350",
-                "323AF"
+                "33479"
             ],
             "property": "Ideographic"
         },
@@ -5557,13 +5627,6 @@
         {
             "range": [
                 "0591",
-                "05A1"
-            ],
-            "property": "Diacritic"
-        },
-        {
-            "range": [
-                "05A3",
                 "05BD"
             ],
             "property": "Diacritic"
@@ -5583,7 +5646,14 @@
         },
         {
             "range": [
-                "05C4"
+                "05C4",
+                "05C5"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
+                "05C7"
             ],
             "property": "Diacritic"
         },
@@ -6042,6 +6112,20 @@
         },
         {
             "range": [
+                "1ACF",
+                "1ADD"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
+                "1AE0",
+                "1AEB"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
                 "1B34"
             ],
             "property": "Diacritic"
@@ -6160,6 +6244,13 @@
             "range": [
                 "1D2C",
                 "1D6A"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
+                "1D9B",
+                "1DBE"
             ],
             "property": "Diacritic"
         },
@@ -6329,6 +6420,12 @@
             "range": [
                 "A789",
                 "A78A"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
+                "A7F1"
             ],
             "property": "Diacritic"
         },
@@ -6607,6 +6704,12 @@
         },
         {
             "range": [
+                "10EFA"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
                 "10EFD",
                 "10EFF"
             ],
@@ -6875,6 +6978,12 @@
         {
             "range": [
                 "11D97"
+            ],
+            "property": "Diacritic"
+        },
+        {
+            "range": [
+                "11DD9"
             ],
             "property": "Diacritic"
         },
@@ -7301,6 +7410,12 @@
         },
         {
             "range": [
+                "11DD9"
+            ],
+            "property": "Extender"
+        },
+        {
+            "range": [
                 "16B42",
                 "16B43"
             ],
@@ -7316,6 +7431,13 @@
         {
             "range": [
                 "16FE3"
+            ],
+            "property": "Extender"
+        },
+        {
+            "range": [
+                "16FF2",
+                "16FF3"
             ],
             "property": "Extender"
         },
@@ -7465,7 +7587,7 @@
         },
         {
             "range": [
-                "A7F2",
+                "A7F1",
                 "A7F4"
             ],
             "property": "Other_Lowercase"
@@ -8116,13 +8238,6 @@
         {
             "range": [
                 "2A700",
-                "2B739"
-            ],
-            "property": "Unified_Ideograph"
-        },
-        {
-            "range": [
-                "2B740",
                 "2B81D"
             ],
             "property": "Unified_Ideograph"
@@ -8130,7 +8245,7 @@
         {
             "range": [
                 "2B820",
-                "2CEA1"
+                "2CEAD"
             ],
             "property": "Unified_Ideograph"
         },
@@ -8158,7 +8273,7 @@
         {
             "range": [
                 "31350",
-                "323AF"
+                "33479"
             ],
             "property": "Unified_Ideograph"
         },
@@ -10620,19 +10735,6 @@
         {
             "range": [
                 "2B76",
-                "2B95"
-            ],
-            "property": "Pattern_Syntax"
-        },
-        {
-            "range": [
-                "2B96"
-            ],
-            "property": "Pattern_Syntax"
-        },
-        {
-            "range": [
-                "2B97",
                 "2BFF"
             ],
             "property": "Pattern_Syntax"

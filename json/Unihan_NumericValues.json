@@ -114,7 +114,7 @@
         },
         {
             "codepoint": "U+5146",
-            "kPrimaryNumeric": "1000000 1000000000000"
+            "kPrimaryNumeric": "1000000000000 1000000"
         },
         {
             "codepoint": "U+5169",
@@ -127,6 +127,10 @@
         {
             "codepoint": "U+516D",
             "kPrimaryNumeric": "6"
+        },
+        {
+            "codepoint": "U+5200",
+            "kTayNumeric": "1"
         },
         {
             "codepoint": "U+5341",
@@ -249,6 +253,10 @@
             "kVietnameseNumeric": "4"
         },
         {
+            "codepoint": "U+6761",
+            "kTayNumeric": "1"
+        },
+        {
             "codepoint": "U+677E",
             "kZhuangNumeric": "2"
         },
@@ -310,6 +318,7 @@
         },
         {
             "codepoint": "U+80FD",
+            "kTayNumeric": "1",
             "kZhuangNumeric": "1"
         },
         {
@@ -521,6 +530,14 @@
             "kVietnameseNumeric": "9"
         },
         {
+            "codepoint": "U+2B871",
+            "kTayNumeric": "2"
+        },
+        {
+            "codepoint": "U+2B872",
+            "kTayNumeric": "5"
+        },
+        {
             "codepoint": "U+2B875",
             "kVietnameseNumeric": "5"
         },
@@ -543,6 +560,10 @@
         {
             "codepoint": "U+2C65E",
             "kVietnameseNumeric": "7"
+        },
+        {
+            "codepoint": "U+2C954",
+            "kTayNumeric": "7"
         },
         {
             "codepoint": "U+2CB99",
@@ -579,6 +600,10 @@
         {
             "codepoint": "U+3197A",
             "kVietnameseNumeric": "1"
+        },
+        {
+            "codepoint": "U+31EC7",
+            "kTayNumeric": "4"
         },
         {
             "codepoint": "U+31FA3",

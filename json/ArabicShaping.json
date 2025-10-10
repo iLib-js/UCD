@@ -2065,6 +2065,12 @@
             "joiningGroup": "VERTICAL TAIL"
         },
         {
+            "codepoint": "088F",
+            "name": "DOTLESS NOON WITH SEPARATE RING ABOVE",
+            "type": "D",
+            "joiningGroup": "NOON"
+        },
+        {
             "codepoint": "0890",
             "name": "ARABIC POUND MARK ABOVE",
             "type": "U",
@@ -4127,6 +4133,18 @@
             "name": "KAF WITH VERTICAL 2 DOTS BELOW",
             "type": "D",
             "joiningGroup": "KAF"
+        },
+        {
+            "codepoint": "10EC6",
+            "name": "THIN NOON",
+            "type": "D",
+            "joiningGroup": "THIN NOON"
+        },
+        {
+            "codepoint": "10EC7",
+            "name": "DOTLESS YEH WITH 4 DOTS BELOW",
+            "type": "D",
+            "joiningGroup": "YEH"
         },
         {
             "codepoint": "10F30",

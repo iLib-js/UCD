@@ -1036,6 +1036,24 @@
         },
         {
             "range": [
+                "11B61"
+            ],
+            "positionalCategory": "Right"
+        },
+        {
+            "range": [
+                "11B65"
+            ],
+            "positionalCategory": "Right"
+        },
+        {
+            "range": [
+                "11B67"
+            ],
+            "positionalCategory": "Right"
+        },
+        {
+            "range": [
                 "11C2F"
             ],
             "positionalCategory": "Right"
@@ -2776,12 +2794,6 @@
         },
         {
             "range": [
-                "11A3A"
-            ],
-            "positionalCategory": "Top"
-        },
-        {
-            "range": [
                 "11A51"
             ],
             "positionalCategory": "Top"
@@ -2809,6 +2821,24 @@
         {
             "range": [
                 "11A98"
+            ],
+            "positionalCategory": "Top"
+        },
+        {
+            "range": [
+                "11B60"
+            ],
+            "positionalCategory": "Top"
+        },
+        {
+            "range": [
+                "11B64"
+            ],
+            "positionalCategory": "Top"
+        },
+        {
+            "range": [
+                "11B66"
             ],
             "positionalCategory": "Top"
         },
@@ -3837,6 +3867,13 @@
             "range": [
                 "11A8A",
                 "11A95"
+            ],
+            "positionalCategory": "Bottom"
+        },
+        {
+            "range": [
+                "11B62",
+                "11B63"
             ],
             "positionalCategory": "Bottom"
         },

@@ -1367,6 +1367,13 @@
         },
         {
             "range": [
+                "10940",
+                "1095F"
+            ],
+            "block": "Sidetic"
+        },
+        {
+            "range": [
                 "10980",
                 "1099F"
             ],
@@ -1724,6 +1731,13 @@
         },
         {
             "range": [
+                "11B60",
+                "11B7F"
+            ],
+            "block": "Sharada Supplement"
+        },
+        {
+            "range": [
                 "11BC0",
                 "11BFF"
             ],
@@ -1756,6 +1770,13 @@
                 "11DAF"
             ],
             "block": "Gunjala Gondi"
+        },
+        {
+            "range": [
+                "11DB0",
+                "11DEF"
+            ],
+            "block": "Tolong Siki"
         },
         {
             "range": [
@@ -1899,6 +1920,13 @@
         },
         {
             "range": [
+                "16EA0",
+                "16EDF"
+            ],
+            "block": "Beria Erfe"
+        },
+        {
+            "range": [
                 "16F00",
                 "16F9F"
             ],
@@ -1938,6 +1966,13 @@
                 "18D7F"
             ],
             "block": "Tangut Supplement"
+        },
+        {
+            "range": [
+                "18D80",
+                "18DFF"
+            ],
+            "block": "Tangut Components Supplement"
         },
         {
             "range": [
@@ -1994,6 +2029,13 @@
                 "1CEBF"
             ],
             "block": "Symbols for Legacy Computing Supplement"
+        },
+        {
+            "range": [
+                "1CEC0",
+                "1CEFF"
+            ],
+            "block": "Miscellaneous Symbols Supplement"
         },
         {
             "range": [
@@ -2120,6 +2162,13 @@
                 "1E5FF"
             ],
             "block": "Ol Onal"
+        },
+        {
+            "range": [
+                "1E6C0",
+                "1E6FF"
+            ],
+            "block": "Tai Yo"
         },
         {
             "range": [
@@ -2337,6 +2386,13 @@
                 "323AF"
             ],
             "block": "CJK Unified Ideographs Extension H"
+        },
+        {
+            "range": [
+                "323B0",
+                "3347F"
+            ],
+            "block": "CJK Unified Ideographs Extension J"
         },
         {
             "range": [

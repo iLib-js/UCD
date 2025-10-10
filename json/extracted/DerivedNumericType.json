@@ -884,6 +884,49 @@
         },
         {
             "range": [
+                "12038",
+                "12039"
+            ],
+            "type": "Numeric"
+        },
+        {
+            "range": [
+                "12079"
+            ],
+            "type": "Numeric"
+        },
+        {
+            "range": [
+                "12226"
+            ],
+            "type": "Numeric"
+        },
+        {
+            "range": [
+                "1222B"
+            ],
+            "type": "Numeric"
+        },
+        {
+            "range": [
+                "1230B"
+            ],
+            "type": "Numeric"
+        },
+        {
+            "range": [
+                "1230D"
+            ],
+            "type": "Numeric"
+        },
+        {
+            "range": [
+                "12399"
+            ],
+            "type": "Numeric"
+        },
+        {
+            "range": [
                 "12400",
                 "1246E"
             ],
@@ -900,6 +943,13 @@
             "range": [
                 "16E80",
                 "16E96"
+            ],
+            "type": "Numeric"
+        },
+        {
+            "range": [
+                "16FF4",
+                "16FF6"
             ],
             "type": "Numeric"
         },
@@ -1600,6 +1650,13 @@
             "range": [
                 "11DA0",
                 "11DA9"
+            ],
+            "type": "Decimal"
+        },
+        {
+            "range": [
+                "11DE0",
+                "11DE9"
             ],
             "type": "Decimal"
         },

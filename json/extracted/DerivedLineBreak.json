@@ -1283,12 +1283,6 @@
         },
         {
             "range": [
-                "034F"
-            ],
-            "property": "GL"
-        },
-        {
-            "range": [
                 "035C",
                 "0362"
             ],
@@ -1322,6 +1316,12 @@
         {
             "range": [
                 "180E"
+            ],
+            "property": "GL"
+        },
+        {
+            "range": [
+                "1AEB"
             ],
             "property": "GL"
         },
@@ -1558,6 +1558,13 @@
         {
             "range": [
                 "16FE3"
+            ],
+            "property": "NS"
+        },
+        {
+            "range": [
+                "16FF2",
+                "16FF3"
             ],
             "property": "NS"
         },
@@ -1890,6 +1897,12 @@
         {
             "range": [
                 "20BF"
+            ],
+            "property": "PR"
+        },
+        {
+            "range": [
+                "20C1"
             ],
             "property": "PR"
         },
@@ -2507,6 +2520,13 @@
         },
         {
             "range": [
+                "11DE0",
+                "11DE9"
+            ],
+            "property": "NU"
+        },
+        {
+            "range": [
                 "16A60",
                 "16A69"
             ],
@@ -2744,13 +2764,14 @@
         },
         {
             "range": [
-                "0294"
+                "0294",
+                "0295"
             ],
             "property": "AL"
         },
         {
             "range": [
-                "0295",
+                "0296",
                 "02AF"
             ],
             "property": "AL"
@@ -3261,7 +3282,7 @@
         {
             "range": [
                 "0889",
-                "088E"
+                "088F"
             ],
             "property": "AL"
         },
@@ -3788,6 +3809,7 @@
         },
         {
             "range": [
+                "0C5C",
                 "0C5D"
             ],
             "property": "AL"
@@ -3861,7 +3883,7 @@
         },
         {
             "range": [
-                "0CDD",
+                "0CDC",
                 "0CDE"
             ],
             "property": "AL"
@@ -5950,7 +5972,7 @@
         },
         {
             "range": [
-                "2800",
+                "2801",
                 "28FF"
             ],
             "property": "AL"
@@ -6028,13 +6050,6 @@
         {
             "range": [
                 "2B76",
-                "2B95"
-            ],
-            "property": "AL"
-        },
-        {
-            "range": [
-                "2B97",
                 "2BFF"
             ],
             "property": "AL"
@@ -6440,33 +6455,13 @@
         {
             "range": [
                 "A790",
-                "A7CD"
-            ],
-            "property": "AL"
-        },
-        {
-            "range": [
-                "A7D0",
-                "A7D1"
-            ],
-            "property": "AL"
-        },
-        {
-            "range": [
-                "A7D3"
-            ],
-            "property": "AL"
-        },
-        {
-            "range": [
-                "A7D5",
                 "A7DC"
             ],
             "property": "AL"
         },
         {
             "range": [
-                "A7F2",
+                "A7F1",
                 "A7F4"
             ],
             "property": "AL"
@@ -6758,6 +6753,13 @@
         },
         {
             "range": [
+                "FBC3",
+                "FBD2"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
                 "FBD3",
                 "FD3D"
             ],
@@ -6779,6 +6781,13 @@
         },
         {
             "range": [
+                "FD90",
+                "FD91"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
                 "FD92",
                 "FDC7"
             ],
@@ -6786,6 +6795,7 @@
         },
         {
             "range": [
+                "FDC8",
                 "FDCF"
             ],
             "property": "AL"
@@ -7337,6 +7347,13 @@
         },
         {
             "range": [
+                "10940",
+                "10959"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
                 "10980",
                 "109B7"
             ],
@@ -7633,6 +7650,26 @@
             "range": [
                 "10EC2",
                 "10EC4"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
+                "10EC5"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
+                "10EC6",
+                "10EC7"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
+                "10ED1",
+                "10ED8"
             ],
             "property": "AL"
         },
@@ -8227,6 +8264,26 @@
         },
         {
             "range": [
+                "11DB0",
+                "11DD8"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
+                "11DD9"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
+                "11DDA",
+                "11DDB"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
                 "11FB0"
             ],
             "property": "AL"
@@ -8483,6 +8540,20 @@
         },
         {
             "range": [
+                "16EA0",
+                "16EB8"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
+                "16EBB",
+                "16ED3"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
                 "16F00",
                 "16F4A"
             ],
@@ -8578,8 +8649,35 @@
         },
         {
             "range": [
+                "1CCFA",
+                "1CCFC"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
                 "1CD00",
                 "1CEB3"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
+                "1CEBA",
+                "1CED0"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
+                "1CEE0",
+                "1CEEF"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
+                "1CEF0"
             ],
             "property": "AL"
         },
@@ -9096,6 +9194,53 @@
         },
         {
             "range": [
+                "1E6C0",
+                "1E6DE"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
+                "1E6E0",
+                "1E6E2"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
+                "1E6E4",
+                "1E6E5"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
+                "1E6E7",
+                "1E6ED"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
+                "1E6F0",
+                "1E6F4"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
+                "1E6FE"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
+                "1E6FF"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
                 "1E7E0",
                 "1E7E6"
             ],
@@ -9548,6 +9693,13 @@
         },
         {
             "range": [
+                "1F777",
+                "1F77A"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
                 "1F780",
                 "1F7D4"
             ],
@@ -9604,6 +9756,13 @@
         },
         {
             "range": [
+                "1F8D0",
+                "1F8D8"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
                 "1F900",
                 "1F90B"
             ],
@@ -9612,7 +9771,7 @@
         {
             "range": [
                 "1FA00",
-                "1FA53"
+                "1FA57"
             ],
             "property": "AL"
         },
@@ -9627,6 +9786,12 @@
             "range": [
                 "1FB94",
                 "1FBEF"
+            ],
+            "property": "AL"
+        },
+        {
+            "range": [
+                "1FBFA"
             ],
             "property": "AL"
         },
@@ -10576,14 +10741,14 @@
         },
         {
             "range": [
-                "17000",
-                "187F7"
+                "16FF4",
+                "16FF6"
             ],
             "property": "ID"
         },
         {
             "range": [
-                "18800",
+                "17000",
                 "18AFF"
             ],
             "property": "ID"
@@ -10591,7 +10756,14 @@
         {
             "range": [
                 "18D00",
-                "18D08"
+                "18D1E"
+            ],
+            "property": "ID"
+        },
+        {
+            "range": [
+                "18D80",
+                "18DF2"
             ],
             "property": "ID"
         },
@@ -10943,7 +11115,7 @@
         {
             "range": [
                 "1F6CD",
-                "1F6D7"
+                "1F6D8"
             ],
             "property": "ID"
         },
@@ -11093,13 +11265,13 @@
         {
             "range": [
                 "1FA80",
-                "1FA89"
+                "1FA8A"
             ],
             "property": "ID"
         },
         {
             "range": [
-                "1FA8F",
+                "1FA8E",
                 "1FAC2"
             ],
             "property": "ID"
@@ -11112,7 +11284,13 @@
         },
         {
             "range": [
-                "1FACE",
+                "1FAC8"
+            ],
+            "property": "ID"
+        },
+        {
+            "range": [
+                "1FACD",
                 "1FADC"
             ],
             "property": "ID"
@@ -11120,7 +11298,13 @@
         {
             "range": [
                 "1FADF",
-                "1FAE9"
+                "1FAEA"
+            ],
+            "property": "ID"
+        },
+        {
+            "range": [
+                "1FAEF"
             ],
             "property": "ID"
         },
@@ -11134,13 +11318,6 @@
         {
             "range": [
                 "2A700",
-                "2B739"
-            ],
-            "property": "ID"
-        },
-        {
-            "range": [
-                "2B740",
                 "2B81D"
             ],
             "property": "ID"
@@ -11148,7 +11325,7 @@
         {
             "range": [
                 "2B820",
-                "2CEA1"
+                "2CEAD"
             ],
             "property": "ID"
         },
@@ -11183,7 +11360,7 @@
         {
             "range": [
                 "31350",
-                "323AF"
+                "33479"
             ],
             "property": "ID"
         },
@@ -11249,13 +11426,6 @@
         {
             "range": [
                 "0300",
-                "034E"
-            ],
-            "property": "CM"
-        },
-        {
-            "range": [
-                "0350",
                 "035B"
             ],
             "property": "CM"
@@ -12392,7 +12562,14 @@
         {
             "range": [
                 "1ABF",
-                "1ACE"
+                "1ADD"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
+                "1AE0",
+                "1AEA"
             ],
             "property": "CM"
         },
@@ -13235,7 +13412,7 @@
         },
         {
             "range": [
-                "10EFC",
+                "10EFA",
                 "10EFF"
             ],
             "property": "CM"
@@ -14070,6 +14247,43 @@
         },
         {
             "range": [
+                "11B60"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
+                "11B61"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
+                "11B62",
+                "11B64"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
+                "11B65"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
+                "11B66"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
+                "11B67"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
                 "11C2F"
             ],
             "property": "CM"
@@ -14560,6 +14774,31 @@
         },
         {
             "range": [
+                "1E6E3"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
+                "1E6E6"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
+                "1E6EE",
+                "1E6EF"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
+                "1E6F5"
+            ],
+            "property": "CM"
+        },
+        {
+            "range": [
                 "1E8D0",
                 "1E8D6"
             ],
@@ -14776,18 +15015,6 @@
         },
         {
             "range": [
-                "058A"
-            ],
-            "property": "BA"
-        },
-        {
-            "range": [
-                "05BE"
-            ],
-            "property": "BA"
-        },
-        {
-            "range": [
                 "0964",
                 "0965"
             ],
@@ -14847,12 +15074,6 @@
         {
             "range": [
                 "1361"
-            ],
-            "property": "BA"
-        },
-        {
-            "range": [
-                "1400"
             ],
             "property": "BA"
         },
@@ -14960,19 +15181,6 @@
         },
         {
             "range": [
-                "2010"
-            ],
-            "property": "BA"
-        },
-        {
-            "range": [
-                "2012",
-                "2013"
-            ],
-            "property": "BA"
-        },
-        {
-            "range": [
                 "2027"
             ],
             "property": "BA"
@@ -15005,6 +15213,12 @@
         },
         {
             "range": [
+                "2800"
+            ],
+            "property": "BA"
+        },
+        {
+            "range": [
                 "2CFA",
                 "2CFC"
             ],
@@ -15026,12 +15240,6 @@
             "range": [
                 "2E0E",
                 "2E15"
-            ],
-            "property": "BA"
-        },
-        {
-            "range": [
-                "2E17"
             ],
             "property": "BA"
         },
@@ -15071,12 +15279,6 @@
         },
         {
             "range": [
-                "2E40"
-            ],
-            "property": "BA"
-        },
-        {
-            "range": [
                 "2E41"
             ],
             "property": "BA"
@@ -15098,12 +15300,6 @@
             "range": [
                 "2E4E",
                 "2E4F"
-            ],
-            "property": "BA"
-        },
-        {
-            "range": [
-                "2E5D"
             ],
             "property": "BA"
         },
@@ -15254,13 +15450,7 @@
         },
         {
             "range": [
-                "10D6E"
-            ],
-            "property": "BA"
-        },
-        {
-            "range": [
-                "10EAD"
+                "10ED0"
             ],
             "property": "BA"
         },
@@ -23299,6 +23489,67 @@
                 "1BF3"
             ],
             "property": "VF"
+        },
+        {
+            "range": [
+                "058A"
+            ],
+            "property": "HH"
+        },
+        {
+            "range": [
+                "05BE"
+            ],
+            "property": "HH"
+        },
+        {
+            "range": [
+                "1400"
+            ],
+            "property": "HH"
+        },
+        {
+            "range": [
+                "2010"
+            ],
+            "property": "HH"
+        },
+        {
+            "range": [
+                "2012",
+                "2013"
+            ],
+            "property": "HH"
+        },
+        {
+            "range": [
+                "2E17"
+            ],
+            "property": "HH"
+        },
+        {
+            "range": [
+                "2E40"
+            ],
+            "property": "HH"
+        },
+        {
+            "range": [
+                "2E5D"
+            ],
+            "property": "HH"
+        },
+        {
+            "range": [
+                "10D6E"
+            ],
+            "property": "HH"
+        },
+        {
+            "range": [
+                "10EAD"
+            ],
+            "property": "HH"
         }
     ]
 }

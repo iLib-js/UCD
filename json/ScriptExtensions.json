@@ -83,7 +83,7 @@
             "range": [
                 "0306"
             ],
-            "extension": "Cyrl Grek Latn Perm"
+            "extension": "Cyrl Grek Latn Perm Tfng"
         },
         {
             "range": [
@@ -95,7 +95,7 @@
             "range": [
                 "0308"
             ],
-            "extension": "Armn Cyrl Dupl Goth Grek Hebr Latn Perm Syrc Tale"
+            "extension": "Armn Cyrl Dupl Goth Grek Hebr Latn Perm Syrc Tale Tfng"
         },
         {
             "range": [
@@ -153,15 +153,9 @@
         },
         {
             "range": [
-                "0320"
-            ],
-            "extension": "Latn Syrc"
-        },
-        {
-            "range": [
                 "0323"
             ],
-            "extension": "Cher Dupl Kana Latn Syrc"
+            "extension": "Cher Dupl Kana Latn Syrc Tfng"
         },
         {
             "range": [
@@ -197,7 +191,7 @@
             "range": [
                 "0331"
             ],
-            "extension": "Aghb Cher Goth Latn Sunu Thai"
+            "extension": "Aghb Cher Goth Latn Sunu Syrc Thai"
         },
         {
             "range": [
@@ -333,13 +327,13 @@
             "range": [
                 "0951"
             ],
-            "extension": "Beng Deva Gran Gujr Guru Knda Latn Mlym Orya Shrd Taml Telu Tirh"
+            "extension": "Beng Deva Gran Gujr Guru Knda Latn Mlym Nand Newa Orya Shrd Taml Telu Tirh"
         },
         {
             "range": [
                 "0952"
             ],
-            "extension": "Beng Deva Gran Gujr Guru Knda Latn Mlym Orya Taml Telu Tirh"
+            "extension": "Beng Deva Gran Gujr Guru Knda Latn Mlym Newa Orya Taml Telu Tirh"
         },
         {
             "range": [
@@ -480,22 +474,27 @@
         },
         {
             "range": [
-                "1CD5",
+                "1CD5"
+            ],
+            "extension": "Beng Deva Newa Telu Tirh"
+        },
+        {
+            "range": [
                 "1CD6"
             ],
-            "extension": "Beng Deva"
+            "extension": "Beng Deva Telu"
         },
         {
             "range": [
                 "1CD7"
             ],
-            "extension": "Deva Shrd"
+            "extension": "Deva Newa Shrd"
         },
         {
             "range": [
                 "1CD8"
             ],
-            "extension": "Beng Deva"
+            "extension": "Beng Deva Newa Telu"
         },
         {
             "range": [
@@ -543,7 +542,13 @@
         },
         {
             "range": [
-                "1CE2",
+                "1CE2"
+            ],
+            "extension": "Deva Newa Tirh"
+        },
+        {
+            "range": [
+                "1CE3",
                 "1CE8"
             ],
             "extension": "Deva"
@@ -552,17 +557,22 @@
             "range": [
                 "1CE9"
             ],
-            "extension": "Deva Nand"
+            "extension": "Deva Nand Newa"
         },
         {
             "range": [
                 "1CEA"
             ],
-            "extension": "Beng Deva"
+            "extension": "Beng Deva Shrd"
         },
         {
             "range": [
-                "1CEB",
+                "1CEB"
+            ],
+            "extension": "Deva Newa"
+        },
+        {
+            "range": [
                 "1CEC"
             ],
             "extension": "Deva"
@@ -571,7 +581,7 @@
             "range": [
                 "1CED"
             ],
-            "extension": "Beng Deva"
+            "extension": "Beng Deva Newa Shrd"
         },
         {
             "range": [

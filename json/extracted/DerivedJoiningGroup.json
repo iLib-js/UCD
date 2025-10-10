@@ -563,6 +563,12 @@
         },
         {
             "range": [
+                "088F"
+            ],
+            "group": "Noon"
+        },
+        {
+            "range": [
                 "0722"
             ],
             "group": "Nun"
@@ -924,6 +930,12 @@
         {
             "range": [
                 "08BA"
+            ],
+            "group": "Yeh"
+        },
+        {
+            "range": [
+                "10EC7"
             ],
             "group": "Yeh"
         },
@@ -1345,6 +1357,12 @@
                 "0620"
             ],
             "group": "Kashmiri_Yeh"
+        },
+        {
+            "range": [
+                "10EC6"
+            ],
+            "group": "Thin_Noon"
         }
     ]
 }
